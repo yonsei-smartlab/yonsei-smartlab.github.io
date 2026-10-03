@@ -6324,9 +6324,11 @@
     "addedOn": "2026-10-03",
     "rule": "Verify the original article’s named person and institutional context. General Walkbot/company coverage alone does not establish Professor You participation.",
     "additionalSourceReview": "src/data/news-walkbot-source-fact-check.json",
-    "pendingScopeClarification": true,
+    "pendingScopeClarification": false,
     "publicationIdentityReview": "src/data/news-publication-identity-check.json",
-    "heldSourceReview": "src/data/news-held-source-review.json"
+    "heldSourceReview": "src/data/news-held-source-review.json",
+    "scopeResolvedOn": "2026-10-03",
+    "resolvedScope": "Walkbot/P&S articles must explicitly name Yonsei Professor You in the original report; standalone company/product coverage is excluded."
   },
   "editorialExclusions": [
     {

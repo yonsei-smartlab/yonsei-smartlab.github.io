@@ -32,6 +32,23 @@ def main():
     aliases.update({normalized(row['url']): row['canonical'] for row in audit.get('duplicateReports', [])})
     exclusions = {normalized(row['url']): row for row in audit.get('excludedExamples', [])}
     exclusions.update({normalized(row['url']): row for row in audit.get('editorialExclusions', [])})
+    # Preserve explicit original-source decisions made in supplementary audits.
+    # Screening signals alone never resolve a candidate.
+    for review_file, rows_key in [
+        ('news-walkbot-source-fact-check.json', 'records'),
+        ('news-held-source-review.json', 'records'),
+        ('walkbot-press-review.json', 'candidates'),
+    ]:
+        review_path = Path('src/data') / review_file
+        if not review_path.exists():
+            continue
+        for row in json.loads(review_path.read_text(encoding='utf-8')).get(rows_key, []):
+            if row.get('status') != 'excluded':
+                continue
+            decision = dict(row, reason=row.get('reason') or row.get('decisionReason')
+                            or row.get('reviewNote') or row.get('evidence'))
+            for url in {row['url'], row.get('finalUrl', row['url'])}:
+                exclusions[normalized(url)] = decision
     unavailable = {normalized(row['url']): row for row in audit.get('unavailableSources', [])}
     held = {normalized(row['url']): row for row in audit.get('heldForReview', [])}
     candidates, coverage = {}, []

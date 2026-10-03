@@ -6,8 +6,8 @@
   "statusCounts": {
     "unreviewed": 316,
     "duplicate": 10,
-    "excluded": 89,
-    "published": 31,
+    "excluded": 100,
+    "published": 20,
     "held": 2
   },
   "sourceScreenCounts": {},
@@ -1771,8 +1771,10 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=Walkbot&start=1&sort=0"
         }
       ],
-      "status": "published",
-      "publicFile": "src/content/news/2026-07-30-walkbot-teleton-expansion.md"
+      "status": "excluded",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him.",
+      "reviewedOn": "2026-10-03",
+      "archivedFile": "src/data/news-source-archive/2026-07-30-walkbot-teleton-expansion.md"
     },
     {
       "url": "http://www.newsprime.co.kr/news/article.html?no=742928",
@@ -1804,8 +1806,10 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9B%8C%ED%81%AC%EB%B4%87&start=1&sort=0"
         }
       ],
-      "status": "published",
-      "publicFile": "src/content/news/2026-05-26-walkbot-mexico.md"
+      "status": "excluded",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him.",
+      "reviewedOn": "2026-10-03",
+      "archivedFile": "src/data/news-source-archive/2026-05-26-walkbot-mexico.md"
     },
     {
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=452420",
@@ -1837,8 +1841,11 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9B%8C%ED%81%AC%EB%B4%87&start=1&sort=0"
         }
       ],
-      "status": "published",
-      "reviewNote": "Original article body, title and date reviewed; published in verified expansion batch."
+      "status": "excluded",
+      "reviewNote": "Original article body, title and date reviewed; published in verified expansion batch.",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him.",
+      "reviewedOn": "2026-10-03",
+      "archivedFile": "src/data/news-source-archive/2026-01-14-walkbot-hongseong-ccdaily.md"
     },
     {
       "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1058507",
@@ -1851,8 +1858,11 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9B%8C%ED%81%AC%EB%B4%87&start=1&sort=0"
         }
       ],
-      "status": "published",
-      "reviewNote": "Original article body, title and date reviewed; published in verified expansion batch."
+      "status": "excluded",
+      "reviewNote": "Original article body, title and date reviewed; published in verified expansion batch.",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him.",
+      "reviewedOn": "2026-10-03",
+      "archivedFile": "src/data/news-source-archive/2026-01-14-walkbot-hongseong-ccdn.md"
     },
     {
       "url": "https://www.viva100.com/article/20260114500055",
@@ -1865,8 +1875,10 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9B%8C%ED%81%AC%EB%B4%87&start=1&sort=0"
         }
       ],
-      "status": "published",
-      "publicFile": "src/content/news/2026-01-14-walkbot-hongseong-bridge.md"
+      "status": "excluded",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him.",
+      "reviewedOn": "2026-10-03",
+      "archivedFile": "src/data/news-source-archive/2026-01-14-walkbot-hongseong-bridge.md"
     },
     {
       "url": "https://www.jbnews.com/news/articleView.html?idxno=1496990",
@@ -1879,8 +1891,11 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9B%8C%ED%81%AC%EB%B4%87&start=1&sort=0"
         }
       ],
-      "status": "published",
-      "reviewNote": "Original article body, title and date reviewed; published in verified expansion batch."
+      "status": "excluded",
+      "reviewNote": "Original article body, title and date reviewed; published in verified expansion batch.",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him.",
+      "reviewedOn": "2026-10-03",
+      "archivedFile": "src/data/news-source-archive/2026-01-14-walkbot-hongseong-jbnews.md"
     },
     {
       "url": "http://www.cctimes.kr/news/articleView.html?idxno=886254",
@@ -1912,8 +1927,11 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9B%8C%ED%81%AC%EB%B4%87&start=1&sort=0"
         }
       ],
-      "status": "published",
-      "reviewNote": "Original article body, title and date reviewed; published in verified expansion batch."
+      "status": "excluded",
+      "reviewNote": "Original article body, title and date reviewed; published in verified expansion batch.",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him.",
+      "reviewedOn": "2026-10-03",
+      "archivedFile": "src/data/news-source-archive/2026-01-13-walkbot-hongseong-gukje.md"
     },
     {
       "url": "https://www.newsis.com/view/NISX20260113_0003475015",
@@ -1926,8 +1944,10 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9B%8C%ED%81%AC%EB%B4%87&start=1&sort=0"
         }
       ],
-      "status": "published",
-      "publicFile": "src/content/news/2026-01-13-walkbot-hongseong.md"
+      "status": "excluded",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him.",
+      "reviewedOn": "2026-10-03",
+      "archivedFile": "src/data/news-source-archive/2026-01-13-walkbot-hongseong.md"
     },
     {
       "url": "http://www.whosaeng.com/167278",
@@ -1959,8 +1979,11 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9B%8C%ED%81%AC%EB%B4%87&start=1&sort=0"
         }
       ],
-      "status": "published",
-      "reviewNote": "Original article body, title and date reviewed; published in verified expansion batch."
+      "status": "excluded",
+      "reviewNote": "Original article body, title and date reviewed; published in verified expansion batch.",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him.",
+      "reviewedOn": "2026-10-03",
+      "archivedFile": "src/data/news-source-archive/2025-12-12-pns-upper-limb-etoday.md"
     },
     {
       "url": "https://view.asiae.co.kr/article/2025121211175924858",
@@ -2030,8 +2053,11 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9B%8C%ED%81%AC%EB%B4%87&start=1&sort=0"
         }
       ],
-      "status": "published",
-      "reviewNote": "Original article body, title and date reviewed; published in verified expansion batch."
+      "status": "excluded",
+      "reviewNote": "Original article body, title and date reviewed; published in verified expansion batch.",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him.",
+      "reviewedOn": "2026-10-03",
+      "archivedFile": "src/data/news-source-archive/2025-11-24-walkbot-nexon-globale.md"
     },
     {
       "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=607241",
@@ -2044,8 +2070,11 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9B%8C%ED%81%AC%EB%B4%87&start=1&sort=0"
         }
       ],
-      "status": "published",
-      "reviewNote": "Original article body, title and date reviewed; published in verified expansion batch."
+      "status": "excluded",
+      "reviewNote": "Original article body, title and date reviewed; published in verified expansion batch.",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him.",
+      "reviewedOn": "2026-10-03",
+      "archivedFile": "src/data/news-source-archive/2025-11-24-walkbot-nexon-digitaltoday.md"
     },
     {
       "url": "https://www.medipana.com/news/articleView.html?idxno=417920",
