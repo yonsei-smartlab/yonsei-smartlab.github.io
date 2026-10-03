@@ -2,9 +2,13 @@
 title: "Robotic rehabilitation"
 summary: "Studying robot-assisted gait training and wearable assistance, including movement responses and rehabilitation needs."
 order: 2
-image: "/images/research/miracle-prototype-2024.webp"
-imageAlt: "Green frame and leg-support assembly of a MIRACLE mobility-robot prototype"
-imageCaption: "MIRACLE mobility-robot prototype · 2024"
+image: "/images/research/walkbot-yoon-2022.png"
+imageAlt: "Participant using the Walkbot gait-training system, with eyes obscured and a face mask in the published photograph"
+imageCaption: "Walkbot-assisted gait training"
+imageCredit: "Yoon, Park and You (2022), Figure 1"
+imageSource: "https://doi.org/10.3390/healthcare10040691"
+imageLicense: "CC BY 4.0"
+imageLicenseUrl: "https://creativecommons.org/licenses/by/4.0/"
 placeholder: true
 ---
 

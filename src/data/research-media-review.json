@@ -37,7 +37,7 @@
     },
     {
       "area": "area-2",
-      "status": "selected",
+      "status": "retained source; superseded on research cards",
       "publicFile": "/images/research/miracle-prototype-2024.webp",
       "source": "CRC 발표자료 12-18-24 최종.pptx",
       "slide": 17,
@@ -67,6 +67,18 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "note": "Original publisher image reproduced without cropping, retouching or scientific changes. Professor You is a named coauthor; authorship and license checked against the full article.",
       "consent": "Sports article explicitly records consent for publication of participant images."
+    },
+    {
+      "area": "area-2",
+      "status": "selected",
+      "publicFile": "/images/research/walkbot-yoon-2022.png",
+      "source": "https://doi.org/10.3390/healthcare10040691",
+      "sourceImage": "https://mdpi-res.com/d_attachment/healthcare/healthcare-10-00691/article_deploy/html/images/healthcare-10-00691-g001.png",
+      "credit": "Bu Hyun Yoon, Chanhee Park and Joshua (Sung) Hyun You (2022), Figure 1",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Original publisher photograph already obscures the eyes with an opaque bar and covers the lower face with a mask. Professor You coauthorship verified in primary full text.",
+      "presentation": "Original 1272 × 2072 publisher PNG, fitted without distortion or cropping into a shared 4:3 CSS frame. AI enhancement trial rejected because it altered small photographic details; no generated image deployed."
     }
   ]
 }
