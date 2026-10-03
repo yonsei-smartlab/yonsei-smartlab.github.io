@@ -61,3 +61,5 @@ This repository is the editable source for the Yonsei SMART Lab website. The Pro
 - Keep GitHub authentication scoped to this project/account; do not replace authentication for the user's other projects.
 
 - User-approved CV updates are documented in `src/data/cv-reconciliation.json`. Books/translations use `books.json` and are separate from filtered papers. Five CV grants use `cv-grants.json` alongside the untouched project-export data/audit. Four additional papers use `cv-publication-import.json`; public bibliography counts combine the reviewed Scholar snapshot and this supplement. Do not publish ambiguous founding dates, undated leadership roles or stale CV metrics.
+
+- Professor biography order: Appointments, Education, Awards, Editorial and professional service, Teaching, Books and translations, Selected presentations, Clinical and sports experience, Qualifications and advanced training, Research training. Detailed specialties belong on Research, not duplicated on Professor. Use the shared CSS reading rhythm: 20px between paragraphs and 24px before lists/after headings, with compact metadata exceptions.
