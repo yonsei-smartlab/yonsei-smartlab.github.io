@@ -21,7 +21,7 @@ export const academicAlumni: Alumnus[] = [
   { name: '신지원', role: 'Professor', institution: 'Cheju Halla University', institutionKorean: '제주한라대학교', department: 'Department of Physical Therapy', profile: hallaProfile },
   { name: '차영주', role: 'Professor', institution: 'Cheju Halla University', institutionKorean: '제주한라대학교', department: 'Department of Physical Therapy', profile: hallaProfile },
   { name: '천승철', role: 'Professor', institution: 'Konyang University', institutionKorean: '건양대학교', department: 'Department of Physical Therapy', profile: 'https://www.konyang.ac.kr/kygrad/sub02_04_02_05.do' },
-  { name: '최형주', role: 'Professor' },
+  { name: '최형주', role: 'Professor', institution: 'Daejeon Health University', institutionKorean: '대전보건대학교', department: 'Department of Physical Therapy', profile: 'https://www.hit.ac.kr/pt/staff-professor' },
 ];
 
 export const professionalAlumni: Alumnus[] = [

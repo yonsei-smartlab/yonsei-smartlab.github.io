@@ -143,18 +143,16 @@ button, a, input, select { -webkit-tap-highlight-color: transparent; }
 .current-members-grid .people-group + .people-group { margin-top: 0; }
 .current-members-grid .people-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .directory-section { margin-top: 64px; }
-.directory-subheading { margin-top: 32px; margin-bottom: 18px; font-size: 18px; color: var(--ink); }
-.alumni-list, .professional-alumni-list, .collaborator-list { list-style: none; padding: 0; margin: 0; }
-.alumni-row { display: grid; grid-template-columns: 150px minmax(0, 1fr) 120px; gap: 24px; align-items: center; padding-block: 20px; border-bottom: 1px solid var(--line); }
-.directory-person h4, .professional-alumni-list h4 { font-size: 18px; font-weight: 600; }
-.directory-person > p, .professional-alumni-list p { font-size: 14px; color: var(--muted); margin-top: 4px; }
+.alumni-list, .collaborator-list { list-style: none; padding: 0; margin: 0; }
+.alumni-list { display: grid; grid-template-columns: 1fr 1fr; column-gap: 48px; }
+.alumni-list li { padding-block: 20px; border-bottom: 1px solid var(--line); }
+.alumni-list h3 { font-size: 18px; font-weight: 600; }
+.directory-person > p, .alumni-role { font-size: 14px; color: var(--muted); margin-top: 4px; }
+.alumni-affiliation { margin-top: 10px; font-size: 14px; }
 .alumni-affiliation > p:first-child { font-weight: 500; }
 .alumni-affiliation > p:first-child span { display: inline-block; margin-left: 8px; font-size: 13px; font-weight: 400; color: var(--muted); }
 .alumni-affiliation > p + p { margin-top: 3px; font-size: 14px; color: var(--muted); }
 .directory-link { display: inline-block; font-size: 13px; font-weight: 500; }
-.alumni-row > .directory-link { justify-self: end; }
-.professional-alumni-list { display: grid; grid-template-columns: 1fr 1fr; column-gap: 48px; }
-.professional-alumni-list li { padding-block: 20px; border-bottom: 1px solid var(--line); }
 .collaborator-row { display: grid; grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr); gap: 48px; padding-block: 26px; border-bottom: 1px solid var(--line); }
 .collaborator-row .directory-person h3 { font-size: 19px; }
 .directory-korean-name { margin-left: 10px; font-size: 14px; color: var(--muted); font-weight: 400; }
@@ -272,8 +270,6 @@ button, a, input, select { -webkit-tap-highlight-color: transparent; }
 @media (max-width: 859px) {
   .additional-training-grid { grid-template-columns: 1fr; }
   .additional-training-grid .training-card { padding: 24px 28px; }
-  .alumni-row { grid-template-columns: 110px minmax(0, 1fr); gap: 16px; }
-  .alumni-row > .directory-link { grid-column: 2; justify-self: start; }
   .news-item { grid-template-columns: 145px 1fr; gap: 24px; }
   .news-content.has-photo { grid-template-columns: 1fr; }
   .news-photo { max-width: 420px; }
@@ -291,10 +287,8 @@ button, a, input, select { -webkit-tap-highlight-color: transparent; }
 @media (max-width: 639px) {
   .current-members-grid { grid-template-columns: 1fr; gap: 40px; }
   .current-members-grid .people-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .alumni-row { grid-template-columns: 1fr; gap: 12px; }
-  .alumni-row > .directory-link { grid-column: auto; }
   .alumni-affiliation > p:first-child span { display: block; margin-left: 0; margin-top: 2px; }
-  .professional-alumni-list { grid-template-columns: 1fr; }
+  .alumni-list { grid-template-columns: 1fr; }
   .collaborator-row { grid-template-columns: 1fr; gap: 16px; padding-block: 24px; }
   .directory-section { margin-top: 44px; }
   .training-page { padding-block: 40px; }

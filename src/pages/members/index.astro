@@ -6,6 +6,7 @@ import { getPeople } from '../../lib/content';
 import { academicAlumni, professionalAlumni, internationalCollaborators, rememberedCollaborator } from '../../data/members';
 const people = await getPeople();
 const groups = ['Researchers', 'Students'];
+const alumni = [...academicAlumni, ...professionalAlumni];
 ---
 <BaseLayout title="Members">
   <PageHeader title="Members" description="SMART Lab researchers, students, alumni, and international collaborators." />
@@ -13,17 +14,11 @@ const groups = ['Researchers', 'Students'];
     <div class="current-members-grid">{groups.map(group => <section class="people-group"><h2>{group}</h2><div class="people-grid">{people.filter(person => person.data.group === group).map(person => <PersonCard person={person} />)}</div></section>)}</div>
     <section class="people-group directory-section" id="alumni" aria-labelledby="alumni-heading">
       <h2 id="alumni-heading">Alumni</h2>
-      <h3 class="directory-subheading">Faculty</h3>
       <ul class="alumni-list">
-        {academicAlumni.map(person => <li class="alumni-row" data-alumnus>
-          <div class="directory-person"><h4 lang="ko">{person.name}</h4><p>{person.role}</p></div>
+        {alumni.map(person => <li data-alumnus>
+          <h3 lang="ko">{person.name}</h3><p class="alumni-role">{person.role}</p>
           {person.institution && <div class="alumni-affiliation"><p>{person.institution} <span lang="ko">{person.institutionKorean}</span></p><p>{person.department}</p></div>}
-          {person.profile && <a class="directory-link" href={person.profile} target="_blank" rel="noopener noreferrer" aria-label={`Faculty profile: ${person.name}`}>Faculty profile <span aria-hidden="true">↗</span></a>}
         </li>)}
-      </ul>
-      <h3 class="directory-subheading">Research and professional practice</h3>
-      <ul class="professional-alumni-list">
-        {professionalAlumni.map(person => <li data-alumnus><h4 lang="ko">{person.name}</h4><p>{person.role}</p></li>)}
       </ul>
     </section>
     <section class="people-group directory-section" id="international-collaborators" aria-labelledby="collaborators-heading">
