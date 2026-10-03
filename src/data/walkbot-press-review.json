@@ -43,14 +43,16 @@
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=27&sk=&sw=&offset=&category=",
       "title": "기적 부른 AI 재활로봇, 의료 패더라임 바꾼다? / 머니투데이 방송 MTN / 2026.06.18",
-      "status": "held",
+      "status": "excluded",
       "originalLinks": [
         "https://www.youtube.com/watch?v=MiuE2JcRWGI&t=343s"
       ],
       "sourceLinkReview": "Official repost links inspected; original article review still required.",
-      "originalTitle": "",
-      "identityReview": "Video content, original upload date and named participant identity require review.",
-      "professorParticipation": "not-established"
+      "originalTitle": "[이충헌의 유망주 레이더] 매출 81% 해외서 번다 동종업계 최저평가 피앤에스로보틱스 / 머니투데이방송 (증시, 증권)",
+      "identityReview": "Original upload title, June 18, 2026 date, complete description and Korean on-page transcript through 10:16 reviewed. Interviewee is ValueFinder representative Lee Chung-hun; the segment discusses biotech and P&S investment prospects. Neither Professor You nor GOODWELLNESS is named in the description or transcript. The company press-index headline differs from the original video title.",
+      "professorParticipation": "not-established",
+      "decisionReason": "No explicit Professor You or GOODWELLNESS identity established in the reviewed original description and full Korean transcript; standalone product/company coverage is excluded.",
+      "checkedOn": "2026-10-03"
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=26&sk=&sw=&offset=&category=",
@@ -143,14 +145,16 @@
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=19&sk=&sw=&offset=10&category=",
       "title": "P&S 로보틱스_걸어본 적 없는 아이가 걷기 시작했다 / 2025.12.12",
-      "status": "held",
+      "status": "excluded",
       "originalLinks": [
         "https://www.youtube.com/watch?v=VQR4LLWkbc4"
       ],
       "sourceLinkReview": "Official repost links inspected; original article review still required.",
-      "originalTitle": "",
-      "identityReview": "Video content, original upload date and named participant identity require review.",
-      "professorParticipation": "not-established"
+      "originalTitle": "Future Makers P&S로보틱스_걸어본 적 없는 아이가 걷기 시작했다! 워크봇이 만든 기적",
+      "identityReview": "Original upload title, December 12, 2025 premiere date, full description and complete Korean on-page transcript reviewed. Interviewee is P&S technology director/CTO Lee Kyung-hwan, discussing company development, TIPA support and exports. Neither Professor You nor GOODWELLNESS is named in the description or transcript.",
+      "professorParticipation": "not-established",
+      "decisionReason": "No explicit Professor You or GOODWELLNESS identity established in the reviewed original description and full Korean transcript; standalone product/company coverage is excluded.",
+      "checkedOn": "2026-10-03"
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=18&sk=&sw=&offset=10&category=",
@@ -347,9 +351,9 @@
     }
   ],
   "statusCounts": {
-    "excluded": 21,
+    "excluded": 23,
     "social-post": 1,
-    "held": 3
+    "held": 1
   },
   "editorialPolicy": "Walkbot/P&S coverage is public only when the original article explicitly names Yonsei Professor You, per current AGENTS.md."
 }

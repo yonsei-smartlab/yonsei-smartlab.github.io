@@ -4,9 +4,9 @@
   "note": "Editorial queue only. Search results do not establish identity or approve public content.",
   "candidateCount": 448,
   "statusCounts": {
-    "unreviewed": 316,
+    "unreviewed": 291,
     "duplicate": 10,
-    "excluded": 100,
+    "excluded": 125,
     "published": 20,
     "held": 2
   },
@@ -3869,7 +3869,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -3878,7 +3878,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20260730120009221",
@@ -3896,7 +3899,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -3905,7 +3908,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20260317143204009",
@@ -3923,7 +3929,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -3932,7 +3938,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20260113160930509",
@@ -3950,7 +3959,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -3959,7 +3968,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20250731090726061",
@@ -3977,7 +3989,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -3986,7 +3998,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20260113132645099",
@@ -4004,7 +4019,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -4013,7 +4028,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20250424080730609",
@@ -4026,7 +4044,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -4035,7 +4053,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20240607173845508",
@@ -4048,7 +4069,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -4057,7 +4078,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20240607051245784",
@@ -4070,7 +4094,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -4079,7 +4103,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20251124162921476",
@@ -4092,7 +4119,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -4101,7 +4128,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20251203080311785",
@@ -4114,7 +4144,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -4123,7 +4153,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20251124170547353",
@@ -4136,7 +4169,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -4145,7 +4178,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20251124162017037",
@@ -4158,7 +4194,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -4167,7 +4203,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20251124175151338",
@@ -4180,7 +4219,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -4189,7 +4228,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20251124162704358",
@@ -4202,7 +4244,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -4211,7 +4253,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20251125070146577",
@@ -4224,7 +4269,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -4233,7 +4278,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20251124170901517",
@@ -4246,7 +4294,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -4255,7 +4303,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20251124182112396",
@@ -4273,7 +4324,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -4282,7 +4333,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20251124165109693",
@@ -4295,7 +4349,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -4304,7 +4358,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20251124183047621",
@@ -4317,7 +4374,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -4326,7 +4383,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20240605174645030",
@@ -4339,7 +4399,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -4348,7 +4408,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20251124165947037",
@@ -4361,7 +4424,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -4370,7 +4433,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20240709135256270",
@@ -4405,7 +4471,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -4414,7 +4480,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20250703090844570",
@@ -4427,7 +4496,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -4436,7 +4505,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20240722090046911",
@@ -4449,7 +4521,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -4458,7 +4530,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20240731110904736",
