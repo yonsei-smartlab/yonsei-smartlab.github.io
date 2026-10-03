@@ -448,3 +448,12 @@ html { scroll-padding-top: 132px; }
 .contact-opportunities h2 { color: var(--brand); margin-bottom: 20px; }
 .contact-column .location-map { margin-top: 24px; }
 @media (max-width: 639px) { .contact-opportunities { grid-template-columns: 1fr; gap: 32px; } .training-page h2 { font-size: 23px; } }
+
+.bus-information { margin-top: 32px; }
+.bus-information h3 { color: var(--brand); }
+.bus-stops { width: 100%; border-collapse: collapse; margin-block: 16px; font-size: 14px; text-align: left; }
+.bus-stops th, .bus-stops td { padding: 10px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.bus-stops th { font-weight: 500; }
+.bus-stops thead { background: var(--surface); color: var(--muted); }
+.bus-stops th:first-child { width: 42%; }
+.contact-column .bus-note { margin: 0 0 12px; font-size: 14px; color: var(--muted); }

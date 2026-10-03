@@ -1,4 +1,6 @@
 ---
+import BusInformation from '../components/BusInformation.astro';
+import { officeBusInformation } from '../data/transport';
 import ContactPage from '../components/ContactPage.astro';
 import { site } from '../data/site';
 ---
@@ -13,6 +15,7 @@ import { site } from '../data/site';
   <dl slot="location" class="contact-details">
     <dt>Professor’s office</dt><dd>{site.address.map(line => <>{line}<br /></>)}<span lang="ko">{site.koreanAddress}</span></dd>
   </dl>
+  <BusInformation slot="transport" information={officeBusInformation} />
   <section class="section section-divided"><div class="container-page contact-opportunities">
     <section><h2>Join the lab</h2><p class="recruitment-status placeholder-text">{site.contact.recruitmentStatus}</p><p class="placeholder-text">{site.contact.opportunities}</p></section>
     <section><h2>How to apply</h2><p class="placeholder-text">{site.contact.applicationInstructions}</p></section>

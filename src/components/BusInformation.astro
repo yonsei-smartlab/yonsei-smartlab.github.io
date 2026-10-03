@@ -1,0 +1,14 @@
+---
+import type { BusInformation } from '../data/transport';
+interface Props { information: BusInformation; }
+const { information } = Astro.props;
+---
+<section class="bus-information" aria-labelledby="bus-heading">
+  <h3 id="bus-heading">By bus</h3>
+  <table class="bus-stops">
+    <thead><tr><th scope="col">Nearby stop</th><th scope="col">Bus routes</th></tr></thead>
+    <tbody>{information.stops.map(stop => <tr><th scope="row" lang="ko">{stop.name}</th><td>{stop.routes.join(', ')}</td></tr>)}</tbody>
+  </table>
+  {information.note && <p class="bus-note">{information.note}</p>}
+  <a class="text-link" href={information.source} target="_blank" rel="noopener noreferrer">Bus stop details <span aria-hidden="true">↗</span></a>
+</section>
