@@ -5,8 +5,8 @@ import ResearchNav from '../../components/ResearchNav.astro';
 import PubList from '../../components/PubList.astro';
 import { walkbot } from '../../data/walkbot';
 import { getPublications } from '../../lib/content';
-const publications = (await getPublications()).filter(pub => walkbot.publicationScholarIds.includes(pub.data.scholarId ?? ''));
-if (publications.length !== walkbot.publicationScholarIds.length) throw new Error('Walkbot publication references must match the public bibliography.');
+const publications = (await getPublications()).filter(pub => walkbot.publicationScholarIds.includes(pub.data.scholarId ?? '') || walkbot.publicationIds.includes(pub.id));
+if (publications.length !== walkbot.publicationScholarIds.length + walkbot.publicationIds.length) throw new Error('Walkbot publication references must match the public bibliography.');
 ---
 <BaseLayout title="Walkbot" description="Walkbot robotic gait training and related research publications.">
   <PageHeader title="Walkbot" description="Robotic gait training and related research." />
@@ -28,6 +28,7 @@ if (publications.length !== walkbot.publicationScholarIds.length) throw new Erro
       </div>
     </div>
   </section>
+  <section class="section section-divided"><div class="container-page"><div class="section-heading"><h2>Research history</h2></div><div class="walkbot-grid">{walkbot.researchHistory.map(item => <article class="walkbot-card"><p class="eyebrow">{item.period}</p><h3>{item.title}</h3><p>{item.description}</p></article>)}</div></div></section>
   <section class="section section-divided">
     <div class="container-page">
       <div class="section-heading"><h2>Related publications</h2><a href="/publications/">All publications <span aria-hidden="true">→</span></a></div>

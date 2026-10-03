@@ -11,9 +11,13 @@ placeholder: false
 
 ## Education
 
-- **Ph.D., University of Virginia** — Motor Learning & Development (major), Sports Medicine (minor)
-- **M.A., New York University** — Physical Therapy
-- **B.S., Yonsei University** — Rehabilitation Science (Physical Therapy)
+- **Ph.D., University of Virginia** — Motor Learning & Development (major), Sports Medicine (minor), January 2003
+- **M.A., New York University** — Physical Therapy, January 1993
+- **B.S., Yonsei University** — Rehabilitation Science (Physical Therapy), February 1990
+
+**Doctoral dissertation:** Effects of proprioceptive feedback training and circumferential ankle pressure on proprioceptive acuity and balance performance in community-dwelling older adults.
+
+**Master’s thesis:** Electromyographic and biomechanical analysis of postural movement patterns during backward sway.
 
 ## Appointments
 
@@ -22,8 +26,14 @@ placeholder: false
 - Yonsei Health Science Research Institute Chairperson, 2016–2018
 - Yonsei Physical Therapy Chairperson, 2010–2012
 - Sports and Fitness Center for Children with Disabilities Director, 2008–2018
+- Washington University School of Medicine Research Professor, Jack Engsberg’s Biomechanics Laboratory, September 2012–August 2013
 - Yonsei Associate Professor, 2006–2008
 - Hampton University Associate Professor, May–June 2005; Assistant Professor, 1999–2005
+
+## Research training
+
+- **Samsung Medical Center, August 8–19, 2005:** Functional magnetic resonance imaging (fMRI), transcranial magnetic stimulation (TMS), repetitive TMS, and diffusion tensor imaging with Yun-Hee Kim.
+- **NIH / NINDS Human Motor Control Section, August 9–20, 2004:** fMRI and TMS with Mark Hallett.
 
 ## Specialties
 
@@ -50,24 +60,62 @@ placeholder: false
   </div>
 </dl>
 
-## Qualifications
+## Qualifications and advanced training
 
-- Physical therapy licensure: Korea; Virginia, New Jersey, and New York
-- NASM Corrective Exercise Specialist
-- McKenzie MDT A–D; Movement System Impairment
-- Janda sensorimotor training; Kolar DNS A–D and Exercise I–II
-- Graston M1
+- Physical therapy licensure in Korea, Virginia, New Jersey, and New York
+- National Academy of Sports Medicine Corrective Exercise Specialist
+- McKenzie Mechanical Diagnosis and Therapy courses A–D, 2014–2019
+- Movement System Impairment course, September 2012
+- Janda sensorimotor training, August 2010
+- Kolar Dynamic Neuromuscular Stabilization courses A–D and Exercise I–II, 2011–2016
+- Graston Technique M1 training
+- Pediatric Neurodevelopmental Treatment (NDT/Bobath) training, 1996
+
+## Clinical and sports experience
+
+Professor You’s clinical experience in Korea and the United States spans pediatric, neurological, musculoskeletal, and cardiopulmonary physical therapy, with patient assessment, rehabilitation, caregiver education, and student supervision.
+
+- **Chief Physiotherapist, 2018 Pyeongchang Winter Olympics and Paralympics**
+- National Paralympic athletic training, Korean Sports Training Center, 2008–2009
+- Wonju elite powerlifting athletes, 2006–2009; Yonsei University basketball, 2007–2008
+- Riverside Regional Hospital rehabilitation services, June 2004–May 2006
+- Union County Early Intervention Program, June–August 1999
+- Dong Ma Physical Medicine and Rehabilitation Clinic, May 1996–May 1999
+- Universal Rehabilitation Institute Senior Physical Therapist and team leader, October 1993–May 1995
+- Matheny Medical and Educational Center, February–October 1993
 
 ## Awards
 
-- Yonsei President’s research awards, 2014 and 2025
-- 2019 Residential Colloquia best project: WE-FIT exercise videos for older adults
-- LINC+ industry–university cooperation evangelist recognition, third programme year
+- **Yonsei University President’s Award for Excellence in Research:** June 23, 2014 and February 25, 2025
+- **LINC+ industry–academic collaboration recognition:** January 13, 2020
+- **Residential Colloquia Best Project Award:** June 5, 2019, for the WE-FIT exercise-video programme for older adults
 
-## Teaching and professional service
+## Teaching
 
-Undergraduate teaching includes Measurement and Evaluation, Sports Physical Therapy, and Neurological Physical Therapy Diagnosis and Intervention II.
+Undergraduate teaching includes kinesiology and pathokinesiology, measurement and neuromusculoskeletal diagnosis, sports physical therapy, neurorehabilitation, and pain management.
+
+Graduate teaching includes:
+
+- Motor control and learning
+- Biomechanics, movement analysis, and diagnostic imaging
+- Neurological outcome measurement, differential diagnosis, and imaging
+- Diagnosis and treatment of neuromusculoskeletal conditions and sports-related movement system impairments
+- Manipulative therapy, corrective exercise, and exercise prescription for movement impairments and sports injuries
+
+## Editorial and professional service
+
+Editorial board service includes **Robotics**, **NeuroRehabilitation**, and **PLOS ONE**. Earlier appointments include Editor-in-Chief of the **Journal of the International Academy of Physical Therapy Research**, 2010–2013, and editorial board member of **Brain & NeuroRehabilitation**, 2015–2017.
+
+Professional service includes journal reviewing for Archives of Physical Medicine and Rehabilitation, Stroke, and Developmental Medicine & Child Neurology; National Physical Therapy Examination item writing in 2004; and credential evaluation for the Federation of State Boards of Physical Therapy, 2005–2006.
 
 International research collaborations include MIT, NIH, Moss Rehabilitation, Albert Einstein College of Medicine, Burke Rehabilitation Hospital, Kyoto University, and Srinakharinwirot University.
 
-Editorial board service includes PLOS ONE, NeuroRehabilitation, and Robotic Science.
+## Selected presentations
+
+- **2016 American Physical Therapy Association Combined Sections Meeting:** Co-authored platform presentation on abdominal drawing-in, abdominal bracing, and Dynamic Neuromuscular Stabilization.
+- **2005 NIH rehabilitation grand rounds:** Virtual reality and its initial applications in rehabilitation.
+- **2005 NIH pediatric rehabilitation research meeting:** Virtual-reality-induced cortical reorganization in a child with hemiparetic cerebral palsy.
+
+## Books and translations
+
+Professor You’s books and Korean translations cover musculoskeletal diagnosis, neurological intervention, muscle imbalance, and home exercise for children. [View books and translations](/publications/#books).

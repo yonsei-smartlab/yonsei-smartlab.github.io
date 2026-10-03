@@ -1,0 +1,127 @@
+{
+  "sourceFile": "Joshua You Curriculum Vitae 2-28-25.doc",
+  "reviewedOn": "2026-10-03",
+  "userApproved": true,
+  "published": {
+    "profile": [
+      "Education months/years and thesis topics",
+      "Washington University research appointment 2012–2013",
+      "NIH 2004 and Samsung Medical Center 2005 research training",
+      "2018 Pyeongchang Olympic/Paralympic chief physiotherapist role",
+      "Selected dated sports and clinical experience",
+      "NDT/Bobath 1996 and unambiguous advanced-course dates",
+      "Award dates",
+      "Graduate teaching topics",
+      "Robotics title correction; JIAPTR 2010–2013 and Brain & NeuroRehabilitation 2015–2017",
+      "Selected presentations, labelled separately from publications"
+    ],
+    "books": 4,
+    "additionalVerifiedPublications": 4,
+    "additionalFundedGrantRecords": 5,
+    "walkbot": [
+      "P&S research/development beginning 2007; historical role, no current corporate-affiliation claim",
+      "US clinical testbed 2016–2017"
+    ],
+    "research": [
+      "AI/digital assessment",
+      "Markerless motion capture",
+      "Pediatric core stabilization",
+      "Robotic hippotherapy"
+    ],
+    "center": [
+      "Cardiopulmonary scope, caregiver education",
+      "Motor control, movement assessment and exercise prescription education"
+    ]
+  },
+  "reconciliation": [
+    {
+      "topic": "2025 wearable gait-robot survey",
+      "decision": "Already present as scholar-EkHepimYqZsC; no duplicate; retain published venue metadata rather than inconsistent CV volume/date."
+    },
+    {
+      "topic": "2024 shoulder/core-shoulder exercise trial",
+      "decision": "Repeated twice in CV; retain single existing bibliography record."
+    },
+    {
+      "topic": "SENSERite 2005 and 2009 studies",
+      "decision": "Existing records use final published titles rather than CV title variants; no duplicate."
+    },
+    {
+      "topic": "Virtual-reality cerebral palsy case study",
+      "decision": "Already present as scholar-R3hNpaxXUhUC under final title; no duplicate."
+    },
+    {
+      "topic": "Olympic physiotherapy journal paper versus poster",
+      "decision": "Add verified 2021 journal paper; preserve distinct existing conference abstract scholar-fPk4N6BV_jEC."
+    },
+    {
+      "topic": "Conference talks and abstracts",
+      "decision": "Three selected presentation credits on Professor page; keep published abstracts in existing bibliography; do not convert every talk into a journal paper."
+    },
+    {
+      "topic": "BRAIN-FIT, BABYBOT, WALKRITE, BK21 and EEG–Walkbot projects",
+      "decision": "Represented in existing export; no duplicate English-title grant imports."
+    },
+    {
+      "topic": "2017 AI gait retraining and KPTA practice guideline",
+      "decision": "Similar export titles have different period details; keep original export records and hold conflicting CV variants instead of merging years."
+    },
+    {
+      "topic": "KBS September 10, 2020",
+      "decision": "Already present in news as 2020-09-10-9bafb7c7085f; linked YouTube is the same report."
+    },
+    {
+      "topic": "May 2005 virtual-reality press coverage",
+      "decision": "Existing CBS/AP and Korean reports retained. Named NBC, Fox, ABC, Newsday, MSNBC and regional syndications lack verified original links in this review; no invented reports or links."
+    },
+    {
+      "topic": "Books",
+      "decision": "Four completed works, two as contributing author and two as Korean co-translator. Omit drafts. Display years only: neurological book day/month differs among catalogues."
+    }
+  ],
+  "held": [
+    {
+      "topic": "Center founding/history",
+      "reason": "CV gives 2008, 2010 and June 2018 in different contexts; preserve confirmed executive-director appointment without claiming a founding date."
+    },
+    {
+      "topic": "NASM and Graston dates",
+      "reason": "2010/2011 differences; qualifications retained without new dates."
+    },
+    {
+      "topic": "General Affairs/Provost leadership",
+      "reason": "Undated and ambiguous title translation."
+    },
+    {
+      "topic": "Publication/patent/citation totals and h-index",
+      "reason": "Dated CV snapshot not equivalent to reviewed public records."
+    },
+    {
+      "topic": "Backward-sway paper",
+      "reason": "CV says 1994; KCI ART001971547 says 1995 with author spelling difference; hold until authorship/date reconciled."
+    },
+    {
+      "topic": "Incomplete historical publication variants",
+      "reason": "Preserve existing final publication records; no inferred DOI, full author list or venue for unresolved CV-only entries."
+    },
+    {
+      "topic": "Foundation for Physical Therapy preliminary application award",
+      "reason": "Award date unclear; full subsequent proposal was not funded."
+    },
+    {
+      "topic": "Undated grant entries",
+      "reason": "No reliable award period."
+    }
+  ],
+  "excluded": [
+    "Internal Hampton faculty research grants",
+    "Submitted or explicitly unfunded proposals",
+    "Books in preparation",
+    "Private contact information and financial amounts"
+  ],
+  "bookSources": [
+    "https://www.riss.kr/link?id=M12781623",
+    "https://www.yes24.com/product/goods/3525034",
+    "https://www.yes24.com/product/goods/16928618"
+  ]
+}

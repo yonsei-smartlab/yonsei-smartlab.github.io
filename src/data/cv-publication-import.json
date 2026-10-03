@@ -1,0 +1,31 @@
+{
+  "sourceFile": "Joshua You Curriculum Vitae 2-28-25.doc",
+  "reviewedOn": "2026-10-03",
+  "publishedCount": 4,
+  "records": [
+    {
+      "id": "cv-walkbot-validity-2009",
+      "title": "Validity and feasibility of intelligent Walkbot system",
+      "doi": "10.1049/el.2009.0879",
+      "source": "https://api.crossref.org/works/10.1049/el.2009.0879"
+    },
+    {
+      "id": "cv-olympic-physiotherapy-2021",
+      "title": "Review of physiotherapy service for athletes of 2018 Olympic Winter games: Consideration of preparation for two polyclinics",
+      "doi": "10.1016/j.ptsp.2021.02.012",
+      "source": "https://api.crossref.org/works/10.1016/j.ptsp.2021.02.012"
+    },
+    {
+      "id": "cv-accelerometric-gravity-2007",
+      "title": "Computational method and feasibility of detecting the whole body centre of gravity using an accelerometric device",
+      "doi": "10.1049/el:20071656",
+      "source": "https://api.crossref.org/works/10.1049/el:20071656"
+    },
+    {
+      "id": "cv-parenting-stress-2019",
+      "title": "Parenting stress and quality of life in parents of children with disabilities: focusing on the effect of service satisfaction",
+      "doi": "10.15300/jcw.2019.71.4.99",
+      "source": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002529082"
+    }
+  ]
+}

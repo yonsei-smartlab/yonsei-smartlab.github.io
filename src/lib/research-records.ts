@@ -1,4 +1,5 @@
 import grants from '../data/grants.json' with { type: 'json' };
+import cvGrants from '../data/cv-grants.json' with { type: 'json' };
 import patents from '../data/patents.json' with { type: 'json' };
 import transfers from '../data/technology-transfers.json' with { type: 'json' };
 
@@ -32,7 +33,7 @@ function formatGrantYears(years: number[]) {
 
 export function getResearchRecords(): ResearchRecord[] {
   const sourceRecords: Omit<ResearchRecord, 'yearText'>[] = [
-    ...grants.map(record => ({ title: record.title, category: 'grants' as const, label: 'Grant', detail: record.funder, years: Array.from({ length: record.endYear - record.startYear + 1 }, (_, index) => record.startYear + index) })),
+    ...[...grants, ...cvGrants].map(record => ({ title: record.title, category: 'grants' as const, label: 'Grant', detail: record.funder, years: Array.from({ length: record.endYear - record.startYear + 1 }, (_, index) => record.startYear + index) })),
     ...patents.map(record => ({ title: record.title, category: 'patents' as const, label: 'Patent', detail: '', years: [record.registrationYear], registrationNumber: record.registrationNumber })),
     ...transfers.map(record => ({ title: record.title, category: 'transfers' as const, label: 'Technology transfer', detail: record.company, years: [record.year] })),
   ];

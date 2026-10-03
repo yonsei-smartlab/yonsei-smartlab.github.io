@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../components/BaseLayout.astro';
 import PageHeader from '../components/PageHeader.astro';
+import BookList from '../components/BookList.astro';
 import PubList from '../components/PubList.astro';
 import { getPublications, getResearch } from '../lib/content';
 import { site } from '../data/site';
@@ -13,7 +14,7 @@ const updatedDate = new Intl.DateTimeFormat('en', { dateStyle: 'long', timeZone:
 <BaseLayout title="Publications">
   <PageHeader title="Publications" description="Publications in neuromodulation, robotic rehabilitation, sports movement science, and motor recovery." />
   <section class="section"><div class="container-page">
-    <p class="publication-source">Updated {updatedDate} · <a href={site.links.scholar}>Google Scholar <span aria-hidden="true">↗</span></a></p>
+    <p class="publication-source">Updated {updatedDate} · <a href={site.links.scholar}>Google Scholar <span aria-hidden="true">↗</span></a> · <a href="#books">Books and translations</a></p>
     <form class="publication-filters" role="search" aria-label="Filter publications">
       <div class="search-field"><label for="publication-search">Search</label><input id="publication-search" type="search" placeholder="Title, author, or journal" autocomplete="off" /></div>
       <div><label for="publication-year">Year</label><select id="publication-year"><option value="">All years</option>{years.map(year => <option value={year}>{year}</option>)}<option value="unknown">Undated</option></select></div>
@@ -24,6 +25,7 @@ const updatedDate = new Intl.DateTimeFormat('en', { dateStyle: 'long', timeZone:
     <PubList pubs={publications} filterable />
     <p id="publication-empty" class="empty-state" hidden>No publications match these filters.</p>
   </div></section>
+  <section class="section section-divided" id="books"><div class="container-page"><div class="section-heading"><h2>Books and translations</h2></div><BookList /></div></section>
 </BaseLayout>
 <script>
   const search = document.querySelector<HTMLInputElement>('#publication-search');
@@ -47,6 +49,9 @@ const updatedDate = new Intl.DateTimeFormat('en', { dateStyle: 'long', timeZone:
     if (noun) noun.textContent = visible === 1 ? 'publication' : 'publications';
     if (empty) empty.hidden = visible !== 0;
   }
+  const initialFilters = new URLSearchParams(window.location.search);
+  if (area && [...area.options].some(option => option.value === initialFilters.get('area'))) area.value = initialFilters.get('area') ?? '';
+  filterPublications();
   search?.addEventListener('input', filterPublications);
   year?.addEventListener('change', filterPublications);
   area?.addEventListener('change', filterPublications);

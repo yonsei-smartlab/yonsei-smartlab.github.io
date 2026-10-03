@@ -5,6 +5,12 @@ order: 3
 placeholder: true
 ---
 
+<h3 id="area-3-published">Published research</h3>
+
+Published studies examine deep-learning markerless motion assessment during the overhead squat, AI-based mechanical diagnosis and therapy for low back pain, and core-stabilization techniques. Pediatric research explores postural control, diaphragm movement, and gait in cerebral palsy.
+
+[Related publications](/publications/?area=area-3).
+
 <h3 id="area-3-projects">Current projects</h3>
 
 [Add current projects and research questions in this area.]

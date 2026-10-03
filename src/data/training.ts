@@ -11,7 +11,7 @@ export interface TrainingProgram {
 
 export const specialistPrograms: TrainingProgram[] = [
   {
-    id: 'dns', title: 'DNS', subtitle: 'Dynamic Neuromuscular Stabilization',
+    id: 'dns', title: 'Dynamic Neuromuscular Stabilization', subtitle: 'DNS · Prague School approach',
     description: 'Developmental kinesiology, postural control, and coordinated movement. Clinical and exercise training follow the Prague School approach.',
     resource: { label: 'Prague School · DNS', href: 'https://www.rehabps.com/dns.html' },
   },
@@ -21,7 +21,7 @@ export const specialistPrograms: TrainingProgram[] = [
     resource: { label: 'Movement Links · Janda education', href: 'https://www.movementlinks.com/resources.php' },
   },
   {
-    id: 'mdt', title: 'McKenzie MDT', subtitle: 'Mechanical Diagnosis and Therapy',
+    id: 'mdt', title: 'McKenzie Mechanical Diagnosis and Therapy', subtitle: 'MDT · Mechanical assessment and classification',
     description: 'Mechanical assessment and classification of spinal and extremity conditions using the McKenzie Method.',
     resource: { label: 'McKenzie Institute · Education', href: 'https://mckenzieinstitute.org/education/' },
   },

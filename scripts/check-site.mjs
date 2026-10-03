@@ -86,11 +86,12 @@ function checkRecords(records, category, titleKey, yearText, detailText) {
   });
 }
 const grants = JSON.parse(await readFile('src/data/grants.json', 'utf8'));
+const cvGrants = JSON.parse(await readFile('src/data/cv-grants.json', 'utf8'));
 const grantAudit = JSON.parse(await readFile('src/data/grant-import.json', 'utf8'));
 if (grants.length !== grantAudit.publishedCount) issues.push('Grant count differs from the project export');
 if (grantAudit.publishedCount + grantAudit.excludedInternalCount !== grantAudit.sourceRecordCount) issues.push('Grant source counts do not reconcile');
 if (grantAudit.includedRows.length !== grants.length || grantAudit.excludedInternalRows.length !== grantAudit.excludedInternalCount || new Set([...grantAudit.includedRows, ...grantAudit.excludedInternalRows]).size !== grantAudit.sourceRecordCount) issues.push('Grant source rows do not reconcile');
-for (const grant of grants) {
+for (const grant of [...grants, ...cvGrants]) {
   if (Object.keys(grant).sort().join(',') !== 'endYear,funder,startYear,title' || !grant.title || !grant.funder || !Number.isInteger(grant.startYear) || !Number.isInteger(grant.endYear) || grant.startYear > grant.endYear) issues.push('Grant record contains unapproved or invalid fields');
 }
 const patents = JSON.parse(await readFile('src/data/patents.json', 'utf8'));
@@ -119,7 +120,7 @@ const displayedKeys = displayedRecords.map(recordKey);
 if (new Set(displayedKeys).size !== displayedKeys.length) issues.push('Duplicate record identity in combined archive');
 if (new Set(patents.map(patent => patent.registrationNumber)).size !== patents.length || categoryItems('patents').length !== patents.length) issues.push('Distinct patent registrations were duplicated or lost');
 const sourceRecords = [
-  ...grants.map(record => ({ title: record.title, category: 'grants', detail: record.funder, years: Array.from({ length: record.endYear - record.startYear + 1 }, (_, index) => record.startYear + index) })),
+  ...[...grants, ...cvGrants].map(record => ({ title: record.title, category: 'grants', detail: record.funder, years: Array.from({ length: record.endYear - record.startYear + 1 }, (_, index) => record.startYear + index) })),
   ...patents.map(record => ({ title: record.title, category: 'patents', detail: '', years: [record.registrationYear], registrationNumber: record.registrationNumber })),
   ...transfers.map(record => ({ title: record.title, category: 'transfers', detail: record.company, years: [record.year] })),
 ];
@@ -141,8 +142,14 @@ for (const route of ['research/index.html', 'training/index.html', 'research/wal
   const labels = [...subnav.matchAll(/<a\b[^>]*>([^<]+)<\/a>/g)].map(match => match[1]);
   if (labels.join(',') !== 'Overview,Training,Walkbot') issues.push(`${route}: incorrect Research navigation`);
 }
+const cvPublicationImport = JSON.parse(await readFile('src/data/cv-publication-import.json', 'utf8'));
 const importSummary = JSON.parse(await readFile('src/data/publication-import.json', 'utf8'));
-if ([...publicationHtml.matchAll(/data-publication(?:=|\s|>)/g)].length !== importSummary.publishedCount) issues.push('Rendered publication count differs from the reviewed Scholar snapshot');
+if ([...publicationHtml.matchAll(/data-publication(?:=|\s|>)/g)].length !== importSummary.publishedCount + cvPublicationImport.publishedCount) issues.push('Rendered publication count differs from the reviewed Scholar snapshot');
+const books = JSON.parse(await readFile('src/data/books.json', 'utf8'));
+if ([...publicationHtml.matchAll(/data-book(?:=|\s|>)/g)].length !== books.length) issues.push('Books and translations do not reconcile');
+for (const record of cvPublicationImport.records) {
+  if (!publicationHtml.includes(record.title.replaceAll('&', '&amp;')) || !publicationHtml.includes(`https://doi.org/${record.doi}`)) issues.push(`CV publication missing title or verified DOI: ${record.id}`);
+}
 const publicationItems = [...publicationHtml.matchAll(/<li\b[^>]*data-publication(?:=|\s|>)[\s\S]*?<\/li>/g)].map(match => match[0]);
 for (const item of publicationItems) {
   const heading = item.match(/<h3\b[^>]*>([\s\S]*?)<\/h3>/)?.[1] ?? '';
