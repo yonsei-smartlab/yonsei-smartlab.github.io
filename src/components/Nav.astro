@@ -13,9 +13,9 @@ const current = Astro.url.pathname.replace(/\/$/, '') || '/';
 <header class="site-header">
   <nav class="container-page nav-inner" aria-label="Main navigation">
     <div class="site-switcher" role="group" aria-label="Websites">
-      <a class="university-logo" href="https://www.yonsei.ac.kr/" aria-label="Yonsei University">
-        <img src="/images/yonsei-university-seal.jpg" alt="" width="1907" height="2268" />
-      </a>
+      <span class="university-logo">
+        <img src="/images/yonsei-university-seal.jpg" alt="Yonsei University" width="1907" height="2268" />
+      </span>
       <a class="wordmark" data-website="lab" href="/" aria-current={!isCenter ? 'location' : undefined}>{site.name}</a>
       <a class="wordmark" data-website="goodwellness" href={goodwellness.home} aria-current={isCenter ? 'location' : undefined}>{goodwellness.headerName}</a>
     </div>
