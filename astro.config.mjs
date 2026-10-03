@@ -7,7 +7,7 @@ export default defineConfig({
   output: 'static',
   trailingSlash: 'always',
   redirects: {
-    '/research/affiliations/': '/research/walkbot/',
+    '/research/walkbot/': '/research/affiliations/',
     '/research/grants/': '/grants-ip/?category=grants',
     '/research/patents/': '/grants-ip/?category=patents',
     '/people/': '/members/',
