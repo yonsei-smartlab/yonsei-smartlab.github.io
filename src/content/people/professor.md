@@ -2,7 +2,7 @@
 name: "Joshua (Sung) H. You"
 role: "PT, PhD · Professor"
 group: Professor
-photo: "/images/people/professor-you-gray.png"
+photo: "/images/people/professor-you-texture-fixed.png"
 photoAlt: "Portrait of Professor Joshua (Sung) H. You"
 order: 1
 summary: "Director of the SMART Institute and Executive Director of the Yonsei GOODWELLNESS Center."
