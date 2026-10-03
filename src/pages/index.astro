@@ -2,16 +2,13 @@
 import BaseLayout from '../components/BaseLayout.astro';
 import ResearchImageCredit from '../components/ResearchImageCredit.astro';
 import PlaceholderImage from '../components/PlaceholderImage.astro';
-import PubList from '../components/PubList.astro';
 import { site } from '../data/site';
-import { getResearch, getPublications } from '../lib/content';
+import { getResearch } from '../lib/content';
 const introBreak = site.description.indexOf(' We study');
 const introParagraphs = introBreak > 0
   ? [site.description.slice(0, introBreak), site.description.slice(introBreak).trim()]
   : [site.description];
 const areas = await getResearch();
-const publications = await getPublications();
-const selected = publications.filter(pub => pub.data.featured).slice(0, 3);
 ---
 <BaseLayout>
   <section class="hero">
@@ -21,7 +18,7 @@ const selected = publications.filter(pub => pub.data.featured).slice(0, 3);
         <h1>{site.name}</h1>
         <p class="institute-name">{site.fullName}</p>
         <div class="hero-description hero-description-reading">{introParagraphs.map(paragraph => <p>{paragraph}</p>)}</div>
-        <div class="hero-actions"><a class="button button-primary" href="/research/">Explore our research</a></div>
+        <div class="hero-actions"><a class="button button-primary" href="/research/">Explore our research</a><a class="button button-secondary" href="/publications/">View publications</a></div>
       </div>
       <div class="research-process">
         <ol class="process-steps">{site.researchSteps.map((step, index) => <li><span class="step-number" aria-hidden="true">{String(index + 1).padStart(2, '0')}</span><h2>{step.title}</h2><p>{step.description}</p></li>)}</ol>
@@ -34,8 +31,5 @@ const selected = publications.filter(pub => pub.data.featured).slice(0, 3);
       <div class="section-heading"><h2>Research areas</h2><a href="/research/">View research <span aria-hidden="true">→</span></a></div>
       <div class="figure-grid">{areas.map(area => <article class="figure-card"><a class="figure-card-main" href={`/research/#${area.id}`}><PlaceholderImage label={`${area.data.title} image`} src={area.data.image} alt={area.data.imageAlt} /><div class="figure-caption"><h3>{area.data.title}</h3><p>{area.data.summary}</p>{area.data.imageCaption && <p class="eyebrow">{area.data.imageCaption}</p>}</div></a><ResearchImageCredit data={area.data} /></article>)}</div>
     </div>
-  </section>
-  <section class="section section-divided">
-    <div class="container-page"><div class="section-heading"><h2>Selected publications</h2><a href="/publications/">All publications <span aria-hidden="true">→</span></a></div><PubList pubs={selected} /></div>
   </section>
 </BaseLayout>
