@@ -27,7 +27,7 @@ export const academicAlumni: Alumnus[] = [
 export const professionalAlumni: Alumnus[] = [
   { name: '김희준', role: 'Postdoctoral researcher' },
   { name: '정지희', role: 'Obstetrician–gynecologist' },
-  { name: '박지호', role: 'Researcher at a national research institute' },
+  { name: '박지호', role: 'National research institute researcher' },
   { name: '김건', role: 'Physical therapist · United States' },
   { name: '박하은', role: 'AI industry' },
 ];
