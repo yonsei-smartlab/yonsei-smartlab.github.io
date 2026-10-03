@@ -36,7 +36,4 @@ const selected = publications.filter(pub => pub.data.featured).slice(0, 3);
   <section class="section section-divided">
     <div class="container-page"><div class="section-heading"><h2>Selected publications</h2><a href="/publications/">All publications <span aria-hidden="true">→</span></a></div><PubList pubs={selected} /></div>
   </section>
-  <section class="section section-divided">
-    <div class="container-page lab-life"><div><h2>Life in the lab</h2><p class="placeholder-text">{site.labDescription}</p><a class="text-link" href="/members/">Meet the team <span aria-hidden="true">→</span></a></div><PlaceholderImage label="Lab photograph" aspect="photo" src={site.images.labPhoto} alt={site.images.labPhotoAlt} /></div>
-  </section>
 </BaseLayout>
