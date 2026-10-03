@@ -18,7 +18,7 @@ const areas = await getResearch();
         <h1>{site.name}</h1>
         <p class="institute-name">{site.fullName}</p>
         <div class="hero-description hero-description-reading">{introParagraphs.map(paragraph => <p>{paragraph}</p>)}</div>
-        <div class="hero-actions"><a class="button button-primary" href="/research/">Explore our research</a><a class="button button-secondary" href="/publications/">View publications</a><a class="button button-secondary" href="/news/">View news</a></div>
+        <div class="hero-actions homepage-actions"><a class="button" href="/research/">Explore our research</a><a class="button" href="/publications/">View publications</a><a class="button" href="/news/">View news</a></div>
       </div>
       <div class="research-process">
         <ol class="process-steps">{site.researchSteps.map((step, index) => <li><span class="step-number" aria-hidden="true">{String(index + 1).padStart(2, '0')}</span><h2>{step.title}</h2><p>{step.description}</p></li>)}</ol>
@@ -33,3 +33,23 @@ const areas = await getResearch();
     </div>
   </section>
 </BaseLayout>
+<style>
+  .homepage-actions .button {
+    background: var(--brand);
+    border-color: var(--brand);
+    color: #fff;
+    transition: background-color 160ms ease, border-color 160ms ease;
+  }
+  .homepage-actions .button:hover {
+    background: var(--brand-hover);
+    border-color: var(--brand-hover);
+    color: #fff;
+  }
+  .homepage-actions .button:focus-visible {
+    outline: 2px solid var(--brand-hover);
+    outline-offset: 3px;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .homepage-actions .button { transition: none; }
+  }
+</style>
