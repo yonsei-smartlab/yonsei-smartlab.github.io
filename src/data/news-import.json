@@ -590,15 +590,6 @@
       "centerRelevance": "Reviewed source specifically names Yonsei GOODWELLNESS Center or its fitness services; retained in both public archives."
     },
     {
-      "file": "src/content/news/2023-11-14-goodwellness-funding.md",
-      "url": "https://www.wjmbc.co.kr/news/desk_board.html?gnb=1&intPageSize=20&num_seq=86683&pagecode=view&snb=2",
-      "date": "2023-11-14",
-      "identityEvidence": "Original broadcaster transcript explicitly tags 연세굿웰니스센터 and identifies the Wonju disability-fitness facility. Broadcast date 20231114 verified. Historical report, not a claim about current operation.",
-      "status": "published",
-      "goodwellness": true,
-      "centerRelevance": "Reviewed source specifically names Yonsei GOODWELLNESS Center or its fitness services; retained in both public archives."
-    },
-    {
       "file": "src/content/news/2022-04-28-newstown-goodwellness-services.md",
       "url": "https://www.newstown.co.kr/news/articleView.html?idxno=533422",
       "date": "2022-04-28",
@@ -5774,7 +5765,7 @@
       "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     }
   ],
-  "publishedCount": 92,
+  "publishedCount": 91,
   "searchEvidence": "artifacts/news-discovery.json (ignored); Naver results additionally checked through browser scrolling",
   "reviewNotes": [
     "Hankyoreh original publication date is February 9, 2009; Google RSS showed a later migration date.",
@@ -6194,5 +6185,18 @@
     "complete": false,
     "remaining": "Six Google redirect candidates, 25 held identity/access cases, four unavailable sources, and incomplete broader Naver browser coverage remain documented in the review queue. No unresolved candidates were automatically published."
   },
-  "newsRefresh": "src/data/news-refresh-2026-10-03.json"
+  "newsRefresh": "src/data/news-refresh-2026-10-03.json",
+  "editorialExclusions": [
+    {
+      "file": "src/data/news-source-archive/2023-11-14-goodwellness-funding.md",
+      "url": "https://www.wjmbc.co.kr/news/desk_board.html?gnb=1&intPageSize=20&num_seq=86683&pagecode=view&snb=2",
+      "date": "2023-11-14",
+      "identityEvidence": "Original broadcaster transcript explicitly tags 연세굿웰니스센터 and identifies the Wonju disability-fitness facility. Broadcast date 20231114 verified. Historical report, not a claim about current operation.",
+      "status": "editorially-excluded",
+      "goodwellness": true,
+      "centerRelevance": "Center-related source retained only in the repository archive; excluded from both rendered news pages.",
+      "excludedOn": "2026-10-03",
+      "reason": "User requested editorial exclusion from both public news archives."
+    }
+  ]
 }

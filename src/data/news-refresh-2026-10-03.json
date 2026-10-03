@@ -3,10 +3,6 @@
   "scope": "Additional Korean and English news discovery for SMART Lab, Professor You, Yonsei GOODWELLNESS Center and the P&S Walkbot rehabilitation system. Not an exhaustive historical archive.",
   "published": [
     {
-      "file": "2023-11-14-goodwellness-funding.md",
-      "review": "Original broadcaster transcript explicitly tags 연세굿웰니스센터 and identifies the Wonju disability-fitness facility. Broadcast date 20231114 verified. Historical report, not a claim about current operation."
-    },
-    {
       "file": "2022-04-28-newstown-goodwellness-services.md",
       "review": "Original article explicitly names 연세굿웰니스센터 and 유승현 연세대학교 교수; date 2022.04.28 09:33. Same service announcement as existing Wonju City report."
     },
@@ -61,5 +57,13 @@
     "Prime Economy original publisher successfully read via HTTPS; portal copy used to locate original."
   ],
   "centerClassification": "Explicit per-report goodwellness flag. Combined archive retains every report; center archive excludes unrelated reports even inside a mixed group.",
-  "remainingHistoricalQueue": "Existing ambiguous identity/access cases remain unpublished. No claim of exhaustive historical discovery."
+  "remainingHistoricalQueue": "Existing ambiguous identity/access cases remain unpublished. No claim of exhaustive historical discovery.",
+  "editorialExclusions": [
+    {
+      "file": "2023-11-14-goodwellness-funding.md",
+      "review": "Original broadcaster transcript explicitly tags 연세굿웰니스센터 and identifies the Wonju disability-fitness facility. Broadcast date 20231114 verified. Historical report, not a claim about current operation.",
+      "archivedSource": "src/data/news-source-archive/2023-11-14-goodwellness-funding.md",
+      "reason": "User requested editorial exclusion from both public news archives."
+    }
+  ]
 }
