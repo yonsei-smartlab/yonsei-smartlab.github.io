@@ -1,0 +1,146 @@
+{
+  "reviewedOn": "2026-10-03",
+  "complete": false,
+  "coverage": [
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php",
+      "finalUrl": "https://www.walkbot.co.kr/kr/media-press.php"
+    },
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&sk=&sw=&category=&offset=10",
+      "finalUrl": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&sk=&sw=&category=&offset=10"
+    },
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&sk=&sw=&category=&offset=20",
+      "finalUrl": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&sk=&sw=&category=&offset=20"
+    }
+  ],
+  "candidateCount": 25,
+  "candidates": [
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=29&sk=&sw=&offset=&category=",
+      "title": "'스위스 선점시장 뚫었다. 중남미 최대 텔레톤 재단에 '워크봇' 추가 공급' / 2026.0...",
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=28&sk=&sw=&offset=&category=",
+      "title": "li nkedin - Fundación Teletón México / 2026.07.01",
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=27&sk=&sw=&offset=&category=",
+      "title": "기적 부른 AI 재활로봇, 의료 패더라임 바꾼다? / 머니투데이 방송 MTN / 2026.06.18",
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=26&sk=&sw=&offset=&category=",
+      "title": "피앤에스로보틱스, '3대 시장 인증' 재활로봇 기술력에도 '극심한 저평가' / 2026.06...",
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=25&sk=&sw=&offset=&category=",
+      "title": "피앤에스로보틱스, 멕시코 최대 규모 민간 비영리기구 텔레톤재단에 '워크봇' 첫 설...",
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=24&sk=&sw=&offset=&category=",
+      "title": "피앤에스로보틱스, 소재 부품 장비 전문기업 인증 취득 / 2026.05.21",
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=23&sk=&sw=&offset=&category=",
+      "title": "어깨통증탈출! 혁신적인 재활로봇 '힐러봇' 사용 가이드 / 2026.04.30",
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=22&sk=&sw=&offset=&category=",
+      "title": "피앤에스로보틱스, 어깨 재활 로봇 '힐러봇' 국내 첫 공개 / 2026.03.05",
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=21&sk=&sw=&offset=&category=",
+      "title": "홍성의료원, 뇌졸중환자 로봇보행재활 '워크봇' 도입 / 2026.01.13",
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=20&sk=&sw=&offset=&category=",
+      "title": "넥슨어린이재활병원에 보행재활로봇 '워크봇' 설치/2025.12.18",
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=19&sk=&sw=&offset=10&category=",
+      "title": "P&S 로보틱스_걸어본 적 없는 아이가 걷기 시작했다 / 2025.12.12",
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=18&sk=&sw=&offset=10&category=",
+      "title": "피앤에스로보틱스, AI 기반 ‘힐러봇’까지 라인업 확대…'재활 로봇 풀스택 기업으로 ...",
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=17&sk=&sw=&offset=10&category=",
+      "title": "피앤에스로보틱스, 파주시 운정 다누림 장애인복지관에 ‘워크봇’ 설치 / 2025.08.1...",
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=16&sk=&sw=&offset=10&category=",
+      "title": "피앤에스로보틱스, 인도 사크라병원에 두 번째 워크봇 설치 / 2025.07.31",
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=15&sk=&sw=&offset=10&category=",
+      "title": "피앤에스미캐닉스 현장 탐방 취재 / 2025.02.16",
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=14&sk=&sw=&offset=10&category=",
+      "title": "피앤에스미캐닉스, 메디카 2024 전시 참가 / 2024. 11. 18",
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=13&sk=&sw=&offset=10&category=",
+      "title": "피앤에스미캐닉스, 인니 수출계약 체결...수출국 15개로 확대 / 2024. 11. 11",
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=12&sk=&sw=&offset=10&category=",
+      "title": "(주)피앤에스미캐닉스 코스닥시장 상장기념식 / 2024. 7. 31",
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=11&sk=&sw=&offset=10&category=",
+      "title": "'IPO 출사표' 피앤에스미캐닉스 '글로벌 기업 도약' / 2024. 7. 9",
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=10&sk=&sw=&offset=10&category=",
+      "title": "피앤에스미캐닉스 '글로벌 의료로봇 기업으로 성장할 것' / 2024. 7. 9",
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=9&sk=&sw=&offset=20&category=",
+      "title": "피앤에스미캐닉스, AI 로봇 산학협력 추진 '재활 표준 만든다' / 2023. 11. 27",
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=8&sk=&sw=&offset=20&category=",
+      "title": "'의료 로봇' 피앤에스미캐닉스, 코스닥 노크...상장예비심사 청구 / 2023. 11. 16",
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=7&sk=&sw=&offset=20&category=",
+      "title": "재활로봇업체 피앤에스미캐닉스, 코스닥 상장 추친 / 2023. 9. 1",
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=6&sk=&sw=&offset=20&category=",
+      "title": "실적 껑충 뛴 'K-보행재활로봇'...12개국 인증, 수출도 '청신호' / 2023. 9. 26",
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=5&sk=&sw=&offset=20&category=",
+      "title": "세계 1위 제친 韓 재활로봇기업…'3년안에 현지법인 세워 미 공략' / 2022. 7. 24",
+      "status": "unreviewed"
+    }
+  ]
+}

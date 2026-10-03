@@ -1,0 +1,104 @@
+{
+  "reviewedOn": "2026-10-03",
+  "complete": false,
+  "scope": "Exhaustive discovery requested across Google News, Naver News and Daum News in Korean and English. This batch is progress, not completion.",
+  "published": [
+    {
+      "key": "2013-01-03-walkbot-new-atlas",
+      "file": "src/content/news/2013-01-03-walkbot-new-atlas.md",
+      "url": "https://newatlas.com/walkbot-exoskeleton-gait-rehab-stroke/25627",
+      "date": "2013-01-03",
+      "identityEvidence": "Original English report identifies P&S Mechanics and Walkbot; date January 3, 2013. Product coverage, no SMART Lab or center role asserted.",
+      "status": "published",
+      "goodwellness": false
+    },
+    {
+      "key": "2025-07-03-pns-robotics-name",
+      "file": "src/content/news/2025-07-03-pns-robotics-name.md",
+      "url": "https://www.mt.co.kr/stock/2025/07/03/2025070308253752645",
+      "date": "2025-07-03",
+      "identityEvidence": "Original publisher headline, date and body reviewed; company and Walkbot explicitly named. Distinct from May shareholder proposal.",
+      "status": "published",
+      "goodwellness": false
+    },
+    {
+      "key": "2025-07-31-walkbot-sakra",
+      "file": "src/content/news/2025-07-31-walkbot-sakra.md",
+      "url": "https://www.dailian.co.kr/news/view/1530114",
+      "date": "2025-07-31",
+      "identityEvidence": "Original Dailian report and Daum syndication reviewed. Original July 31 date retained; portal alias is not a second report.",
+      "status": "published",
+      "goodwellness": false
+    },
+    {
+      "key": "2025-12-18-walkbot-nexon",
+      "file": "src/content/news/2025-12-18-walkbot-nexon.md",
+      "url": "https://www.dailymedi.com/dmedi/news/news_view.php?ca_id=2206&wr_id=932128",
+      "date": "2025-12-18",
+      "identityEvidence": "Original article date December 18, 2025; December 17 in body is the announcement date. Company press index confirms source.",
+      "status": "published",
+      "goodwellness": false
+    },
+    {
+      "key": "2026-01-13-walkbot-hongseong",
+      "file": "src/content/news/2026-01-13-walkbot-hongseong.md",
+      "url": "https://www.newsis.com/view/NISX20260113_0003475015",
+      "date": "2026-01-13",
+      "identityEvidence": "Original Newsis article body and registration date reviewed; explicit Walkbot identification. No lab or center participation claimed.",
+      "status": "published",
+      "goodwellness": false
+    },
+    {
+      "key": "2026-06-18-walkbot-market-analysis",
+      "file": "src/content/news/2026-06-18-walkbot-market-analysis.md",
+      "url": "https://www.newsprime.co.kr/news/article/?no=737135",
+      "date": "2026-06-18",
+      "identityEvidence": "Original publisher date June 18, 2026 and body reviewed. Valuation language preserved as attributed headline; summary does not endorse investment or medical claims.",
+      "status": "published",
+      "goodwellness": false
+    },
+    {
+      "key": "2026-07-30-walkbot-teleton-expansion",
+      "file": "src/content/news/2026-07-30-walkbot-teleton-expansion.md",
+      "url": "https://www.mt.co.kr/stock/2026/07/30/2026073011430668543",
+      "date": "2026-07-30",
+      "identityEvidence": "Original publisher date July 30, 2026 and full body reviewed. Separate supply agreement from May first installation; not merged merely because customer matches.",
+      "status": "published",
+      "goodwellness": false
+    }
+  ],
+  "held": [
+    {
+      "url": "https://www.dailymedi.com/news/news_view.php?ca_id=2206&wr_id=915703",
+      "reason": "Historical source displays a membership restriction; seek an accessible original report on the Honam supply agreement without bypassing restrictions."
+    }
+  ],
+  "remaining": [
+    "Finish all-engine discovery and reconcile every new candidate.",
+    "Review all 25 official P&S press-index entries and their original publisher links.",
+    "Resolve earlier unreviewed Google redirects and remaining identity/access cases.",
+    "Search name variants and dated Korean and English coverage; inspect Naver browser results where pagination is incomplete."
+  ],
+  "discoveryEvidence": {
+    "file": "src/data/news-expanded-discovery-review.json",
+    "candidateCount": 448,
+    "engineQueryPairs": 24,
+    "languages": [
+      "Korean",
+      "English"
+    ],
+    "note": "Google RSS, Naver and Daum searched with eight Korean/English queries. RSS exhaustion is limited to the returned feed; Naver repetition is not exhaustion. Daum Korean Walkbot search reached the 15-page limit.",
+    "officialPressIndex": "src/data/walkbot-press-review.json",
+    "officialPressCandidates": 25
+  },
+  "browserReview": [
+    {
+      "engine": "naver",
+      "query": "\"연세굿웰니스센터\"",
+      "exactMatchMode": true,
+      "observedResultReports": 5,
+      "finding": "Five existing reports; scrolling returned no additional rows for this exact-name search. Broader variants and Professor/Walkbot queries remain unfinished.",
+      "snapshot": "artifacts/naver-exact-center-review.txt"
+    }
+  ]
+}
