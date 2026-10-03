@@ -1,6 +1,5 @@
 ---
 import BaseLayout from '../../components/BaseLayout.astro';
-import PlaceholderImage from '../../components/PlaceholderImage.astro';
 import { goodwellness as center } from '../../data/goodwellness';
 ---
 <BaseLayout section="goodwellness">
@@ -13,7 +12,6 @@ import { goodwellness as center } from '../../data/goodwellness';
         <p class="hero-description">Rehabilitation, exercise, and wellness for children, adults, older adults, and people with disabilities.</p>
         <div class="hero-actions"><a class="button button-primary" href="/goodwellness/robogym/">Rehabilitation robotics</a><a class="button button-secondary" href="/goodwellness/about/">About the center</a></div>
       </div>
-      <div class="center-home-photo"><PlaceholderImage label="Center photograph" aspect="photo" src={center.images.gymPhoto} alt={center.images.gymPhotoAlt} /></div>
     </div>
     <div class="container-page"><dl class="center-metrics">{center.metrics.map(metric => <div><dt>{metric.value}</dt><dd>{metric.label}<small>{metric.detail}</small></dd></div>)}</dl></div>
   </section>
