@@ -503,15 +503,4 @@ main :where(p, li, dd, a) { overflow-wrap: anywhere; }
 .research-image-credit { font-size: 12px; line-height: 1.6; color: var(--muted); margin-top: 10px; }
 .figure-card > .research-image-credit { padding: 0 24px 20px; margin: 0; }
 
-/* Research imagery appears before the homepage mission and process. */
-.hero-with-research { padding-top: 32px; }
-.hero-with-research .hero-intro { margin-bottom: 28px; }
-.hero-research { text-align: left; }
-.hero-mission { margin: 40px auto 0; }
-.hero-with-research .hero-description-reading { margin: 0 auto; }
-.hero-with-research .hero-actions { justify-content: center; }
-@media (max-width: 640px) { .hero-with-research { padding-top: 24px; } .hero-mission { margin-top: 32px; } }
-
 .image-edit-note { display: block; color: var(--muted); }
-
-.hero-research .content-image { object-fit: cover; }
