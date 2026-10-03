@@ -89,5 +89,13 @@
       "2022-04-28-goodwellness",
       "2022-04-28-newstown-goodwellness-services"
     ]
+  },
+  {
+    "id": "hongseong-walkbot-installation-2026",
+    "primary": "2026-01-13-walkbot-hongseong",
+    "reports": [
+      "2026-01-13-walkbot-hongseong",
+      "2026-01-14-walkbot-hongseong-bridge"
+    ]
   }
 ]

@@ -65,12 +65,46 @@
       "identityEvidence": "Original publisher date July 30, 2026 and full body reviewed. Separate supply agreement from May first installation; not merged merely because customer matches.",
       "status": "published",
       "goodwellness": false
+    },
+    {
+      "key": "2026-08-06-walkbot-insurance",
+      "file": "src/content/news/2026-08-06-walkbot-insurance.md",
+      "url": "https://www.newsprime.co.kr/news/article/?no=742928",
+      "date": "2026-08-06",
+      "identityEvidence": "Original report August 6, 2026 and body reviewed. Summary attributes the coverage announcement; no individual treatment or insurance advice.",
+      "status": "published",
+      "goodwellness": false
+    },
+    {
+      "key": "2026-01-14-walkbot-hongseong-bridge",
+      "file": "src/content/news/2026-01-14-walkbot-hongseong-bridge.md",
+      "url": "https://www.viva100.com/article/20260114500055",
+      "date": "2026-01-14",
+      "identityEvidence": "Original publisher January 14, 2026 and complete article body reviewed. Same installation, hospital director and operational details as January 13 Newsis report; explicit event group.",
+      "status": "published",
+      "goodwellness": false
     }
   ],
   "held": [
     {
       "url": "https://www.dailymedi.com/news/news_view.php?ca_id=2206&wr_id=915703",
       "reason": "Historical source displays a membership restriction; seek an accessible original report on the Honam supply agreement without bypassing restrictions."
+    },
+    {
+      "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2391611",
+      "reason": "Source reader returned 403; alternative normal browser review remains possible."
+    },
+    {
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3479648",
+      "reason": "Source reader returned 403; alternative normal browser review remains possible."
+    },
+    {
+      "url": "https://v.daum.net/v/20151119150104087",
+      "reason": "Source reader failed; dated Walkbot photograph report requires original review."
+    },
+    {
+      "url": "https://v.daum.net/v/20130829161207933",
+      "reason": "Source reader failed; dated Walkbot photograph report requires original review."
     }
   ],
   "remaining": [

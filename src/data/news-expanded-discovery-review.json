@@ -4,10 +4,10 @@
   "note": "Editorial queue only. Search results do not establish identity or approve public content.",
   "candidateCount": 448,
   "statusCounts": {
-    "unreviewed": 368,
+    "unreviewed": 367,
     "duplicate": 7,
     "excluded": 48,
-    "published": 23,
+    "published": 24,
     "held": 2
   },
   "sourceScreenCounts": {},
@@ -1842,7 +1842,8 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9B%8C%ED%81%AC%EB%B4%87&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "published",
+      "publicFile": "src/content/news/2026-01-14-walkbot-hongseong-bridge.md"
     },
     {
       "url": "https://www.jbnews.com/news/articleView.html?idxno=1496990",

@@ -701,6 +701,24 @@
       "identityEvidence": "Original publisher date July 30, 2026 and full body reviewed. Separate supply agreement from May first installation; not merged merely because customer matches.",
       "status": "published",
       "goodwellness": false
+    },
+    {
+      "key": "2026-08-06-walkbot-insurance",
+      "file": "src/content/news/2026-08-06-walkbot-insurance.md",
+      "url": "https://www.newsprime.co.kr/news/article/?no=742928",
+      "date": "2026-08-06",
+      "identityEvidence": "Original report August 6, 2026 and body reviewed. Summary attributes the coverage announcement; no individual treatment or insurance advice.",
+      "status": "published",
+      "goodwellness": false
+    },
+    {
+      "key": "2026-01-14-walkbot-hongseong-bridge",
+      "file": "src/content/news/2026-01-14-walkbot-hongseong-bridge.md",
+      "url": "https://www.viva100.com/article/20260114500055",
+      "date": "2026-01-14",
+      "identityEvidence": "Original publisher January 14, 2026 and complete article body reviewed. Same installation, hospital director and operational details as January 13 Newsis report; explicit event group.",
+      "status": "published",
+      "goodwellness": false
     }
   ],
   "pending": [
@@ -5418,7 +5436,7 @@
       "identitySource": "https://channelpnu.pusan.ac.kr/news/articleView.html?idxno=34605"
     }
   ],
-  "publishedCount": 78,
+  "publishedCount": 80,
   "searchEvidence": "artifacts/news-discovery.json (ignored); Naver results additionally checked through browser scrolling",
   "reviewNotes": [
     "Hankyoreh original publication date is February 9, 2009; Google RSS showed a later migration date.",
