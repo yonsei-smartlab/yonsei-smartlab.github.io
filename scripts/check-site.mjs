@@ -30,8 +30,8 @@ for (const page of await htmlFiles(root)) {
   const duplicateIds = [...new Set(ids.filter((id, index) => ids.indexOf(id) !== index))];
   if (duplicateIds.length) issues.push(`${pageName}: duplicate HTML IDs ${duplicateIds.join(', ')}`);
   if (/Harvard|Boston Children|Cohen Lab|bchcohenlab|SerpAPI|Jane Doe|John Roe/i.test(html)) issues.push(`${pageName}: borrowed template content remains`);
-  const nav = html.match(/<ul[^>]*id="main-menu"[^>]*>([\s\S]*?)<\/ul>/)?.[1] ?? '';
-  const labels = [...nav.matchAll(/<a\b[^>]*>([^<]+)<\/a>/g)].map(match => match[1].trim().replaceAll('&amp;', '&'));
+  const nav = html.match(/<nav[^>]*aria-label="Main navigation"[^>]*>([\s\S]*?)<\/nav>/)?.[1] ?? '';
+  const labels = [...nav.matchAll(/<a\b[^>]*\bdata-nav-primary\b[^>]*>([^<]+)<\/a>/g)].map(match => match[1].trim().replaceAll('&amp;', '&'));
   const expectedPageNav = pageName.startsWith('goodwellness' + (process.platform === 'win32' ? '\\' : '/')) ? expectedCenterNav : expectedNav;
   if (!redirect && JSON.stringify(labels) !== JSON.stringify(expectedPageNav)) issues.push(`${pageName}: incorrect navigation`);
   const switcher = html.match(/<div[^>]*class="site-switcher"[^>]*>([\s\S]*?)<\/div>/)?.[1] ?? '';
