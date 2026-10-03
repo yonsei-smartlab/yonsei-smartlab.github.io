@@ -4,13 +4,14 @@
   "records": [
     {
       "area": "area-1",
-      "status": "selected",
+      "status": "held out",
       "publicFile": "/images/research/gait-eeg-analysis.webp",
       "source": "로봇재활근거과 데이터적용 9-21-20JY.pptx",
       "slide": 64,
       "embeddedFile": "ppt/media/image89.png",
       "caption": "Gait-related brain activity · EEG analysis",
-      "note": "Extracted from user-supplied presentation, converted to WebP without cropping, retouching or changes to scientific content. Figure illustrates a method, not a clinical outcome claim."
+      "note": "Extracted from user-supplied presentation, converted to WebP without cropping, retouching or changes to scientific content. Figure illustrates a method, not a clinical outcome claim.",
+      "reason": "Slide credits Hwang JS and You SH, 2019, but original figure source and reuse terms have not been established. Presentation inclusion does not establish ownership."
     },
     {
       "area": "area-2",
@@ -20,17 +21,19 @@
       "slide": 6,
       "embeddedFile": "ppt/media/image12.jpeg",
       "caption": "Walkbot gait-training system · P&S Robotics",
-      "note": "Extracted from user-supplied presentation, converted to WebP without cropping, retouching or changes to scientific content. Figure illustrates a method, not a clinical outcome claim."
+      "note": "Extracted from user-supplied presentation, converted to WebP without cropping, retouching or changes to scientific content. Figure illustrates a method, not a clinical outcome claim.",
+      "rightsReview": "Company presentation image; not established as Professor You-owned media. Do not reuse as lab-owned media."
     },
     {
       "area": "area-3",
-      "status": "selected",
+      "status": "held out",
       "publicFile": "/images/research/movement-emg.webp",
       "source": "강의 Note - RAGT, Wearable, DNS, PNF/DNS/Introduction to functional Neuromusculoskeletal Diagnosis & Treatment (fNDT) 8-25-22.pptx",
       "slide": 56,
       "embeddedFile": "ppt/media/image143.png",
       "caption": "Muscle activity during movement · EMG",
-      "note": "Extracted from user-supplied presentation, converted to WebP without cropping, retouching or changes to scientific content. Figure illustrates a method, not a clinical outcome claim."
+      "note": "Extracted from user-supplied presentation, converted to WebP without cropping, retouching or changes to scientific content. Figure illustrates a method, not a clinical outcome claim.",
+      "reason": "No clear figure authorship on slide 56; shoulder/core EMG example is insufficiently specific to the sports movement research represented by the card."
     },
     {
       "area": "area-2",

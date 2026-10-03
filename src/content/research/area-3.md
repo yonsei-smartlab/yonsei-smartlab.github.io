@@ -2,9 +2,6 @@
 title: "Sports movement science"
 summary: "Examining movement quality, postural control, and neuromuscular function through clinical assessment and motion analysis."
 order: 3
-image: "/images/research/movement-emg.webp"
-imageAlt: "Electromyography recordings from the internal oblique, supraspinatus, and pectoralis major muscles"
-imageCaption: "Muscle activity during movement · EMG"
 placeholder: true
 ---
 

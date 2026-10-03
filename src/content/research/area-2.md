@@ -2,12 +2,9 @@
 title: "Robotic rehabilitation"
 summary: "Studying robot-assisted gait training and wearable assistance, including movement responses and rehabilitation needs."
 order: 2
-secondaryImage: "/images/research/miracle-prototype-2024.webp"
-secondaryImageAlt: "Green frame and leg-support assembly of a MIRACLE mobility-robot prototype"
-secondaryImageCaption: "MIRACLE mobility-robot prototype · 2024"
-image: "/images/research/walkbot-system.webp"
-imageAlt: "Side view of the Walkbot robotic gait-training system with treadmill and leg supports"
-imageCaption: "Walkbot gait-training system · P&S Robotics"
+image: "/images/research/miracle-prototype-2024.webp"
+imageAlt: "Green frame and leg-support assembly of a MIRACLE mobility-robot prototype"
+imageCaption: "MIRACLE mobility-robot prototype · 2024"
 placeholder: true
 ---
 
