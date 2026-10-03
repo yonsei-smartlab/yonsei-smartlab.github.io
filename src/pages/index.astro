@@ -18,7 +18,7 @@ const areas = await getResearch();
         <h1>{site.name}</h1>
         <p class="institute-name">{site.fullName}</p>
         <div class="hero-description hero-description-reading">{introParagraphs.map(paragraph => <p>{paragraph}</p>)}</div>
-        <div class="hero-actions homepage-actions"><a class="button research-button" href="/research/">Research</a><a class="button publications-button" href="/publications/">Publications</a><a class="button news-button" href="/news/">News</a></div>
+        <div class="hero-actions homepage-actions"><a class="button" href="/research/">Explore our research</a><a class="button" href="/publications/">Browse publications</a><a class="button" href="/news/">Read the latest news</a></div>
       </div>
       <div class="research-process">
         <ol class="process-steps">{site.researchSteps.map((step, index) => <li><span class="step-number" aria-hidden="true">{String(index + 1).padStart(2, '0')}</span><h2>{step.title}</h2><p>{step.description}</p></li>)}</ol>
@@ -36,22 +36,12 @@ const areas = await getResearch();
 <style>
   .homepage-actions .button {
     min-width: 140px;
+    background: #fff;
+    border-color: var(--brand);
+    color: var(--brand);
     transition: background-color 160ms ease, border-color 160ms ease;
   }
-  .research-button {
-    background: var(--brand);
-    border-color: var(--brand);
-    color: #fff;
-  }
-  .research-button:hover { background: var(--brand-strong); border-color: var(--brand-strong); color: #fff; }
-  .publications-button {
-    background: var(--brand-hover);
-    border-color: var(--brand-hover);
-    color: #fff;
-  }
-  .publications-button:hover { background: #004bd9; border-color: #004bd9; color: #fff; }
-  .news-button { background: #eaf1fb; border-color: #b9cde9; color: var(--brand); }
-  .news-button:hover { background: #dce8f8; border-color: #94b2db; color: var(--brand); }
+  .homepage-actions .button:hover { background: #f3f6fa; border-color: var(--brand); color: var(--brand); }
   .homepage-actions .button:focus-visible {
     outline: 2px solid var(--brand-hover);
     outline-offset: 3px;
