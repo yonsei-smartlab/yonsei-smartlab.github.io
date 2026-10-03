@@ -26,9 +26,10 @@ export const goodwellness = {
   ],
   map: {
     label: 'Yonsei GOODWELLNESS Center · 남원로 52',
-    searchQuery: '강원특별자치도 원주시 흥업면 남원로 52',
-    latitude: 37.29874878996,
-    longitude: 127.921667903625,
+    searchQuery: '연세굿웰니스센터',
+    naverUrl: 'https://naver.me/Fsor2sOm',
+    latitude: 37.2988796,
+    longitude: 127.9205521,
   },
   images: { gymPhoto: '', gymPhotoAlt: '' },
   contact: {

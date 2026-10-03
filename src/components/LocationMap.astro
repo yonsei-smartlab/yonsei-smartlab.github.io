@@ -1,12 +1,12 @@
 ---
 import { site } from '../data/site';
-interface Props { map?: { latitude: number; longitude: number; label: string; searchQuery: string }; }
-const { map = site.map } = Astro.props;
+interface Props { map?: { latitude: number; longitude: number; label: string; searchQuery: string; naverUrl?: string }; }
+const map: NonNullable<Props['map']> = Astro.props.map ?? site.map;
 const { latitude, longitude, label, searchQuery } = map;
 const coordinates = `${latitude},${longitude}`;
 const embedQuery = new URLSearchParams({ q: coordinates, z: '17', output: 'embed', hl: 'en' });
 const googleUrl = `https://www.google.com/maps/dir/?api=1&destination=${coordinates}`;
-const naverUrl = `https://map.naver.com/p/search/${encodeURIComponent(searchQuery)}`;
+const naverUrl = map.naverUrl ?? `https://map.naver.com/p/search/${encodeURIComponent(searchQuery)}`;
 const kakaoUrl = `https://map.kakao.com/link/to/${encodeURIComponent(label)},${coordinates}`;
 ---
 <figure class="location-map">

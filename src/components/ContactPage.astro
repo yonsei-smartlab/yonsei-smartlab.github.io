@@ -5,7 +5,7 @@ import LocationMap from './LocationMap.astro';
 interface Props {
   section?: 'lab' | 'goodwellness';
   name: string;
-  map: { label: string; latitude: number; longitude: number; searchQuery: string };
+  map: { label: string; latitude: number; longitude: number; searchQuery: string; naverUrl?: string };
 }
 const { section = 'lab', name, map } = Astro.props;
 ---
