@@ -2,6 +2,11 @@
 // No credentials, abstracts, metrics, paid scraping service, or live-site requests.
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { isPublicationNotice } from '../src/lib/publication-policy.ts';
+import publicationReview from '../src/data/publication-review.json' with { type: 'json' };
+
+const excludedAfterReview = new Set(publicationReview.excludedRecords.map(record => record.scholarId));
+const heldAfterReview = new Map(publicationReview.heldRecords.map(record => [record.scholarId, record]));
+const readyForDisplay = entry => !excludedAfterReview.has(entry.scholarId) && !heldAfterReview.has(entry.scholarId) && !entry.reviewRequired && !isPublicationNotice(entry.title, entry.scholarId);
 
 const input = process.argv[2];
 if (!input) throw new Error('Usage: node scripts/import-scholar.mjs path/to/scholar-publications.json');
@@ -14,9 +19,9 @@ if (!/^\d{4}-\d{2}-\d{2}$/.test(snapshot.importedOn)) throw new Error('Missing i
 const sourceIds = new Set();
 const preserved = { IWHjjKOFINEC: 'publication-1', LkGwnXOMwfcC: 'publication-2', yD5IFk8b50cC: 'publication-3' };
 // Review flags follow the observed author lists; they do not remove source entries.
-const authorshipReview = new Set(['VL0QpB8kHFEC', 'eMMeJKvmdy0C', 'BUYA1_V_uYcC']);
+const authorshipReview = new Set(['BUYA1_V_uYcC', 'bnK-pcrLprsC']);
 const malformedAuthors = new Set(['xtRiw3GOFMkC', 'HDshCWvjkbEC', '_B80troHkn4C']);
-const incompleteTitle = new Set(['Y5dfb0dijaUC']);
+const incompleteTitle = new Set();
 const quote = value => JSON.stringify(value);
 const entries = snapshot.records.map((record, index) => {
   const source = new URL(record.url);
@@ -44,6 +49,7 @@ const entries = snapshot.records.map((record, index) => {
   if (authorshipReview.has(id)) notes.push('Authorship needs verification: the Scholar author list does not identify Professor You.');
   if (malformedAuthors.has(id)) notes.push('The author metadata on Scholar needs review.');
   if (incompleteTitle.has(id)) notes.push('The title on Scholar appears incomplete.');
+  if (heldAfterReview.has(id)) notes.push(heldAfterReview.get(id).reason);
   if (!journal) notes.push('Venue not listed on Scholar.');
   if (!year) notes.push('Year not listed on Scholar.');
   const areas = [];
@@ -56,7 +62,7 @@ const entries = snapshot.records.map((record, index) => {
   return { id, title, authors, journal, year, order: index + 10, publicationDate: date, forthcoming,
     url: articleUrl || record.url, scholarUrl: record.url, scholarId: id, importedOn: snapshot.importedOn,
     metadataNote: notes.length ? notes.join(' ') : undefined,
-    reviewRequired: authorshipReview.has(id) || incompleteTitle.has(id), authorListIncomplete,
+    reviewRequired: authorshipReview.has(id) || incompleteTitle.has(id) || heldAfterReview.has(id), authorListIncomplete,
     areas, featured: false, placeholder: false };
 });
 for (const id of Object.keys(preserved)) if (!sourceIds.has(id)) throw new Error(`Featured source ${id} missing; review the snapshot before importing.`);
@@ -76,10 +82,11 @@ for (const entry of entries) {
 }
 await writeFile('src/data/publication-import.json', JSON.stringify({
   profile: snapshot.profile, importedOn: snapshot.importedOn, count: entries.length,
-  publishedCount: entries.filter(entry => !entry.reviewRequired && !isPublicationNotice(entry.title, entry.scholarId)).length,
+  publishedCount: entries.filter(readyForDisplay).length,
+  excludedAfterReview: entries.filter(entry => excludedAfterReview.has(entry.scholarId)).map(entry => ({ id: entry.scholarId, title: entry.title, reason: publicationReview.excludedRecords.find(record => record.scholarId === entry.scholarId).status })),
   excludedNotices: entries.filter(entry => isPublicationNotice(entry.title, entry.scholarId)).map(entry => ({ id: entry.scholarId, title: entry.title })),
-  heldForReview: entries.filter(entry => entry.reviewRequired).map(entry => ({ id: entry.scholarId, title: entry.title, note: entry.metadataNote })),
+  heldForReview: entries.filter(entry => !excludedAfterReview.has(entry.scholarId) && (entry.reviewRequired || heldAfterReview.has(entry.scholarId))).map(entry => ({ id: entry.scholarId, title: entry.title, note: heldAfterReview.get(entry.scholarId)?.reason ?? entry.metadataNote })),
   profileFullyLoaded: true, expandedRecords: snapshot.records.filter(record => record.detail).length,
   authorshipReviewCount: authorshipReview.size, areaTagging: 'Conservative title keywords; untagged records remain unclassified.'
 }, null, 2) + '\n');
-console.log(`Imported ${entries.length} Scholar records; ${entries.filter(entry => !entry.reviewRequired && !isPublicationNotice(entry.title, entry.scholarId)).length} ready for display; ${entries.filter(entry => entry.reviewRequired).length} held for review.`);
+console.log(`Imported ${entries.length} Scholar records; ${entries.filter(readyForDisplay).length} ready for display; ${entries.filter(entry => !excludedAfterReview.has(entry.scholarId) && (entry.reviewRequired || heldAfterReview.has(entry.scholarId))).length} held for review.`);

@@ -2,32 +2,27 @@
   "profile": "https://scholar.google.com/citations?user=C-fe4ZMAAAAJ&hl=en",
   "importedOn": "2026-10-03",
   "count": 217,
-  "publishedCount": 206,
+  "publishedCount": 181,
   "heldForReview": [
-    {
-      "id": "VL0QpB8kHFEC",
-      "title": "Development and validation of a postprocedural model to predict outcome after endovascular treatment for ischemic stroke",
-      "note": "Authorship needs verification: the Scholar author list does not identify Professor You."
-    },
-    {
-      "id": "Y5dfb0dijaUC",
-      "title": "Clinical Rehabilitatio n",
-      "note": "The title on Scholar appears incomplete. Venue not listed on Scholar."
-    },
-    {
-      "id": "eMMeJKvmdy0C",
-      "title": "The prognostic link between metabolic syndrome and the different breast cancer molecular subtypes: a case control study.",
-      "note": "Authorship needs verification: the Scholar author list does not identify Professor You. Venue not listed on Scholar."
-    },
     {
       "id": "BUYA1_V_uYcC",
       "title": "Molecular and genetic findings in Cypriot patients with hereditary spastic paraparesis followed at the Cyprus institute of neurology and genetics: P2787",
-      "note": "Authorship needs verification: the Scholar author list does not identify Professor You."
+      "note": "Source author list contains seven Cyprus researchers and no identifiable Professor You. Original individual poster not located; retain outside public bibliography pending evidence."
+    },
+    {
+      "id": "t6usbXjVLHcC",
+      "title": "EFEFCTS OF KYPHOTIC POSTURE ON NEUROMECHANICAL LOCOMOTOR CONTROL PATTERNS IN OLDER ADULTS WITH KYPHOTIC POSTURE",
+      "note": "No publication year or venue in the source. No matching primary bibliographic record located. Keep archived pending publication details."
+    },
+    {
+      "id": "bnK-pcrLprsC",
+      "title": "453: Fitz-Hugh-Curtis Syndrome Diagnosed by Biphasic Computed Tomography In the Emergency Department",
+      "note": "Emergency-medicine poster lists J. You, but primary metadata does not establish the identity of Professor Joshua Sung Hyun You. Withhold pending authorship evidence."
     }
   ],
   "profileFullyLoaded": true,
   "expandedRecords": 58,
-  "authorshipReviewCount": 3,
+  "authorshipReviewCount": 2,
   "areaTagging": "Conservative title keywords; untagged records remain unclassified.",
   "excludedNotices": [
     {
@@ -60,6 +55,138 @@
       "id": "MLfJN-KU85MC",
       "title": "NOVEL THERAPEUTIC EFFECTS OF MIRACLE SMART SHOES ON DYNAMIC GAIT PERFORMANCE AND ANKLE JOINT KINEMATICS DURING GAIT IN CEREBRAL PALSY: A PRELIMINARY INVESTIGATION (vol 25, 2540090, 2025)",
       "note": "Correction notice indexed under the original article title."
+    }
+  ],
+  "excludedAfterReview": [
+    {
+      "id": "qxL8FJ1GzNcC",
+      "title": "Diagnosis and Clinical Features of Children with Language Delay.",
+      "reason": "wrong-author"
+    },
+    {
+      "id": "M3ejUd6NZC8C",
+      "title": "Electrophysiological Changes after Botulinum Toxin Type A in Children with Cerebral Palsy.",
+      "reason": "wrong-author"
+    },
+    {
+      "id": "P5F9QuxV20EC",
+      "title": "Biomechanic Analysis of Lower Extremities in Children and Teenagers with Pes Planus.",
+      "reason": "wrong-author"
+    },
+    {
+      "id": "CHSYGLWDkRkC",
+      "title": "Severity of Disability and Quality of Life in Handicapped Persons in Welfare Facility and Home in Goyang City.",
+      "reason": "wrong-author"
+    },
+    {
+      "id": "YFjsv_pBGBYC",
+      "title": "Concentric and Eccentric Isokinetic Trunk Muscle Evaluation in Chronic Low Back Pain.",
+      "reason": "wrong-author"
+    },
+    {
+      "id": "BqipwSGYUEgC",
+      "title": "The Analysis of Relationship among the Anthropometric Index, the Foot Types and Dynamic Plantar Pressure in Normal Teenagers.",
+      "reason": "wrong-author"
+    },
+    {
+      "id": "tOudhMTPpwUC",
+      "title": "Quantitative Sensory Test in Normal Adult.",
+      "reason": "wrong-author"
+    },
+    {
+      "id": "D03iK_w7-QYC",
+      "title": "Visual-perceptual Function in Children with Spastic Cerebral Palsy.",
+      "reason": "wrong-author"
+    },
+    {
+      "id": "EUQCXRtRnyEC",
+      "title": "Comparison between Isokinetic Method and Electromyographic Method in Muscle Power Measurement of Lumbar Muscles.",
+      "reason": "wrong-author"
+    },
+    {
+      "id": "O3NaXMp0MMsC",
+      "title": "Emotional and Psychosocial Development in Siblings of Children with Cerebral Palsy.",
+      "reason": "wrong-author"
+    },
+    {
+      "id": "4TOpqqG69KYC",
+      "title": "Clinical Features and Effects of Occupational Therapy in Children with Developmental Coordination Disorder.",
+      "reason": "wrong-author"
+    },
+    {
+      "id": "f2IySw72cVMC",
+      "title": "Quality of Life and Demands for the Welfare of the Parents with Children in Special School in Goyang City.",
+      "reason": "wrong-author"
+    },
+    {
+      "id": "zA6iFVUQeVQC",
+      "title": "The clinical features and outcome of therapy according to the subtypes of torticollis",
+      "reason": "wrong-author"
+    },
+    {
+      "id": "-f6ydRqryjwC",
+      "title": "The Effects of Single Event Multi-level Chemoneurolysis on Upper Extremity Function in Children with Cerebral Palsy.",
+      "reason": "wrong-author"
+    },
+    {
+      "id": "cFHS6HbyZ2cC",
+      "title": "The effects of Korean computer-based cognitive rehabilitation program (CoTras) for the cognition and visual perception and ADL in brain injury",
+      "reason": "wrong-author"
+    },
+    {
+      "id": "7PzlFSSx8tAC",
+      "title": "Association Study of Climatic and Hemorrhagic Stroke Occurrence",
+      "reason": "wrong-author"
+    },
+    {
+      "id": "eMMeJKvmdy0C",
+      "title": "The prognostic link between metabolic syndrome and the different breast cancer molecular subtypes: a case control study.",
+      "reason": "wrong-author"
+    },
+    {
+      "id": "VL0QpB8kHFEC",
+      "title": "Development and validation of a postprocedural model to predict outcome after endovascular treatment for ischemic stroke",
+      "reason": "unverified-authorship"
+    },
+    {
+      "id": "UeHWp8X0CEIC",
+      "title": "PROSTHETICS, ORTHOTICS, DEVICES",
+      "reason": "duplicate"
+    },
+    {
+      "id": "Y5dfb0dijaUC",
+      "title": "Clinical Rehabilitatio n",
+      "reason": "duplicate"
+    },
+    {
+      "id": "uLbwQdceFCQC",
+      "title": "Lesch-Nyhan 증후군 아동의 운동장애에 대한 감별진단 특성",
+      "reason": "duplicate"
+    },
+    {
+      "id": "URolC5Kub84C",
+      "title": "Plasma C‐type lectin‐like receptor 2 as a predictor of death and vascular events in patients with acute ischemic stroke",
+      "reason": "wrong-author"
+    },
+    {
+      "id": "AvfA0Oy_GE0C",
+      "title": "Increase in neutrophils after recombinant tissue plasminogen activator thrombolysis predicts poor functional outcome of ischaemic stroke: a longitudinal study",
+      "reason": "wrong-author"
+    },
+    {
+      "id": "J-pR_7NvFogC",
+      "title": "P2-08-12: Additional Lesion Found in Preoperative Breast MRI; Is Routine Use Justified?",
+      "reason": "wrong-author"
+    },
+    {
+      "id": "NaGl4SEjCO4C",
+      "title": "Usefulness of tibia counter rotator (TCR) for treatment of tibial internal torsion in children",
+      "reason": "wrong-author"
+    },
+    {
+      "id": "2KloaMYe4IUC",
+      "title": "The first Korean surgical study on the feasibility of urologic and general surgery procedures with the Novel Hugo™ robotic-assisted surgery system",
+      "reason": "wrong-author"
     }
   ]
 }

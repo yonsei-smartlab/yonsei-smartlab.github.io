@@ -367,6 +367,27 @@
       "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-130819"
     },
     {
+      "scholarId": "5ugPr518TE4C",
+      "sourceTitle": "Effects of functional movement strength training on strength, muscle size, kinematics, and motor function in cerebral palsy: A 3-month follow-up",
+      "doi": "10.3233/nre-130846",
+      "registeredTitle": "Effects of functional movement strength training on strength, muscle size, kinematics, and motor function in cerebral palsy: A 3-month follow-up",
+      "registeredYears": [
+        2013
+      ],
+      "registeredAuthors": [
+        "Lee",
+        "You",
+        "Kim",
+        "Lee",
+        "Hwang",
+        "Lee",
+        "Park",
+        "Lee",
+        "Kim"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-130846"
+    },
+    {
       "scholarId": "70eg2SAEIzsC",
       "sourceTitle": "Diaphragm breathing movement measurement using ultrasound and radiographic imaging: a concurrent validity",
       "doi": "10.3233/bme-130889",
@@ -1256,6 +1277,24 @@
       "metadataUrl": "https://api.crossref.org/works/10.12674%2Fptk.2019.26.4.001"
     },
     {
+      "scholarId": "SeFeTyx0c_EC",
+      "sourceTitle": "Restoration of the corticospinal tract compressed by hematoma: a tractography study using diffusion tensor imaging",
+      "doi": "10.1001/archneur.63.1.140",
+      "registeredTitle": "Restoration of the Corticospinal Tract Compressed by Hematoma",
+      "registeredYears": [
+        2006
+      ],
+      "registeredAuthors": [
+        "Jang",
+        "Kim",
+        "Kwon",
+        "You",
+        "Han",
+        "Byun"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1001%2Farchneur.63.1.140"
+    },
+    {
       "scholarId": "TFP_iSt0sucC",
       "sourceTitle": "Dynamic Postural Instability in Children with Cerebral Palsy: A Primary Investigation of the Validity and Reliability of PostureRite Measure",
       "doi": "10.1016/j.apmr.2022.01.091",
@@ -1452,6 +1491,26 @@
         "Choi"
       ],
       "metadataUrl": "https://api.crossref.org/works/10.1115%2F1.4065593"
+    },
+    {
+      "scholarId": "VOx2b1Wkg3QC",
+      "sourceTitle": "Poster 51: Effects of the proprioceptive feedback intervention with SENSERite and circumferential ankle pressure on proprioception and balance performance in community-dwelling older adults with diminished ankle perception1",
+      "doi": "10.1016/S0003-9993(03)00584-7",
+      "registeredTitle": "Poster 51",
+      "registeredYears": [
+        2003
+      ],
+      "registeredAuthors": [
+        "You",
+        "Bunker",
+        "Gansneder",
+        "Gieck",
+        "Saliba",
+        "Saliba"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2FS0003-9993%2803%2900584-7",
+      "verificationNote": "Crossref registers the poster number; publisher article identifier, journal volume 84(9), pages and author match the full imported poster title.",
+      "publisherUrl": "https://www.sciencedirect.com/science/article/abs/pii/S0003999303005847"
     },
     {
       "scholarId": "W7OEmFMy1HYC",
@@ -2457,6 +2516,22 @@
       "metadataUrl": "https://api.crossref.org/works/10.1179%2F016911107x217518"
     },
     {
+      "scholarId": "kRWSkSYxWN8C",
+      "sourceTitle": "Risk factors associated with low back pain in mothers of children with cerebral palsy",
+      "doi": "10.1179/016911107x268684",
+      "registeredTitle": "Risk factors associated with low back pain in mothers of children with cerebral palsy",
+      "registeredYears": [
+        2007
+      ],
+      "registeredAuthors": [
+        "Jung",
+        "Lee",
+        "Yoo",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1179%2F016911107x268684"
+    },
+    {
       "scholarId": "k_IJM867U9cC",
       "sourceTitle": "Effectiveness of a wearable ankle-tubing gait training on ankle kinematics and motor control in hemiparetic stroke",
       "doi": "10.3233/nre-210277",
@@ -2632,6 +2707,26 @@
       "metadataUrl": "https://api.crossref.org/works/10.1177%2F0363546514555698"
     },
     {
+      "scholarId": "ns9cj8rnVeAC",
+      "sourceTitle": "Comparative effects of different assistance force during robot-assisted gait training on locomotor functions in patients with subacute stroke: An assessor-blind, randomized controlled trial",
+      "doi": "10.1097/phm.0000000000001027",
+      "registeredTitle": "Comparative Effects of Different Assistance Force During Robot-Assisted Gait Training on Locomotor Functions in Patients With Subacute Stroke",
+      "registeredYears": [
+        2019
+      ],
+      "registeredAuthors": [
+        "Park",
+        "Park",
+        "Seong",
+        "You",
+        "Kim",
+        "Min",
+        "Ko",
+        "Shin"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1097%2Fphm.0000000000001027"
+    },
+    {
       "scholarId": "olpn-zPbct0C",
       "sourceTitle": "Effects of DNS on diaphragm movement, postural control, balance and gait performance in cerebral palsy",
       "doi": "10.1016/j.apmr.2017.08.192",
@@ -2722,6 +2817,21 @@
         "You"
       ],
       "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.apmr.2018.07.034"
+    },
+    {
+      "scholarId": "qUcmZB5y_30C",
+      "sourceTitle": "Poster 157: The validity and reliability of the SENSERite system: a preliminary evaluation. 1",
+      "doi": "10.1016/S0003-9993(03)00703-2",
+      "registeredTitle": "Poster 157",
+      "registeredYears": [
+        2003
+      ],
+      "registeredAuthors": [
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2FS0003-9993%2803%2900703-2",
+      "verificationNote": "Crossref registers the poster number; publisher article identifier, journal volume 84(9), pages and author match the full imported poster title.",
+      "publisherUrl": "https://www.sciencedirect.com/science/article/abs/pii/S0003999303007032"
     },
     {
       "scholarId": "qjMakFHDy7sC",

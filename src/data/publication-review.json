@@ -1,0 +1,366 @@
+{
+  "reviewedOn": "2026-10-03",
+  "scope": "38 public titles without DOI links and four previously held Scholar imports. Source entries are retained unchanged. Follow-up identity checks also cover six linked records found during page inspection.",
+  "excludedRecords": [
+    {
+      "scholarId": "qxL8FJ1GzNcC",
+      "sourceTitle": "Diagnosis and Clinical Features of Children with Language Delay.",
+      "status": "wrong-author",
+      "reason": "Original paper identifies Sung You, MD (유성), a rehabilitation physician, rather than Professor Joshua Sung Hyun You (유승현), PT, PhD.",
+      "sources": [
+        "https://www.e-arm.org/upload/pdf/Jkarm029-06-06.pdf"
+      ]
+    },
+    {
+      "scholarId": "M3ejUd6NZC8C",
+      "sourceTitle": "Electrophysiological Changes after Botulinum Toxin Type A in Children with Cerebral Palsy.",
+      "status": "wrong-author",
+      "reason": "Original paper identifies Sung You, MD (유성), a rehabilitation physician, rather than Professor Joshua Sung Hyun You (유승현), PT, PhD.",
+      "sources": [
+        "https://www.e-arm.org/upload/pdf/Jkarm034-02-11.pdf"
+      ]
+    },
+    {
+      "scholarId": "P5F9QuxV20EC",
+      "sourceTitle": "Biomechanic Analysis of Lower Extremities in Children and Teenagers with Pes Planus.",
+      "status": "wrong-author",
+      "reason": "Original paper identifies Sung You, MD (유성), a rehabilitation physician, rather than Professor Joshua Sung Hyun You (유승현), PT, PhD.",
+      "sources": [
+        "https://www.e-arm.org/upload/pdf/Jkarm032-02-05.pdf"
+      ]
+    },
+    {
+      "scholarId": "CHSYGLWDkRkC",
+      "sourceTitle": "Severity of Disability and Quality of Life in Handicapped Persons in Welfare Facility and Home in Goyang City.",
+      "status": "wrong-author",
+      "reason": "Original paper identifies Sung You, MD (유성), a rehabilitation physician, rather than Professor Joshua Sung Hyun You (유승현), PT, PhD.",
+      "sources": [
+        "https://www.e-arm.org/upload/pdf/Jkarm032-04-11.pdf"
+      ]
+    },
+    {
+      "scholarId": "YFjsv_pBGBYC",
+      "sourceTitle": "Concentric and Eccentric Isokinetic Trunk Muscle Evaluation in Chronic Low Back Pain.",
+      "status": "wrong-author",
+      "reason": "Original paper identifies Sung You, MD (유성), a rehabilitation physician, rather than Professor Joshua Sung Hyun You (유승현), PT, PhD.",
+      "sources": [
+        "https://www.e-arm.org/upload/pdf/Jae25-06-16.pdf"
+      ]
+    },
+    {
+      "scholarId": "BqipwSGYUEgC",
+      "sourceTitle": "The Analysis of Relationship among the Anthropometric Index, the Foot Types and Dynamic Plantar Pressure in Normal Teenagers.",
+      "status": "wrong-author",
+      "reason": "Original paper identifies Sung You, MD (유성), a rehabilitation physician, rather than Professor Joshua Sung Hyun You (유승현), PT, PhD.",
+      "sources": [
+        "https://www.e-arm.org/upload/pdf/Jkarm033-05-12.pdf"
+      ]
+    },
+    {
+      "scholarId": "tOudhMTPpwUC",
+      "sourceTitle": "Quantitative Sensory Test in Normal Adult.",
+      "status": "wrong-author",
+      "reason": "Original paper identifies Sung You, MD (유성), a rehabilitation physician, rather than Professor Joshua Sung Hyun You (유승현), PT, PhD.",
+      "sources": [
+        "https://www.e-arm.org/upload/pdf/Jae24-03-22.pdf"
+      ]
+    },
+    {
+      "scholarId": "D03iK_w7-QYC",
+      "sourceTitle": "Visual-perceptual Function in Children with Spastic Cerebral Palsy.",
+      "status": "wrong-author",
+      "reason": "Original paper identifies Sung You, MD (유성), a rehabilitation physician, rather than Professor Joshua Sung Hyun You (유승현), PT, PhD.",
+      "sources": [
+        "https://www.e-arm.org/upload/pdf/Jkarm035-01-09.pdf"
+      ]
+    },
+    {
+      "scholarId": "EUQCXRtRnyEC",
+      "sourceTitle": "Comparison between Isokinetic Method and Electromyographic Method in Muscle Power Measurement of Lumbar Muscles.",
+      "status": "wrong-author",
+      "reason": "Original paper identifies Sung You, MD (유성), a rehabilitation physician, rather than Professor Joshua Sung Hyun You (유승현), PT, PhD.",
+      "sources": [
+        "https://www.e-arm.org/upload/pdf/Jkarm026-06-19.pdf"
+      ]
+    },
+    {
+      "scholarId": "O3NaXMp0MMsC",
+      "sourceTitle": "Emotional and Psychosocial Development in Siblings of Children with Cerebral Palsy.",
+      "status": "wrong-author",
+      "reason": "Original paper identifies Sung You, MD (유성), a rehabilitation physician, rather than Professor Joshua Sung Hyun You (유승현), PT, PhD.",
+      "sources": [
+        "https://www.e-arm.org/upload/pdf/Jkarm032-02-04.pdf"
+      ]
+    },
+    {
+      "scholarId": "4TOpqqG69KYC",
+      "sourceTitle": "Clinical Features and Effects of Occupational Therapy in Children with Developmental Coordination Disorder.",
+      "status": "wrong-author",
+      "reason": "Original paper identifies Sung You, MD (유성), a rehabilitation physician, rather than Professor Joshua Sung Hyun You (유승현), PT, PhD.",
+      "sources": [
+        "https://www.e-arm.org/upload/pdf/Jkarm034-01-14.pdf"
+      ]
+    },
+    {
+      "scholarId": "f2IySw72cVMC",
+      "sourceTitle": "Quality of Life and Demands for the Welfare of the Parents with Children in Special School in Goyang City.",
+      "status": "wrong-author",
+      "reason": "Original paper identifies Sung You, MD (유성), a rehabilitation physician, rather than Professor Joshua Sung Hyun You (유승현), PT, PhD.",
+      "sources": [
+        "https://www.e-arm.org/upload/pdf/Jkarm032-04-12.pdf"
+      ]
+    },
+    {
+      "scholarId": "zA6iFVUQeVQC",
+      "sourceTitle": "The clinical features and outcome of therapy according to the subtypes of torticollis",
+      "status": "wrong-author",
+      "reason": "Original paper identifies Sung You, MD (유성), a rehabilitation physician, rather than Professor Joshua Sung Hyun You (유승현), PT, PhD.",
+      "sources": [
+        "https://www.annchildneurol.org/upload/pdf/JKCNS-14-2-243.pdf"
+      ]
+    },
+    {
+      "scholarId": "-f6ydRqryjwC",
+      "sourceTitle": "The Effects of Single Event Multi-level Chemoneurolysis on Upper Extremity Function in Children with Cerebral Palsy.",
+      "status": "wrong-author",
+      "reason": "Publisher lists Sung You, MD, of Ilsan Hospital, rather than Professor Joshua Sung Hyun You.",
+      "sources": [
+        "https://www.e-arm.org/journal/view.php?number=1557",
+        "https://ir.ymlib.yonsei.ac.kr/bitstream/22282913/109881/1/T200600929.pdf"
+      ]
+    },
+    {
+      "scholarId": "cFHS6HbyZ2cC",
+      "sourceTitle": "The effects of Korean computer-based cognitive rehabilitation program (CoTras) for the cognition and visual perception and ADL in brain injury",
+      "status": "wrong-author",
+      "reason": "KCI identifies coauthor 유수전, not Professor 유승현.",
+      "sources": [
+        "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002296277"
+      ]
+    },
+    {
+      "scholarId": "7PzlFSSx8tAC",
+      "sourceTitle": "Association Study of Climatic and Hemorrhagic Stroke Occurrence",
+      "status": "wrong-author",
+      "reason": "Publisher identifies S.J. You at the Second Affiliated Hospital of Suzhou University, China, rather than Professor Joshua Sung Hyun You.",
+      "sources": [
+        "https://doi.org/10.1111/jgs.15550"
+      ]
+    },
+    {
+      "scholarId": "eMMeJKvmdy0C",
+      "sourceTitle": "The prognostic link between metabolic syndrome and the different breast cancer molecular subtypes: a case control study.",
+      "status": "wrong-author",
+      "reason": "Preprint identifies Jie You of Wenzhou Medical University, not Professor Joshua Sung Hyun You.",
+      "sources": [
+        "https://assets-eu.researchsquare.com/files/rs-42718/v1_covered.pdf?c=1631838128",
+        "https://doi.org/10.21203/rs.3.rs-42718/v1"
+      ]
+    },
+    {
+      "scholarId": "VL0QpB8kHFEC",
+      "sourceTitle": "Development and validation of a postprocedural model to predict outcome after endovascular treatment for ischemic stroke",
+      "status": "unverified-authorship",
+      "reason": "Publisher-deposited author list and accepted manuscript do not establish authorship by Professor Joshua Sung Hyun You. This is excluded from his bibliography; a similar surname or initials are insufficient.",
+      "sources": [
+        "https://jamanetwork.com/journals/jamaneurology/article-abstract/2807606",
+        "https://pure.eur.nl/files/152114661/298832.pdf",
+        "https://api.crossref.org/works/10.1001%2Fjamaneurol.2023.2392"
+      ]
+    },
+    {
+      "scholarId": "UeHWp8X0CEIC",
+      "sourceTitle": "PROSTHETICS, ORTHOTICS, DEVICES",
+      "status": "duplicate",
+      "reason": "Imported journal section heading with concatenated author lists. The identifiable motor-point paper is already included.",
+      "sources": [
+        "https://www.sciencedirect.com/science/article/abs/pii/S0003999308015864"
+      ],
+      "canonicalScholarId": "JV2RwH3_ST0C"
+    },
+    {
+      "scholarId": "Y5dfb0dijaUC",
+      "sourceTitle": "Clinical Rehabilitatio n",
+      "status": "duplicate",
+      "reason": "Malformed journal-name title refers to the core-stabilization randomized trial already included. Online-first 2013 and issue year 2014 refer to the same paper.",
+      "sources": [
+        "https://journals.sagepub.com/doi/10.1177/0269215513506231"
+      ],
+      "canonicalScholarId": "_FxGoFyzp5QC"
+    },
+    {
+      "scholarId": "uLbwQdceFCQC",
+      "sourceTitle": "Lesch-Nyhan 증후군 아동의 운동장애에 대한 감별진단 특성",
+      "status": "duplicate",
+      "reason": "Korean and English titles describe the same 2002 paper, same journal, volume, issue and pages 13–35.",
+      "sources": [
+        "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART000864100"
+      ],
+      "canonicalScholarId": "J_g5lzvAfSwC"
+    },
+    {
+      "scholarId": "URolC5Kub84C",
+      "sourceTitle": "Plasma C‐type lectin‐like receptor 2 as a predictor of death and vascular events in patients with acute ischemic stroke",
+      "status": "wrong-author",
+      "reason": "Publisher-deposited metadata identifies S. You at the Department of Neurology, Second Affiliated Hospital of Soochow University, China.",
+      "sources": [
+        "https://onlinelibrary.wiley.com/doi/abs/10.1111/ene.13984",
+        "https://api.crossref.org/works/10.1111%2Fene.13984"
+      ]
+    },
+    {
+      "scholarId": "AvfA0Oy_GE0C",
+      "sourceTitle": "Increase in neutrophils after recombinant tissue plasminogen activator thrombolysis predicts poor functional outcome of ischaemic stroke: a longitudinal study",
+      "status": "wrong-author",
+      "reason": "Publisher-deposited metadata and PubMed identify S. You at the Second Affiliated Hospital of Soochow University, China.",
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/29341345/",
+        "https://doi.org/10.1111/ene.13575",
+        "https://api.crossref.org/works/10.1111%2Fene.13575"
+      ]
+    },
+    {
+      "scholarId": "J-pR_7NvFogC",
+      "sourceTitle": "P2-08-12: Additional Lesion Found in Preoperative Breast MRI; Is Routine Use Justified?",
+      "status": "wrong-author",
+      "reason": "Publisher-deposited metadata identifies J. You at Seoul National University Hospital. The conference abstract book identifies Jeeman You in this author group, not Professor Joshua You.",
+      "sources": [
+        "https://gbcc.kr/upload/Abstract%20Book%202011.pdf",
+        "https://doi.org/10.1158/0008-5472.sabcs11-p2-08-12",
+        "https://api.crossref.org/works/10.1158%2F0008-5472.sabcs11-p2-08-12"
+      ]
+    },
+    {
+      "scholarId": "NaGl4SEjCO4C",
+      "sourceTitle": "Usefulness of tibia counter rotator (TCR) for treatment of tibial internal torsion in children",
+      "status": "wrong-author",
+      "reason": "Publisher-deposited metadata identifies Sung You at the Department of Rehabilitation Medicine, Ilsan Hospital, rather than Professor Joshua Sung Hyun You.",
+      "sources": [
+        "https://doi.org/10.3345/kjp.2007.50.1.79",
+        "https://api.crossref.org/works/10.3345%2Fkjp.2007.50.1.79"
+      ]
+    },
+    {
+      "scholarId": "2KloaMYe4IUC",
+      "sourceTitle": "The first Korean surgical study on the feasibility of urologic and general surgery procedures with the Novel Hugo™ robotic-assisted surgery system",
+      "status": "wrong-author",
+      "reason": "Publisher lists S.-J. You at Medtronic Clinical Research & Medical Science, not Professor Joshua Sung Hyun You.",
+      "sources": [
+        "https://www.hpbonline.org/article/S1365-182X(24)01048-7/fulltext",
+        "https://api.crossref.org/works/10.1016%2Fj.hpb.2024.03.991"
+      ]
+    }
+  ],
+  "heldRecords": [
+    {
+      "scholarId": "BUYA1_V_uYcC",
+      "sourceTitle": "Molecular and genetic findings in Cypriot patients with hereditary spastic paraparesis followed at the Cyprus institute of neurology and genetics: P2787",
+      "reason": "Source author list contains seven Cyprus researchers and no identifiable Professor You. Original individual poster not located; retain outside public bibliography pending evidence.",
+      "sources": []
+    },
+    {
+      "scholarId": "t6usbXjVLHcC",
+      "sourceTitle": "EFEFCTS OF KYPHOTIC POSTURE ON NEUROMECHANICAL LOCOMOTOR CONTROL PATTERNS IN OLDER ADULTS WITH KYPHOTIC POSTURE",
+      "reason": "No publication year or venue in the source. No matching primary bibliographic record located. Keep archived pending publication details.",
+      "sources": []
+    },
+    {
+      "scholarId": "bnK-pcrLprsC",
+      "sourceTitle": "453: Fitz-Hugh-Curtis Syndrome Diagnosed by Biphasic Computed Tomography In the Emergency Department",
+      "reason": "Emergency-medicine poster lists J. You, but primary metadata does not establish the identity of Professor Joshua Sung Hyun You. Withhold pending authorship evidence.",
+      "sources": [
+        "https://api.crossref.org/works/10.1016%2Fj.annemergmed.2010.06.496",
+        "https://doi.org/10.1016/j.annemergmed.2010.06.496"
+      ]
+    }
+  ],
+  "metadataCorrections": [
+    {
+      "scholarId": "J_g5lzvAfSwC",
+      "sourceTitle": "Differential Diagnostic Characteristics of Moverment Disorders in Children With Lesch-Nyhan Syndrome (LNS): A Case Report",
+      "title": "Differential Diagnostic Characteristics of Movement Disorders in Children With Lesch-Nyhan Syndrome (LNS): A Case Report",
+      "sources": [
+        "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART000864100"
+      ],
+      "authors": [
+        "유승현",
+        "Bunker"
+      ]
+    }
+  ],
+  "newVerifiedDoiScholarIds": [
+    "ns9cj8rnVeAC",
+    "5ugPr518TE4C",
+    "kRWSkSYxWN8C",
+    "SeFeTyx0c_EC",
+    "VOx2b1Wkg3QC",
+    "qUcmZB5y_30C"
+  ],
+  "unlinkedRecords": [
+    {
+      "scholarId": "ML0RJ9NH7IQC",
+      "sourceTitle": "NEUROMECHANICAL CHAIN EFFECTS OF NAVICULAR DROP ON KNEE JOINT STIFFNESS, COACTIVATION RATIO, AND NEUROMUSCULAR RESPONSE TIME: OPO102",
+      "outcome": "No matching individual DOI verified. Keep title unlinked. Similar papers, full conference collections and correction notices were not substituted."
+    },
+    {
+      "scholarId": "RHpTSmoSYBkC",
+      "sourceTitle": "Effect of multisensory intervention on locomotor function in older adults with a history of frequent falls",
+      "outcome": "No matching individual DOI verified. Keep title unlinked. Similar papers, full conference collections and correction notices were not substituted."
+    },
+    {
+      "scholarId": "0EnyYjriUFMC",
+      "sourceTitle": "강직성척추염과 관계된 측두하악관절장애에 대한 특수 운동치료의 효과",
+      "outcome": "No matching individual DOI verified. Keep title unlinked. Similar papers, full conference collections and correction notices were not substituted."
+    },
+    {
+      "scholarId": "08ZZubdj9fEC",
+      "sourceTitle": "Strength training-induced changes in muscle size and motor improvement in bilateral schizencephaly: an experimenter-blind case report with 3-month follow-up",
+      "outcome": "No matching individual DOI verified. Keep title unlinked. Similar papers, full conference collections and correction notices were not substituted."
+    },
+    {
+      "scholarId": "4MWp96NkSFoC",
+      "sourceTitle": "DIFFERENTIAL EFFECTS OF ABDOMINAL DRAWING-IN MANEUVER, ABDOMINAL BRACING, AND DYNAMIC NEUROMUSCULAR STABILIZATION ON CORE STABILITY AND DIAPHRAGM-ABDOMINAL CORE MUSCLE ACTIVATION: OPL30",
+      "outcome": "No matching individual DOI verified. Keep title unlinked. Similar papers, full conference collections and correction notices were not substituted."
+    },
+    {
+      "scholarId": "J_g5lzvAfSwC",
+      "sourceTitle": "Differential Diagnostic Characteristics of Moverment Disorders in Children With Lesch-Nyhan Syndrome (LNS): A Case Report",
+      "outcome": "No matching individual DOI verified. Keep title unlinked. Similar papers, full conference collections and correction notices were not substituted."
+    },
+    {
+      "scholarId": "mVmsd5A6BfQC",
+      "sourceTitle": "Effects of proprioceptive feedback training (PFT) and circumferential ankle pressure (CAP) on proprioceptive acuity and balance performance in community-dwelling elderly",
+      "outcome": "No matching individual DOI verified. Keep title unlinked. Similar papers, full conference collections and correction notices were not substituted."
+    },
+    {
+      "scholarId": "vRqMK49ujn8C",
+      "sourceTitle": "PR_061: Reciprocal Modulation of the Sensory and Motor Networks by Repetitive Transcranial Magnetic Stimulation",
+      "outcome": "No matching individual DOI verified. Keep title unlinked. Similar papers, full conference collections and correction notices were not substituted."
+    },
+    {
+      "scholarId": "BwyfMAYsbu0C",
+      "sourceTitle": "Exoskeletal and End-Effector Robot-Assisted Gait Training and Physical Therapy: Identifying Optimal Candidates and Effective Interventions for Improving Balance, Gait, and Cognition in Individuals Recovering from Stroke",
+      "outcome": "No matching individual DOI verified. Keep title unlinked. Similar papers, full conference collections and correction notices were not substituted."
+    },
+    {
+      "scholarId": "_xSYboBqXhAC",
+      "sourceTitle": "Development of a novel step detection algorithm for gait evaluation of patients with hemiplegia based on trunk accelerometer",
+      "outcome": "No matching individual DOI verified. Keep title unlinked. Similar papers, full conference collections and correction notices were not substituted."
+    },
+    {
+      "scholarId": "b1wdh0AR-JQC",
+      "sourceTitle": "Determinants of Life Satisfaction among Individuals with Gait Disorder: A Focus on Disability-Related Expenses in Rehabilitation and Welfare Services",
+      "outcome": "No matching individual DOI verified. Keep title unlinked. Similar papers, full conference collections and correction notices were not substituted."
+    },
+    {
+      "scholarId": "r0BpntZqJG4C",
+      "sourceTitle": "Immediate effects of strain-counterstrain technique on pressure pain threshold and muscle activity in male adults with upper trapezius latent trigger point",
+      "outcome": "No matching individual DOI verified. Keep title unlinked. Similar papers, full conference collections and correction notices were not substituted."
+    },
+    {
+      "scholarId": "B3FOqHPlNUQC",
+      "sourceTitle": "210 Need of specific sports physiotherapy preparation for the olympic games in dual polyclinics, experience from 2018 pyeongchang winter olympic games",
+      "outcome": "No matching individual DOI verified. Keep title unlinked. Similar papers, full conference collections and correction notices were not substituted."
+    }
+  ]
+}

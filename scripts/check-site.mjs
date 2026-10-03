@@ -176,6 +176,14 @@ for (const record of cvPublicationImport.records) {
   if (!publicationHtml.includes(record.title.replaceAll('&', '&amp;')) || !publicationHtml.includes(`https://doi.org/${record.doi}`)) issues.push(`CV publication missing title or verified DOI: ${record.id}`);
 }
 const publicationItems = [...publicationHtml.matchAll(/<li\b[^>]*data-publication(?:=|\s|>)[\s\S]*?<\/li>/g)].map(match => match[0]);
+const publicationReview = JSON.parse(await readFile('src/data/publication-review.json', 'utf8'));
+for (const record of [...publicationReview.excludedRecords, ...publicationReview.heldRecords]) {
+  if (publicationItems.some(item => item.includes(`:${record.scholarId}`))) issues.push(`Withheld publication appeared in public bibliography: ${record.scholarId}`);
+}
+for (const correction of publicationReview.metadataCorrections) {
+  const item = publicationItems.find(item => item.includes(`:${correction.scholarId}`));
+  if (!item?.includes(correction.title.replaceAll('&', '&amp;'))) issues.push(`Publication correction missing: ${correction.scholarId}`);
+}
 for (const item of publicationItems) {
   const heading = item.match(/<h3\b[^>]*>([\s\S]*?)<\/h3>/)?.[1] ?? '';
   const title = decodeText(heading.replace(/<[^>]+>/g, ''));
