@@ -78,7 +78,16 @@
     "reports": [
       "2005-05-13-b5f21abda40f",
       "2005-05-13-sbs-virtual-reality",
-      "2005-05-13-sbs-world-news"
+      "2005-05-13-sbs-world-news",
+      "2005-05-13-cbs-virtual-reality"
+    ]
+  },
+  {
+    "id": "goodwellness-services-2022",
+    "primary": "2022-04-28-goodwellness",
+    "reports": [
+      "2022-04-28-goodwellness",
+      "2022-04-28-newstown-goodwellness-services"
     ]
   }
 ]

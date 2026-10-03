@@ -1,6 +1,7 @@
 ---
 title: "Gangwon’s main events for Wednesday, October 2"
 originalTitle: "[오늘의 주요 일정] 강원(2일, 수)"
+goodwellness: true
 date: "2019-10-02"
 source: "News1 · 뉴스1"
 url: "https://www.news1.kr/local/kangwon/3733916"

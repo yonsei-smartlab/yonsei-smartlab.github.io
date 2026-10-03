@@ -1,6 +1,7 @@
 ---
 title: "Wonju announces services at Yonsei GOODWELLNESS Center’s fitness facility for people with disabilities"
 originalTitle: "원주시 장애인체력증진실（연세굿웰니스센터） 운영 안내"
+goodwellness: true
 date: "2022-04-28"
 source: "Wonju City · 원주시"
 url: "https://www.wonju.go.kr/media/selectBbsNttView.do?bbsNo=145&key=3450&nttNo=391902"

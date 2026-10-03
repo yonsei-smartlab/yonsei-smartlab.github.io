@@ -21,6 +21,7 @@ export const goodwellness = {
     { label: 'About', href: '/goodwellness/about/' },
     { label: 'Rehabilitation Robotics', href: '/goodwellness/robogym/' },
     { label: 'Research & Education', href: '/goodwellness/research-education/' },
+    { label: 'News', href: '/goodwellness/news/' },
     { label: 'Contact', href: '/goodwellness/contact/' },
   ],
   map: {

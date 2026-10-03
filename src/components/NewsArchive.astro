@@ -1,0 +1,66 @@
+---
+import { getCollection } from 'astro:content';
+import { getNewsStories } from '../lib/news-stories';
+const news = (await getCollection('news')).sort((a, b) => b.data.date.localeCompare(a.data.date));
+interface Props { goodwellnessOnly?: boolean; }
+const { goodwellnessOnly = false } = Astro.props;
+const stories = getNewsStories(news, { goodwellnessOnly });
+const years = [...new Set(stories.flatMap(story => story.years))].sort().reverse();
+const formatDate = (date: string) => new Intl.DateTimeFormat('en', { dateStyle: 'long', timeZone: 'UTC' }).format(new Date(`${date}T00:00:00Z`));
+---
+  <section class="section"><div class="container-page">
+    <form class="news-filters publication-filters" role="search" aria-label="Filter news">
+      <div class="search-field"><label for="news-search">Search</label><input id="news-search" type="search" placeholder="Topic, headline, or publisher" autocomplete="off" /></div>
+      <div><label for="news-year">Year</label><select id="news-year"><option value="">All years</option>{years.map(year => <option value={year}>{year}</option>)}</select></div>
+      <button class="button button-secondary reset-filters" type="reset">Reset</button>
+    </form>
+    <p class="results-count" aria-live="polite" aria-atomic="true"><span id="news-count">{stories.length}</span> <span id="news-noun">stories</span></p>
+    <ol class="news-list">
+      {stories.map(story => {
+        const item = story.primary;
+        return <li class="news-item" data-news data-story-id={story.id} data-story-date={story.date} data-years={story.years.join(' ')} data-search={story.reports.map(report => `${report.data.title} ${report.data.originalTitle} ${report.data.source} ${report.data.summary}`).join(' ').toLowerCase()}>
+        <div class="news-meta"><time datetime={story.firstDate}>{formatDate(story.firstDate)}</time>{story.date !== story.firstDate && <><span> – </span><time datetime={story.date}>{formatDate(story.date)}</time></>}<p>{item.data.source}{story.reports.length > 1 && <> + {story.reports.length - 1} more {story.reports.length === 2 ? 'report' : 'reports'}</>}</p></div>
+        <article class:list={['news-content', { 'has-photo': item.data.image }]}>
+          <div><h2><a href={item.data.url}>{item.data.title}</a></h2>{item.data.originalTitle !== item.data.title && <p class="news-original" lang={item.data.originalLanguage}>{item.data.originalTitle}</p>}<p class="news-summary">{item.data.summary}</p>
+            {story.reports.length === 1 ? <a class="text-link" data-news-report={item.id} href={item.data.url}>Read the original report <span aria-hidden="true">→</span></a> : <details class="news-coverage">
+              <summary>View all {story.reports.length} reports</summary>
+              <ul>{story.reports.map(report => <li>
+                <p class="news-source-meta">{report.data.source} · <time datetime={report.data.date}>{formatDate(report.data.date)}</time></p>
+                <a data-news-report={report.id} href={report.data.url}>{report.data.title}</a>
+                {report.data.originalTitle !== report.data.title && <p class="news-original" lang={report.data.originalLanguage}>{report.data.originalTitle}</p>}
+              </li>)}</ul>
+            </details>}
+          </div>
+          {item.data.image && <figure class="news-photo"><a href={item.data.url}><img src={item.data.image} alt={item.data.imageAlt || item.data.title} width={item.data.imageWidth} height={item.data.imageHeight} loading="lazy" /></a>{item.data.imageCredit && <figcaption>{item.data.imageCredit}</figcaption>}</figure>}
+        </article>
+      </li>; })}
+    </ol>
+    <p id="news-empty" class="empty-state" hidden>No stories match these filters.</p>
+  </div></section>
+<script>
+  const form = document.querySelector<HTMLFormElement>('.news-filters');
+  const search = document.querySelector<HTMLInputElement>('#news-search');
+  const year = document.querySelector<HTMLSelectElement>('#news-year');
+  const entries = [...document.querySelectorAll<HTMLElement>('[data-news]')];
+  const count = document.querySelector('#news-count');
+  const noun = document.querySelector('#news-noun');
+  const empty = document.querySelector<HTMLElement>('#news-empty');
+  function filterNews() {
+    const query = search?.value.trim().toLowerCase() ?? '';
+    let visible = 0;
+    for (const entry of entries) {
+      const matches = (entry.dataset.search ?? '').includes(query)
+        && (!year?.value || entry.dataset.years?.split(' ').includes(year.value));
+      entry.hidden = !matches;
+      if (matches) visible++;
+    }
+    if (count) count.textContent = String(visible);
+    if (noun) noun.textContent = visible === 1 ? 'story' : 'stories';
+    if (empty) empty.hidden = visible !== 0;
+  }
+  search?.addEventListener('input', filterNews);
+  year?.addEventListener('change', filterNews);
+  form?.addEventListener('submit', event => event.preventDefault());
+  // Wait for the native form reset to restore the controls before filtering.
+  form?.addEventListener('reset', () => setTimeout(filterNews, 0));
+</script>

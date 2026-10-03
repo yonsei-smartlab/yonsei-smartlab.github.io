@@ -61,6 +61,8 @@ const news = defineCollection({
   schema: z.object({
     title: z.string(),
     originalTitle: z.string(),
+    originalLanguage: z.enum(['ko', 'en']).default('ko'),
+    goodwellness: z.boolean().default(false),
     image: z.string().regex(/^\/images\/news\//).optional(),
     imageAlt: z.string().optional(),
     imageWidth: z.number().int().optional(),

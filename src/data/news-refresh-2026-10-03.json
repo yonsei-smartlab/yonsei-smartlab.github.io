@@ -1,0 +1,65 @@
+{
+  "reviewedOn": "2026-10-03",
+  "scope": "Additional Korean and English news discovery for SMART Lab, Professor You, Yonsei GOODWELLNESS Center and the P&S Walkbot rehabilitation system. Not an exhaustive historical archive.",
+  "published": [
+    {
+      "file": "2023-11-14-goodwellness-funding.md",
+      "review": "Original broadcaster transcript explicitly tags 연세굿웰니스센터 and identifies the Wonju disability-fitness facility. Broadcast date 20231114 verified. Historical report, not a claim about current operation."
+    },
+    {
+      "file": "2022-04-28-newstown-goodwellness-services.md",
+      "review": "Original article explicitly names 연세굿웰니스센터 and 유승현 연세대학교 교수; date 2022.04.28 09:33. Same service announcement as existing Wonju City report."
+    },
+    {
+      "file": "2024-07-09-walkbot-business-plans.md",
+      "review": "Original English report dated 2024.07.09 16:55 identifies Walkbot and company. Official company history confirms later name change to P&S Robotics. General product news within user-requested scope; no Professor or center involvement asserted."
+    },
+    {
+      "file": "2026-05-26-walkbot-mexico.md",
+      "review": "Original publisher HTML reviewed with normal TLS validation, dated 2026.05.26 09:50:45; matched publisher-supplied Nate copy. Walkbot_G/P&S Robotics identity confirmed. General product news, not SMART Lab or center involvement."
+    },
+    {
+      "file": "2008-01-28-hallym-sports-seminar.md",
+      "review": "Original hospital news explicitly names 유승현 연세대 물리치료학과 교수. Publication date 2008-01-28 differs from seminar date January 26; publication date used."
+    },
+    {
+      "file": "2005-05-13-cbs-virtual-reality.md",
+      "review": "Identity matches Yonsei faculty biography’s Hampton appointment and 2005 Stroke paper PMID 15890990, also used for existing Korean reports of this study. Original date May 13, 2005."
+    }
+  ],
+  "queries": {
+    "ko": [
+      "연세굿웰니스센터 뉴스",
+      "연세굿웰니스 보도",
+      "유승현 연세대 워크봇",
+      "유승현 교수 로봇",
+      "유승현 연세대학교 2025 뉴스",
+      "유승현 연세대학교 2024 뉴스",
+      "연세굿웰니스센터 폐쇄",
+      "연세대 스마트 유승현 뉴스",
+      "연세굿웰니스센터 운영 원주투데이"
+    ],
+    "en": [
+      "Yonsei Goodwellness news",
+      "Joshua Sung You Walkbot news",
+      "Yonsei SMART lab news robotics",
+      "Walkbot Yonsei news",
+      "Yonsei Sung Hyun You news",
+      "Joshua You Yonsei news rehabilitation",
+      "Sung Hyun You virtual reality news",
+      "SMART Institute Yonsei news"
+    ]
+  },
+  "excludedResults": [
+    "Yonsei Smart Infrastructure, photonics and manufacturing labs: different groups and Professors.",
+    "Sejong/Hanyang media lecturer 유승현, Yonsei undergraduate 유승현 and Autodesk executive 유승현: different people.",
+    "WalkBot video game and CS2 automation: different products.",
+    "Publication databases and profiles: not dated news."
+  ],
+  "sourceAccessNotes": [
+    "MBC mobile certificate mismatch: no bypass. Original www.wjmbc.co.kr page successfully read with normal TLS validation.",
+    "Prime Economy original publisher successfully read via HTTPS; portal copy used to locate original."
+  ],
+  "centerClassification": "Explicit per-report goodwellness flag. Combined archive retains every report; center archive excludes unrelated reports even inside a mixed group.",
+  "remainingHistoricalQueue": "Existing ambiguous identity/access cases remain unpublished. No claim of exhaustive historical discovery."
+}
