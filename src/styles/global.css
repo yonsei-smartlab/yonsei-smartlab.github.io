@@ -337,6 +337,9 @@ button, a, input, select { -webkit-tap-highlight-color: transparent; }
 html { scroll-padding-top: 132px; }
 .nav-inner { flex-wrap: wrap; gap: 0; padding-block: 0; }
 .site-switcher { display: flex; align-items: stretch; gap: 32px; width: 100%; min-height: 58px; border-bottom: 1px solid var(--line); }
+.university-logo { display: block; flex: 0 0 44px; width: 44px; height: 44px; align-self: center; overflow: hidden; }
+/* Frame the supplied seal without its large white margins; keep the original image intact. */
+.university-logo img { display: block; width: 100%; height: 100%; object-fit: cover; object-position: 50% 48%; transform: scale(1.45); }
 .site-switcher .wordmark[data-website='lab'] { --website-color: #003477; --website-hover: #1163ff; }
 .site-switcher .wordmark[data-website='goodwellness'] { --website-color: #7b233e; --website-hover: #a83855; }
 .site-switcher .wordmark { display: flex; align-items: center; padding-block: 14px; border-bottom: 3px solid transparent; color: var(--website-color); font-size: 19px; font-weight: 500; }
@@ -389,7 +392,8 @@ html { scroll-padding-top: 132px; }
   .center-photo-section { gap: 32px; }
 }
 @media (max-width: 639px) {
-  .site-switcher { gap: 20px; min-height: 54px; }
+  .site-switcher { gap: 12px; min-height: 54px; }
+  .university-logo { flex-basis: 36px; width: 36px; height: 36px; }
   .site-switcher .wordmark { font-size: 15px; padding-block: 12px; }
   .center-hero { padding-block: 44px 32px; }
   .center-hero-grid, .center-overview, .center-photo-section { grid-template-columns: 1fr; }
@@ -401,6 +405,7 @@ html { scroll-padding-top: 132px; }
   .center-photo-section { margin-top: 40px; padding-top: 32px; }
 }
 @media (max-width: 359px) {
-  .site-switcher { gap: 16px; }
+  .site-switcher { gap: 8px; }
+  .university-logo { flex-basis: 32px; width: 32px; height: 32px; }
   .site-switcher .wordmark { font-size: 14px; }
 }

@@ -143,7 +143,7 @@ The earlier visual study remains in the ignored `design-preview/` folder and is 
 
 ## Visual references and licenses
 
-- Yonsei’s official website: https://www.yonsei.ac.kr/sc/index.do and its academic content pages. Primary blue `#003477`, link accent `#1163ff`, white/neutral surfaces, and dark footer are taken from the site’s styles. No university photographs or logo are included.
+- Yonsei’s official website: https://www.yonsei.ac.kr/sc/index.do and its academic content pages. Primary blue `#003477`, link accent `#1163ff`, white/neutral surfaces, and dark footer are taken from the site’s styles. The shared header uses the circular university seal supplied by the user in `basic.zip` on October 3, 2026, saved unchanged as `public/images/yonsei-university-seal.jpg`. No university photographs are included.
 - The official site uses Paperlogy. The three locally hosted WOFF2 weights are provided under SIL OFL 1.1; the notice is in `public/fonts/LICENSE.txt`. Font publisher: https://freesentation.blog/paperlogyfont.
 - Cohen Lab’s MIT-licensed starter informed the layout: https://github.com/bchcohenlab/lab-website-template. Its code license is retained in `LICENSE`. Borrowed people, papers, photographs, research details, and paid integrations are excluded.
 
