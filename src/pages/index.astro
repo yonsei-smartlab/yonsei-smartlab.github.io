@@ -26,7 +26,7 @@ const selected = publications.filter(pub => pub.data.featured).slice(0, 3);
   </section>
   <section class="section section-divided">
     <div class="container-page">
-      <div class="section-heading"><h2>From our work</h2><a href="/research/">View research <span aria-hidden="true">→</span></a></div>
+      <div class="section-heading"><h2>Research overview</h2><a href="/research/">View research <span aria-hidden="true">→</span></a></div>
       <div class="figure-grid">{areas.slice(0, 3).map((area, index) => <a class="figure-card" href={`/research/#${area.id}`}><PlaceholderImage label={`Research figure ${index + 1}`} src={area.data.image} alt={area.data.imageAlt} /><div class="figure-caption"><p class="eyebrow">[Publication / project · Year]</p><h3>{area.data.title}</h3></div></a>)}</div>
     </div>
   </section>

@@ -44,10 +44,11 @@ for (const page of await htmlFiles(root)) {
       if (value.startsWith('tel:') && value !== (pageName.startsWith('goodwellness/') ? 'tel:+82-33-765-2861' : 'tel:+82-33-760-2476')) issues.push(`${pageName}: unapproved telephone link`);
       if (/^https?:/.test(value) && /src=/.test(match[0])) {
         const external = new URL(value);
-        const approvedMap = pageName === join('contact', 'index.html')
+        const mapMarker = pageName === join('contact', 'index.html') ? '37.283834375,127.89878544375' : pageName === join('goodwellness', 'contact', 'index.html') ? '37.29874878996,127.921667903625' : null;
+        const approvedMap = !!mapMarker
           && external.origin === 'https://www.openstreetmap.org'
           && external.pathname === '/export/embed.html'
-          && external.searchParams.get('marker') === '37.283834375,127.89878544375';
+          && external.searchParams.get('marker') === mapMarker;
         if (!approvedMap) issues.push(`${pageName}: external asset ${value}`);
       }
       continue;

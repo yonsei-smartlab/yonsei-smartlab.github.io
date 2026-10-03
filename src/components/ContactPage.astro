@@ -1,0 +1,19 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import PageHeader from './PageHeader.astro';
+import LocationMap from './LocationMap.astro';
+interface Props {
+  section?: 'lab' | 'goodwellness';
+  name: string;
+  map: { label: string; latitude: number; longitude: number; bbox?: string };
+}
+const { section = 'lab', name, map } = Astro.props;
+---
+<BaseLayout section={section} title="Contact">
+  <PageHeader title="Contact" description={`Contact details and location for ${name}.`} />
+  <section class="section"><div class="container-page contact-grid">
+    <div class="contact-column"><section><h2>Contact</h2><slot name="details" /></section></div>
+    <div class="contact-column"><section><h2>Location</h2><LocationMap map={map} /></section></div>
+  </div></section>
+  <slot />
+</BaseLayout>

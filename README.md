@@ -156,3 +156,11 @@ The exact-name Naver GOODWELLNESS review saved 30 publisher links after enabling
 Google headline screening excluded 128 additional clearly unrelated topics without claiming original-body review. Direct browser checks separately confirmed the mountaineer is a Yuhan University Industrial Design Professor and the Channel PNU namesake is a student-news editor; both are excluded. One Google result redirects to a Naver blog blocked by browser site-safety policy and remains held.
 
 The October 3 news-search run stopped at the user’s 70-minute limit with 65 published reports and 49 original images. Discovery remains incomplete: six redirect candidates, 25 held cases, four unavailable sources, and broader Naver browser coverage remain recorded for a later review.
+
+### Shared website presentation
+
+Both websites use one footer template with the same Location and Contact headings and copyright stripe. Contact pages share `src/components/ContactPage.astro` and the configurable `LocationMap.astro`; university office and center locations remain distinct. Both homepages use the same introduction typography and alignment, and training/center cards use the same heading size.
+
+The center map marks the supplied Namwon-ro 52 address, geocoded on October 3, 2026 through Esri World Geocoding as a PointAddress match with score 100 (37.29874878996, 127.921667903625). The public map is a free OpenStreetMap embed with attribution. The [LH housing listing](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?aisTpCd=07&ccrCnntSysDsCd=03&mi=1026&panId=2015122300012850&uppAisTpCd=06) confirms Namwon-ro 52 as the Wonju Heungeop LH Cheonnyeonnamu 2 complex; the geocode does not establish an entrance or floor.
+
+Professor You’s supplied CV (`Joshua You Curriculum Vitae 2-28-25.doc`) was read in full on October 3, 2026 for a proposed content-update list. Academic-content recommendations are pending user review. Keep the source CV, personal contact details, citizenship, collaborator contact information and grant amounts outside public output. Historical dates, undated leadership titles and the CV’s summary statistics need reconciliation before publishing.

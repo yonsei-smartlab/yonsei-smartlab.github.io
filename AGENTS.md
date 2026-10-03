@@ -38,6 +38,8 @@ This repository is the editable source for the Yonsei SMART Lab website. The Pro
 - News coverage of the same event is grouped into one public story, with an expandable list preserving every source report’s publisher, date, faithful English headline, original Korean headline and link. Review explicit group membership in `src/data/news-groups.json`; do not merge separate events based on similar headlines, publishers or cities. Search and year filters cover every report in each story. Retain the source archive and import audit.
 - English news titles must be natural, faithful translations of each original Korean headline. Preserve the article's main subject and any roundup or schedule context; do not substitute generic research labels or the Professor's minor contribution for the actual headline. Reports with the same source headline may have the same English translation. Keep lab relevance in the summary.
 
+- Both sites share the same footer template with identity, Location and Contact columns, copyright stripe, typography and spacing. Contact pages use `ContactPage.astro` and `LocationMap.astro` for contact details on the left and a location map on the right. Keep center contact information separate from the Professor’s university office. Use common heading sizes, homepage introduction layout and restrained section labels; preserve navy/burgundy themes.
+
 ## Cost and hosting
 
 - The user requires free hosting and operation, with no hidden charges. Keep this a static website in the public GitHub Pages repository.

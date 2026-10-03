@@ -1,12 +1,11 @@
 ---
-import BaseLayout from '../../components/BaseLayout.astro';
-import PageHeader from '../../components/PageHeader.astro';
+import ContactPage from '../../components/ContactPage.astro';
 import { goodwellness as center } from '../../data/goodwellness';
 ---
-<BaseLayout section="goodwellness" title="Contact">
-  <PageHeader title="Contact" description={`${center.fullName} · ${center.koreanName}`} />
-  <section class="section"><div class="container-page contact-grid">
-    <section><h2>Address</h2><dl class="contact-details"><dt>Road address · 도로명</dt><dd lang="ko">{center.contact.roadAddress}</dd><dt>Lot address · 지번</dt><dd lang="ko">{center.contact.lotAddress}</dd></dl></section>
-    <section><h2>Telephone</h2><dl class="contact-details"><dt>Center telephone</dt><dd><a href={`tel:${center.contact.phoneHref}`}>{center.contact.phone}</a></dd></dl></section>
-  </div></section>
-</BaseLayout>
+<ContactPage section="goodwellness" name={center.name} map={center.map}>
+  <dl slot="details" class="contact-details">
+    <dt>Telephone</dt><dd><a href={`tel:${center.contact.phoneHref}`}>{center.contact.phone}</a></dd>
+    <dt>Road address · 도로명</dt><dd lang="ko">{center.contact.roadAddress}</dd>
+    <dt>Lot address · 지번</dt><dd lang="ko">{center.contact.lotAddress}</dd>
+  </dl>
+</ContactPage>

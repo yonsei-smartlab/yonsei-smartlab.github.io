@@ -25,6 +25,7 @@ export const site = {
     latitude: 37.283834375,
     longitude: 127.89878544375,
     source: 'https://www.openstreetmap.org/way/369573553',
+    bbox: '127.8958,37.2818,127.9020,37.2858',
   },
   links: {
     scholar: 'https://scholar.google.com/citations?user=C-fe4ZMAAAAJ&hl=en',

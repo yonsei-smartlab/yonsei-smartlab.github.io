@@ -1,23 +1,19 @@
 ---
-import BaseLayout from '../components/BaseLayout.astro';
-import PageHeader from '../components/PageHeader.astro';
-import LocationMap from '../components/LocationMap.astro';
+import ContactPage from '../components/ContactPage.astro';
 import { site } from '../data/site';
 ---
-<BaseLayout title="Contact">
-  <PageHeader title="Contact" description={site.contact.introduction} />
-  <section class="section"><div class="container-page contact-grid">
-    <div class="contact-column"><section><h2>Join the lab</h2><p class="recruitment-status placeholder-text">{site.contact.recruitmentStatus}</p><p class="placeholder-text">{site.contact.opportunities}</p></section><section><h2>How to apply</h2><p class="placeholder-text">{site.contact.applicationInstructions}</p></section><section><h2>Collaborations</h2><p class="placeholder-text">{site.contact.collaboration}</p></section></div>
-    <div class="contact-column">
-      <section><h2>Contact</h2><dl class="contact-details">
-        <dt>Professor</dt><dd><a href="/professor/">{site.professorName}, PT, PhD</a> <span lang="ko">({site.professorKoreanName})</span></dd>
-        <dt>Email</dt><dd><a href={`mailto:${site.email}`}>{site.email}</a></dd>
-        <dt>Office telephone</dt><dd><a href={`tel:${site.phone}`}>{site.phone}</a></dd>
-        <dt>Fax</dt><dd>{site.fax}</dd>
-        <dt>Affiliation</dt><dd>{site.fullName}<br />{site.university}<br />{site.college}<br />{site.department}<br />{site.campus}</dd>
-        <dt>Office</dt><dd>{site.address.map(line => <>{line}<br /></>)}<span lang="ko">{site.koreanAddress}</span></dd>
-      </dl></section>
-      <section><h2>Location</h2><LocationMap /></section>
-    </div>
+<ContactPage name={site.name} map={site.map}>
+  <dl slot="details" class="contact-details">
+    <dt>Professor</dt><dd><a href="/professor/">{site.professorName}, PT, PhD</a> <span lang="ko">({site.professorKoreanName})</span></dd>
+    <dt>Email</dt><dd><a href={`mailto:${site.email}`}>{site.email}</a></dd>
+    <dt>Telephone</dt><dd><a href={`tel:${site.phone}`}>{site.phone}</a></dd>
+    <dt>Fax</dt><dd>{site.fax}</dd>
+    <dt>Affiliation</dt><dd>{site.fullName}<br />{site.university}<br />{site.college}<br />{site.department}<br />{site.campus}</dd>
+    <dt>Office address</dt><dd>{site.address.map(line => <>{line}<br /></>)}<span lang="ko">{site.koreanAddress}</span></dd>
+  </dl>
+  <section class="section section-divided"><div class="container-page contact-opportunities">
+    <section><h2>Join the lab</h2><p class="recruitment-status placeholder-text">{site.contact.recruitmentStatus}</p><p class="placeholder-text">{site.contact.opportunities}</p></section>
+    <section><h2>How to apply</h2><p class="placeholder-text">{site.contact.applicationInstructions}</p></section>
+    <section><h2>Collaborations</h2><p class="placeholder-text">{site.contact.collaboration}</p></section>
   </div></section>
-</BaseLayout>
+</ContactPage>
