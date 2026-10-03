@@ -37,6 +37,7 @@ def main():
     for review_file, rows_key in [
         ('news-walkbot-source-fact-check.json', 'records'),
         ('news-held-source-review.json', 'records'),
+        ('news-daum-source-fact-check.json', 'records'),
         ('walkbot-press-review.json', 'candidates'),
     ]:
         review_path = Path('src/data') / review_file

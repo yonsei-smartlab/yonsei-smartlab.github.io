@@ -1,0 +1,154 @@
+{
+  "reviewedOn": "2026-10-03",
+  "complete": false,
+  "scope": "Manual full-body identity and relevance decisions for publisher-supplied Daum articles returned by broader university, rehabilitation, robotics and wellness searches. Bodies remain in the ignored source cache; this audit retains decisions and hashes only.",
+  "records": [
+    {
+      "url": "https://v.daum.net/v/20251206070225400",
+      "finalUrl": "https://v.daum.net/v/20251206070225400",
+      "originalTitle": "[WHY] Korean universities 'got milk': Why schools are in the dairy business",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "goodwellness": false,
+      "evidence": "English-language feature on university dairy businesses and food branding; named professors and university businesses concern dairy or food science, not Professor You or GOODWELLNESS.",
+      "decisionReason": "Full article text does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center; thematic or university keyword matches alone do not meet the inclusion rule.",
+      "reviewBasis": "manual-full-article-body-review",
+      "sourceBodySha256": "02774faa975e0e0de98edcdcb599e25c7c9858662e88f19ecba83594fe54c9a9"
+    },
+    {
+      "url": "https://v.daum.net/v/20220207134154866",
+      "finalUrl": "https://v.daum.net/v/20220207134154866",
+      "originalTitle": "From home appliances to telemedicine, smart city project offers next-generation living",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "goodwellness": false,
+      "evidence": "English-language feature on Busan Eco Delta Smart City. Its Wellness Center is associated with Kosin University Gospel Hospital; quoted Yonsei professor is Lee Jung-hoon of the Graduate School of Information. This is a different facility and person.",
+      "decisionReason": "Full article text does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center; thematic or university keyword matches alone do not meet the inclusion rule.",
+      "reviewBasis": "manual-full-article-body-review",
+      "sourceBodySha256": "80cc3e023894fe2ef49b8b4a53e36a04409b100b81389ca63076ffa0b2073bd4"
+    },
+    {
+      "url": "https://v.daum.net/v/20170326165218771",
+      "finalUrl": "https://v.daum.net/v/20170326165218771",
+      "originalTitle": "[Health-tech Korea] Welt smart belt monitors wearers' health without intrusion",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "goodwellness": false,
+      "evidence": "English-language profile of Welt smart belt founder Kang Seong-ji. His Yonsei medical education does not establish a Professor You or SMART Lab connection.",
+      "decisionReason": "Full article text does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center; thematic or university keyword matches alone do not meet the inclusion rule.",
+      "reviewBasis": "manual-full-article-body-review",
+      "sourceBodySha256": "3841de4e142013cbd2bfb9db79008f21d9da1792ac97d1b94760448e458456b0"
+    },
+    {
+      "url": "https://v.daum.net/v/20260626090104478",
+      "finalUrl": "https://v.daum.net/v/20260626090104478",
+      "originalTitle": "휴보· 워크 온수트 잇는 KAIST 로봇 기술…네이처 콘퍼런스서 선보인다",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "goodwellness": false,
+      "evidence": "KAIST/Nature autonomous robotics conference report. Named researchers and demonstrations concern KAIST and other institutions; neither Professor You nor GOODWELLNESS is mentioned.",
+      "decisionReason": "Full article text does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center; thematic or university keyword matches alone do not meet the inclusion rule.",
+      "reviewBasis": "manual-full-article-body-review",
+      "sourceBodySha256": "4b75aa4b3fceef59d0474ccc41a926435e5129538395d0ec584907611eb05e55"
+    },
+    {
+      "url": "https://v.daum.net/v/20260626094950843",
+      "finalUrl": "https://v.daum.net/v/20260626094950843",
+      "originalTitle": "세계 로봇 석학들 KAIST로…네이처와 첫 자율 로보틱스 컨퍼런스",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "goodwellness": false,
+      "evidence": "KAIST/Nature autonomous robotics conference report. Named researchers and demonstrations concern KAIST and other institutions; neither Professor You nor GOODWELLNESS is mentioned. The similar name 유승협 identifies KAIST’s electrical-engineering head, not Yonsei Professor 유승현.",
+      "decisionReason": "Full article text does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center; thematic or university keyword matches alone do not meet the inclusion rule.",
+      "reviewBasis": "manual-full-article-body-review",
+      "sourceBodySha256": "2edfa8b36b76fe808ac7c04131415d370fadaf059089d20dc020b6180002e790"
+    },
+    {
+      "url": "https://v.daum.net/v/20260626092205441",
+      "finalUrl": "https://v.daum.net/v/20260626092205441",
+      "originalTitle": "\"세계 로봇 석학들 KAIST 온다\"…네이처 첫 자율 로보틱스 학술대회 개최",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "goodwellness": false,
+      "evidence": "KAIST/Nature autonomous robotics conference report. Named researchers and demonstrations concern KAIST and other institutions; neither Professor You nor GOODWELLNESS is mentioned. The similar name 유승협 identifies KAIST’s electrical-engineering head, not Yonsei Professor 유승현.",
+      "decisionReason": "Full article text does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center; thematic or university keyword matches alone do not meet the inclusion rule.",
+      "reviewBasis": "manual-full-article-body-review",
+      "sourceBodySha256": "cc7ce9f0c1345be1fb46e44d5dcf1091b3e3e1f06aa4e36579fe62e005e6e93e"
+    },
+    {
+      "url": "https://v.daum.net/v/20260626083004492",
+      "finalUrl": "https://v.daum.net/v/20260626083004492",
+      "originalTitle": "세계 로봇 석학, 한국 총출동…KAIST-네이처, ‘자율 로보틱스 컨퍼런스’ 개최",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "goodwellness": false,
+      "evidence": "KAIST/Nature autonomous robotics conference report. Named researchers and demonstrations concern KAIST and other institutions; neither Professor You nor GOODWELLNESS is mentioned.",
+      "decisionReason": "Full article text does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center; thematic or university keyword matches alone do not meet the inclusion rule.",
+      "reviewBasis": "manual-full-article-body-review",
+      "sourceBodySha256": "bddeb5fb8f87138c931627ad522c4f8872e95b2850abee219ae4f73b38ff4738"
+    },
+    {
+      "url": "https://v.daum.net/v/20260628115022957",
+      "finalUrl": "https://v.daum.net/v/20260628115022957",
+      "originalTitle": "KAIST, 10월 자율 로보틱스 컨퍼런스 개최",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "goodwellness": false,
+      "evidence": "KAIST/Nature autonomous robotics conference report. Named researchers and demonstrations concern KAIST and other institutions; neither Professor You nor GOODWELLNESS is mentioned.",
+      "decisionReason": "Full article text does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center; thematic or university keyword matches alone do not meet the inclusion rule.",
+      "reviewBasis": "manual-full-article-body-review",
+      "sourceBodySha256": "c9c9664af08466cc02702410b9a0bbfac312a4b3da00ab60f8c3d3fc280cfa03"
+    },
+    {
+      "url": "https://v.daum.net/v/20260626133610613",
+      "finalUrl": "https://v.daum.net/v/20260626133610613",
+      "originalTitle": "세계 로봇 석학 대전에 모인다…KAIST서 '네이처 컨퍼런스'",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "goodwellness": false,
+      "evidence": "KAIST/Nature autonomous robotics conference report. Named researchers and demonstrations concern KAIST and other institutions; neither Professor You nor GOODWELLNESS is mentioned. The similar name 유승협 identifies KAIST’s electrical-engineering head, not Yonsei Professor 유승현.",
+      "decisionReason": "Full article text does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center; thematic or university keyword matches alone do not meet the inclusion rule.",
+      "reviewBasis": "manual-full-article-body-review",
+      "sourceBodySha256": "d6caab102c5e87fe0983e6d35f452918ed28942999f1d2ed68252c55e79c4c28"
+    },
+    {
+      "url": "https://v.daum.net/v/20260626113812351",
+      "finalUrl": "https://v.daum.net/v/20260626113812351",
+      "originalTitle": "KAIST-네이처, 자율 로보틱스 컨퍼런스 개최",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "goodwellness": false,
+      "evidence": "KAIST/Nature autonomous robotics conference report. Named researchers and demonstrations concern KAIST and other institutions; neither Professor You nor GOODWELLNESS is mentioned.",
+      "decisionReason": "Full article text does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center; thematic or university keyword matches alone do not meet the inclusion rule.",
+      "reviewBasis": "manual-full-article-body-review",
+      "sourceBodySha256": "0badce31018d5da1a83b03c41729dac67121b4c9e75944f21a05fa44963bcf0e"
+    },
+    {
+      "url": "https://v.daum.net/v/20260601163802948",
+      "finalUrl": "https://v.daum.net/v/20260601163802948",
+      "originalTitle": "엔비디아-폭스콘, 대만 의료기관에 '피지컬 AI' 투입",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "goodwellness": false,
+      "evidence": "Nvidia/Foxconn AI systems in Taiwanese medical centers; no named Professor You or GOODWELLNESS connection.",
+      "decisionReason": "Full article text does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center; thematic or university keyword matches alone do not meet the inclusion rule.",
+      "reviewBasis": "manual-full-article-body-review",
+      "sourceBodySha256": "a7d112c4df4a8b9cb72f4e3be3ed37d3eb1c6c199e2da2efd7fe9eb56cde531d"
+    },
+    {
+      "url": "https://v.daum.net/v/20260624194201392",
+      "finalUrl": "https://v.daum.net/v/20260624194201392",
+      "originalTitle": "진단·치료·제조까지···AI로 더 확장하는 헬스케어 스타트업",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "goodwellness": false,
+      "evidence": "NextRise 2026 healthcare startup roundup, including gait analysis, ECG, dental design and cognitive screening. None of the named companies, speakers or research descriptions explicitly mentions Professor You or GOODWELLNESS.",
+      "decisionReason": "Full article text does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center; thematic or university keyword matches alone do not meet the inclusion rule.",
+      "reviewBasis": "manual-full-article-body-review",
+      "sourceBodySha256": "28c25468b5bd336cf695d88dc92bee63d83f5ca2ca9ae517156cb219c637413a"
+    }
+  ],
+  "statusCounts": {
+    "excluded": 12
+  }
+}
