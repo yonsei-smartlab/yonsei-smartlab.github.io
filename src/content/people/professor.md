@@ -44,28 +44,6 @@ Professional service includes journal reviewing for Archives of Physical Medicin
 
 International research collaborations include MIT, NIH, Moss Rehabilitation, Albert Einstein College of Medicine, Burke Rehabilitation Hospital, Kyoto University, and Srinakharinwirot University.
 
-## Teaching
-
-Undergraduate teaching includes kinesiology and pathokinesiology, measurement and neuromusculoskeletal diagnosis, sports physical therapy, neurorehabilitation, and pain management.
-
-Graduate teaching includes:
-
-- Motor control and learning
-- Biomechanics, movement analysis, and diagnostic imaging
-- Neurological outcome measurement, differential diagnosis, and imaging
-- Diagnosis and treatment of neuromusculoskeletal conditions and sports-related movement system impairments
-- Manipulative therapy, corrective exercise, and exercise prescription for movement impairments and sports injuries
-
-## Books and translations
-
-Professor You’s books and Korean translations cover musculoskeletal diagnosis, neurological intervention, muscle imbalance, and home exercise for children. [View books and translations](/publications/#books).
-
-## Selected presentations
-
-- **2016 American Physical Therapy Association Combined Sections Meeting:** Co-authored platform presentation on abdominal drawing-in, abdominal bracing, and Dynamic Neuromuscular Stabilization.
-- **2005 NIH rehabilitation grand rounds:** Virtual reality and its initial applications in rehabilitation.
-- **2005 NIH pediatric rehabilitation research meeting:** Virtual-reality-induced cortical reorganization in a child with hemiparetic cerebral palsy.
-
 ## Clinical and sports experience
 
 Professor You’s clinical experience in Korea and the United States spans pediatric, neurological, musculoskeletal, and cardiopulmonary physical therapy, with patient assessment, rehabilitation, caregiver education, and student supervision.
@@ -78,6 +56,16 @@ Professor You’s clinical experience in Korea and the United States spans pedia
 - Dong Ma Physical Medicine and Rehabilitation Clinic, May 1996–May 1999
 - Universal Rehabilitation Institute Senior Physical Therapist and team leader, October 1993–May 1995
 - Matheny Medical and Educational Center, February–October 1993
+
+## Books and translations
+
+Professor You’s books and Korean translations cover musculoskeletal diagnosis, neurological intervention, muscle imbalance, and home exercise for children. [View books and translations](/publications/#books).
+
+## Selected presentations
+
+- **2016 American Physical Therapy Association Combined Sections Meeting:** Co-authored platform presentation on abdominal drawing-in, abdominal bracing, and Dynamic Neuromuscular Stabilization.
+- **2005 NIH rehabilitation grand rounds:** Virtual reality and its initial applications in rehabilitation.
+- **2005 NIH pediatric rehabilitation research meeting:** Virtual-reality-induced cortical reorganization in a child with hemiparetic cerebral palsy.
 
 ## Qualifications and advanced training
 
