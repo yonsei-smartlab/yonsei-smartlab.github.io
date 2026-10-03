@@ -491,8 +491,14 @@ main :where(p, li, dd, a) { overflow-wrap: anywhere; }
 .hero-description-reading p + p { margin-top: 20px; }
 
 /* Research images retain full scientific figures and consistent card frames. */
-.figure-card > .content-image { background: #fff; padding: 16px; border-bottom: 1px solid var(--line); }
+.figure-card-main > .content-image { background: #fff; padding: 16px; border-bottom: 1px solid var(--line); }
 .research-media { display: grid; gap: 28px; align-content: start; }
 .research-media figure { margin: 0; }
 .research-media .content-image { background: #fff; border: 1px solid var(--line); padding: 12px; }
 .research-media figcaption { margin-top: 10px; line-height: 1.5; }
+
+.figure-card { display: flex; flex-direction: column; }
+.figure-card-main { display: block; color: inherit; flex: 1; }
+.figure-card-main:hover { color: inherit; text-decoration: none; }
+.research-image-credit { font-size: 12px; line-height: 1.6; color: var(--muted); margin-top: 10px; }
+.figure-card > .research-image-credit { padding: 0 24px 20px; margin: 0; }

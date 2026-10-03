@@ -2,6 +2,13 @@
 title: "Neuromodulation"
 summary: "Investigating brain activity, neuroplasticity, and motor recovery through brain stimulation and movement training."
 order: 1
+image: "/images/research/brain-eeg-oh-2023.png"
+imageAlt: "EEG topographic maps comparing young and older adults during individual intervention modalities"
+imageCaption: "EEG brain mapping during multimodal rehabilitation research"
+imageCredit: "Oh et al. (2023), Figure 3, first image"
+imageSource: "https://doi.org/10.3390/jcm12154895"
+imageLicense: "CC BY 4.0"
+imageLicenseUrl: "https://creativecommons.org/licenses/by/4.0/"
 placeholder: true
 ---
 

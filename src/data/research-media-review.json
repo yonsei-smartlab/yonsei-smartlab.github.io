@@ -15,7 +15,7 @@
     },
     {
       "area": "area-2",
-      "status": "selected",
+      "status": "held out",
       "publicFile": "/images/research/walkbot-system.webp",
       "source": "P&S/Walkbot 설치 현황, 사업소개 PPT 홍보자료/Joshua_COMPANY INTRODUCTION_WALKBOT 2017.pptx",
       "slide": 6,
@@ -37,13 +37,36 @@
     },
     {
       "area": "area-2",
-      "status": "secondary research image",
+      "status": "selected",
       "publicFile": "/images/research/miracle-prototype-2024.webp",
       "source": "CRC 발표자료 12-18-24 최종.pptx",
       "slide": 17,
       "embeddedFile": "ppt/media/image83.png",
       "caption": "MIRACLE mobility-robot prototype · 2024",
-      "note": "Device-only photograph from the 2024 CRC presentation. Not a claim about current equipment ownership."
+      "note": "Device-only photograph from the 2024 CRC presentation. Not a claim about current equipment ownership.",
+      "connection": "User-supplied 2024 CRC project presentation identifies Professor You as project lead; slide 17 documents collaborative prototype development."
+    },
+    {
+      "area": "area-1",
+      "status": "selected",
+      "publicFile": "/images/research/brain-eeg-oh-2023.png",
+      "credit": "Oh et al. (2023), Figure 3, first image",
+      "source": "https://doi.org/10.3390/jcm12154895",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Original publisher image reproduced without cropping, retouching or scientific changes. Professor You is a named coauthor; authorship and license checked against the full article.",
+      "consent": "Brain maps contain no identifiable participant photographs."
+    },
+    {
+      "area": "area-3",
+      "status": "selected",
+      "publicFile": "/images/research/overhead-squat-bae-2024.jpg",
+      "credit": "Bae et al. (2024), Figure 1",
+      "source": "https://doi.org/10.1038/s41598-024-79707-2",
+      "license": "CC BY-NC-ND 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "note": "Original publisher image reproduced without cropping, retouching or scientific changes. Professor You is a named coauthor; authorship and license checked against the full article.",
+      "consent": "Sports article explicitly records consent for publication of participant images."
     }
   ]
 }

@@ -2,6 +2,13 @@
 title: "Sports movement science"
 summary: "Examining movement quality, postural control, and neuromuscular function through clinical assessment and motion analysis."
 order: 3
+image: "/images/research/overhead-squat-bae-2024.jpg"
+imageAlt: "Marker-based and markerless body landmarks during an overhead squat"
+imageCaption: "Overhead-squat motion assessment"
+imageCredit: "Bae et al. (2024), Figure 1"
+imageSource: "https://doi.org/10.1038/s41598-024-79707-2"
+imageLicense: "CC BY-NC-ND 4.0"
+imageLicenseUrl: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
 placeholder: true
 ---
 

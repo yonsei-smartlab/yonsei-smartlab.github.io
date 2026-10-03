@@ -1,0 +1,5 @@
+---
+interface Props { data: { imageCredit?: string; imageSource?: string; imageLicense?: string; imageLicenseUrl?: string } }
+const { data } = Astro.props;
+---
+{data.imageCredit && <p class="research-image-credit"><a href={data.imageSource}>{data.imageCredit}</a><span> · </span><a href={data.imageLicenseUrl}>{data.imageLicense}</a></p>}
