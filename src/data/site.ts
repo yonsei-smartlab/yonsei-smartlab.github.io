@@ -40,7 +40,7 @@ export const site = {
     { title: 'Identify rehabilitation needs', description: 'Examine movement difficulties and the needs of individuals, families, and clinicians.' },
     { title: 'Develop approaches', description: 'Explore rehabilitation training, robotic assistance, and movement assessment.' },
     { title: 'Evaluate responses', description: 'Measure changes in movement, muscle activity, and functional performance.' },
-    { title: 'Support everyday function', description: 'Study rehabilitation for mobility, independence, and community participation.' },
+    { title: 'Support everyday function', description: 'Investigate rehabilitation for mobility, independence, and community participation' },
   ],
   images: {
     // Put real lab images in public/images and enter paths such as /images/lab.jpg.
