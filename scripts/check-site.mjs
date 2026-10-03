@@ -135,11 +135,11 @@ for (const route of ['research/grants/index.html', 'research/patents/index.html'
   const html = await readFile(join(root, route), 'utf8');
   if (!html.includes('/grants-ip/?category=')) issues.push(`${route}: missing category redirect`);
 }
-for (const route of ['research/index.html', 'training/index.html', 'research/affiliations/index.html']) {
+for (const route of ['research/index.html', 'training/index.html', 'research/walkbot/index.html']) {
   const html = await readFile(join(root, route), 'utf8');
   const subnav = html.match(/<nav[^>]*aria-label="Research navigation"[^>]*>([\s\S]*?)<\/nav>/)?.[1] ?? '';
   const labels = [...subnav.matchAll(/<a\b[^>]*>([^<]+)<\/a>/g)].map(match => match[1]);
-  if (labels.join(',') !== 'Overview,Training,Affiliations') issues.push(`${route}: incorrect Research navigation`);
+  if (labels.join(',') !== 'Overview,Training,Walkbot') issues.push(`${route}: incorrect Research navigation`);
 }
 const importSummary = JSON.parse(await readFile('src/data/publication-import.json', 'utf8'));
 if ([...publicationHtml.matchAll(/data-publication(?:=|\s|>)/g)].length !== importSummary.publishedCount) issues.push('Rendered publication count differs from the reviewed Scholar snapshot');

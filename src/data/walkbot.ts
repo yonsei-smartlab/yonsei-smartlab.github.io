@@ -1,8 +1,8 @@
-// SMART Lab affiliation confirmed by the user on October 3, 2026.
+// Dedicated Walkbot section requested by the user on October 3, 2026.
 // Company and product descriptions use the official company/product pages.
-export const affiliations = {
-  title: 'P&S Robotics and Walkbot',
-  introduction: 'SMART Lab is affiliated with P&S Robotics, the developer of Walkbot. The system supports robotic gait-training practice. Research publications by Professor You and colleagues examine its gait-training applications and measurement reliability.',
+export const walkbot = {
+  title: 'Walkbot robotic gait training',
+  introduction: 'Walkbot is a robotic gait-training system developed by P&S Robotics. Research publications by Professor You and colleagues examine its gait-training applications and measurement reliability.',
   company: {
     name: 'P&S Robotics',
     koreanName: '피앤에스로보틱스',
