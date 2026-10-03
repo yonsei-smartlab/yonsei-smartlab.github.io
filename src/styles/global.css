@@ -504,3 +504,7 @@ main :where(p, li, dd, a) { overflow-wrap: anywhere; }
 .figure-card > .research-image-credit { padding: 0 24px 20px; margin: 0; }
 
 .image-edit-note { display: block; color: var(--muted); }
+
+/* Professor profile links pair visible labels with decorative icons. */
+.professor-profile .profile-links a { display: inline-flex; align-items: center; gap: 8px; }
+.profile-link-icon { width: 19px; height: 19px; flex: none; }

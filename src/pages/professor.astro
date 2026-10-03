@@ -20,7 +20,12 @@ const { Content } = await render(professor);
           <p><span>{site.department}</span><span lang="ko">{site.departmentKorean}</span></p>
         </div>
         <p class="profile-leadership">{professor.data.summary}</p>
-        <div class="profile-links"><a href={`mailto:${site.email}`}>Email</a><a href={site.links.scholar}>Google Scholar</a><a href={site.links.facultyDetailed}>Yonsei profile</a><a href="/contact/">Contact</a></div>
+        <div class="profile-links">
+          <a href={`mailto:${site.email}`}><svg class="profile-link-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3" y="5" width="18" height="14" rx="2" /><path d="m3 7 9 6 9-6" /></svg><span>Email</span></a>
+          <a href={site.links.scholar}><svg class="profile-link-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m2 9 10-5 10 5-10 5-10-5Z" /><path d="M6 11v6c4 3 8 3 12 0v-6M22 9v7" /></svg><span>Google Scholar</span></a>
+          <a href={site.links.facultyDetailed}><svg class="profile-link-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m3 8 9-5 9 5H3ZM5 11v7m7-7v7m7-7v7M3 21h18M3 18h18" /></svg><span>Yonsei profile</span></a>
+          <a href="/contact/"><svg class="profile-link-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="4" y="3" width="16" height="18" rx="2" /><circle cx="12" cy="9" r="2.5" /><path d="M8 17c0-4 8-4 8 0M2 7h4M2 12h4M2 17h4" /></svg><span>Contact</span></a>
+        </div>
       </div>
     </div>
     <div class="prose-content profile-bio"><Content /></div>
