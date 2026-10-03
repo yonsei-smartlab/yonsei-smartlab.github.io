@@ -5,8 +5,8 @@ interface Props { person: CollectionEntry<'people'>; }
 const { person } = Astro.props;
 ---
 <article class="person-card">
-  <a class="person-photo-link" href={`/members/${person.id}/`} aria-label={`Profile: ${person.data.name}`}><PlaceholderImage label="Portrait" aspect="portrait" src={person.data.photo} alt={person.data.photoAlt || person.data.name} /></a>
-  <h3><a href={`/members/${person.id}/`}>{person.data.name}</a></h3>
+  <a class="person-photo-link" href={`/people/${person.id}/`} aria-label={`Profile: ${person.data.name}`}><PlaceholderImage label="Portrait" aspect="portrait" src={person.data.photo} alt={person.data.photoAlt || person.data.name} /></a>
+  <h3><a href={`/people/${person.id}/`}>{person.data.name}</a></h3>
   <p class="person-role">{person.data.role}</p>
   <p class="person-summary">{person.data.summary}</p>
   {(person.data.email || person.data.scholar || person.data.orcid) && <div class="profile-links">{person.data.email && <a href={`mailto:${person.data.email}`}>Email</a>}{person.data.scholar && <a href={person.data.scholar}>Scholar</a>}{person.data.orcid && <a href={person.data.orcid}>ORCID</a>}</div>}

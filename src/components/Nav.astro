@@ -1,6 +1,7 @@
 ---
 import { site } from '../data/site';
 import { goodwellness } from '../data/goodwellness';
+import { peopleNavigation } from '../data/people-navigation';
 import { researchNavigation } from '../data/research-navigation';
 interface Props { section?: 'lab' | 'goodwellness'; }
 const { section = 'lab' } = Astro.props;
@@ -25,14 +26,16 @@ const current = Astro.url.pathname.replace(/\/$/, '') || '/';
         const path = item.href.replace(/\/$/, '') || '/';
         const home = isCenter ? goodwellness.home.replace(/\/$/, '') : '/';
         const active = path === home ? current === home : current === path || current.startsWith(path + '/') || (!isCenter && path === '/research' && current === '/training');
-        const hasSubmenu = !isCenter && path === '/research';
+        const submenuLinks = !isCenter && path === '/research' ? researchNavigation.map(link => ({ label: link.dropdownLabel, href: link.href })) : !isCenter && path === '/people' ? peopleNavigation : [];
+        const hasSubmenu = submenuLinks.length > 0;
+        const submenuId = `${item.label.toLowerCase()}-submenu`;
         return <li class:list={{ 'nav-dropdown': hasSubmenu }}>
           <div class="nav-item-heading">
             <a data-nav-primary href={item.href} aria-current={active ? 'page' : undefined}>{item.label}</a>
-            {hasSubmenu && <button class="submenu-toggle" type="button" aria-label="Research subsections" aria-controls="research-submenu" aria-expanded="false"><span aria-hidden="true">⌄</span></button>}
+            {hasSubmenu && <button class="submenu-toggle" type="button" aria-label={`${item.label} subsections`} aria-controls={submenuId} aria-expanded="false"><span aria-hidden="true">⌄</span></button>}
           </div>
-          {hasSubmenu && <ul id="research-submenu" class="nav-submenu" hidden>
-            {researchNavigation.map(link => <li><a href={link.href} aria-current={current === link.href.replace(/\/$/, '') ? 'page' : undefined}>{link.dropdownLabel}</a></li>)}
+          {hasSubmenu && <ul id={submenuId} class="nav-submenu" hidden>
+            {submenuLinks.map(link => <li><a href={link.href}>{link.label}</a></li>)}
           </ul>}
         </li>;
       })}
@@ -42,44 +45,55 @@ const current = Astro.url.pathname.replace(/\/$/, '') || '/';
 <script>
   const toggle = document.querySelector<HTMLButtonElement>('.nav-toggle');
   const menu = document.querySelector<HTMLUListElement>('#main-menu');
-  const dropdown = document.querySelector<HTMLLIElement>('.nav-dropdown');
-  const submenuToggle = dropdown?.querySelector<HTMLButtonElement>('.submenu-toggle');
-  const submenu = dropdown?.querySelector<HTMLUListElement>('.nav-submenu');
-  function setSubmenu(open: boolean) {
-    submenuToggle?.setAttribute('aria-expanded', String(open));
-    if (submenu) submenu.hidden = !open;
-  }
+  const dropdowns = [...document.querySelectorAll<HTMLLIElement>('.nav-dropdown')].map(dropdown => {
+    const button = dropdown.querySelector<HTMLButtonElement>('.submenu-toggle');
+    const submenu = dropdown.querySelector<HTMLUListElement>('.nav-submenu');
+    function setOpen(open: boolean) {
+      button?.setAttribute('aria-expanded', String(open));
+      if (submenu) submenu.hidden = !open;
+    }
+    function openMenu() {
+      dropdowns.forEach(item => item.setOpen(item.dropdown === dropdown));
+    }
+    button?.addEventListener('click', () => {
+      if (button.getAttribute('aria-expanded') === 'true') setOpen(false);
+      else openMenu();
+    });
+    dropdown.addEventListener('pointerenter', event => {
+      if (event.pointerType === 'mouse' && window.matchMedia('(min-width: 860px)').matches) openMenu();
+    });
+    dropdown.addEventListener('pointerleave', () => {
+      if (!dropdown.contains(document.activeElement)) setOpen(false);
+    });
+    dropdown.addEventListener('focusout', event => {
+      if (!(event.relatedTarget instanceof Node) || !dropdown.contains(event.relatedTarget)) setOpen(false);
+    });
+    return { dropdown, button, setOpen };
+  });
   function closeMenu() {
-    setSubmenu(false);
+    dropdowns.forEach(item => item.setOpen(false));
     toggle?.setAttribute('aria-expanded', 'false');
     menu?.classList.remove('is-open');
   }
   toggle?.addEventListener('click', () => {
     const open = toggle.getAttribute('aria-expanded') !== 'true';
-    toggle.setAttribute('aria-expanded', String(open));
-    menu?.classList.toggle('is-open', open);
+    if (!open) closeMenu();
+    else {
+      toggle.setAttribute('aria-expanded', 'true');
+      menu?.classList.add('is-open');
+    }
   });
   menu?.querySelectorAll('a').forEach(link => link.addEventListener('click', closeMenu));
-  submenuToggle?.addEventListener('click', () => setSubmenu(submenuToggle.getAttribute('aria-expanded') !== 'true'));
-  dropdown?.addEventListener('pointerenter', event => {
-    if (event.pointerType === 'mouse' && window.matchMedia('(min-width: 860px)').matches) setSubmenu(true);
-  });
-  dropdown?.addEventListener('pointerleave', () => {
-    if (!dropdown.contains(document.activeElement)) setSubmenu(false);
-  });
-  dropdown?.addEventListener('focusout', event => {
-    if (!(event.relatedTarget instanceof Node) || !dropdown.contains(event.relatedTarget)) setSubmenu(false);
-  });
   document.addEventListener('click', event => {
-    if (event.target instanceof Node && !dropdown?.contains(event.target)) setSubmenu(false);
+    if (event.target instanceof Node && !dropdowns.some(item => item.dropdown.contains(event.target as Node))) dropdowns.forEach(item => item.setOpen(false));
   });
   document.addEventListener('keydown', event => {
-    if (event.key === 'Escape' && submenuToggle?.getAttribute('aria-expanded') === 'true') {
-      setSubmenu(false);
-      submenuToggle.focus();
-      return;
-    }
-    if (event.key === 'Escape' && toggle?.getAttribute('aria-expanded') === 'true') {
+    if (event.key !== 'Escape') return;
+    const openDropdown = dropdowns.find(item => item.button?.getAttribute('aria-expanded') === 'true');
+    if (openDropdown) {
+      openDropdown.setOpen(false);
+      openDropdown.button?.focus();
+    } else if (toggle?.getAttribute('aria-expanded') === 'true') {
       closeMenu();
       toggle.focus();
     }

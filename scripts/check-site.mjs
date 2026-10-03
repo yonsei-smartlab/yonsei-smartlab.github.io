@@ -6,7 +6,7 @@ import { getNewsStories } from '../src/lib/news-stories.ts';
 import { isPublicationNotice } from '../src/lib/publication-policy.ts';
 
 const root = resolve('dist');
-const expectedNav = ['Home', 'Professor', 'Members', 'Research', 'Publications', 'Grants & IP', 'News', 'Contact'];
+const expectedNav = ['Home', 'Professor', 'People', 'Research', 'Publications', 'Grants & IP', 'News', 'Contact'];
 const expectedCenterNav = ['Home', 'About', 'Rehabilitation Robotics', 'Research & Education', 'News', 'Contact'];
 const issues = [];
 async function htmlFiles(dir) {
@@ -67,8 +67,12 @@ for (const page of await htmlFiles(root)) {
     }
   }
 }
-for (const route of ['index.html', 'research/index.html', 'research/grants/index.html', 'research/patents/index.html', 'professor/index.html', 'members/index.html', 'publications/index.html', 'training/index.html', 'news/index.html', 'contact/index.html', 'goodwellness/index.html', 'goodwellness/about/index.html', 'goodwellness/robogym/index.html', 'goodwellness/research-education/index.html', 'goodwellness/contact/index.html']) {
+for (const route of ['index.html', 'research/index.html', 'research/grants/index.html', 'research/patents/index.html', 'professor/index.html', 'people/index.html', 'publications/index.html', 'training/index.html', 'news/index.html', 'contact/index.html', 'goodwellness/index.html', 'goodwellness/about/index.html', 'goodwellness/robogym/index.html', 'goodwellness/research-education/index.html', 'goodwellness/contact/index.html']) {
   if (!existsSync(join(root, route))) issues.push(`Missing page: ${route}`);
+}
+const peopleHtml = await readFile(join(root, 'people/index.html'), 'utf8');
+for (const id of ['current-members', 'alumni', 'international-collaborators']) {
+  if (!peopleHtml.includes(`id="${id}"`) || !peopleHtml.includes(`href="/people/#${id}"`)) issues.push(`People subsection missing: ${id}`);
 }
 const publicationHtml = await readFile(join(root, 'publications/index.html'), 'utf8');
 const archiveHtml = await readFile(join(root, 'grants-ip/index.html'), 'utf8');

@@ -1,0 +1,6 @@
+---
+import { peopleNavigation } from '../data/people-navigation';
+---
+<nav class="container-page research-nav" aria-label="People navigation">
+  {peopleNavigation.map(link => <a href={link.href}>{link.label}</a>)}
+</nav>

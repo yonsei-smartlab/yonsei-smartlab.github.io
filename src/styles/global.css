@@ -157,7 +157,7 @@ button, a, input, select { -webkit-tap-highlight-color: transparent; }
 .people-sections { padding-block: 64px; }
 .people-group + .people-group { margin-top: 56px; }
 .people-group > h2 { padding-bottom: 14px; border-bottom: 1px solid var(--line); font-size: 23px; }
-.current-members-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; }
+.current-members-grid { margin-top: 28px; display: grid; grid-template-columns: 1fr 1fr; gap: 48px; }
 .current-members-grid .people-group + .people-group { margin-top: 0; }
 .current-members-grid .people-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .directory-section { margin-top: 64px; }
@@ -457,3 +457,5 @@ html { scroll-padding-top: 132px; }
 .bus-stops thead { background: var(--surface); color: var(--muted); }
 .bus-stops th:first-child { width: 42%; }
 .contact-column .bus-note { margin: 0 0 12px; font-size: 14px; color: var(--muted); }
+
+.current-members-grid .people-group > h3 { color: var(--brand); }

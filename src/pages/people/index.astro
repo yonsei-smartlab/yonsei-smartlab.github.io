@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../components/BaseLayout.astro';
 import PageHeader from '../../components/PageHeader.astro';
+import PeopleNav from '../../components/PeopleNav.astro';
 import PersonCard from '../../components/PersonCard.astro';
 import { getPeople } from '../../lib/content';
 import { academicAlumni, professionalAlumni, internationalCollaborators, rememberedCollaborator } from '../../data/members';
@@ -8,10 +9,11 @@ const people = await getPeople();
 const groups = ['Researchers', 'Students'];
 const alumni = [...academicAlumni, ...professionalAlumni];
 ---
-<BaseLayout title="Members">
-  <PageHeader title="Members" description="SMART Lab researchers, students, alumni, and international collaborators." />
+<BaseLayout title="People">
+  <PageHeader title="People" description="SMART Lab researchers, students, alumni, and international collaborators." />
+  <PeopleNav />
   <div class="container-page people-sections">
-    <div class="current-members-grid">{groups.map(group => <section class="people-group"><h2>{group}</h2><div class="people-grid">{people.filter(person => person.data.group === group).map(person => <PersonCard person={person} />)}</div></section>)}</div>
+    <section class="people-group" id="current-members" aria-labelledby="current-members-heading"><h2 id="current-members-heading">Current members</h2><div class="current-members-grid">{groups.map(group => <section class="people-group"><h3>{group}</h3><div class="people-grid">{people.filter(person => person.data.group === group).map(person => <PersonCard person={person} />)}</div></section>)}</div></section>
     <section class="people-group directory-section" id="alumni" aria-labelledby="alumni-heading">
       <h2 id="alumni-heading">Alumni</h2>
       <ul class="alumni-list">

@@ -50,7 +50,7 @@ export const site = {
   nav: [
     { label: 'Home', href: '/' },
     { label: 'Professor', href: '/professor/' },
-    { label: 'Members', href: '/members/' },
+    { label: 'People', href: '/people/' },
     { label: 'Research', href: '/research/' },
     { label: 'Publications', href: '/publications/' },
     { label: 'Grants & IP', href: '/grants-ip/' },
