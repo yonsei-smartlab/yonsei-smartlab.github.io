@@ -7,7 +7,6 @@ imageAlt: "Face-masked participant wearing a wireless EEG cap during robot-assis
 imageCaption: "Wireless EEG recording during gait research"
 imageCredit: "Shin and You study presentation (2019), adapted photo"
 imageSource: "https://doi.org/10.3233/NRE-210304"
-imageEdits: "AI-assisted crop and touch-up; face obscured."
 placeholder: true
 ---
 

@@ -9,7 +9,6 @@ imageCredit: "Bae et al. (2024), preprint Figure 1, adapted"
 imageSource: "https://doi.org/10.21203/rs.3.rs-4097978/v1"
 imageLicense: "CC BY 4.0"
 imageLicenseUrl: "https://creativecommons.org/licenses/by/4.0/"
-imageEdits: "AI-assisted touch-up and reframing; faces obscured."
 placeholder: true
 ---
 
