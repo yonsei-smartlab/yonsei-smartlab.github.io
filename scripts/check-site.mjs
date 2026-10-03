@@ -2,6 +2,7 @@ import { readdir, readFile, stat } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { resolve, join, relative } from 'node:path';
 import { getResearchRecords, normalizedRecordTitle } from '../src/lib/research-records.ts';
+import { getNewsStories } from '../src/lib/news-stories.ts';
 
 const root = resolve('dist');
 const expectedNav = ['Home', 'Professor', 'Members', 'Research', 'Publications', 'Grants & IP', 'News', 'Contact'];
@@ -152,10 +153,13 @@ for (const file of newsFiles) {
   if (!reviewed || reviewed.status !== 'published' || reviewed.url !== fields.url || reviewed.date !== fields.date) issues.push(`${file}: news review record does not match public content`);
   if (fields.image && (!fields.imageAlt || !fields.imageCredit || !fields.imageSource || !fields.imageWidth || !fields.imageHeight)) issues.push(`${file}: incomplete news image attribution`);
 }
-if ([...newsHtml.matchAll(/data-news(?:=|\s|>)/g)].length !== newsRecords.length || newsRecords.length !== newsAudit.publishedCount) issues.push('Rendered news count differs from the reviewed archive');
+const newsStories = getNewsStories(newsFiles.map((file, index) => ({ id: file.replace(/\.md$/, ''), data: newsRecords[index] })));
+if ([...newsHtml.matchAll(/data-news(?:=|\s|>)/g)].length !== newsStories.length || newsRecords.length !== newsAudit.publishedCount) issues.push('Rendered news count differs from the grouped archive');
+const renderedReportIds = [...newsHtml.matchAll(/data-news-report="([^"]+)"/g)].map(match => match[1]);
+if (JSON.stringify([...renderedReportIds].sort()) !== JSON.stringify(newsFiles.map(file => file.replace(/\.md$/, '')).sort())) issues.push('News grouping omitted or repeated original reports');
 const newsUrls = newsRecords.map(record => record.url);
 if (new Set(newsUrls).size !== newsUrls.length) issues.push('Duplicate original report in News archive');
-const newsDates = [...newsHtml.matchAll(/<time datetime="(\d{4}-\d{2}-\d{2})"/g)].map(match => match[1]);
+const newsDates = [...newsHtml.matchAll(/data-story-date="(\d{4}-\d{2}-\d{2})"/g)].map(match => match[1]);
 if (newsDates.some((date, index) => index > 0 && date > newsDates[index - 1])) issues.push('News archive is not newest first');
 for (const route of ['professor/index.html', 'publications/index.html', 'news/index.html', 'grants-ip/index.html']) {
   const html = await readFile(join(root, route), 'utf8');

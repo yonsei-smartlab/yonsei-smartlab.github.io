@@ -226,6 +226,13 @@ button, a, input, select { -webkit-tap-highlight-color: transparent; }
 .news-meta p, .news-original { margin-top: 8px; }
 .news-item h2 { font-size: 23px; line-height: 1.45; }
 .news-summary { margin-top: 16px; }
+.news-coverage { margin-top: 20px; }
+.news-coverage summary { width: fit-content; color: var(--brand); cursor: pointer; font-size: 14px; font-weight: 500; }
+.news-coverage > ul { list-style: none; margin: 16px 0 0; padding: 0; border-top: 1px solid var(--line); }
+.news-coverage li { padding-block: 14px; border-bottom: 1px solid var(--line); }
+.news-coverage li > a { font-size: 15px; line-height: 1.5; }
+.news-source-meta { margin-bottom: 6px; font-size: 12px; color: var(--muted); }
+.news-coverage .news-original { margin-top: 4px; font-size: 12px; }
 .news-content.has-photo { display: grid; grid-template-columns: minmax(0, 1fr) 240px; gap: 28px; align-items: start; }
 .news-photo { margin: 0; }
 .news-photo img { display: block; width: 100%; height: auto; border: 1px solid var(--line); }

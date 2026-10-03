@@ -2,7 +2,9 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../components/BaseLayout.astro';
 import PageHeader from '../components/PageHeader.astro';
+import { getNewsStories } from '../lib/news-stories';
 const news = (await getCollection('news')).sort((a, b) => b.data.date.localeCompare(a.data.date));
+const stories = getNewsStories(news);
 const years = [...new Set(news.map(item => item.data.date.slice(0, 4)))].sort().reverse();
 const formatDate = (date: string) => new Intl.DateTimeFormat('en', { dateStyle: 'long', timeZone: 'UTC' }).format(new Date(`${date}T00:00:00Z`));
 ---
@@ -14,17 +16,28 @@ const formatDate = (date: string) => new Intl.DateTimeFormat('en', { dateStyle: 
       <div><label for="news-year">Year</label><select id="news-year"><option value="">All years</option>{years.map(year => <option value={year}>{year}</option>)}</select></div>
       <button class="button button-secondary reset-filters" type="reset">Reset</button>
     </form>
-    <p class="results-count" aria-live="polite" aria-atomic="true"><span id="news-count">{news.length}</span> <span id="news-noun">reports</span></p>
+    <p class="results-count" aria-live="polite" aria-atomic="true"><span id="news-count">{stories.length}</span> <span id="news-noun">stories</span></p>
     <ol class="news-list">
-      {news.map(item => <li class="news-item" data-news data-year={item.data.date.slice(0, 4)} data-search={`${item.data.title} ${item.data.originalTitle} ${item.data.source} ${item.data.summary}`.toLowerCase()}>
-        <div class="news-meta"><time datetime={item.data.date}>{formatDate(item.data.date)}</time><p>{item.data.source}</p></div>
+      {stories.map(story => {
+        const item = story.primary;
+        return <li class="news-item" data-news data-story-id={story.id} data-story-date={story.date} data-years={story.years.join(' ')} data-search={story.reports.map(report => `${report.data.title} ${report.data.originalTitle} ${report.data.source} ${report.data.summary}`).join(' ').toLowerCase()}>
+        <div class="news-meta"><time datetime={story.firstDate}>{formatDate(story.firstDate)}</time>{story.date !== story.firstDate && <><span> – </span><time datetime={story.date}>{formatDate(story.date)}</time></>}<p>{item.data.source}{story.reports.length > 1 && <> + {story.reports.length - 1} more reports</>}</p></div>
         <article class:list={['news-content', { 'has-photo': item.data.image }]}>
-          <div><h2><a href={item.data.url}>{item.data.title}</a></h2><p class="news-original" lang="ko">{item.data.originalTitle}</p><p class="news-summary">{item.data.summary}</p><a class="text-link" href={item.data.url}>Read the original report <span aria-hidden="true">→</span></a></div>
+          <div><h2><a href={item.data.url}>{item.data.title}</a></h2><p class="news-original" lang="ko">{item.data.originalTitle}</p><p class="news-summary">{item.data.summary}</p>
+            {story.reports.length === 1 ? <a class="text-link" data-news-report={item.id} href={item.data.url}>Read the original report <span aria-hidden="true">→</span></a> : <details class="news-coverage">
+              <summary>View all {story.reports.length} reports</summary>
+              <ul>{story.reports.map(report => <li>
+                <p class="news-source-meta">{report.data.source} · <time datetime={report.data.date}>{formatDate(report.data.date)}</time></p>
+                <a data-news-report={report.id} href={report.data.url}>{report.data.title}</a>
+                <p class="news-original" lang="ko">{report.data.originalTitle}</p>
+              </li>)}</ul>
+            </details>}
+          </div>
           {item.data.image && <figure class="news-photo"><a href={item.data.url}><img src={item.data.image} alt={item.data.imageAlt || item.data.title} width={item.data.imageWidth} height={item.data.imageHeight} loading="lazy" /></a>{item.data.imageCredit && <figcaption>{item.data.imageCredit}</figcaption>}</figure>}
         </article>
-      </li>)}
+      </li>; })}
     </ol>
-    <p id="news-empty" class="empty-state" hidden>No reports match these filters.</p>
+    <p id="news-empty" class="empty-state" hidden>No stories match these filters.</p>
   </div></section>
 </BaseLayout>
 <script>
@@ -40,12 +53,12 @@ const formatDate = (date: string) => new Intl.DateTimeFormat('en', { dateStyle: 
     let visible = 0;
     for (const entry of entries) {
       const matches = (entry.dataset.search ?? '').includes(query)
-        && (!year?.value || entry.dataset.year === year.value);
+        && (!year?.value || entry.dataset.years?.split(' ').includes(year.value));
       entry.hidden = !matches;
       if (matches) visible++;
     }
     if (count) count.textContent = String(visible);
-    if (noun) noun.textContent = visible === 1 ? 'report' : 'reports';
+    if (noun) noun.textContent = visible === 1 ? 'story' : 'stories';
     if (empty) empty.hidden = visible !== 0;
   }
   search?.addEventListener('input', filterNews);
