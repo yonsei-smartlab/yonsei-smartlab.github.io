@@ -223,6 +223,7 @@ button, a, input, select { -webkit-tap-highlight-color: transparent; }
 .profile-bio { color: var(--ink); }
 .professor-profile .profile-intro { max-width: 1000px; align-items: start; gap: 48px; }
 .professor-profile .image-portrait { margin-top: 12px; }
+.professor-profile .content-image.image-portrait { object-fit: contain; background: #202628; }
 .professor-profile .profile-role { margin-top: 14px; }
 .professor-profile .profile-affiliation { margin-top: 24px; font-size: var(--text-body); color: var(--muted); }
 .professor-profile .profile-affiliation p { display: grid; grid-template-columns: minmax(0, 1fr) 140px; gap: 16px; line-height: var(--reading-line); margin: 0; }
