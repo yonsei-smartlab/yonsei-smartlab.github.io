@@ -1,0 +1,13 @@
+---
+import BaseLayout from '../../components/BaseLayout.astro';
+import PageHeader from '../../components/PageHeader.astro';
+import { goodwellness as center } from '../../data/goodwellness';
+import { site } from '../../data/site';
+---
+<BaseLayout section="goodwellness" title="Contact">
+  <PageHeader title="Contact" description={`${center.fullName} · ${center.koreanName}`} />
+  <section class="section"><div class="container-page contact-grid">
+    <section><h2>University enquiries</h2><dl class="contact-details"><dt>Email</dt><dd><a href={`mailto:${site.email}`}>{site.email}</a></dd><dt>University office telephone</dt><dd><a href={`tel:${site.phone}`}>{site.phone}</a></dd><dt>Affiliation</dt><dd>{site.university}<br />{site.college}<br />{site.department}</dd></dl></section>
+    <section><h2>Visiting the center</h2><dl class="contact-details"><dt>Center address</dt><dd class="placeholder-text">{center.contact.address}</dd><dt>Service hours</dt><dd class="placeholder-text">{center.contact.hours}</dd></dl></section>
+  </div></section>
+</BaseLayout>

@@ -19,7 +19,7 @@ const people = defineCollection({
   schema: z.object({
     name: z.string(),
     role: z.string(),
-    group: z.enum(['Principal Investigator', 'Researchers', 'Students', 'Alumni']),
+    group: z.enum(['Professor', 'Researchers', 'Students', 'Alumni']),
     order: z.number().default(0),
     summary: z.string(),
     photo: z.string().optional(),
@@ -40,6 +40,14 @@ const publications = defineCollection({
     year: z.number().int().optional(),
     order: z.number().default(0),
     doi: z.string().optional(),
+    scholarId: z.string().optional(),
+    scholarUrl: z.url().optional(),
+    importedOn: z.string().optional(),
+    publicationDate: z.string().optional(),
+    forthcoming: z.boolean().default(false),
+    metadataNote: z.string().optional(),
+    reviewRequired: z.boolean().default(false),
+    authorListIncomplete: z.boolean().default(false),
     pdf: z.string().optional(),
     url: z.url().optional(),
     areas: z.array(z.string()).default([]),
@@ -48,4 +56,27 @@ const publications = defineCollection({
   }),
 });
 
-export const collections = { research, people, publications };
+const news = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/news' }),
+  schema: z.object({
+    title: z.string(),
+    originalTitle: z.string(),
+    image: z.string().regex(/^\/images\/news\//).optional(),
+    imageAlt: z.string().optional(),
+    imageWidth: z.number().int().optional(),
+    imageHeight: z.number().int().optional(),
+    imageCredit: z.string().optional(),
+    imageSource: z.url().optional(),
+    date: z.string().regex(/^\d{4}-\d{2}-\d{2}$/),
+    summary: z.string(),
+    source: z.string(),
+    url: z.url(),
+  }).superRefine((entry, context) => {
+    if (entry.image && (!entry.imageAlt || !entry.imageCredit || !entry.imageSource
+      || !entry.imageWidth || !entry.imageHeight)) {
+      context.addIssue({ code: 'custom', message: 'News images require alt text, credit, original source URL and dimensions.' });
+    }
+  }),
+});
+
+export const collections = { research, people, publications, news };

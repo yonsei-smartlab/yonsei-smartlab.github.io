@@ -1,0 +1,24 @@
+{
+  "sourceFile": "techtrans_export_excel_format.xlsx",
+  "sourceSha256": "6215f680ca88a9699a4f4684ca0bfc07f0d8a141f3cde135c111d6a18b65fcf4",
+  "sheet": "Sheet0",
+  "headerRow": 3,
+  "sourceRecordCount": 8,
+  "publishedCount": 8,
+  "publishedSourceRows": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "publicColumns": {
+    "이전기술명": 4,
+    "기술이전일자": 3,
+    "이전기업명": 5
+  },
+  "notes": "One entry per source row. Year is derived from technology-transfer date. Names are preserved as supplied. No financial amounts, participants, payroll/system identifiers, contract numbers or payment fields are copied."
+}

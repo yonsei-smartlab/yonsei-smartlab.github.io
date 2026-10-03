@@ -1,0 +1,84 @@
+---
+import BaseLayout from '../components/BaseLayout.astro';
+import PageHeader from '../components/PageHeader.astro';
+import { getResearchRecords } from '../lib/research-records';
+const records = getResearchRecords();
+const years = [...new Set(records.flatMap(record => record.years))].sort((a, b) => b - a);
+const funders = [...new Set(records.filter(record => record.category === 'grants').map(record => record.detail))].sort((a, b) => a.localeCompare(b, 'ko'));
+const categories = [
+  { value: 'all', label: 'All', count: records.length },
+  { value: 'grants', label: 'Grants', count: records.filter(record => record.category === 'grants').length },
+  { value: 'patents', label: 'Patents', count: records.filter(record => record.category === 'patents').length },
+  { value: 'transfers', label: 'Technology transfers', count: records.filter(record => record.category === 'transfers').length },
+];
+---
+<BaseLayout title="Grants & IP">
+  <PageHeader title="Grants & IP" description="" />
+  <section class="section"><div class="container-page">
+    <div class="archive-categories" role="group" aria-label="Record category">
+      {categories.map(category => <button type="button" data-category={category.value} aria-pressed={category.value === 'all'} aria-controls="research-records">{category.label} <span aria-hidden="true">{category.count}</span></button>)}
+    </div>
+    <form class="publication-filters archive-filters" role="search" aria-label="Filter grants, patents and technology transfers">
+      <div class="search-field"><label for="record-search">Search</label><input id="record-search" type="search" placeholder="Title, registration number, agency, or company" autocomplete="off" /></div>
+      <div><label id="record-year-label" for="record-year">Year</label><select id="record-year"><option value="">All years</option>{years.map(year => <option value={year}>{year}</option>)}</select></div>
+      <div id="record-funder-field" hidden><label for="record-funder">Funding agency</label><select id="record-funder"><option value="">All agencies</option>{funders.map(funder => <option value={funder}>{funder}</option>)}</select></div>
+      <button class="button button-secondary reset-filters" type="reset">Reset</button>
+    </form>
+    <p class="results-count" aria-live="polite" aria-atomic="true"><span id="record-count">{records.length}</span> <span id="record-noun">records</span></p>
+    <ol class="pub-list" id="research-records">{records.map(record => <li class="pub-item" data-record data-category={record.category} data-search={`${record.title} ${record.detail} ${record.registrationNumber ?? ''}`.toLowerCase()} data-years={record.years.join(' ')} data-detail={record.detail}>
+      <h3 lang="ko">{record.title}</h3>
+      <p class="pub-venue"><span class="record-category">{record.label}</span> · <span class="record-years">{record.yearText}</span>{record.registrationNumber && <> · Registration no. <span class="record-registration">{record.registrationNumber}</span></>}{record.detail && <> · <span lang="ko" class="record-detail">{record.detail}</span></>}</p>
+    </li>)}</ol>
+    <p id="record-empty" class="empty-state" hidden>No records match these filters.</p>
+  </div></section>
+</BaseLayout>
+<script>
+  const search = document.querySelector<HTMLInputElement>('#record-search');
+  const year = document.querySelector<HTMLSelectElement>('#record-year');
+  const funder = document.querySelector<HTMLSelectElement>('#record-funder');
+  const funderField = document.querySelector<HTMLElement>('#record-funder-field');
+  const yearLabel = document.querySelector('#record-year-label');
+  const entries = [...document.querySelectorAll<HTMLElement>('[data-record]')];
+  const buttons = [...document.querySelectorAll<HTMLButtonElement>('.archive-categories button')];
+  const count = document.querySelector('#record-count');
+  const noun = document.querySelector('#record-noun');
+  const empty = document.querySelector<HTMLElement>('#record-empty');
+  const form = document.querySelector<HTMLFormElement>('.archive-filters');
+  const requested = new URLSearchParams(location.search).get('category');
+  let category = buttons.some(button => button.dataset.category === requested) ? requested! : 'all';
+  function filterRecords() {
+    const query = search?.value.trim().toLowerCase() ?? '';
+    const selectedYear = Number(year?.value);
+    let visible = 0;
+    entries.forEach(entry => {
+      const matches = (category === 'all' || entry.dataset.category === category)
+        && (entry.dataset.search ?? '').includes(query)
+        && (!selectedYear || (entry.dataset.years ?? '').split(' ').includes(String(selectedYear)))
+        && (category !== 'grants' || !funder?.value || entry.dataset.detail === funder.value);
+      entry.hidden = !matches;
+      if (matches) visible++;
+    });
+    buttons.forEach(button => button.setAttribute('aria-pressed', String(button.dataset.category === category)));
+    if (funderField) funderField.hidden = category !== 'grants';
+    form?.classList.toggle('has-agency', category === 'grants');
+    if (yearLabel) yearLabel.textContent = category === 'patents' ? 'Registration year' : category === 'transfers' ? 'Transfer year' : 'Year';
+    const nouns: Record<string, [string, string]> = { all: ['record', 'records'], grants: ['grant', 'grants'], patents: ['registered patent', 'registered patents'], transfers: ['technology transfer', 'technology transfers'] };
+    if (count) count.textContent = String(visible);
+    if (noun) noun.textContent = nouns[category][visible === 1 ? 0 : 1];
+    if (empty) empty.hidden = visible !== 0;
+  }
+  buttons.forEach(button => button.addEventListener('click', () => {
+    category = button.dataset.category ?? 'all';
+    const url = new URL(location.href);
+    if (category === 'all') url.searchParams.delete('category');
+    else url.searchParams.set('category', category);
+    history.replaceState(null, '', url);
+    filterRecords();
+  }));
+  search?.addEventListener('input', filterRecords);
+  year?.addEventListener('change', filterRecords);
+  funder?.addEventListener('change', filterRecords);
+  form?.addEventListener('submit', event => event.preventDefault());
+  form?.addEventListener('reset', () => setTimeout(filterRecords, 0));
+  filterRecords();
+</script>

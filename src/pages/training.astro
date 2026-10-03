@@ -1,0 +1,36 @@
+---
+import BaseLayout from '../components/BaseLayout.astro';
+import PageHeader from '../components/PageHeader.astro';
+import ResearchNav from '../components/ResearchNav.astro';
+import { specialistPrograms, additionalPrograms } from '../data/training';
+import { site } from '../data/site';
+---
+<BaseLayout title="Training" description="SMART Lab international specialist education in DNS, the Janda approach, McKenzie MDT, and robotic rehabilitation.">
+  <PageHeader title="Training" description="International specialist education in rehabilitation and movement science." />
+  <ResearchNav />
+  <div class="container-page training-page">
+    <section aria-labelledby="specialist-programs">
+      <h2 id="specialist-programs">Specialist programmes</h2>
+      <div class="training-grid">
+        {specialistPrograms.map(program => <article class="training-card" id={program.id} data-training>
+          <h3>{program.title}</h3>
+          <p class="training-subtitle">{program.subtitle}</p>
+          <p class="training-description">{program.description}</p>
+          {program.resource && <a class="directory-link" href={program.resource.href} target="_blank" rel="noopener noreferrer">{program.resource.label} <span aria-hidden="true">↗</span></a>}
+        </article>)}
+      </div>
+    </section>
+    <section class="additional-training" aria-labelledby="additional-programs">
+      <h2 id="additional-programs">Further training</h2>
+      <div class="additional-training-grid">
+        {additionalPrograms.map(program => <article class="training-card" id={program.id} data-training>
+          <h3>{program.title}</h3>
+          <p class="training-subtitle">{program.subtitle}</p>
+          <p class="training-description">{program.description}</p>
+          {program.resource && <a class="directory-link" href={program.resource.href} target="_blank" rel="noopener noreferrer">{program.resource.label} <span aria-hidden="true">↗</span></a>}
+        </article>)}
+      </div>
+    </section>
+    <div class="training-contact"><h2>Training enquiries</h2><a href={`mailto:${site.email}`}>{site.email}</a></div>
+  </div>
+</BaseLayout>

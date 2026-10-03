@@ -3,20 +3,24 @@ import BaseLayout from '../components/BaseLayout.astro';
 import PageHeader from '../components/PageHeader.astro';
 import PubList from '../components/PubList.astro';
 import { getPublications, getResearch } from '../lib/content';
+import { site } from '../data/site';
+import publicationImport from '../data/publication-import.json';
 const publications = await getPublications();
 const research = await getResearch();
 const years = [...new Set(publications.flatMap(pub => pub.data.year ? [pub.data.year] : []))].sort((a, b) => b - a);
+const updatedDate = new Intl.DateTimeFormat('en', { dateStyle: 'long', timeZone: 'UTC' }).format(new Date(`${publicationImport.importedOn}T00:00:00Z`));
 ---
 <BaseLayout title="Publications">
-  <PageHeader title="Publications" description="[Add a short introduction to the lab’s publications and scholarly work.]" />
+  <PageHeader title="Publications" description="Publications in neuromodulation, robotic rehabilitation, sports movement science, and motor recovery." />
   <section class="section"><div class="container-page">
+    <p class="publication-source">Updated {updatedDate} · <a href={site.links.scholar}>Google Scholar <span aria-hidden="true">↗</span></a></p>
     <form class="publication-filters" role="search" aria-label="Filter publications">
       <div class="search-field"><label for="publication-search">Search</label><input id="publication-search" type="search" placeholder="Title, author, or journal" autocomplete="off" /></div>
-      <div><label for="publication-year">Year</label><select id="publication-year"><option value="">All years</option>{years.map(year => <option value={year}>{year}</option>)}</select></div>
-      <div><label for="publication-area">Research area</label><select id="publication-area"><option value="">All areas</option>{research.map(area => <option value={area.id}>{area.data.title}</option>)}</select></div>
+      <div><label for="publication-year">Year</label><select id="publication-year"><option value="">All years</option>{years.map(year => <option value={year}>{year}</option>)}<option value="unknown">Undated</option></select></div>
+      <div><label for="publication-area">Research area</label><select id="publication-area"><option value="">All areas</option>{research.map(area => <option value={area.id}>{area.data.title}</option>)}<option value="unclassified">Other / unclassified</option></select></div>
       <button class="button button-secondary reset-filters" type="reset">Reset</button>
     </form>
-    <p class="results-count" aria-live="polite" aria-atomic="true"><span id="publication-count">{publications.length}</span> <span id="publication-noun">{publications.length === 1 ? 'publication' : 'publications'}</span>{publications.some(pub => pub.data.placeholder) && <span class="placeholder-text"> · includes template entries</span>}</p>
+    <p class="results-count" aria-live="polite" aria-atomic="true"><span id="publication-count">{publications.length}</span> <span id="publication-noun">{publications.length === 1 ? 'publication' : 'publications'}</span></p>
     <PubList pubs={publications} filterable />
     <p id="publication-empty" class="empty-state" hidden>No publications match these filters.</p>
   </div></section>
@@ -34,8 +38,8 @@ const years = [...new Set(publications.flatMap(pub => pub.data.year ? [pub.data.
     let visible = 0;
     entries.forEach(entry => {
       const matches = (entry.dataset.search ?? '').includes(query)
-        && (!year?.value || entry.dataset.year === year.value)
-        && (!area?.value || (entry.dataset.areas ?? '').split(' ').includes(area.value));
+        && (!year?.value || (year.value === 'unknown' ? !entry.dataset.year : entry.dataset.year === year.value))
+        && (!area?.value || (area.value === 'unclassified' ? !entry.dataset.areas : (entry.dataset.areas ?? '').split(' ').includes(area.value)));
       entry.hidden = !matches;
       if (matches) visible++;
     });

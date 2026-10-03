@@ -2,4 +2,4 @@
 interface Props { title: string; description: string; }
 const { title, description } = Astro.props;
 ---
-<section class="page-header"><div class="container-page"><h1>{title}</h1><p class="page-lead">{description}</p></div></section>
+<section class="page-header"><div class="container-page"><h1>{title}</h1>{description && <p class="page-lead">{description}</p>}</div></section>

@@ -1,0 +1,14 @@
+---
+title: "Miracle walking-assistance robotics centre opens at Yonsei"
+originalTitle: "소아·노인·장애인 위한 자율주행 보행보조로봇 개발"
+date: "2023-12-11"
+source: "Wonju Today · 원주투데이"
+url: "https://www.wonjutoday.co.kr/news/articleView.html?idxno=134930"
+summary: "Yonsei opened the Miracle walking-assistance robotics research centre on December 6. Led by Professor You, the centre was established to develop autonomous walking-assistance robots for children, older adults, and people with walking disabilities."
+imageSource: "https://cdn.wonjutoday.co.kr/news/photo/202312/134930_86363_2439.JPG"
+imageAlt: "Opening ceremony for Yonsei’s Miracle walking-assistance robotics research centre"
+imageCredit: "Wonju Today"
+image: "/images/news/2023-12-11-miracle-robotics.jpg"
+imageWidth: 600
+imageHeight: 393
+---

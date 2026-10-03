@@ -7,4 +7,6 @@ dist/
 design-preview/
 artifacts/
 *.log
+__pycache__/
+*.pyc
 .DS_Store

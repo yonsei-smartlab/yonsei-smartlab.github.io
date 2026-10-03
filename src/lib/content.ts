@@ -9,7 +9,7 @@ export async function getPeople() {
 }
 
 export async function getPublications() {
-  return (await getCollection('publications')).sort((a, b) =>
+  return (await getCollection('publications')).filter(pub => !pub.data.reviewRequired).sort((a, b) =>
     (b.data.year ?? 0) - (a.data.year ?? 0) || a.data.order - b.data.order,
   );
 }

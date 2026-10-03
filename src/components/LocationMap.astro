@@ -1,0 +1,14 @@
+---
+import { site } from '../data/site';
+const { latitude, longitude, label } = site.map;
+const query = new URLSearchParams({
+  bbox: '127.8958,37.2818,127.9020,37.2858',
+  layer: 'mapnik',
+  marker: `${latitude},${longitude}`,
+});
+const mapUrl = `https://www.openstreetmap.org/?mlat=${latitude}&mlon=${longitude}#map=17/${latitude}/${longitude}`;
+---
+<figure class="location-map">
+  <iframe src={`https://www.openstreetmap.org/export/embed.html?${query}`} title={`Map showing ${label} at Yonsei University`} loading="lazy" referrerpolicy="no-referrer" width="480" height="320"></iframe>
+  <figcaption>{label} · <a href={mapUrl}>Open larger map</a><br /><small>© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a></small></figcaption>
+</figure>

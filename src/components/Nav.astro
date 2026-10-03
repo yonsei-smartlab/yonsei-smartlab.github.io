@@ -1,17 +1,26 @@
 ---
 import { site } from '../data/site';
+import { goodwellness } from '../data/goodwellness';
+interface Props { section?: 'lab' | 'goodwellness'; }
+const { section = 'lab' } = Astro.props;
+const isCenter = section === 'goodwellness';
+const navigation = isCenter ? goodwellness.nav : site.nav;
 const current = Astro.url.pathname.replace(/\/$/, '') || '/';
 ---
 <header class="site-header">
   <nav class="container-page nav-inner" aria-label="Main navigation">
-    <a class="wordmark" href="/">{site.name}</a>
+    <div class="site-switcher" role="group" aria-label="Websites">
+      <a class="wordmark" data-website="lab" href="/" aria-current={!isCenter ? 'location' : undefined}>{site.name}</a>
+      <a class="wordmark" data-website="goodwellness" href={goodwellness.home} aria-current={isCenter ? 'location' : undefined}>{goodwellness.headerName}</a>
+    </div>
     <button class="nav-toggle" type="button" aria-controls="main-menu" aria-expanded="false">
       <span>Menu</span><span class="menu-glyph" aria-hidden="true">☰</span>
     </button>
     <ul id="main-menu" class="nav-list">
-      {site.nav.map(item => {
+      {navigation.map(item => {
         const path = item.href.replace(/\/$/, '') || '/';
-        const active = path === '/' ? current === '/' : current === path || current.startsWith(path + '/');
+        const home = isCenter ? goodwellness.home.replace(/\/$/, '') : '/';
+        const active = path === home ? current === home : current === path || current.startsWith(path + '/') || (!isCenter && path === '/research' && current === '/training');
         return <li><a href={item.href} aria-current={active ? 'page' : undefined}>{item.label}</a></li>;
       })}
     </ul>

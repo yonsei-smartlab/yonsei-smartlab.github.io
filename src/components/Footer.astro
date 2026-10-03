@@ -1,13 +1,18 @@
 ---
 import { site } from '../data/site';
+import { goodwellness } from '../data/goodwellness';
+interface Props { section?: 'lab' | 'goodwellness'; }
+const { section = 'lab' } = Astro.props;
+const isCenter = section === 'goodwellness';
+const identity = isCenter ? goodwellness : site;
 ---
 <footer class="site-footer">
   <div class="container-page">
     <div class="footer-grid">
-      <div><p class="footer-name">{site.name}</p><p>{site.university}</p><p class="placeholder-text">{site.department}</p></div>
-      <div><h2>Location</h2>{site.address.map(line => <p class="placeholder-text">{line}</p>)}</div>
-      <div><h2>Contact</h2>{site.email ? <a href={`mailto:${site.email}`}>{site.email}</a> : <p class="placeholder-text">[Lab email address]</p>}<p><a href="/contact/">Join Us / Contact</a></p></div>
+      <div><p class="footer-name">{identity.name}</p><p>{identity.fullName}</p><p>{site.university}</p><p>{site.college}</p><p>{site.department}</p></div>
+      <div><h2>{isCenter ? 'Community' : 'Location'}</h2>{isCenter ? <><p>Wonju, Republic of South Korea</p><p>Supported by Wonju City</p><p><a href="/">SMART Lab</a></p></> : site.address.map(line => <p>{line}</p>)}</div>
+      <div><h2>{isCenter ? 'University enquiries' : 'Contact'}</h2>{site.email ? <a href={`mailto:${site.email}`}>{site.email}</a> : <p class="placeholder-text">[Lab email address]</p>}<p><a href={isCenter ? '/goodwellness/contact/' : '/contact/'}>Contact</a></p></div>
     </div>
-    <div class="footer-bottom"><p>© {new Date().getFullYear()} {site.name}</p>{site.draft && <p class="template-note">Template draft · bracketed text and blank images are placeholders.</p>}</div>
+    <div class="footer-bottom"><p>© {new Date().getFullYear()} {identity.name}</p></div>
   </div>
 </footer>

@@ -1,0 +1,366 @@
+{
+  "sources": [
+    {
+      "file": "연구성과관리시스템.html",
+      "sha256": "eecbb8445fc93e44d0e72eb8d8d8b466e6de72a3652fb0f5ebd2563237e111e4",
+      "firstRow": 1,
+      "lastRow": 100,
+      "recordCount": 100
+    },
+    {
+      "file": "연구성과관리시스템2.html",
+      "sha256": "fd36320009b67845c27b115825e7bad0e2e3245005728d8b26f20d8a66302ead",
+      "firstRow": 101,
+      "lastRow": 127,
+      "recordCount": 27
+    }
+  ],
+  "sourceRecordCount": 127,
+  "registeredSourceRowCount": 89,
+  "publishedCount": 72,
+  "duplicateRegisteredRowCount": 17,
+  "heldMissingRegistrationDateCount": 38,
+  "publishedSourceRows": [
+    [
+      38
+    ],
+    [
+      32
+    ],
+    [
+      33
+    ],
+    [
+      35
+    ],
+    [
+      39
+    ],
+    [
+      41
+    ],
+    [
+      43
+    ],
+    [
+      42
+    ],
+    [
+      36
+    ],
+    [
+      37
+    ],
+    [
+      40
+    ],
+    [
+      44
+    ],
+    [
+      45
+    ],
+    [
+      46
+    ],
+    [
+      47
+    ],
+    [
+      54
+    ],
+    [
+      52
+    ],
+    [
+      51
+    ],
+    [
+      48
+    ],
+    [
+      50
+    ],
+    [
+      55
+    ],
+    [
+      56
+    ],
+    [
+      59
+    ],
+    [
+      58
+    ],
+    [
+      60
+    ],
+    [
+      62
+    ],
+    [
+      63
+    ],
+    [
+      66
+    ],
+    [
+      67
+    ],
+    [
+      69
+    ],
+    [
+      65
+    ],
+    [
+      70
+    ],
+    [
+      74
+    ],
+    [
+      79
+    ],
+    [
+      61
+    ],
+    [
+      81
+    ],
+    [
+      82
+    ],
+    [
+      68
+    ],
+    [
+      77
+    ],
+    [
+      71
+    ],
+    [
+      80
+    ],
+    [
+      73
+    ],
+    [
+      64
+    ],
+    [
+      72
+    ],
+    [
+      86
+    ],
+    [
+      87
+    ],
+    [
+      88
+    ],
+    [
+      75
+    ],
+    [
+      76
+    ],
+    [
+      85
+    ],
+    [
+      89
+    ],
+    [
+      90,
+      91
+    ],
+    [
+      92,
+      93
+    ],
+    [
+      97
+    ],
+    [
+      100,
+      103
+    ],
+    [
+      96,
+      99,
+      102
+    ],
+    [
+      98,
+      101
+    ],
+    [
+      94,
+      95
+    ],
+    [
+      108,
+      109
+    ],
+    [
+      105
+    ],
+    [
+      107
+    ],
+    [
+      104
+    ],
+    [
+      106
+    ],
+    [
+      110,
+      111
+    ],
+    [
+      112,
+      113
+    ],
+    [
+      114,
+      115
+    ],
+    [
+      116,
+      117
+    ],
+    [
+      118,
+      119
+    ],
+    [
+      122,
+      123
+    ],
+    [
+      120,
+      121
+    ],
+    [
+      126,
+      127
+    ],
+    [
+      124,
+      125
+    ]
+  ],
+  "heldMissingRegistrationDateRows": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    34,
+    49,
+    53,
+    57,
+    78,
+    83,
+    84
+  ],
+  "normalizedRegistrationRows": [
+    {
+      "row": 73,
+      "sourceNumber": "10-2007157-00-00",
+      "registrationNumber": "10-2007157"
+    },
+    {
+      "row": 94,
+      "sourceNumber": "1385165",
+      "registrationNumber": "10-1385165"
+    },
+    {
+      "row": 108,
+      "sourceNumber": "1324696",
+      "registrationNumber": "10-1324696"
+    },
+    {
+      "row": 110,
+      "sourceNumber": "1173047",
+      "registrationNumber": "10-1173047"
+    },
+    {
+      "row": 112,
+      "sourceNumber": "1114164",
+      "registrationNumber": "10-1114164"
+    },
+    {
+      "row": 114,
+      "sourceNumber": "1044876",
+      "registrationNumber": "10-1044876"
+    },
+    {
+      "row": 116,
+      "sourceNumber": "0946186",
+      "registrationNumber": "10-0946186"
+    },
+    {
+      "row": 118,
+      "sourceNumber": "0946185",
+      "registrationNumber": "10-0946185"
+    },
+    {
+      "row": 120,
+      "sourceNumber": "0866543",
+      "registrationNumber": "10-0866543"
+    },
+    {
+      "row": 122,
+      "sourceNumber": "0894895",
+      "registrationNumber": "10-0894895"
+    },
+    {
+      "row": 124,
+      "sourceNumber": "0816847",
+      "registrationNumber": "10-0816847"
+    },
+    {
+      "row": 126,
+      "sourceNumber": "0843157",
+      "registrationNumber": "10-0843157"
+    }
+  ],
+  "publicFields": [
+    "title",
+    "registrationYear",
+    "registrationNumber"
+  ],
+  "notes": "Registered patents only. Year comes from registration date, not application date. Bare numbers are resolved only to an unambiguous full number in the same-country source with matching title, registration date and application details; trailing -00-00 is normalized. Duplicate country/registration-number records are consolidated; distinct numbers with the same title/year remain separate. The user approved public registration numbers. Country remains internal to reconciliation. Rows with no registration date are held out, without assuming their legal status."
+}
