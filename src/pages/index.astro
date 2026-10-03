@@ -21,7 +21,7 @@ const areas = await getResearch();
         <div class="hero-actions homepage-actions"><a class="button" href="/research/">Explore our research</a><a class="button" href="/publications/">Browse publications</a><a class="button" href="/news/">Read the latest news</a></div>
       </div>
       <div class="research-process">
-        <ol class="process-steps">{site.researchSteps.map((step, index) => <li><span class="step-number" aria-hidden="true">{String(index + 1).padStart(2, '0')}</span><h2>{step.title}</h2><p>{step.description}</p></li>)}</ol>
+        <ol class="process-steps">{site.researchSteps.map((step, index) => <li><span class="step-number" aria-hidden="true">{String(index + 1).padStart(2, '0')}</span><h2><span class="step-title-line">{step.title.split(' ')[0]}</span>{' '}<span class="step-title-line">{step.title.split(' ').slice(1).join(' ')}</span></h2><p>{step.description}</p></li>)}</ol>
         <p class="process-note">{site.researchProcessDescription}</p>
       </div>
     </div>
