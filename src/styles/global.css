@@ -504,16 +504,3 @@ main :where(p, li, dd, a) { overflow-wrap: anywhere; }
 .figure-card > .research-image-credit { padding: 0 24px 20px; margin: 0; }
 
 .image-edit-note { display: block; color: var(--muted); }
-
-/* Wider homepage copy keeps the five research steps in the desktop opening view. */
-@media (min-width: 900px) {
-  .hero-compact-intro { padding-top: 20px; padding-bottom: 28px; }
-  .hero-compact-intro .hero-intro { max-width: none; }
-  .hero-compact-intro h1 { margin-top: 12px; }
-  .hero-compact-intro .institute-name { max-width: none; margin-top: 12px; }
-  .hero-compact-intro .step-number { height: 40px; }
-  .hero-compact-intro .hero-description-reading { max-width: none; margin-top: 16px; }
-  .hero-compact-intro .hero-description-reading p + p { margin-top: 12px; }
-  .hero-compact-intro .hero-actions { margin-top: 20px; }
-  .hero-compact-intro .research-process { margin-top: 20px; padding-top: 24px; }
-}
