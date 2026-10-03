@@ -319,7 +319,7 @@
       "file": "src/content/news/2022-04-21-community-rehabilitation.md",
       "url": "https://www.ajunews.com/view/20220421135725898",
       "date": "2022-04-21",
-      "identityEvidence": "Previously checked original report identifies Yonsei Professor You or Yonsei GOODWELLNESS Center",
+      "identityEvidence": "Original Aju Business Daily body rechecked October 3: explicitly names 유승현 연세대물리치료학과 교수 presenting community care through robotic rehabilitation; visible date April 21, 2022 14:09.",
       "status": "published",
       "goodwellness": false
     },
@@ -336,7 +336,7 @@
       "file": "src/content/news/2025-03-06-robotic-rehabilitation-guide.md",
       "url": "https://news.tf.co.kr/read/national/2185153.htm",
       "date": "2025-03-06",
-      "identityEvidence": "Previously checked original report identifies Yonsei Professor You or Yonsei GOODWELLNESS Center",
+      "identityEvidence": "Original The Fact article body rechecked October 3: explicitly names 유승현 연세대학교 물리치료학과 교수 as an expert reviewer; visible date March 6, 2025 16:21.",
       "status": "published",
       "goodwellness": false
     },
@@ -526,7 +526,7 @@
       "url": "https://www.youtube.com/watch?v=z3J7y6uwhqw",
       "date": "2023-12-07",
       "status": "published",
-      "identityEvidence": "Original KTV upload description and thumbnail explicitly identify 유승현 연세대학교 물리치료학과 교수.",
+      "identityEvidence": "Original verified KTV channel expanded programme description rechecked October 3: explicitly names Yonsei physical therapy Professor You as a guest; visible upload date December 7, 2023.",
       "reviewNote": "Original broadcaster’s expanded description gives December 7, 2023. The CRC secondary index incorrectly shows November 7; use the original upload date.",
       "goodwellness": false
     },
@@ -566,7 +566,7 @@
       "url": "https://robotzine.co.kr/entry/260381",
       "date": "2022-04-22",
       "status": "published",
-      "identityEvidence": "Original publisher article explicitly identifies the Yonsei Physical Therapy Professor.",
+      "identityEvidence": "Original browser body rechecked October 3: explicitly names Yonsei physical therapy Professor You presenting community care; publication April 22, 2022 09:21, event April 21.",
       "reviewNote": "Original publisher body explicitly names Yonsei Physical Therapy Professor You. Publisher timestamp April 22, 2022 at 09:21. The sole article image is a Hwaseong City logo; omit it rather than treating it as an event photograph.",
       "goodwellness": false
     },
@@ -618,7 +618,7 @@
       "file": "src/content/news/2008-01-28-hallym-sports-seminar.md",
       "url": "https://hallym.hallym.or.kr/hallymuniv_sub.asp?left_menu=left_news&news_no=1504&screen=ptm201",
       "date": "2008-01-28",
-      "identityEvidence": "Original hospital news explicitly names 유승현 연세대 물리치료학과 교수. Publication date 2008-01-28 differs from seminar date January 26; publication date used.",
+      "identityEvidence": "Original hospital body rechecked using declared EUC-KR encoding: explicitly names Yonsei physical therapy Professor You as a shoulder rehabilitation speaker; publication January 28, 2008, event January 26.",
       "status": "published",
       "goodwellness": false
     },
@@ -6186,6 +6186,13 @@
     "remaining": "Six Google redirect candidates, 25 held identity/access cases, four unavailable sources, and incomplete broader Naver browser coverage remain documented in the review queue. No unresolved candidates were automatically published."
   },
   "newsRefresh": "src/data/news-refresh-2026-10-03.json",
+  "factCheckRequirement": {
+    "addedOn": "2026-10-03",
+    "rule": "Verify the original article’s named person and institutional context. General Walkbot/company coverage alone does not establish Professor You participation.",
+    "additionalSourceReview": "src/data/news-walkbot-source-fact-check.json",
+    "pendingScopeClarification": true,
+    "publicationIdentityReview": "src/data/news-publication-identity-check.json"
+  },
   "editorialExclusions": [
     {
       "file": "src/data/news-source-archive/2023-11-14-goodwellness-funding.md",

@@ -31,6 +31,7 @@ def main():
     aliases = {normalized(row['url']): row['canonical'] for row in audit.get('portalAliases', [])}
     aliases.update({normalized(row['url']): row['canonical'] for row in audit.get('duplicateReports', [])})
     exclusions = {normalized(row['url']): row for row in audit.get('excludedExamples', [])}
+    exclusions.update({normalized(row['url']): row for row in audit.get('editorialExclusions', [])})
     unavailable = {normalized(row['url']): row for row in audit.get('unavailableSources', [])}
     held = {normalized(row['url']): row for row in audit.get('heldForReview', [])}
     candidates, coverage = {}, []

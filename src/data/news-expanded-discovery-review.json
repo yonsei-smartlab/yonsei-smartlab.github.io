@@ -4,9 +4,9 @@
   "note": "Editorial queue only. Search results do not establish identity or approve public content.",
   "candidateCount": 448,
   "statusCounts": {
-    "unreviewed": 360,
+    "unreviewed": 339,
     "duplicate": 7,
-    "excluded": 48,
+    "excluded": 69,
     "published": 31,
     "held": 2
   },
@@ -1776,7 +1776,13 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9B%8C%ED%81%AC%EB%B4%87&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "finalUrl": "https://www.newsprime.co.kr/news/article/?no=742928",
+        "reviewComplete": false
+      }
     },
     {
       "url": "http://www.newsprime.co.kr/news/article.html?no=734566",
@@ -1803,7 +1809,13 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9B%8C%ED%81%AC%EB%B4%87&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "finalUrl": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=452420",
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2391611",
@@ -1872,7 +1884,13 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9B%8C%ED%81%AC%EB%B4%87&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "finalUrl": "http://www.cctimes.kr/news/articleView.html?idxno=886254",
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://www.gukjenews.com/news/articleView.html?idxno=3479648",
@@ -1913,7 +1931,13 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9B%8C%ED%81%AC%EB%B4%87&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "finalUrl": "http://www.whosaeng.com/167278",
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://www.etoday.co.kr/news/view/2535083",
@@ -1940,7 +1964,13 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9B%8C%ED%81%AC%EB%B4%87&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "finalUrl": "https://view.asiae.co.kr/article/2025121211175924858",
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://www.dailymedi.com/news/news_view.php?wr_id=932128",
@@ -1953,7 +1983,13 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9B%8C%ED%81%AC%EB%B4%87&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "finalUrl": "https://www.dailymedi.com/news/news_view.php?wr_id=932128",
+        "reviewComplete": false
+      }
     },
     {
       "url": "http://game.dailyesports.com/view.php?ud=2025112416170638943da15d9d2_26",
@@ -1966,7 +2002,13 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9B%8C%ED%81%AC%EB%B4%87&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "finalUrl": "https://www.dailygame.co.kr/view.php?ud=2025112416170638943da15d9d2_26",
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://www.globale.co.kr/news/articleView.html?idxno=35451",
@@ -2007,7 +2049,13 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=Walkbot&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "finalUrl": "https://www.medipana.com/news/articleView.html?idxno=417920",
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16150442",
@@ -2020,7 +2068,13 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=Walkbot&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "finalUrl": "https://www.topstarnews.net/news/articleView.html?idxno=16150442",
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16149846",
@@ -2033,7 +2087,13 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=Walkbot&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "finalUrl": "https://www.topstarnews.net/news/articleView.html?idxno=16149846",
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://view.asiae.co.kr/article/2024072016591425666",
@@ -2046,7 +2106,13 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=Walkbot&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "finalUrl": "https://view.asiae.co.kr/article/2024072016591425666",
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://view.asiae.co.kr/article/2024070623113518131",
@@ -2059,7 +2125,13 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=Walkbot&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "finalUrl": "https://view.asiae.co.kr/article/2024070623113518131",
+        "reviewComplete": false
+      }
     },
     {
       "url": "http://kr.aving.net/news/view.php?articleId=1587437&Branch_ID=kr&rssid=naver&mn_name=news",
@@ -2072,7 +2144,13 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=Walkbot&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "body-unavailable",
+        "finalUrl": "https://kr.aving.net/news/view.php?articleId=1587437&Branch_ID=kr&rssid=naver&mn_name=news",
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://www.news2day.co.kr/article/20260727500136",
@@ -2085,7 +2163,13 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=Walkbot&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "finalUrl": "https://www.news2day.co.kr/article/20260727500136",
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16146684",
@@ -2098,7 +2182,13 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=Walkbot&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "finalUrl": "https://www.topstarnews.net/news/articleView.html?idxno=16146684",
+        "reviewComplete": false
+      }
     },
     {
       "url": "http://kr.aving.net/news/view.php?articleId=721000&Branch_ID=kr&rssid=naver&mn_name=news",
@@ -2111,7 +2201,13 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=Walkbot&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "body-unavailable",
+        "finalUrl": "https://kr.aving.net/news/view.php?articleId=721000&Branch_ID=kr&rssid=naver&mn_name=news",
+        "reviewComplete": false
+      }
     },
     {
       "url": "http://www.newsprime.co.kr/news/article.html?no=737135",
@@ -2124,7 +2220,13 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=Walkbot&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "finalUrl": "https://www.newsprime.co.kr/news/article/?no=737135",
+        "reviewComplete": false
+      }
     },
     {
       "url": "http://www.doctorstimes.com/news/articleView.html?idxno=240219",
@@ -2313,7 +2415,14 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8%EA%B5%BF%EC%9B%94%EB%8B%88%EC%8A%A4%EC%84%BC%ED%84%B0&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "finalUrl": "https://www.biztribune.co.kr/news/articleView.html?idxno=333529",
+        "reviewComplete": true
+      },
+      "review": "Original body concerns another company, research group, consumer technology or university activity; no requested Professor, SMART Lab, center or Walkbot connection established."
     },
     {
       "url": "https://www.ngetnews.com/news/articleView.html?idxno=523294",
@@ -2331,7 +2440,14 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8%EA%B5%BF%EC%9B%94%EB%8B%88%EC%8A%A4%EC%84%BC%ED%84%B0&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "finalUrl": "https://www.ngetnews.com/news/articleView.html?idxno=523294",
+        "reviewComplete": true
+      },
+      "review": "Original body concerns another company, research group, consumer technology or university activity; no requested Professor, SMART Lab, center or Walkbot connection established."
     },
     {
       "url": "http://www.paxetv.com/news/articleView.html?idxno=225788",
@@ -2610,7 +2726,14 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=SMART+Lab+Yonsei&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "finalUrl": "https://www.koreatimes.co.kr/southkorea/education/20260727/seoul-ai-foundation-mit-lab-launch-joint-ai-talent-program-for-korean-students?utm_source=legacy_url&utm_medium=redirect&utm_campaign=article_legacy_id",
+        "reviewComplete": true
+      },
+      "review": "Original body concerns another company, research group, consumer technology or university activity; no requested Professor, SMART Lab, center or Walkbot connection established."
     },
     {
       "url": "https://us.aving.net/news/articleView.html?idxno=53299",
@@ -2623,7 +2746,14 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=SMART+Lab+Yonsei&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "identity-review-needed",
+        "finalUrl": "https://us.aving.net/news/articleView.html?idxno=53299",
+        "reviewComplete": true
+      },
+      "review": "Original body concerns GT SCIEN chemical laboratory safety products called Smart Lab Mate/Sensor AI; different company and subject from Yonsei SMART Lab."
     },
     {
       "url": "https://www.venturesquare.net/1034980/",
@@ -2636,7 +2766,14 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=SMART+Lab+Yonsei&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "finalUrl": "https://www.venturesquare.net/1034980/",
+        "reviewComplete": true
+      },
+      "review": "Original body concerns another company, research group, consumer technology or university activity; no requested Professor, SMART Lab, center or Walkbot connection established."
     },
     {
       "url": "http://www.breaknews.com/890824",
@@ -2649,7 +2786,14 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=SMART+Lab+Yonsei&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "finalUrl": "http://www.breaknews.com/890824",
+        "reviewComplete": true
+      },
+      "review": "Original body concerns another company, research group, consumer technology or university activity; no requested Professor, SMART Lab, center or Walkbot connection established."
     },
     {
       "url": "https://decenter.sedaily.com/NewsView/1VHTP0R21L",
@@ -2662,7 +2806,13 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=SMART+Lab+Yonsei&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "source-error",
+        "finalUrl": "https://decenter.sedaily.com/NewsView/1VHTP0R21L",
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://koreajoongangdaily.joins.com/2022/05/08/business/tech/Korea-artificial-intelligence-AI/20220508070009285.html",
@@ -2675,7 +2825,14 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=SMART+Lab+Yonsei&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "finalUrl": "https://www.koreajoongangdaily.com/business/news-in-focus-smart-speakers-are-friends-not-toys-to-some-koreans/11095222",
+        "reviewComplete": true
+      },
+      "review": "Original body concerns another company, research group, consumer technology or university activity; no requested Professor, SMART Lab, center or Walkbot connection established."
     },
     {
       "url": "https://koreajoongangdaily.joins.com/2022/02/07/business/tech/Eco-Delta-Smart-City-Smart-Village/20220207134152529.html",
@@ -2688,7 +2845,14 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=SMART+Lab+Yonsei&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "finalUrl": "https://www.koreajoongangdaily.com/business/from-home-appliances-to-telemedicine-smart-city-project-offers-nextgeneration-living/12207385",
+        "reviewComplete": true
+      },
+      "review": "Original body concerns another company, research group, consumer technology or university activity; no requested Professor, SMART Lab, center or Walkbot connection established."
     },
     {
       "url": "http://www.koreaherald.com/view.php?ud=20170326000203",
@@ -2701,7 +2865,14 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=SMART+Lab+Yonsei&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "finalUrl": "https://www.koreaherald.com/article/1279387",
+        "reviewComplete": true
+      },
+      "review": "Original body concerns another company, research group, consumer technology or university activity; no requested Professor, SMART Lab, center or Walkbot connection established."
     },
     {
       "url": "http://koreajoongangdaily.joins.com/news/article/article.aspx?aid=3065771",
@@ -2714,7 +2885,13 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=SMART+Lab+Yonsei&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "source-error",
+        "finalUrl": "http://koreajoongangdaily.joins.com/news/article/article.aspx?aid=3065771",
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://koreajoongangdaily.joins.com/news/2025-12-06/business/industry/WHY-Got-milk-Korean-universities-do/2469877",
@@ -2727,7 +2904,14 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=SMART+Lab+Yonsei&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "finalUrl": "https://www.koreajoongangdaily.com/business/why-korean-universities-got-milk-why-schools-are-in-the-dairy-business/12444735",
+        "reviewComplete": true
+      },
+      "review": "Original body concerns another company, research group, consumer technology or university activity; no requested Professor, SMART Lab, center or Walkbot connection established."
     },
     {
       "url": "https://www.hani.co.kr/arti/politics/politics_general/1172461.html",
@@ -2740,7 +2924,9 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=Joshua+You+Yonsei&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "review": "Original body reviewed in Professor identity discovery review; no connection to the requested people, center or Walkbot established.",
+      "sourceReview": "src/data/news-professor-identity-discovery-review.json"
     },
     {
       "url": "https://www.pressian.com/pages/articles/2024121118384398439?utm_source=naver&utm_medium=search",
@@ -2753,7 +2939,9 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=Joshua+You+Yonsei&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "review": "Original body reviewed in Professor identity discovery review; no connection to the requested people, center or Walkbot established.",
+      "sourceReview": "src/data/news-professor-identity-discovery-review.json"
     },
     {
       "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003087849&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
@@ -2766,7 +2954,9 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=Joshua+You+Yonsei&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "review": "Original body reviewed in Professor identity discovery review; no connection to the requested people, center or Walkbot established.",
+      "sourceReview": "src/data/news-professor-identity-discovery-review.json"
     },
     {
       "url": "http://www.koreatimes.co.kr/www/art/2018/11/690_67804.html",
@@ -2779,7 +2969,9 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=Joshua+You+Yonsei&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "review": "Original body reviewed in Professor identity discovery review; no connection to the requested people, center or Walkbot established.",
+      "sourceReview": "src/data/news-professor-identity-discovery-review.json"
     },
     {
       "url": "https://www.khan.co.kr/article/201708291808287/?eng",
@@ -2792,7 +2984,9 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=Joshua+You+Yonsei&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "review": "Original body reviewed in Professor identity discovery review; no connection to the requested people, center or Walkbot established.",
+      "sourceReview": "src/data/news-professor-identity-discovery-review.json"
     },
     {
       "url": "http://view.koreaherald.com/kh/view.php?ud=20130218000673",
@@ -2805,7 +2999,9 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=Joshua+You+Yonsei&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "review": "Original body reviewed in Professor identity discovery review; no connection to the requested people, center or Walkbot established.",
+      "sourceReview": "src/data/news-professor-identity-discovery-review.json"
     },
     {
       "url": "http://www.koreatimes.co.kr/www/art/2018/11/690_67400.html",
@@ -2818,7 +3014,9 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=Joshua+You+Yonsei&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "review": "Original body reviewed in Professor identity discovery review; no connection to the requested people, center or Walkbot established.",
+      "sourceReview": "src/data/news-professor-identity-discovery-review.json"
     },
     {
       "url": "http://www.koreatimes.co.kr/www/nation/2020/11/231_299815.html",
@@ -2831,7 +3029,9 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=Joshua+You+Yonsei&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "review": "Original body reviewed in Professor identity discovery review; no connection to the requested people, center or Walkbot established.",
+      "sourceReview": "src/data/news-professor-identity-discovery-review.json"
     },
     {
       "url": "https://www.koreatimes.co.kr/www/nation/2020/11/231_299526.html",
@@ -2844,7 +3044,9 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=Joshua+You+Yonsei&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "review": "Original body reviewed in Professor identity discovery review; no connection to the requested people, center or Walkbot established.",
+      "sourceReview": "src/data/news-professor-identity-discovery-review.json"
     },
     {
       "url": "http://www.koreatimes.co.kr/www/art/2018/11/690_110191.html",
@@ -2857,7 +3059,9 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=Joshua+You+Yonsei&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "review": "Original body reviewed in Professor identity discovery review; no connection to the requested people, center or Walkbot established.",
+      "sourceReview": "src/data/news-professor-identity-discovery-review.json"
     },
     {
       "url": "http://www.koreatimes.co.kr/www/art/2018/11/690_109733.html",
@@ -2870,7 +3074,9 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=Joshua+You+Yonsei&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "review": "Original body reviewed in Professor identity discovery review; no connection to the requested people, center or Walkbot established.",
+      "sourceReview": "src/data/news-professor-identity-discovery-review.json"
     },
     {
       "url": "https://v.daum.net/v/20260604213606978",
@@ -3415,7 +3621,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=SMART+Lab+Yonsei&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20251206070225400",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20250626155412499",
@@ -3428,7 +3643,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=SMART+Lab+Yonsei&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20250626155412499",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20190411163003325",
@@ -3441,7 +3665,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=SMART+Lab+Yonsei&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20190411163003325",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20220207134154866",
@@ -3454,7 +3687,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=SMART+Lab+Yonsei&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20220207134154866",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20220508070012530",
@@ -3467,7 +3709,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=SMART+Lab+Yonsei&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20220508070012530",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20170326165218771",
@@ -3480,7 +3731,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=SMART+Lab+Yonsei&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20170326165218771",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20200608135101707",
@@ -3493,7 +3753,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=SMART+Lab+Yonsei&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20200608135101707",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20200623165546240",
@@ -3506,7 +3775,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=SMART+Lab+Yonsei&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20200623165546240",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20170103095006835",
@@ -3519,7 +3797,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=SMART+Lab+Yonsei&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20170103095006835",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260729204537524",
@@ -3532,7 +3819,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260729204537524",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260730120009221",
@@ -3550,7 +3846,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260730120009221",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260317143204009",
@@ -3568,7 +3873,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260317143204009",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260113160930509",
@@ -3586,7 +3900,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260113160930509",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20250731090726061",
@@ -3604,7 +3927,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20250731090726061",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260113132645099",
@@ -3622,7 +3954,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260113132645099",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20250424080730609",
@@ -3635,7 +3976,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20250424080730609",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240607173845508",
@@ -3648,7 +3998,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240607173845508",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240607051245784",
@@ -3661,7 +4020,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240607051245784",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20251124162921476",
@@ -3674,7 +4042,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20251124162921476",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20251203080311785",
@@ -3687,7 +4064,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20251203080311785",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20251124170547353",
@@ -3700,7 +4086,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20251124170547353",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20251124162017037",
@@ -3713,7 +4108,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20251124162017037",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20251124175151338",
@@ -3726,7 +4130,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20251124175151338",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20251124162704358",
@@ -3739,7 +4152,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20251124162704358",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20251125070146577",
@@ -3752,7 +4174,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20251125070146577",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20251124170901517",
@@ -3765,7 +4196,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20251124170901517",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20251124182112396",
@@ -3783,7 +4223,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20251124182112396",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20251124165109693",
@@ -3796,7 +4245,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20251124165109693",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20251124183047621",
@@ -3809,7 +4267,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20251124183047621",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240605174645030",
@@ -3822,7 +4289,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240605174645030",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20251124165947037",
@@ -3835,7 +4311,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20251124165947037",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240709135256270",
@@ -3848,7 +4333,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240709135256270",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240709155227877",
@@ -3861,7 +4355,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240709155227877",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20250703090844570",
@@ -3874,7 +4377,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20250703090844570",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240722090046911",
@@ -3887,7 +4399,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240722090046911",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240731110904736",
@@ -3900,7 +4421,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240731110904736",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240724070001548",
@@ -3913,7 +4443,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240724070001548",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240709145526211",
@@ -3926,7 +4465,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240709145526211",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20250522170522949",
@@ -3939,7 +4487,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20250522170522949",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240728084219980",
@@ -3952,7 +4509,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240728084219980",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20241217094336627",
@@ -3965,7 +4531,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20241217094336627",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240723173958284",
@@ -3978,7 +4553,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240723173958284",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20250106062010057",
@@ -3991,7 +4575,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20250106062010057",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240731092717012",
@@ -4004,7 +4597,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240731092717012",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240731090408139",
@@ -4017,7 +4619,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240731090408139",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20250213164217549",
@@ -4030,7 +4641,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20250213164217549",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240731102616827",
@@ -4043,7 +4663,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240731102616827",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240723175512927",
@@ -4056,7 +4685,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240723175512927",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240723172229525",
@@ -4069,7 +4707,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240723172229525",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20250102135403396",
@@ -4082,7 +4729,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20250102135403396",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20241111090509041",
@@ -4095,7 +4751,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20241111090509041",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240719161808227",
@@ -4108,7 +4773,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240719161808227",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240731141803349",
@@ -4121,7 +4795,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240731141803349",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240731091452505",
@@ -4134,7 +4817,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240731091452505",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240719161548157",
@@ -4147,7 +4839,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240719161548157",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240801145630146",
@@ -4160,7 +4861,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240801145630146",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240719162250361",
@@ -4173,7 +4883,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240719162250361",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20241111084112210",
@@ -4186,7 +4905,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20241111084112210",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240709135912482",
@@ -4199,7 +4927,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240709135912482",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240516183011273",
@@ -4212,7 +4949,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240516183011273",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240731094017637",
@@ -4225,7 +4971,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240731094017637",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240722050114095",
@@ -4238,7 +4993,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240722050114095",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240723171935433",
@@ -4251,7 +5015,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240723171935433",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240723165405407",
@@ -4264,7 +5037,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240723165405407",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240721095332366",
@@ -4277,7 +5059,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240721095332366",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240719180523974",
@@ -4290,7 +5081,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240719180523974",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240621163401228",
@@ -4303,7 +5103,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240621163401228",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20250102145929255",
@@ -4316,7 +5125,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20250102145929255",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240722060038782",
@@ -4329,7 +5147,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240722060038782",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240623080025803",
@@ -4342,7 +5169,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240623080025803",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240709150612761",
@@ -4355,7 +5191,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240709150612761",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240721090410716",
@@ -4368,7 +5213,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240721090410716",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240707084628630",
@@ -4381,7 +5235,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240707084628630",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20231128151325033",
@@ -4394,7 +5257,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20231128151325033",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20230228132155496",
@@ -4407,7 +5279,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20230228132155496",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240919160325153",
@@ -4420,7 +5301,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240919160325153",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240721080010046",
@@ -4433,7 +5323,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240721080010046",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240707080011131",
@@ -4446,7 +5345,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240707080011131",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20220623145230937",
@@ -4459,7 +5367,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20220623145230937",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20220218132453381",
@@ -4477,7 +5394,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20220218132453381",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20230926093002026",
@@ -4490,7 +5416,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20230926093002026",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20200811161803206",
@@ -4503,7 +5438,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20200811161803206",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20210728100004354",
@@ -4516,7 +5460,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20210728100004354",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20201110162938808",
@@ -4529,7 +5482,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20201110162938808",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20210728100025394",
@@ -4542,7 +5504,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20210728100025394",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20210728100021381",
@@ -4555,7 +5526,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20210728100021381",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20240728090837432",
@@ -4568,7 +5548,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20240728090837432",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20201008163134305",
@@ -4581,7 +5570,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20201008163134305",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20200704105109941",
@@ -4594,7 +5592,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20200704105109941",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20180430161657867",
@@ -4607,7 +5614,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20180430161657867",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20201008141547530",
@@ -4620,7 +5636,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20201008141547530",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20200704090017407",
@@ -4633,7 +5658,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20200704090017407",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20201008095057005",
@@ -4646,7 +5680,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20201008095057005",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20201111095404342",
@@ -4659,7 +5702,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20201111095404342",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20201008154223893",
@@ -4672,7 +5724,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20201008154223893",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20220422180303530",
@@ -4699,7 +5760,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20220211172406653",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20220311170103041",
@@ -4712,7 +5782,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20220311170103041",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20211220172406015",
@@ -4725,7 +5804,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20211220172406015",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20151119110127842",
@@ -4738,7 +5826,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20151119110127842",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20150310110506081",
@@ -4756,7 +5853,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20150310110506081",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20100316183112999",
@@ -4769,7 +5875,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20100316183112999",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20190522093224467",
@@ -4782,7 +5897,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20190522093224467",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20150310094222757",
@@ -4800,7 +5924,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20150310094222757",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20100404173909818",
@@ -4818,7 +5951,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20100404173909818",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20120130183305360",
@@ -4836,7 +5978,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20120130183305360",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20100318154129511",
@@ -4849,7 +6000,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20100318154129511",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20151119111506652",
@@ -4862,7 +6022,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20151119111506652",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20140224161012386",
@@ -4875,7 +6044,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20140224161012386",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20241211230047903",
@@ -4958,7 +6136,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20261002060306457",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260930144504638",
@@ -4971,7 +6158,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260930144504638",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260909141007293",
@@ -4984,7 +6180,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260909141007293",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260929181203800",
@@ -4997,7 +6202,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260929181203800",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260922162630146",
@@ -5010,7 +6224,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260922162630146",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260922135455176",
@@ -5023,7 +6246,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260922135455176",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260921093957781",
@@ -5036,7 +6268,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260921093957781",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260830064329856",
@@ -5049,7 +6290,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260830064329856",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260920060019598",
@@ -5062,7 +6312,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260920060019598",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260923110852407",
@@ -5075,7 +6334,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260923110852407",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260922094128886",
@@ -5088,7 +6356,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260922094128886",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260919070056873",
@@ -5101,7 +6378,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260919070056873",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260920091851902",
@@ -5114,7 +6400,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260920091851902",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260916105927120",
@@ -5127,7 +6422,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260916105927120",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260916153110617",
@@ -5140,7 +6444,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260916153110617",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260916082849427",
@@ -5153,7 +6466,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260916082849427",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260819145107843",
@@ -5166,7 +6488,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260819145107843",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260911081407340",
@@ -5179,7 +6510,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260911081407340",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260917090407358",
@@ -5192,7 +6532,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260917090407358",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260917150814897",
@@ -5205,7 +6554,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260917150814897",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260914143136026",
@@ -5218,7 +6576,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260914143136026",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260909151235577",
@@ -5231,7 +6598,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260909151235577",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260806150403691",
@@ -5244,7 +6620,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260806150403691",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260907102351358",
@@ -5257,7 +6642,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260907102351358",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260908082749707",
@@ -5270,7 +6664,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260908082749707",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260908094949333",
@@ -5283,7 +6686,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260908094949333",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260909095556455",
@@ -5296,7 +6708,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260909095556455",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260909173440078",
@@ -5309,7 +6730,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260909173440078",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260909160106271",
@@ -5322,7 +6752,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260909160106271",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260903090207146",
@@ -5335,7 +6774,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260903090207146",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260909110646985",
@@ -5348,7 +6796,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260909110646985",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260909144157029",
@@ -5361,7 +6818,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260909144157029",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260909143604685",
@@ -5374,7 +6840,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260909143604685",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260905092451311",
@@ -5387,7 +6862,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260905092451311",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260903170551425",
@@ -5400,7 +6884,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260903170551425",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260906181245054",
@@ -5413,7 +6906,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260906181245054",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260910101039040",
@@ -5426,7 +6928,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260910101039040",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260902163238265",
@@ -5439,7 +6950,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260902163238265",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260905093003361",
@@ -5452,7 +6972,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260905093003361",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260904144349632",
@@ -5465,7 +6994,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260904144349632",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260903094910701",
@@ -5478,7 +7016,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260903094910701",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260904084750624",
@@ -5491,7 +7038,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260904084750624",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260828101409033",
@@ -5504,7 +7060,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260828101409033",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260825161204381",
@@ -5517,7 +7082,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260825161204381",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260827080730761",
@@ -5530,7 +7104,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260827080730761",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260828112948235",
@@ -5543,7 +7126,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260828112948235",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260716144843374",
@@ -5556,7 +7148,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260716144843374",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260812080137938",
@@ -5569,7 +7170,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260812080137938",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260812104505195",
@@ -5582,7 +7192,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260812104505195",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260811050011158",
@@ -5595,7 +7214,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260811050011158",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260727160215219",
@@ -5608,7 +7236,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260727160215219",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260812110015970",
@@ -5621,7 +7258,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260812110015970",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260818154251183",
@@ -5634,7 +7280,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260818154251183",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260812113252084",
@@ -5647,7 +7302,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260812113252084",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260812105812844",
@@ -5660,7 +7324,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260812105812844",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260813110342043",
@@ -5673,7 +7346,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260813110342043",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260620141140253",
@@ -5686,7 +7368,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260620141140253",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260811050016160",
@@ -5699,7 +7390,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260811050016160",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260813140213974",
@@ -5712,7 +7412,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260813140213974",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20220120155914559",
@@ -5725,7 +7434,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20220120155914559",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20220225134532489",
@@ -5738,7 +7456,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20220225134532489",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260626090104478",
@@ -5751,7 +7478,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260626090104478",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20220120150658226",
@@ -5764,7 +7500,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20220120150658226",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260814121228191",
@@ -5777,7 +7522,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260814121228191",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260804130250874",
@@ -5790,7 +7544,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260804130250874",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20210727173713298",
@@ -5803,7 +7566,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20210727173713298",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260605083701727",
@@ -5816,7 +7588,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260605083701727",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260724062758665",
@@ -5829,7 +7610,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260724062758665",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260622175520832",
@@ -5842,7 +7632,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260622175520832",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260513112400003",
@@ -5855,7 +7654,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260513112400003",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260724081716504",
@@ -5868,7 +7676,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260724081716504",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260722173109311",
@@ -5881,7 +7698,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260722173109311",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260626094950843",
@@ -5894,7 +7720,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260626094950843",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260712143929158",
@@ -5907,7 +7742,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260712143929158",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260722100242572",
@@ -5920,7 +7764,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260722100242572",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260722103005198",
@@ -5933,7 +7786,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260722103005198",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260722160304008",
@@ -5946,7 +7808,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260722160304008",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20210610071504366",
@@ -5959,7 +7830,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20210610071504366",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260702180000817",
@@ -5972,7 +7852,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260702180000817",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260720005209226",
@@ -5985,7 +7874,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260720005209226",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260410092455720",
@@ -5998,7 +7896,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260410092455720",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260420060546443",
@@ -6011,7 +7918,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260420060546443",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260408171047427",
@@ -6024,7 +7940,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260408171047427",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260611110454608",
@@ -6037,7 +7962,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260611110454608",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260626092205441",
@@ -6050,7 +7984,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260626092205441",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260408162941307",
@@ -6063,7 +8006,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260408162941307",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260630173103456",
@@ -6076,7 +8028,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260630173103456",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260415092245377",
@@ -6089,7 +8050,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260415092245377",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260629054744459",
@@ -6102,7 +8072,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260629054744459",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20151119150104087",
@@ -6115,7 +8094,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=11&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20151119150104087",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260408151752356",
@@ -6128,7 +8116,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=11&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260408151752356",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260408135215462",
@@ -6141,7 +8138,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=11&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260408135215462",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260408103748523",
@@ -6154,7 +8160,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=11&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260408103748523",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260708143246362",
@@ -6167,7 +8182,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=11&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260708143246362",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260626083004492",
@@ -6180,7 +8204,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=11&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260626083004492",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260708181500758",
@@ -6193,7 +8226,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=11&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260708181500758",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20210824145145689",
@@ -6206,7 +8248,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=11&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20210824145145689",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20151119150002997",
@@ -6219,7 +8270,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=11&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20151119150002997",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260710060003673",
@@ -6232,7 +8292,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=11&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260710060003673",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260628115022957",
@@ -6245,7 +8314,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=12&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260628115022957",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260408150526704",
@@ -6258,7 +8336,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=12&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260408150526704",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260408151344132",
@@ -6271,7 +8358,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=12&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260408151344132",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260626133610613",
@@ -6284,7 +8380,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=12&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260626133610613",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260408154502793",
@@ -6297,7 +8402,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=12&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260408154502793",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260415155004095",
@@ -6310,7 +8424,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=12&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260415155004095",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20130829161207933",
@@ -6323,7 +8446,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=12&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20130829161207933",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260408172125950",
@@ -6336,7 +8468,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=12&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260408172125950",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260410092635823",
@@ -6349,7 +8490,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=12&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260410092635823",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260624154351813",
@@ -6362,7 +8512,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=12&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260624154351813",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260408113512419",
@@ -6375,7 +8534,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=13&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260408113512419",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260610230900224",
@@ -6388,7 +8556,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=13&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260610230900224",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260408105702887",
@@ -6401,7 +8578,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=13&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260408105702887",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260626113812351",
@@ -6414,7 +8600,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=13&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260626113812351",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260708095622795",
@@ -6427,7 +8622,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=13&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260708095622795",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260618161431021",
@@ -6440,7 +8644,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=13&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260618161431021",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260623155717524",
@@ -6453,7 +8666,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=13&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260623155717524",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260408134130047",
@@ -6466,7 +8688,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=13&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260408134130047",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260424151815096",
@@ -6479,7 +8710,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=13&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260424151815096",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260624103614000",
@@ -6492,7 +8732,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=13&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260624103614000",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260624090315096",
@@ -6505,7 +8754,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=14&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260624090315096",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260704171559424",
@@ -6518,7 +8776,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=14&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260704171559424",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260305120501432",
@@ -6531,7 +8798,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=14&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260305120501432",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260408173128441",
@@ -6544,7 +8820,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=14&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260408173128441",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260410092536780",
@@ -6557,7 +8842,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=14&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260410092536780",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260618161434026",
@@ -6570,7 +8864,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=14&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260618161434026",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20251125211247715",
@@ -6583,7 +8886,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=14&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20251125211247715",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20251212112017303",
@@ -6596,7 +8908,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=14&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20251212112017303",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260408173227478",
@@ -6609,7 +8930,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=14&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260408173227478",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260216060021975",
@@ -6622,7 +8952,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=14&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260216060021975",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260601163802948",
@@ -6635,7 +8974,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=15&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260601163802948",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260530183139168",
@@ -6648,7 +8996,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=15&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260530183139168",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260526143810400",
@@ -6661,7 +9018,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=15&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260526143810400",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260624194201392",
@@ -6674,7 +9040,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=15&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260624194201392",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260528184744934",
@@ -6687,7 +9062,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=15&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260528184744934",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260610164740533",
@@ -6700,7 +9084,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=15&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260610164740533",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260609100158489",
@@ -6713,7 +9106,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=15&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260609100158489",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260610155434048",
@@ -6726,7 +9128,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=15&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260610155434048",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20251125114814224",
@@ -6739,7 +9150,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=15&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20251125114814224",
+        "matchCount": 0,
+        "walkbotMention": true,
+        "reviewComplete": false
+      }
     },
     {
       "url": "https://v.daum.net/v/20260130085036947",
@@ -6752,7 +9172,36 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=15&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "sourceScreen": {
+        "checkedOn": "2026-10-03",
+        "status": "no-identity-signal",
+        "bodyElement": "div.article_view",
+        "finalUrl": "https://v.daum.net/v/20260130085036947",
+        "matchCount": 0,
+        "walkbotMention": false,
+        "reviewComplete": false
+      }
     }
-  ]
+  ],
+  "additionalOriginalSourceScreen": {
+    "checkedOn": "2026-10-03",
+    "count": 29,
+    "screenCounts": {
+      "no-identity-signal": 24,
+      "body-unavailable": 2,
+      "identity-review-needed": 1,
+      "source-error": 2
+    },
+    "complete": false,
+    "note": "Remaining fetched product sources still require article-level review and scope decision; no automatic publication."
+  },
+  "additionalDaumSourceScreen": {
+    "checkedOn": "2026-10-03",
+    "count": 247,
+    "professorOrCenterSignals": 0,
+    "walkbotMentions": 113,
+    "complete": false,
+    "note": "Bodies fetched and signals screened; human article review remains required. No automated exclusions or publications."
+  }
 }

@@ -29,7 +29,7 @@ def review(candidate):
         # a human must identify the article body and named institution.
         body = tree.first(tag='body') or tree
         text = body.text()
-        pattern = r'유승현|굿웰니스|GOOD\s?WELLNESS|Joshua(?:\s+\(Sung\))?\s+(?:H\.?\s+)?You|Sung\s+H\.?\s+You|사회통합형.{0,40}(?:보행|로봇)|융합연구센터|SMART\s+(?:Lab|Institute)'
+        pattern = r'유승현|굿웰니스|GOOD\s?WELLNESS|Joshua(?:\s+\(Sung\))?\s+(?:H\.?\s*)?You|Sung\s+(?:\(Joshua\)\s+)?(?:Hyun|H\.?)\s*You|사회통합형.{0,40}(?:보행|로봇)|융합연구센터|SMART\s+(?:Lab|Institute)'
         matches = [text[max(0, match.start()-100):match.end()+180] for match in re.finditer(pattern, text, re.I)]
         meta = {node.attrs.get('property', node.attrs.get('name', '')): node.attrs.get('content', '') for node in tree.all(tag='meta')}
         missing_body = not text.strip() or '요청하신 페이지를 찾을 수 없습니다' in text

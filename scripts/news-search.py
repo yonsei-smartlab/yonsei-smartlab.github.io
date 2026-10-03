@@ -69,7 +69,8 @@ def fetch(url):
     req = Request(url, headers={'User-Agent': 'Mozilla/5.0 (compatible; SMARTLabNewsReview/1.0)'})
     with urlopen(req, timeout=30) as response:
         raw = response.read()
-        charset = response.headers.get_content_charset() or 'utf-8'
+        declared = re.search(rb'<meta\b[^>]*charset\s*=\s*["\x27]?\s*([\w-]+)', raw[:8192], re.I)
+        charset = response.headers.get_content_charset() or (declared.group(1).decode('ascii') if declared else 'utf-8')
         return raw.decode(charset, errors='replace'), response.url
 
 def walk(value):

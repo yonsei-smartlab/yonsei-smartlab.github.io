@@ -1,0 +1,1610 @@
+{
+  "reviewedOn": "2026-10-03",
+  "complete": false,
+  "note": "Editorial queue only. Search results do not establish identity or approve public content.",
+  "candidateCount": 75,
+  "statusCounts": {
+    "duplicate": 3,
+    "excluded": 43,
+    "published": 27,
+    "held": 1,
+    "unavailable": 1
+  },
+  "sourceScreenCounts": {
+    "no-identity-signal": 32
+  },
+  "coverage": [
+    {
+      "engine": "google",
+      "query": "\"유승현\" \"물리치료\"",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://news.google.com/rss/search?q=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&hl=ko&gl=KR&ceid=KR%3Ako",
+          "finalUrl": "https://news.google.com/rss/search?q=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&hl=ko&gl=KR&ceid=KR%3Ako",
+          "rows": 1,
+          "newRows": 1,
+          "snapshot": "google-d2827f927c61cfec.html"
+        }
+      ],
+      "exhausted": true,
+      "rssLimitReached": false
+    },
+    {
+      "engine": "google",
+      "query": "\"유승현\" \"연세\"",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://news.google.com/rss/search?q=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&hl=ko&gl=KR&ceid=KR%3Ako",
+          "finalUrl": "https://news.google.com/rss/search?q=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&hl=ko&gl=KR&ceid=KR%3Ako",
+          "rows": 3,
+          "newRows": 3,
+          "snapshot": "google-e7d63f939d8e524c.html"
+        }
+      ],
+      "exhausted": true,
+      "rssLimitReached": false
+    },
+    {
+      "engine": "naver",
+      "query": "\"유승현\" \"연세\"",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&start=1&sort=0",
+          "finalUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&start=1&sort=0",
+          "rows": 18,
+          "newRows": 18,
+          "snapshot": "naver-968a78b5e0a231e5.html"
+        },
+        {
+          "page": 2,
+          "url": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&start=11&sort=0",
+          "finalUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&start=11&sort=0",
+          "rows": 18,
+          "newRows": 0,
+          "snapshot": "naver-c3b29c88600092da.html"
+        }
+      ],
+      "exhausted": false,
+      "stopReason": "BrowserScrollingRequired"
+    },
+    {
+      "engine": "daum",
+      "query": "\"유승현\" \"물리치료\"",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://search.daum.net/search?w=news&q=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&p=1&sort=accuracy&cluster=n",
+          "finalUrl": "https://search.daum.net/search?w=news&q=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&p=1&sort=accuracy&cluster=n",
+          "rows": 0,
+          "newRows": 0,
+          "snapshot": "daum-7741c398c6e20733.html"
+        }
+      ],
+      "exhausted": true,
+      "stopReason": "No new public result links"
+    },
+    {
+      "engine": "daum",
+      "query": "\"유승현\" \"연세\"",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://search.daum.net/search?w=news&q=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&p=1&sort=accuracy&cluster=n",
+          "finalUrl": "https://search.daum.net/search?w=news&q=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&p=1&sort=accuracy&cluster=n",
+          "rows": 1,
+          "newRows": 1,
+          "snapshot": "daum-9fa818a98a957433.html"
+        },
+        {
+          "page": 2,
+          "url": "https://search.daum.net/search?w=news&q=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&p=2&sort=accuracy&cluster=n",
+          "finalUrl": "https://search.daum.net/search?w=news&q=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&p=2&sort=accuracy&cluster=n",
+          "rows": 1,
+          "newRows": 0,
+          "snapshot": "daum-6715fc9a30f3563b.html"
+        }
+      ],
+      "exhausted": true,
+      "stopReason": "No new public result links"
+    },
+    {
+      "engine": "naver",
+      "query": "\"유승현\" \"물리치료\"",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=1&sort=0",
+          "finalUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=1&sort=0",
+          "rows": 20,
+          "newRows": 20,
+          "snapshot": "naver-d6d429d3bcb31933.html"
+        },
+        {
+          "page": 2,
+          "url": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=11&sort=0",
+          "finalUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=11&sort=0",
+          "rows": 20,
+          "newRows": 1,
+          "snapshot": "naver-865a15f1c84ec615.html"
+        },
+        {
+          "page": 3,
+          "url": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=21&sort=0",
+          "finalUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=21&sort=0",
+          "rows": 20,
+          "newRows": 3,
+          "snapshot": "naver-4aea73bc5ff0e6ad.html"
+        },
+        {
+          "page": 4,
+          "url": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=31&sort=0",
+          "finalUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=31&sort=0",
+          "rows": 20,
+          "newRows": 1,
+          "snapshot": "naver-2ebec88a2168edf9.html"
+        },
+        {
+          "page": 5,
+          "url": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=41&sort=0",
+          "finalUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=41&sort=0",
+          "rows": 20,
+          "newRows": 0,
+          "snapshot": "naver-ff03273856e01b51.html"
+        }
+      ],
+      "exhausted": false,
+      "stopReason": "BrowserScrollingRequired"
+    },
+    {
+      "engine": "google",
+      "query": "\"Sung Hyun You\" rehabilitation",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://news.google.com/rss/search?q=%22Sung+Hyun+You%22+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen",
+          "finalUrl": "https://news.google.com/rss/search?q=%22Sung+Hyun+You%22+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen",
+          "rows": 0,
+          "newRows": 0,
+          "snapshot": "google-78e314648a3817ba.html"
+        }
+      ],
+      "exhausted": true,
+      "rssLimitReached": false
+    },
+    {
+      "engine": "google",
+      "query": "\"Joshua You\" Yonsei",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://news.google.com/rss/search?q=%22Joshua+You%22+Yonsei&hl=en-US&gl=US&ceid=US%3Aen",
+          "finalUrl": "https://news.google.com/rss/search?q=%22Joshua+You%22+Yonsei&hl=en-US&gl=US&ceid=US%3Aen",
+          "rows": 0,
+          "newRows": 0,
+          "snapshot": "google-6ac890b6a9df21bd.html"
+        }
+      ],
+      "exhausted": true,
+      "rssLimitReached": false
+    },
+    {
+      "engine": "naver",
+      "query": "\"Joshua You\" Yonsei",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://search.naver.com/search.naver?where=news&query=%22Joshua+You%22+Yonsei&start=1&sort=0",
+          "finalUrl": "https://search.naver.com/search.naver?where=news&query=%22Joshua+You%22+Yonsei&start=1&sort=0",
+          "rows": 11,
+          "newRows": 11,
+          "snapshot": "naver-886dbb4f386132cc.html"
+        },
+        {
+          "page": 2,
+          "url": "https://search.naver.com/search.naver?where=news&query=%22Joshua+You%22+Yonsei&start=11&sort=0",
+          "finalUrl": "https://search.naver.com/search.naver?where=news&query=%22Joshua+You%22+Yonsei&start=11&sort=0",
+          "rows": 11,
+          "newRows": 0,
+          "snapshot": "naver-40c891f6efff46e1.html"
+        }
+      ],
+      "exhausted": false,
+      "stopReason": "BrowserScrollingRequired"
+    },
+    {
+      "engine": "daum",
+      "query": "\"Joshua You\" Yonsei",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://search.daum.net/search?w=news&q=%22Joshua+You%22+Yonsei&p=1&sort=accuracy&cluster=n",
+          "finalUrl": "https://search.daum.net/search?w=news&q=%22Joshua+You%22+Yonsei&p=1&sort=accuracy&cluster=n",
+          "rows": 5,
+          "newRows": 5,
+          "snapshot": "daum-7508f203fa79dbf8.html"
+        },
+        {
+          "page": 2,
+          "url": "https://search.daum.net/search?w=news&q=%22Joshua+You%22+Yonsei&p=2&sort=accuracy&cluster=n",
+          "finalUrl": "https://search.daum.net/search?w=news&q=%22Joshua+You%22+Yonsei&p=2&sort=accuracy&cluster=n",
+          "rows": 5,
+          "newRows": 0,
+          "snapshot": "daum-50d438c3a4e4d6dc.html"
+        }
+      ],
+      "exhausted": true,
+      "stopReason": "No new public result links"
+    },
+    {
+      "engine": "naver",
+      "query": "\"Sung Hyun You\" rehabilitation",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://search.naver.com/search.naver?where=news&query=%22Sung+Hyun+You%22+rehabilitation&start=1&sort=0",
+          "finalUrl": "https://search.naver.com/search.naver?where=news&query=%22Sung+Hyun+You%22+rehabilitation&start=1&sort=0",
+          "rows": 10,
+          "newRows": 10,
+          "snapshot": "naver-691d1f792cc7d9fe.html"
+        },
+        {
+          "page": 2,
+          "url": "https://search.naver.com/search.naver?where=news&query=%22Sung+Hyun+You%22+rehabilitation&start=11&sort=0",
+          "finalUrl": "https://search.naver.com/search.naver?where=news&query=%22Sung+Hyun+You%22+rehabilitation&start=11&sort=0",
+          "rows": 10,
+          "newRows": 0,
+          "snapshot": "naver-b3747a371a9f63b1.html"
+        }
+      ],
+      "exhausted": false,
+      "stopReason": "BrowserScrollingRequired"
+    },
+    {
+      "engine": "daum",
+      "query": "\"Sung Hyun You\" rehabilitation",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://search.daum.net/search?w=news&q=%22Sung+Hyun+You%22+rehabilitation&p=1&sort=accuracy&cluster=n",
+          "finalUrl": "https://search.daum.net/search?w=news&q=%22Sung+Hyun+You%22+rehabilitation&p=1&sort=accuracy&cluster=n",
+          "rows": 10,
+          "newRows": 10,
+          "snapshot": "daum-785cd01c8d043075.html"
+        },
+        {
+          "page": 2,
+          "url": "https://search.daum.net/search?w=news&q=%22Sung+Hyun+You%22+rehabilitation&p=2&sort=accuracy&cluster=n",
+          "finalUrl": "https://search.daum.net/search?w=news&q=%22Sung+Hyun+You%22+rehabilitation&p=2&sort=accuracy&cluster=n",
+          "rows": 1,
+          "newRows": 1,
+          "snapshot": "daum-65b9017f0846a54f.html"
+        },
+        {
+          "page": 3,
+          "url": "https://search.daum.net/search?w=news&q=%22Sung+Hyun+You%22+rehabilitation&p=3&sort=accuracy&cluster=n",
+          "finalUrl": "https://search.daum.net/search?w=news&q=%22Sung+Hyun+You%22+rehabilitation&p=3&sort=accuracy&cluster=n",
+          "rows": 1,
+          "newRows": 0,
+          "snapshot": "daum-6acdc10807a58c2c.html"
+        }
+      ],
+      "exhausted": true,
+      "stopReason": "No new public result links"
+    }
+  ],
+  "candidates": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGamJQUVJFX2FmWTk0VjIydFVJcEJOM3VTSDBpLTUzTzB0OFhTT3FpWDdxWVdFb3RwS3Y3ai1vR0c4ZXNaVDN4cWZfVWFhSzY3RXRPTDRoYnUtSmlVYTdjTVNhN1RKRmgtc3Zn?oc=5",
+      "title": "장애아 현실 외면한 ‘재활치료 바우처’ - 한겨레",
+      "source": "한겨레",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "\"유승현\" \"물리치료\"",
+          "searchUrl": "https://news.google.com/rss/search?q=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&hl=ko&gl=KR&ceid=KR%3Ako"
+        }
+      ],
+      "status": "duplicate",
+      "canonical": "https://www.hani.co.kr/arti/society/handicapped/337808.html"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5alVtS2RDOGUzejgtbTVxWTQ5d0VqN1RHRlVKRnhtcnUwWlB0UVo1Ykk0LVBiMGxLdnNSTlBTRmZxNFNGQi1CSzRHUQ?oc=5",
+      "title": "원주시 장애인체력증진실(연세굿웰니스센터) 운영 안내 - 시사일보",
+      "source": "시사일보",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "\"유승현\" \"연세\"",
+          "searchUrl": "https://news.google.com/rss/search?q=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&hl=ko&gl=KR&ceid=KR%3Ako"
+        }
+      ],
+      "status": "duplicate",
+      "canonical": "https://www.koreasisailbo.com/587507"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wQXp5TWdKQmE4My1VeUYtTzhPbzVqT0JkdEFHM1otdFJOaFo5Nm5kREdiTGdDUWRPY3FqVkUwVmVaZWNwZDhKQUQ5bExHekRBNzFZckFVeWRwTGpMc3p4T2FQZGRoamot?oc=5",
+      "title": "서울컨벤션고등학교 창단 첫해 황금사자기 2연승 돌풍… \"내년엔 우승\" - kmaeil.com",
+      "source": "kmaeil.com",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "\"유승현\" \"연세\"",
+          "searchUrl": "https://news.google.com/rss/search?q=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&hl=ko&gl=KR&ceid=KR%3Ako"
+        }
+      ],
+      "status": "excluded",
+      "reason": "Discovery headline identifies an unrelated subject: 서울컨벤션고등학교 창단 첫해 황금사자기 2연승 돌풍… \"내년엔 우승\" - 경인매일. Excluded from the focused Professor You / SMART Lab / Yonsei GOODWELLNESS archive."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wLWVDekJiRHFhckh2RzBPX295MDdkTy02T1RaNFdaWUhIYldDcmdaWkMwa0FZWkdzQXVpbUhGOHF0cmc0YWZoTVhzVlJtWEplRWY1d292YktrSVh4dHVFckk1R1c?oc=5",
+      "title": "캠퍼스 벗어난 하루, 대학생들 바둑 한마당 - 사이버오로",
+      "source": "사이버오로",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "\"유승현\" \"연세\"",
+          "searchUrl": "https://news.google.com/rss/search?q=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&hl=ko&gl=KR&ceid=KR%3Ako"
+        }
+      ],
+      "status": "excluded",
+      "reason": "Discovery headline identifies an unrelated subject: 캠퍼스 벗어난 하루, 대학생들 바둑 한마당 - 사이버오로. Excluded from the focused Professor You / SMART Lab / Yonsei GOODWELLNESS archive."
+    },
+    {
+      "url": "http://www.paxetv.com/news/articleView.html?idxno=225788",
+      "title": "화성시동탄아르딤복지관, 장애인 재활서비스의 혁신을 위해 화성특례시...",
+      "source": "팍스경제TV",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"연세\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&start=1&sort=0"
+        },
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"물리치료\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2025-03-11-8e1e3c3d4c3d.md"
+    },
+    {
+      "url": "https://www.ablenews.co.kr/news/articleView.html?idxno=219518",
+      "title": "화성시동탄아르딤복지관, '로봇재활 임상지침서' 발간",
+      "source": "에이블뉴스",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"연세\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&start=1&sort=0"
+        },
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"물리치료\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2025-03-11-f3b43550e9db.md"
+    },
+    {
+      "url": "https://gg.newdaily.co.kr/site/data/html/2025/03/06/2025030600367.html",
+      "title": "화성시,로봇재활 실무서 발간 … 맞춤형 재활 서비스 모델 제시",
+      "source": "뉴데일리",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"연세\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&start=1&sort=0"
+        },
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"물리치료\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2025-03-06-7d147aac4f07.md"
+    },
+    {
+      "url": "https://www.asiatime.co.kr/article/20250306500253",
+      "title": "[6일 화성시] 탄소중립·녹색성장 기본계획(안) 공청회 개최 등",
+      "source": "아시아타임즈",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"연세\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&start=1&sort=0"
+        },
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"물리치료\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2025-03-06-da7d4f144540.md"
+    },
+    {
+      "url": "https://www.newspim.com/news/view/20250306000952",
+      "title": "화성시 장애인 재활서비스 위한 '로봇재활 임상지침서' 발간",
+      "source": "뉴스핌",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"연세\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&start=1&sort=0"
+        },
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"물리치료\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2025-03-06-bc5538575fb2.md"
+    },
+    {
+      "url": "http://www.metroseoul.co.kr/article/20250306500323",
+      "title": "화성특례시, 로봇재활 실무서 발간",
+      "source": "메트로신문",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"연세\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&start=1&sort=0"
+        },
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"물리치료\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2025-03-06-metro-guide.md"
+    },
+    {
+      "url": "http://www.m-i.kr/news/articleView.html?idxno=1214244",
+      "title": "화성특례시, 로봇재활 실무서 발간…맞춤형 재활 서비스 모델 제시",
+      "source": "매일일보",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"연세\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&start=1&sort=0"
+        },
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"물리치료\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2025-03-06-f085ab34aedd.md"
+    },
+    {
+      "url": "https://www.viva100.com/article/20250306501174",
+      "title": "화성특례시, 로봇재활 임상지침서 발간 장애인 재활서비스 혁신",
+      "source": "브릿지경제",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"연세\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&start=1&sort=0"
+        },
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"물리치료\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2025-03-06-bridge-guide.md"
+    },
+    {
+      "url": "http://www.breaknews.com/1098040",
+      "title": "화성특례시, 로봇재활 실무서 발간",
+      "source": "브레이크뉴스",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"연세\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&start=1&sort=0"
+        },
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"물리치료\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2025-03-06-1d4643630b57.md"
+    },
+    {
+      "url": "https://www.sportsseoul.com/news/read/1481479?ref=naver",
+      "title": "패럴림픽 성과와 과학적 진보의 융합…KPC 장애인 스포츠과학 국제세미...",
+      "source": "스포츠서울",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"연세\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2024-12-03-6bcd06aad1ee.md"
+    },
+    {
+      "url": "http://www.welfarenews.net/news/articleView.html?idxno=105970",
+      "title": "'KPC 장애인 스포츠과학 국제세미나' 12월 4일 열린다",
+      "source": "장애인신문",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"연세\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2024-12-03-514122d6321c.md"
+    },
+    {
+      "url": "https://www.ablenews.co.kr/news/articleView.html?idxno=216864",
+      "title": "장애인체육회, 4일 '제6회 KPC 장애인스포츠과학 국제세미나' 개최",
+      "source": "에이블뉴스",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"연세\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2024-12-03-54a9b6db74c5.md"
+    },
+    {
+      "url": "http://www.spochoo.com/news/articleView.html?idxno=109945",
+      "title": "\"파리패럴림픽 과학적 지원 전략 모색\" 장애인 스포츠과학 국제세미나 ...",
+      "source": "더게이트",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"연세\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2024-12-03-ff31720e018b.md"
+    },
+    {
+      "url": "http://www.domin.co.kr/news/articleView.html?idxno=1213990",
+      "title": "정읍 배영고 졸업생 김범석·유승현, 행정고시 합격",
+      "source": "전북도민일보",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"연세\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "reason": "Report identifies a recent high-school graduate passing the civil-service examination, rather than the Yonsei Professor."
+    },
+    {
+      "url": "https://www.eroun.net/news/articleView.html?idxno=58609",
+      "title": "[이로운넷현장] \"AI 알고리즘, 민주주의를 해킹하다\"…디지털 공론장은...",
+      "source": "이로운넷",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"연세\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "reason": "Original article identifies a Hanyang University journalism professor, rather than the Yonsei Professor."
+    },
+    {
+      "url": "https://www.joongboo.com/news/articleView.html?idxno=363728022",
+      "title": "민선 9기 새 시대 새 일꾼... 6·3 지방선거 경기·인천 당선자 명단",
+      "source": "중부일보",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"연세\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "reason": "Election list identifies a forty-year-old company representative, rather than the Yonsei Professor."
+    },
+    {
+      "url": "https://www.viva100.com/article/20251010500746",
+      "title": "[B사이드] 뮤지컬 ‘라흐마니노프’ 김재범‧원태민의 “슬픈” 라흐들...",
+      "source": "브릿지경제",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"연세\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "reason": "Discovery headline identifies an unrelated political, performing-arts, business or general-science subject; no SMART Lab / Professor You / Yonsei GOODWELLNESS activity identified."
+    },
+    {
+      "url": "http://www.veritas-a.com/news/articleView.html?idxno=435881",
+      "title": "연세대 미래캠 치매 사회적처방 융합사업단 제1회 세미나 개최",
+      "source": "베리타스알파",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"연세\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&start=1&sort=0"
+        },
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"물리치료\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2022-11-10-b2f6345fe3c2.md"
+    },
+    {
+      "url": "https://v.daum.net/v/20250306162122164",
+      "title": "화성시, '로봇재활 임상지침서' 발간…개념·운영 사례 담아",
+      "source": "더팩트",
+      "discoveredBy": [
+        {
+          "engine": "daum",
+          "query": "\"유승현\" \"연세\"",
+          "searchUrl": "https://search.daum.net/search?w=news&q=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EC%97%B0%EC%84%B8%22&p=1&sort=accuracy&cluster=n"
+        }
+      ],
+      "status": "duplicate",
+      "canonical": "https://news.tf.co.kr/read/national/2185153.htm"
+    },
+    {
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202204212324033620672",
+      "title": "장애인 재활치료 로봇과 함께해요",
+      "source": "대한경제",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"물리치료\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2022-04-22-be76acf8d76d.md"
+    },
+    {
+      "url": "http://robotzine.co.kr/entry/260381",
+      "title": "화성시, 로봇 및 스마트 재활 성과보고회 개최",
+      "source": "월간로봇기술",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"물리치료\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2022-04-22-robotzine-conference.md"
+    },
+    {
+      "url": "http://www.youthdaily.co.kr/news/article.html?no=87023",
+      "title": "[청년발언대] 코로나 알약 치료제, 차세대 코로나 치료법이 될까?",
+      "source": "청년일보",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"물리치료\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=1&sort=0"
+        }
+      ],
+      "status": "held",
+      "reason": "Opinion is credited to a Youth Supporters contributor without a Yonsei affiliation. No evidence identifying the Professor."
+    },
+    {
+      "url": "http://www.hani.co.kr/arti/society/handicapped/337808.html",
+      "title": "장애아 현실 외면한 ‘재활치료 바우처’",
+      "source": "한겨레",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"물리치료\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2009-02-09-429dfc436ae4.md"
+    },
+    {
+      "url": "https://n.news.naver.com/mnews/article/009/0000439928?sid=101",
+      "title": "비디오 게임 뇌졸중 치료에 효과",
+      "source": "매일경제",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"물리치료\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2005-05-13-b5f21abda40f.md"
+    },
+    {
+      "url": "http://www.sporbiz.co.kr/news/articleView.html?idxno=616693",
+      "title": "화성시, 지역사회 중심의 '로봇재활서비스' 모델 선보여",
+      "source": "한스경제",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"물리치료\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2022-04-21-8e8760671bf0.md"
+    },
+    {
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=2452767",
+      "title": "화성시, 로봇·스마트 재활 성과보고회 열어",
+      "source": "국제뉴스",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"물리치료\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2022-04-21-fee403d0570b.md"
+    },
+    {
+      "url": "http://www.betanews.net:8080/article/1327204.html",
+      "title": "화성시, 로봇·스마트 재활 성과보고회 열어",
+      "source": "베타뉴스",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"물리치료\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=1&sort=0"
+        }
+      ],
+      "status": "unavailable",
+      "reason": "Publisher page explicitly says 삭제된 기사입니다.; no article body available."
+    },
+    {
+      "url": "https://www.asiatime.co.kr/article/20220421500226",
+      "title": "[21일 화성시 소식] 동탄5동 청소년 체육사업 후원 협약 등",
+      "source": "아시아타임즈",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"물리치료\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2022-04-21-asiatimes-community-care.md"
+    },
+    {
+      "url": "http://www.paxetv.com/news/articleView.html?idxno=142935",
+      "title": "화성시, 로봇·스마트 재활 성과보고회 개최",
+      "source": "팍스경제TV",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"물리치료\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2022-04-21-7e187ec3f111.md"
+    },
+    {
+      "url": "https://www.ajunews.com/view/20220421135725898",
+      "title": "화성시, 로봇 · 스마트 재활 온·오프라인 성과보고회 개최",
+      "source": "아주경제",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"물리치료\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=11&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2022-04-21-community-rehabilitation.md"
+    },
+    {
+      "url": "https://www.nspna.com/news/?mode=view&newsid=743314",
+      "title": "화성시, 장애인 일상생활 복귀 돕는 로봇재활 실무서 발간",
+      "source": "NSP통신",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"물리치료\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=21&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2025-03-06-b20dbf327880.md"
+    },
+    {
+      "url": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1542564",
+      "title": "화성, 지역 ‘로봇재활서비스’ 모델 선보였다",
+      "source": "신아일보",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"물리치료\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=21&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2022-04-21-8cbeb39a1257.md"
+    },
+    {
+      "url": "http://news.tf.co.kr/read/national/1933140.htm",
+      "title": "화성시, 로봇·스마트 재활 성과보고회 열어",
+      "source": "더팩트",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"물리치료\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=21&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2022-04-21-e617228a4429.md"
+    },
+    {
+      "url": "http://www.joongboo.com/news/articleView.html?idxno=363537266",
+      "title": "\"지역사회 중심 재활의 장 열어\"… 화성시, '로봇·스마트 재활 성과보...",
+      "source": "중부일보",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"유승현\" \"물리치료\"",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22%EC%9C%A0%EC%8A%B9%ED%98%84%22+%22%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C%22&start=31&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2022-04-21-363e5d426451.md"
+    },
+    {
+      "url": "https://www.hani.co.kr/arti/politics/politics_general/1172461.html",
+      "title": "전 세계 정치학자 282명 “윤 탄핵 외 방법 없다”",
+      "source": "한겨레",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"Joshua You\" Yonsei",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22Joshua+You%22+Yonsei&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original political-science statement and signatory list reviewed. Yonsei is named for Hans Schattle; no Professor You or relevant rehabilitation group is identified.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://www.hani.co.kr/arti/politics/politics_general/1172461.html",
+        "bodyElement": "publisher-page",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "https://www.pressian.com/pages/articles/2024121118384398439?utm_source=naver&utm_medium=search",
+      "title": "윤 대통령 탄핵 촉구, 한국 넘어 세계 정치학자들도 지지 표명",
+      "source": "프레시안",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"Joshua You\" Yonsei",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22Joshua+You%22+Yonsei&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original political-science statement and signatory list reviewed. Yonsei is named for Hans Schattle; no Professor You or relevant rehabilitation group is identified.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://www.pressian.com/pages/articles/2024121118384398439?utm_source=naver&utm_medium=search",
+        "bodyElement": "publisher-page",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003087849&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+      "title": "세계 학자 282명, 정치학자 시국선언 지지서명",
+      "source": "오마이뉴스",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"Joshua You\" Yonsei",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22Joshua+You%22+Yonsei&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original political-science statement and signatory list reviewed. Yonsei is named for Hans Schattle; no Professor You or relevant rehabilitation group is identified.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003087849&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "bodyElement": "publisher-page",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "http://www.koreatimes.co.kr/www/art/2018/11/690_67804.html",
+      "title": "Concerts, Museums & Theater",
+      "source": "코리아타임스",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"Joshua You\" Yonsei",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22Joshua+You%22+Yonsei&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original article body reviewed; the named people, institution and subject do not establish a connection to Yonsei Professor You, SMART Lab, GOODWELLNESS Center or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://www.koreatimes.co.kr/lifestyle/arts-theater/20100617/concerts-museums-theater?utm_source=legacy_url&utm_medium=redirect&utm_campaign=news_manager_id",
+        "bodyElement": "publisher-page",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "https://www.khan.co.kr/article/201708291808287/?eng",
+      "title": "Another Controversial Appointment? A Christian Fundamentalist as a Minist...",
+      "source": "경향신문",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"Joshua You\" Yonsei",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22Joshua+You%22+Yonsei&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original article body reviewed; the named people, institution and subject do not establish a connection to Yonsei Professor You, SMART Lab, GOODWELLNESS Center or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://www.khan.co.kr/en/article/201708291808287",
+        "bodyElement": "publisher-page",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "http://view.koreaherald.com/kh/view.php?ud=20130218000673",
+      "title": "[Voice] How can food prices be lowered?",
+      "source": "코리아헤럴드",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"Joshua You\" Yonsei",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22Joshua+You%22+Yonsei&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original article body reviewed; the named people, institution and subject do not establish a connection to Yonsei Professor You, SMART Lab, GOODWELLNESS Center or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://www.koreaherald.com/article/4059",
+        "bodyElement": "publisher-page",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "http://www.koreatimes.co.kr/www/art/2018/11/690_67400.html",
+      "title": "Concerts, Museums & Theater",
+      "source": "코리아타임스",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"Joshua You\" Yonsei",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22Joshua+You%22+Yonsei&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original article body reviewed; the named people, institution and subject do not establish a connection to Yonsei Professor You, SMART Lab, GOODWELLNESS Center or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://www.koreatimes.co.kr/lifestyle/arts-theater/20100610/concerts-museums-theater?utm_source=legacy_url&utm_medium=redirect&utm_campaign=news_manager_id",
+        "bodyElement": "publisher-page",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "http://www.koreatimes.co.kr/www/nation/2020/11/231_299815.html",
+      "title": "Essay awardees suggest fresh ideas for Korea's globalization",
+      "source": "코리아타임스",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"Joshua You\" Yonsei",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22Joshua+You%22+Yonsei&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original article body reviewed; the named people, institution and subject do not establish a connection to Yonsei Professor You, SMART Lab, GOODWELLNESS Center or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://www.koreatimes.co.kr/lifestyle/people-events/20201124/essay-awardees-suggest-fresh-ideas-for-koreas-globalization?utm_source=legacy_url&utm_medium=redirect&utm_campaign=news_manager_id",
+        "bodyElement": "publisher-page",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "https://www.koreatimes.co.kr/www/nation/2020/11/231_299526.html",
+      "title": "Winners of 16th Economic Essay Contest announced",
+      "source": "코리아타임스",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"Joshua You\" Yonsei",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22Joshua+You%22+Yonsei&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original article body reviewed; the named people, institution and subject do not establish a connection to Yonsei Professor You, SMART Lab, GOODWELLNESS Center or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://www.koreatimes.co.kr/lifestyle/people-events/20201119/winners-of-16th-economic-essay-contest-announced?utm_source=legacy_url&utm_medium=redirect&utm_campaign=news_manager_id",
+        "bodyElement": "publisher-page",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "http://www.koreatimes.co.kr/www/art/2018/11/690_110191.html",
+      "title": "Classical concerts",
+      "source": "코리아타임스",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"Joshua You\" Yonsei",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22Joshua+You%22+Yonsei&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original article body reviewed; the named people, institution and subject do not establish a connection to Yonsei Professor You, SMART Lab, GOODWELLNESS Center or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://www.koreatimes.co.kr/lifestyle/arts-theater/20120503/classical-concerts?utm_source=legacy_url&utm_medium=redirect&utm_campaign=news_manager_id",
+        "bodyElement": "publisher-page",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "http://www.koreatimes.co.kr/www/art/2018/11/690_109733.html",
+      "title": "Classical music",
+      "source": "코리아타임스",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"Joshua You\" Yonsei",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22Joshua+You%22+Yonsei&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original article body reviewed; the named people, institution and subject do not establish a connection to Yonsei Professor You, SMART Lab, GOODWELLNESS Center or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://www.koreatimes.co.kr/lifestyle/arts-theater/20120426/classical-music?utm_source=legacy_url&utm_medium=redirect&utm_campaign=news_manager_id",
+        "bodyElement": "publisher-page",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "https://v.daum.net/v/20241211230047903",
+      "title": "윤 대통령 탄핵 촉구, 한국 넘어 세계 정치학자들도 지지 표명",
+      "source": "프레시안",
+      "discoveredBy": [
+        {
+          "engine": "daum",
+          "query": "\"Joshua You\" Yonsei",
+          "searchUrl": "https://search.daum.net/search?w=news&q=%22Joshua+You%22+Yonsei&p=1&sort=accuracy&cluster=n"
+        }
+      ],
+      "status": "excluded",
+      "reason": "Reviewed original-source title and topic: unrelated 윤 대통령 탄핵 촉구, 한국 넘어 세계 정치학자들도 지지 표명. Article does not establish a connection to Yonsei Physical Therapy Professor You, SMART Lab, or Yonsei GOODWELLNESS."
+    },
+    {
+      "url": "https://v.daum.net/v/20241211183602801",
+      "title": "세계 학자 282명, 정치학자 시국선언 지지서명",
+      "source": "오마이뉴스",
+      "discoveredBy": [
+        {
+          "engine": "daum",
+          "query": "\"Joshua You\" Yonsei",
+          "searchUrl": "https://search.daum.net/search?w=news&q=%22Joshua+You%22+Yonsei&p=1&sort=accuracy&cluster=n"
+        }
+      ],
+      "status": "excluded",
+      "reason": "Reviewed original-source title and topic: unrelated 세계 학자 282명, 정치학자 시국선언 지지서명. Article does not establish a connection to Yonsei Physical Therapy Professor You, SMART Lab, or Yonsei GOODWELLNESS."
+    },
+    {
+      "url": "https://v.daum.net/v/20241211171510925",
+      "title": "전 세계 정치학자 282명 “윤 탄핵 외 방법 없다”",
+      "source": "한겨레",
+      "discoveredBy": [
+        {
+          "engine": "daum",
+          "query": "\"Joshua You\" Yonsei",
+          "searchUrl": "https://search.daum.net/search?w=news&q=%22Joshua+You%22+Yonsei&p=1&sort=accuracy&cluster=n"
+        }
+      ],
+      "status": "excluded",
+      "reason": "Reviewed original-source title and topic: unrelated 전 세계 정치학자 282명 “윤 탄핵 외 방법 없다”. Article does not establish a connection to Yonsei Physical Therapy Professor You, SMART Lab, or Yonsei GOODWELLNESS."
+    },
+    {
+      "url": "https://v.daum.net/v/20170829180756898",
+      "title": "Another Controversial Appointment? A Christian Fundamentalist as a Minister",
+      "source": "경향신문",
+      "discoveredBy": [
+        {
+          "engine": "daum",
+          "query": "\"Joshua You\" Yonsei",
+          "searchUrl": "https://search.daum.net/search?w=news&q=%22Joshua+You%22+Yonsei&p=1&sort=accuracy&cluster=n"
+        }
+      ],
+      "status": "excluded",
+      "reason": "Reviewed original-source title and topic: unrelated Another Controversial Appointment? A Christian Fundamentalist as a Minister. Article does not establish a connection to Yonsei Physical Therapy Professor You, SMART Lab, or Yonsei GOODWELLNESS."
+    },
+    {
+      "url": "https://v.daum.net/v/20130218200606213",
+      "title": "[Voice] How can food prices be lowered?",
+      "source": "코리아헤럴드",
+      "discoveredBy": [
+        {
+          "engine": "daum",
+          "query": "\"Joshua You\" Yonsei",
+          "searchUrl": "https://search.daum.net/search?w=news&q=%22Joshua+You%22+Yonsei&p=1&sort=accuracy&cluster=n"
+        }
+      ],
+      "status": "excluded",
+      "reason": "Reviewed original-source title and topic: unrelated [Voice] How can food prices be lowered?. Article does not establish a connection to Yonsei Physical Therapy Professor You, SMART Lab, or Yonsei GOODWELLNESS."
+    },
+    {
+      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=26630",
+      "title": "Korea's rehabilitation gap: why critically ill patients struggle without ...",
+      "source": "KBR",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"Sung Hyun You\" rehabilitation",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22Sung+Hyun+You%22+rehabilitation&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original rehabilitation-policy article quotes Chung Chi-ryang, Hyun Sung-eun, Kim Tae-yoon and Park Jin-young; does not identify Professor You, SMART Lab, GOODWELLNESS or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://www.koreabiomed.com/news/articleView.html?idxno=26630",
+        "bodyElement": "publisher-page",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "https://slownews.kr/165873",
+      "title": "Slow Letter: September 03, 2026.",
+      "source": "슬로우뉴스",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"Sung Hyun You\" rehabilitation",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22Sung+Hyun+You%22+rehabilitation&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original article body reviewed; the named people, institution and subject do not establish a connection to Yonsei Professor You, SMART Lab, GOODWELLNESS Center or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://slownews.kr/165873",
+        "bodyElement": "publisher-page",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33294",
+      "title": "[News Analysis] Inventera built an iron MRI dye for joints. Now it has to...",
+      "source": "KBR",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"Sung Hyun You\" rehabilitation",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22Sung+Hyun+You%22+rehabilitation&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original article body reviewed; the named people, institution and subject do not establish a connection to Yonsei Professor You, SMART Lab, GOODWELLNESS Center or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://www.koreabiomed.com/news/articleView.html?idxno=33294",
+        "bodyElement": "publisher-page",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "https://slownews.kr/163572",
+      "title": "Slow Letter: July 22, 2026.",
+      "source": "슬로우뉴스",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"Sung Hyun You\" rehabilitation",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22Sung+Hyun+You%22+rehabilitation&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original article body reviewed; the named people, institution and subject do not establish a connection to Yonsei Professor You, SMART Lab, GOODWELLNESS Center or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://slownews.kr/163572",
+        "bodyElement": "publisher-page",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "https://www.nc.press/news/articleView.html?idxno=608046",
+      "title": "Honor: Their Courtroom | Lee Na-young's Chilling Reversal Sends Shockwave...",
+      "source": "뉴스컬처",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"Sung Hyun You\" rehabilitation",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22Sung+Hyun+You%22+rehabilitation&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original article body reviewed; the named people, institution and subject do not establish a connection to Yonsei Professor You, SMART Lab, GOODWELLNESS Center or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://www.nc.press/news/articleView.html?idxno=608046",
+        "bodyElement": "publisher-page",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "https://slownews.kr/152318",
+      "title": "Slow Letter: January 08, 2026.",
+      "source": "슬로우뉴스",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"Sung Hyun You\" rehabilitation",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22Sung+Hyun+You%22+rehabilitation&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original article body reviewed; the named people, institution and subject do not establish a connection to Yonsei Professor You, SMART Lab, GOODWELLNESS Center or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://slownews.kr/152318",
+        "bodyElement": "publisher-page",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "https://slownews.kr/162003",
+      "title": "Slow Letter: June 23, 2026.",
+      "source": "슬로우뉴스",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"Sung Hyun You\" rehabilitation",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22Sung+Hyun+You%22+rehabilitation&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original article body reviewed; the named people, institution and subject do not establish a connection to Yonsei Professor You, SMART Lab, GOODWELLNESS Center or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://slownews.kr/162003",
+        "bodyElement": "publisher-page",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "https://slownews.kr/153090",
+      "title": "Slow Letter: January 22, 2026.",
+      "source": "슬로우뉴스",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"Sung Hyun You\" rehabilitation",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22Sung+Hyun+You%22+rehabilitation&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original article body reviewed; the named people, institution and subject do not establish a connection to Yonsei Professor You, SMART Lab, GOODWELLNESS Center or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://slownews.kr/153090",
+        "bodyElement": "publisher-page",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "https://slownews.kr/146653",
+      "title": "Slow Letter: October 06, 2025.",
+      "source": "슬로우뉴스",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"Sung Hyun You\" rehabilitation",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22Sung+Hyun+You%22+rehabilitation&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original article body reviewed; the named people, institution and subject do not establish a connection to Yonsei Professor You, SMART Lab, GOODWELLNESS Center or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://slownews.kr/146653",
+        "bodyElement": "publisher-page",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "https://koreajoongangdaily.joins.com/news/2025-08-19/business/industry/Samsungs-answer-to-aging-Retirement-complex-offers-comprehensive-medical-care-and-spalike-comfort-/2376140",
+      "title": "Samsung's answer to aging: Retirement complex offers comprehensive medica...",
+      "source": "코리아중앙데일리",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "\"Sung Hyun You\" rehabilitation",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%22Sung+Hyun+You%22+rehabilitation&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original article body reviewed; the named people, institution and subject do not establish a connection to Yonsei Professor You, SMART Lab, GOODWELLNESS Center or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://www.koreajoongangdaily.com/business/samsungs-answer-to-aging-retirement-complex-offers-comprehensive-medical-care-and-spa-like-comfort/12245343",
+        "bodyElement": "publisher-page",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "https://v.daum.net/v/20260929165612987",
+      "title": "JIPYONG, KCL, Peter & Kim, Changchun, HUB, NAMSAN, YOSOO ... What’s Driving Their Rise",
+      "source": "법률신문",
+      "discoveredBy": [
+        {
+          "engine": "daum",
+          "query": "\"Sung Hyun You\" rehabilitation",
+          "searchUrl": "https://search.daum.net/search?w=news&q=%22Sung+Hyun+You%22+rehabilitation&p=1&sort=accuracy&cluster=n"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original article body reviewed; the named people, institution and subject do not establish a connection to Yonsei Professor You, SMART Lab, GOODWELLNESS Center or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://v.daum.net/v/20260929165612987",
+        "bodyElement": "div.article_view",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "https://v.daum.net/v/20260623132820354",
+      "title": "World Cup heartthrob Cho Gue- sung returns to tournament with a mission",
+      "source": "코리아중앙데일리",
+      "discoveredBy": [
+        {
+          "engine": "daum",
+          "query": "\"Sung Hyun You\" rehabilitation",
+          "searchUrl": "https://search.daum.net/search?w=news&q=%22Sung+Hyun+You%22+rehabilitation&p=1&sort=accuracy&cluster=n"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original article body reviewed; the named people, institution and subject do not establish a connection to Yonsei Professor You, SMART Lab, GOODWELLNESS Center or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://v.daum.net/v/20260623132820354",
+        "bodyElement": "div.article_view",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "https://v.daum.net/v/20250819070224800",
+      "title": "Samsung's answer to aging: Retirement complex offers comprehensive medical care and spa-like comfort",
+      "source": "코리아중앙데일리",
+      "discoveredBy": [
+        {
+          "engine": "daum",
+          "query": "\"Sung Hyun You\" rehabilitation",
+          "searchUrl": "https://search.daum.net/search?w=news&q=%22Sung+Hyun+You%22+rehabilitation&p=1&sort=accuracy&cluster=n"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original article body reviewed; the named people, institution and subject do not establish a connection to Yonsei Professor You, SMART Lab, GOODWELLNESS Center or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://v.daum.net/v/20250819070224800",
+        "bodyElement": "div.article_view",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "https://v.daum.net/v/20210811152503912",
+      "title": "Lee Kwang-soo is determined to keep people laughing",
+      "source": "코리아중앙데일리",
+      "discoveredBy": [
+        {
+          "engine": "daum",
+          "query": "\"Sung Hyun You\" rehabilitation",
+          "searchUrl": "https://search.daum.net/search?w=news&q=%22Sung+Hyun+You%22+rehabilitation&p=1&sort=accuracy&cluster=n"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original article body reviewed; the named people, institution and subject do not establish a connection to Yonsei Professor You, SMART Lab, GOODWELLNESS Center or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://v.daum.net/v/20210811152503912",
+        "bodyElement": "div.article_view",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "https://v.daum.net/v/20200827160302825",
+      "title": "Lee Hyung-jong is ready to make a name for himself",
+      "source": "코리아중앙데일리",
+      "discoveredBy": [
+        {
+          "engine": "daum",
+          "query": "\"Sung Hyun You\" rehabilitation",
+          "searchUrl": "https://search.daum.net/search?w=news&q=%22Sung+Hyun+You%22+rehabilitation&p=1&sort=accuracy&cluster=n"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original article body reviewed; the named people, institution and subject do not establish a connection to Yonsei Professor You, SMART Lab, GOODWELLNESS Center or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://v.daum.net/v/20200827160302825",
+        "bodyElement": "div.article_view",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "https://v.daum.net/v/20150311194109193",
+      "title": "Forget the villain: Lee returns as doting mom in new rom-com",
+      "source": "코리아헤럴드",
+      "discoveredBy": [
+        {
+          "engine": "daum",
+          "query": "\"Sung Hyun You\" rehabilitation",
+          "searchUrl": "https://search.daum.net/search?w=news&q=%22Sung+Hyun+You%22+rehabilitation&p=1&sort=accuracy&cluster=n"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original article body reviewed; the named people, institution and subject do not establish a connection to Yonsei Professor You, SMART Lab, GOODWELLNESS Center or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://v.daum.net/v/20150311194109193",
+        "bodyElement": "div.article_view",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "https://v.daum.net/v/20121130200809924",
+      "title": "'Golden moment for two Koreas to cooperate on human issues'",
+      "source": "코리아헤럴드",
+      "discoveredBy": [
+        {
+          "engine": "daum",
+          "query": "\"Sung Hyun You\" rehabilitation",
+          "searchUrl": "https://search.daum.net/search?w=news&q=%22Sung+Hyun+You%22+rehabilitation&p=1&sort=accuracy&cluster=n"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original article body reviewed; the named people, institution and subject do not establish a connection to Yonsei Professor You, SMART Lab, GOODWELLNESS Center or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://v.daum.net/v/20121130200809924",
+        "bodyElement": "div.article_view",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "https://v.daum.net/v/20110120175823424",
+      "title": "On mission to build rehab hospitals",
+      "source": "코리아헤럴드",
+      "discoveredBy": [
+        {
+          "engine": "daum",
+          "query": "\"Sung Hyun You\" rehabilitation",
+          "searchUrl": "https://search.daum.net/search?w=news&q=%22Sung+Hyun+You%22+rehabilitation&p=1&sort=accuracy&cluster=n"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original body profiles Purme Foundation executive director Paik Kyung-hak; not Yonsei Professor You or GOODWELLNESS.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://v.daum.net/v/20110120175823424",
+        "bodyElement": "div.article_view",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "https://v.daum.net/v/20120820203613034",
+      "title": "[Voice] Is Korea's drug policy working?",
+      "source": "코리아헤럴드",
+      "discoveredBy": [
+        {
+          "engine": "daum",
+          "query": "\"Sung Hyun You\" rehabilitation",
+          "searchUrl": "https://search.daum.net/search?w=news&q=%22Sung+Hyun+You%22+rehabilitation&p=1&sort=accuracy&cluster=n"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original article body reviewed; the named people, institution and subject do not establish a connection to Yonsei Professor You, SMART Lab, GOODWELLNESS Center or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://v.daum.net/v/20120820203613034",
+        "bodyElement": "div.article_view",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "https://v.daum.net/v/20120928194407880",
+      "title": "Calendar",
+      "source": "코리아헤럴드",
+      "discoveredBy": [
+        {
+          "engine": "daum",
+          "query": "\"Sung Hyun You\" rehabilitation",
+          "searchUrl": "https://search.daum.net/search?w=news&q=%22Sung+Hyun+You%22+rehabilitation&p=1&sort=accuracy&cluster=n"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original article body reviewed; the named people, institution and subject do not establish a connection to Yonsei Professor You, SMART Lab, GOODWELLNESS Center or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://v.daum.net/v/20120928194407880",
+        "bodyElement": "div.article_view",
+        "screenStatus": "no-identity-signal"
+      }
+    },
+    {
+      "url": "https://v.daum.net/v/20120921215207226",
+      "title": "Calendar",
+      "source": "코리아헤럴드",
+      "discoveredBy": [
+        {
+          "engine": "daum",
+          "query": "\"Sung Hyun You\" rehabilitation",
+          "searchUrl": "https://search.daum.net/search?w=news&q=%22Sung+Hyun+You%22+rehabilitation&p=2&sort=accuracy&cluster=n"
+        }
+      ],
+      "status": "excluded",
+      "review": "Original article body reviewed; the named people, institution and subject do not establish a connection to Yonsei Professor You, SMART Lab, GOODWELLNESS Center or Walkbot.",
+      "sourceReview": {
+        "checkedOn": "2026-10-03",
+        "finalUrl": "https://v.daum.net/v/20120921215207226",
+        "bodyElement": "div.article_view",
+        "screenStatus": "no-identity-signal"
+      }
+    }
+  ],
+  "originalBodyReviewComplete": true,
+  "remaining": "One held source, one unavailable source and incomplete Naver scrolling remain; discovery completeness is not established.",
+  "additionalCandidates": [
+    {
+      "url": "https://www.youtube.com/watch?v=luenzJfG9Pc",
+      "title": "장애인에 다가와 착용…AI로 강해진 '웨어러블 로봇'｜지금 이 뉴스",
+      "date": "2024-10-24",
+      "status": "excluded",
+      "review": "Original verified JTBC upload description and full displayed transcript reviewed. Report concerns Team KAIST wearable robot and Cybathlon entry; no Yonsei, Professor You, SMART Lab, GOODWELLNESS or Walkbot connection established."
+    }
+  ],
+  "browserReview": {
+    "checkedOn": "2026-10-03",
+    "query": "\"유승현\" \"물리치료\"",
+    "method": "Viewed Naver main results, scrolled, expanded March 2025 guide cluster (16 reports) and April 2022 community rehabilitation cluster (15 reports), scrolled expanded results and reconciled every original link.",
+    "result": "Guide cluster sources are already published, including MoneyS publisher rename to Sidae. Community cluster sources are already published except the unavailable Beta News article. Viva100 and AsiaToday older URLs are aliases of the existing public originals.",
+    "complete": false
+  }
+}

@@ -31,7 +31,7 @@ def review(candidate):
         else:
             text = body.text()
             # These are signals to inspect, not evidence to publish an article.
-            pattern = r'유승현|굿웰니스|GOOD\s?WELLNESS|Joshua(?:\s+\(Sung\))?\s+(?:H\.?\s+)?You|Sung\s+H\.?\s+You|장애(?:인|아동).*?체력증진|(?:미라클|MIRACLE).{0,60}(?:보행|로봇)|(?:보행|로봇).{0,60}(?:미라클|MIRACLE)'
+            pattern = r'유승현|굿웰니스|GOOD\s?WELLNESS|Joshua(?:\s+\(Sung\))?\s+(?:H\.?\s*)?You|Sung\s+(?:\(Joshua\)\s+)?(?:Hyun|H\.?)\s*You|장애(?:인|아동).*?체력증진|(?:미라클|MIRACLE).{0,60}(?:보행|로봇)|(?:보행|로봇).{0,60}(?:미라클|MIRACLE)'
             matches = [text[max(0, match.start()-140):match.end()+240] for match in re.finditer(pattern, text, re.I)]
             result.update(finalUrl=final, body=text, status='identity-review-needed' if matches else 'no-identity-signal', matches=matches,
                           bodyElement='div.article_view',

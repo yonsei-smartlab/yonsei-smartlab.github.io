@@ -42,11 +42,14 @@
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=27&sk=&sw=&offset=&category=",
       "title": "기적 부른 AI 재활로봇, 의료 패더라임 바꾼다? / 머니투데이 방송 MTN / 2026.06.18",
-      "status": "unreviewed",
+      "status": "held",
       "originalLinks": [
         "https://www.youtube.com/watch?v=MiuE2JcRWGI&t=343s"
       ],
-      "sourceLinkReview": "Official repost links inspected; original article review still required."
+      "sourceLinkReview": "Official repost links inspected; original article review still required.",
+      "originalTitle": "",
+      "identityReview": "Video content, original upload date and named participant identity require review.",
+      "professorParticipation": "not-established"
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=26&sk=&sw=&offset=&category=",
@@ -75,11 +78,14 @@
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=24&sk=&sw=&offset=&category=",
       "title": "피앤에스로보틱스, 소재 부품 장비 전문기업 인증 취득 / 2026.05.21",
-      "status": "unreviewed",
+      "status": "reviewed-awaiting-scope",
       "originalLinks": [
         "https://www.newsprime.co.kr/news/article/?no=734229"
       ],
-      "sourceLinkReview": "Official repost links inspected; original article review still required."
+      "sourceLinkReview": "Official repost links inspected; original article review still required.",
+      "originalTitle": "피앤에스로보틱스, 소재·부품·장비 전문기업 인증 취득…\"글로벌 R&D·수출 강화\"",
+      "identityReview": "Original headline, visible date and article body reviewed. Company/product report does not identify Professor You or SMART Lab/GOODWELLNESS participation.",
+      "professorParticipation": "not-established"
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=23&sk=&sw=&offset=&category=",
@@ -94,11 +100,14 @@
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=22&sk=&sw=&offset=&category=",
       "title": "피앤에스로보틱스, 어깨 재활 로봇 '힐러봇' 국내 첫 공개 / 2026.03.05",
-      "status": "unreviewed",
+      "status": "excluded",
       "originalLinks": [
         "https://www.dailian.co.kr/news/view/1617165/%ED%94%BC%EC%95%A4%EC%97%90%EC%8A%A4%EB%A1%9C%EB%B3%B4%ED%8B%B1%EC%8A%A4-%EC%96%B4%EA%B9%A8-%EC%9E%AC%ED%99%9C-%EB%A1%9C%EB%B4%87-%ED%9E%90%EB%9F%AC-2026"
       ],
-      "sourceLinkReview": "Official repost links inspected; original article review still required."
+      "sourceLinkReview": "Official repost links inspected; original article review still required.",
+      "originalTitle": "피앤에스로보틱스, 어깨 재활 로봇 '힐러봇' 국내 첫 공개",
+      "identityReview": "Complete original article concerns Healerbot shoulder rehabilitation; no Walkbot, Yonsei, Professor You, SMART Lab or GOODWELLNESS role identified.",
+      "professorParticipation": "not-established"
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=21&sk=&sw=&offset=&category=",
@@ -127,29 +136,38 @@
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=19&sk=&sw=&offset=10&category=",
       "title": "P&S 로보틱스_걸어본 적 없는 아이가 걷기 시작했다 / 2025.12.12",
-      "status": "unreviewed",
+      "status": "held",
       "originalLinks": [
         "https://www.youtube.com/watch?v=VQR4LLWkbc4"
       ],
-      "sourceLinkReview": "Official repost links inspected; original article review still required."
+      "sourceLinkReview": "Official repost links inspected; original article review still required.",
+      "originalTitle": "",
+      "identityReview": "Video content, original upload date and named participant identity require review.",
+      "professorParticipation": "not-established"
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=18&sk=&sw=&offset=10&category=",
       "title": "피앤에스로보틱스, AI 기반 ‘힐러봇’까지 라인업 확대…'재활 로봇 풀스택 기업으로 ...",
-      "status": "unreviewed",
+      "status": "reviewed-awaiting-scope",
       "originalLinks": [
         "https://www.financialpost.co.kr/news/articleView.html?idxno=239939"
       ],
-      "sourceLinkReview": "Official repost links inspected; original article review still required."
+      "sourceLinkReview": "Official repost links inspected; original article review still required.",
+      "originalTitle": "피앤에스로보틱스, AI 기반 ‘힐러봇’까지 라인업 확대…\"재활 로봇 풀스택 기업으로 진화 중\"",
+      "identityReview": "Original headline, visible date and article body reviewed. Company/product report does not identify Professor You or SMART Lab/GOODWELLNESS participation.",
+      "professorParticipation": "not-established"
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=17&sk=&sw=&offset=10&category=",
       "title": "피앤에스로보틱스, 파주시 운정 다누림 장애인복지관에 ‘워크봇’ 설치 / 2025.08.1...",
-      "status": "unreviewed",
+      "status": "reviewed-awaiting-scope",
       "originalLinks": [
         "https://www.irobotnews.com/news/articleView.html?idxno=41738"
       ],
-      "sourceLinkReview": "Official repost links inspected; original article review still required."
+      "sourceLinkReview": "Official repost links inspected; original article review still required.",
+      "originalTitle": "피앤에스로보틱스, 파주시 운정 다누림 장애인복지관에 ‘워크봇’  설치 - 로봇신문",
+      "identityReview": "Original headline, visible date and article body reviewed. Company/product report does not identify Professor You or SMART Lab/GOODWELLNESS participation.",
+      "professorParticipation": "not-established"
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=16&sk=&sw=&offset=10&category=",
@@ -166,107 +184,141 @@
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=15&sk=&sw=&offset=10&category=",
       "title": "피앤에스미캐닉스 현장 탐방 취재 / 2025.02.16",
-      "status": "unreviewed",
+      "status": "reviewed-awaiting-scope",
       "originalLinks": [
         "https://www.hankyung.com/article/202502042289i"
       ],
-      "sourceLinkReview": "Official repost links inspected; original article review still required."
+      "sourceLinkReview": "Official repost links inspected; original article review still required.",
+      "originalTitle": "대기업 나와 6000만원 투자…'177억 부자' 된 피앤에스미캐닉스 대표 [윤현주의 主食이 주식]",
+      "identityReview": "Original headline, visible date and article body reviewed. Company/product report does not identify Professor You or SMART Lab/GOODWELLNESS participation. Yonsei University is mentioned among clinical-research institutions, but no individual researcher or center is named.",
+      "professorParticipation": "not-established"
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=14&sk=&sw=&offset=10&category=",
       "title": "피앤에스미캐닉스, 메디카 2024 전시 참가 / 2024. 11. 18",
-      "status": "unreviewed",
+      "status": "reviewed-awaiting-scope",
       "originalLinks": [
         "https://www.donga.com/news/article/all/20241118/130447368/1"
       ],
-      "sourceLinkReview": "Official repost links inspected; original article review still required."
+      "sourceLinkReview": "Official repost links inspected; original article review still required.",
+      "originalTitle": "피앤에스미캐닉스, 메디카 2024 전시 참가",
+      "identityReview": "Original headline, visible date and article body reviewed. Company/product report does not identify Professor You or SMART Lab/GOODWELLNESS participation.",
+      "professorParticipation": "not-established"
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=13&sk=&sw=&offset=10&category=",
       "title": "피앤에스미캐닉스, 인니 수출계약 체결...수출국 15개로 확대 / 2024. 11. 11",
-      "status": "unreviewed",
+      "status": "reviewed-awaiting-scope",
       "originalLinks": [
         "https://news.mt.co.kr/mtview.php?no=2024111108150089649"
       ],
-      "sourceLinkReview": "Official repost links inspected; original article review still required."
+      "sourceLinkReview": "Official repost links inspected; original article review still required.",
+      "originalTitle": "피앤에스미캐닉스, 인니 수출계약 체결…수출국 15개로 확대",
+      "identityReview": "Original headline, visible date and article body reviewed. Company/product report does not identify Professor You or SMART Lab/GOODWELLNESS participation.",
+      "professorParticipation": "not-established"
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=12&sk=&sw=&offset=10&category=",
       "title": "(주)피앤에스미캐닉스 코스닥시장 상장기념식 / 2024. 7. 31",
-      "status": "unreviewed",
+      "status": "reviewed-awaiting-scope",
       "originalLinks": [
         "https://www.yna.co.kr/view/PYH20240731062900013?input=1196m"
       ],
-      "sourceLinkReview": "Official repost links inspected; original article review still required."
+      "sourceLinkReview": "Official repost links inspected; original article review still required.",
+      "originalTitle": "(주)피앤에스미캐닉스 코스닥시장 상장기념식",
+      "identityReview": "Original photograph caption identifies P&S Mechanics’ July 31, 2024 listing ceremony. No Walkbot or Yonsei/Professor/center participation is named.",
+      "professorParticipation": "not-established"
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=11&sk=&sw=&offset=10&category=",
       "title": "'IPO 출사표' 피앤에스미캐닉스 '글로벌 기업 도약' / 2024. 7. 9",
-      "status": "unreviewed",
+      "status": "reviewed-awaiting-scope",
       "originalLinks": [
         "https://dealsite.co.kr/articles/125102"
       ],
-      "sourceLinkReview": "Official repost links inspected; original article review still required."
+      "sourceLinkReview": "Official repost links inspected; original article review still required.",
+      "originalTitle": "'IPO 출사표' 피앤에스미캐닉스 \"글로벌 기업 도약\"",
+      "identityReview": "Original headline, visible date and article body reviewed. Company/product report does not identify Professor You or SMART Lab/GOODWELLNESS participation.",
+      "professorParticipation": "not-established"
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=10&sk=&sw=&offset=10&category=",
       "title": "피앤에스미캐닉스 '글로벌 의료로봇 기업으로 성장할 것' / 2024. 7. 9",
-      "status": "unreviewed",
+      "status": "reviewed-awaiting-scope",
       "originalLinks": [
         "https://news.mtn.co.kr/news-detail/2024070916223542687"
       ],
-      "sourceLinkReview": "Official repost links inspected; original article review still required."
+      "sourceLinkReview": "Official repost links inspected; original article review still required.",
+      "originalTitle": "피앤에스미캐닉스 \"글로벌 의료로봇 기업으로 성장할 것\"",
+      "identityReview": "Original headline, visible date and article body reviewed. Company/product report does not identify Professor You or SMART Lab/GOODWELLNESS participation. Publication metadata and header say July 9, 2024; the body says today (5th), an unresolved internal date inconsistency. Do not merge into a dated event until corroborated.",
+      "professorParticipation": "not-established"
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=9&sk=&sw=&offset=20&category=",
       "title": "피앤에스미캐닉스, AI 로봇 산학협력 추진 '재활 표준 만든다' / 2023. 11. 27",
-      "status": "unreviewed",
+      "status": "reviewed-awaiting-scope",
       "originalLinks": [
         "https://news.mt.co.kr/mtview.php?no=2023112710224854970"
       ],
-      "sourceLinkReview": "Official repost links inspected; original article review still required."
+      "sourceLinkReview": "Official repost links inspected; original article review still required.",
+      "originalTitle": "피앤에스미캐닉스, AI 로봇 산학협력 추진 \"재활 표준 만든다\"",
+      "identityReview": "Original headline, visible date and article body reviewed. Company/product report does not identify Professor You or SMART Lab/GOODWELLNESS participation. The university in the cooperation report is unnamed; it cannot be identified as Yonsei from this article. Original publication date is November 28, 2023, rather than November 27 on the company index.",
+      "professorParticipation": "not-established"
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=8&sk=&sw=&offset=20&category=",
       "title": "'의료 로봇' 피앤에스미캐닉스, 코스닥 노크...상장예비심사 청구 / 2023. 11. 16",
-      "status": "unreviewed",
+      "status": "reviewed-awaiting-scope",
       "originalLinks": [
         "https://news.mt.co.kr/mtview.php?no=2023111615305657355,"
       ],
-      "sourceLinkReview": "Official repost links inspected; original article review still required."
+      "sourceLinkReview": "Official repost links inspected; original article review still required.",
+      "originalTitle": "'의료 로봇' 피앤에스미캐닉스, 코스닥 노크...상장예비심사 청구",
+      "identityReview": "Original headline, visible date and article body reviewed. Company/product report does not identify Professor You or SMART Lab/GOODWELLNESS participation.",
+      "professorParticipation": "not-established"
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=7&sk=&sw=&offset=20&category=",
       "title": "재활로봇업체 피앤에스미캐닉스, 코스닥 상장 추친 / 2023. 9. 1",
-      "status": "unreviewed",
+      "status": "reviewed-awaiting-scope",
       "originalLinks": [
         "https://www.sedaily.com/NewsView/29UIJO4EBV"
       ],
-      "sourceLinkReview": "Official repost links inspected; original article review still required."
+      "sourceLinkReview": "Official repost links inspected; original article review still required.",
+      "originalTitle": "재활로봇업체 피앤에스미캐닉스, 코스닥 상장 추진",
+      "identityReview": "Original headline, visible date and article body reviewed. Company/product report does not identify Professor You or SMART Lab/GOODWELLNESS participation.",
+      "professorParticipation": "not-established"
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=6&sk=&sw=&offset=20&category=",
       "title": "실적 껑충 뛴 'K-보행재활로봇'...12개국 인증, 수출도 '청신호' / 2023. 9. 26",
-      "status": "unreviewed",
+      "status": "reviewed-awaiting-scope",
       "originalLinks": [
         "https://news.mt.co.kr/mtview.php?no=2023092407470426509"
       ],
-      "sourceLinkReview": "Official repost links inspected; original article review still required."
+      "sourceLinkReview": "Official repost links inspected; original article review still required.",
+      "originalTitle": "실적 껑충 뛴 'K-보행재활로봇'...12개국 인증, 수출도 '청신호'",
+      "identityReview": "Original headline, visible date and article body reviewed. Company/product report does not identify Professor You or SMART Lab/GOODWELLNESS participation.",
+      "professorParticipation": "not-established"
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=5&sk=&sw=&offset=20&category=",
       "title": "세계 1위 제친 韓 재활로봇기업…'3년안에 현지법인 세워 미 공략' / 2022. 7. 24",
-      "status": "unreviewed",
+      "status": "held",
       "originalLinks": [
         "https://www.hankyung.com/article/2022072472791"
       ],
-      "sourceLinkReview": "Official repost links inspected; original article review still required."
+      "sourceLinkReview": "Official repost links inspected; original article review still required.",
+      "originalTitle": "",
+      "identityReview": "Original body unavailable through normal HTTP request; browser review remains outstanding.",
+      "professorParticipation": "not-established"
     }
   ],
   "statusCounts": {
     "published-original": 6,
     "social-post": 1,
-    "unreviewed": 17,
-    "excluded": 1
+    "held": 3,
+    "reviewed-awaiting-scope": 13,
+    "excluded": 2
   }
 }
