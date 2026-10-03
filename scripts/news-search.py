@@ -21,6 +21,7 @@ sys.stdout.reconfigure(encoding='utf-8')
 QUERIES = [
     '유승현 연세', '유승현 물리치료', '유승현 재활', '유승현 워크봇',
     '연세굿웰니스', '굿웰니스센터', '굿웰니스',
+    '연세굿월니스', '굿월니스센터', '굿월니스',
     'SMART 유승현', 'SMART Institute Yonsei', 'Joshua You Yonsei',
     'Joshua Sung You', '유승현 승마', '유승현 뇌조절',
 ]

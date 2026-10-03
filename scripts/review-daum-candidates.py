@@ -15,12 +15,23 @@ news = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(news)
 
 
+IDENTITY_PATTERN = r'유승현|굿(?:웰|월)니스|GOOD\s?WELLNESS|Joshua(?:\s+\(Sung\)|\s+Sung(?:\s+Hyun)?)?\s+(?:H\.?\s*)?You|Sung\s+(?:\(Joshua\)\s+)?(?:Hyun|H\.?)\s*You|장애(?:인|아동).*?체력증진|(?:미라클|MIRACLE).{0,60}(?:보행|로봇)|(?:보행|로봇).{0,60}(?:미라클|MIRACLE)'
+
+def identity_matches(text):
+    return [text[max(0, match.start()-140):match.end()+240]
+            for match in re.finditer(IDENTITY_PATTERN, text, re.I)]
+
 def review(candidate):
     url = candidate['url']
     key = hashlib.sha256(url.encode()).hexdigest()[:16]
     path = Path('.local/daum-source-review') / (key + '.json')
     if path.exists():
-        return json.loads(path.read_text(encoding='utf-8'))
+        result = json.loads(path.read_text(encoding='utf-8'))
+        if result.get('status') in ('identity-review-needed', 'no-identity-signal'):
+            result['matches'] = identity_matches(result.get('body', ''))
+            result['status'] = 'identity-review-needed' if result['matches'] else 'no-identity-signal'
+            path.write_text(json.dumps(result, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+        return result
     result = dict(url=url, title=candidate['title'], checkedOn=date.today().isoformat())
     try:
         source, final = news.fetch(url)
@@ -31,8 +42,7 @@ def review(candidate):
         else:
             text = body.text()
             # These are signals to inspect, not evidence to publish an article.
-            pattern = r'유승현|굿웰니스|GOOD\s?WELLNESS|Joshua(?:\s+\(Sung\))?\s+(?:H\.?\s*)?You|Sung\s+(?:\(Joshua\)\s+)?(?:Hyun|H\.?)\s*You|장애(?:인|아동).*?체력증진|(?:미라클|MIRACLE).{0,60}(?:보행|로봇)|(?:보행|로봇).{0,60}(?:미라클|MIRACLE)'
-            matches = [text[max(0, match.start()-140):match.end()+240] for match in re.finditer(pattern, text, re.I)]
+            matches = identity_matches(text)
             result.update(finalUrl=final, body=text, status='identity-review-needed' if matches else 'no-identity-signal', matches=matches,
                           bodyElement='div.article_view',
                           originalLinks=[node.attrs['href'] for node in tree.all(tag='a', attr='href') if '기사원문' in node.text() or '원문보기' in node.text()])

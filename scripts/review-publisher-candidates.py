@@ -15,12 +15,23 @@ news = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(news)
 
 
+IDENTITY_PATTERN = r'유승현|굿(?:웰|월)니스|GOOD\s?WELLNESS|Joshua(?:\s+\(Sung\)|\s+Sung(?:\s+Hyun)?)?\s+(?:H\.?\s*)?You|Sung\s+(?:\(Joshua\)\s+)?(?:Hyun|H\.?)\s*You|사회통합형.{0,40}(?:보행|로봇)|융합연구센터|SMART\s+(?:Lab|Institute)'
+
+def identity_matches(text):
+    return [text[max(0, match.start()-100):match.end()+180]
+            for match in re.finditer(IDENTITY_PATTERN, text, re.I)]
+
 def review(candidate):
     url = candidate['url']
     key = hashlib.sha256(url.encode()).hexdigest()[:16]
     cache = Path('.local/publisher-source-review') / (key + '.json')
     if cache.exists():
-        return json.loads(cache.read_text(encoding='utf-8'))
+        result = json.loads(cache.read_text(encoding='utf-8'))
+        if result.get('status') in ('identity-review-needed', 'no-identity-signal'):
+            result['matches'] = identity_matches(result.get('body', ''))
+            result['status'] = 'identity-review-needed' if result['matches'] else 'no-identity-signal'
+            cache.write_text(json.dumps(result, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+        return result
     result = dict(url=url, title=candidate['title'], checkedOn=date.today().isoformat())
     try:
         html, final = news.fetch(url)
@@ -29,8 +40,7 @@ def review(candidate):
         # a human must identify the article body and named institution.
         body = tree.first(tag='body') or tree
         text = body.text()
-        pattern = r'유승현|굿웰니스|GOOD\s?WELLNESS|Joshua(?:\s+\(Sung\))?\s+(?:H\.?\s*)?You|Sung\s+(?:\(Joshua\)\s+)?(?:Hyun|H\.?)\s*You|사회통합형.{0,40}(?:보행|로봇)|융합연구센터|SMART\s+(?:Lab|Institute)'
-        matches = [text[max(0, match.start()-100):match.end()+180] for match in re.finditer(pattern, text, re.I)]
+        matches = identity_matches(text)
         meta = {node.attrs.get('property', node.attrs.get('name', '')): node.attrs.get('content', '') for node in tree.all(tag='meta')}
         missing_body = not text.strip() or '요청하신 페이지를 찾을 수 없습니다' in text
         status = 'body-unavailable' if missing_body else ('identity-review-needed' if matches else 'no-identity-signal')

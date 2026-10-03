@@ -4,9 +4,9 @@
   "note": "Editorial queue only. Search results do not establish identity or approve public content.",
   "candidateCount": 448,
   "statusCounts": {
-    "unreviewed": 339,
+    "unreviewed": 319,
     "duplicate": 7,
-    "excluded": 69,
+    "excluded": 89,
     "published": 31,
     "held": 2
   },
@@ -3643,7 +3643,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=SMART+Lab+Yonsei&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -3651,8 +3651,11 @@
         "finalUrl": "https://v.daum.net/v/20250626155412499",
         "matchCount": 0,
         "walkbotMention": false,
-        "reviewComplete": false
-      }
+        "reviewComplete": true
+      },
+      "reason": "Read the full publisher-supplied Daum article body: Stablecoin policy and financial risk; the Yonsei expert is economics professor Kim Jung-sik. The article does not establish Professor You, SMART Lab, GOODWELLNESS or Walkbot involvement.",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Full div.article_view body in saved Daum source review."
     },
     {
       "url": "https://v.daum.net/v/20190411163003325",
@@ -3665,7 +3668,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=SMART+Lab+Yonsei&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -3673,8 +3676,11 @@
         "finalUrl": "https://v.daum.net/v/20190411163003325",
         "matchCount": 0,
         "walkbotMention": false,
-        "reviewComplete": false
-      }
+        "reviewComplete": true
+      },
+      "reason": "Read the full publisher-supplied Daum article body: Yonsei Blockchain Lab and its Idealian campus platform; named participants Lee Hyun-je and Shin Yu-hyeon. The article does not establish Professor You, SMART Lab, GOODWELLNESS or Walkbot involvement.",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Full div.article_view body in saved Daum source review."
     },
     {
       "url": "https://v.daum.net/v/20220207134154866",
@@ -3753,7 +3759,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=SMART+Lab+Yonsei&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -3761,8 +3767,11 @@
         "finalUrl": "https://v.daum.net/v/20200608135101707",
         "matchCount": 0,
         "walkbotMention": false,
-        "reviewComplete": false
-      }
+        "reviewComplete": true
+      },
+      "reason": "Read the full publisher-supplied Daum article body: Shinhan Financial New Deal financing and its startup accelerator; no SMART Lab rehabilitation connection. The article does not establish Professor You, SMART Lab, GOODWELLNESS or Walkbot involvement.",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Full div.article_view body in saved Daum source review."
     },
     {
       "url": "https://v.daum.net/v/20200623165546240",
@@ -3775,7 +3784,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=SMART+Lab+Yonsei&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -3783,8 +3792,11 @@
         "finalUrl": "https://v.daum.net/v/20200623165546240",
         "matchCount": 0,
         "walkbotMention": false,
-        "reviewComplete": false
-      }
+        "reviewComplete": true
+      },
+      "reason": "Read the full publisher-supplied Daum article body: Seoul and Tokyo financial-hub policy; the Yonsei expert is economics professor Sung Tae-yoon. The article does not establish Professor You, SMART Lab, GOODWELLNESS or Walkbot involvement.",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Full div.article_view body in saved Daum source review."
     },
     {
       "url": "https://v.daum.net/v/20170103095006835",
@@ -6136,7 +6148,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6144,8 +6156,11 @@
         "finalUrl": "https://v.daum.net/v/20261002060306457",
         "matchCount": 0,
         "walkbotMention": false,
-        "reviewComplete": false
-      }
+        "reviewComplete": true
+      },
+      "reason": "Read the full publisher-supplied Daum article body: Book roundup about ecological symbiosis, Chinese industry and employee retention. The article does not establish Professor You, SMART Lab, GOODWELLNESS or Walkbot involvement.",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Full div.article_view body in saved Daum source review."
     },
     {
       "url": "https://v.daum.net/v/20260930144504638",
@@ -6158,7 +6173,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6166,8 +6181,11 @@
         "finalUrl": "https://v.daum.net/v/20260930144504638",
         "matchCount": 0,
         "walkbotMention": false,
-        "reviewComplete": false
-      }
+        "reviewComplete": true
+      },
+      "reason": "Read the full publisher-supplied Daum article body: LG Uplus AI contact-center strategy presented by An Hyeong-gyun. The article does not establish Professor You, SMART Lab, GOODWELLNESS or Walkbot involvement.",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Full div.article_view body in saved Daum source review."
     },
     {
       "url": "https://v.daum.net/v/20260909141007293",
@@ -6180,7 +6198,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6188,8 +6206,11 @@
         "finalUrl": "https://v.daum.net/v/20260909141007293",
         "matchCount": 0,
         "walkbotMention": false,
-        "reviewComplete": false
-      }
+        "reviewComplete": true
+      },
+      "reason": "Read the full publisher-supplied Daum article body: Konan Technology enterprise workflow summit presented by COO Yang Seung-hyun, a different named person. The article does not establish Professor You, SMART Lab, GOODWELLNESS or Walkbot involvement.",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Full div.article_view body in saved Daum source review."
     },
     {
       "url": "https://v.daum.net/v/20260929181203800",
@@ -6224,7 +6245,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6232,8 +6253,11 @@
         "finalUrl": "https://v.daum.net/v/20260922162630146",
         "matchCount": 0,
         "walkbotMention": false,
-        "reviewComplete": false
-      }
+        "reviewComplete": true
+      },
+      "reason": "Read the full publisher-supplied Daum article body: Akamai cybersecurity and distributed cloud press briefing. The article does not establish Professor You, SMART Lab, GOODWELLNESS or Walkbot involvement.",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Full div.article_view body in saved Daum source review."
     },
     {
       "url": "https://v.daum.net/v/20260922135455176",
@@ -6246,7 +6270,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6254,8 +6278,11 @@
         "finalUrl": "https://v.daum.net/v/20260922135455176",
         "matchCount": 0,
         "walkbotMention": false,
-        "reviewComplete": false
-      }
+        "reviewComplete": true
+      },
+      "reason": "Read the full publisher-supplied Daum article body: Akamai cybersecurity and distributed cloud press briefing. The article does not establish Professor You, SMART Lab, GOODWELLNESS or Walkbot involvement.",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Full div.article_view body in saved Daum source review."
     },
     {
       "url": "https://v.daum.net/v/20260921093957781",
@@ -6290,7 +6317,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6298,8 +6325,11 @@
         "finalUrl": "https://v.daum.net/v/20260830064329856",
         "matchCount": 0,
         "walkbotMention": false,
-        "reviewComplete": false
-      }
+        "reviewComplete": true
+      },
+      "reason": "Read the full publisher-supplied Daum article body: Salesforce and Workday AI software contracts and usage-based pricing. The article does not establish Professor You, SMART Lab, GOODWELLNESS or Walkbot involvement.",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Full div.article_view body in saved Daum source review."
     },
     {
       "url": "https://v.daum.net/v/20260920060019598",
@@ -6400,7 +6430,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6408,8 +6438,11 @@
         "finalUrl": "https://v.daum.net/v/20260920091851902",
         "matchCount": 0,
         "walkbotMention": false,
-        "reviewComplete": false
-      }
+        "reviewComplete": true
+      },
+      "reason": "Read the full publisher-supplied Daum article body: Ubase customer-service AI contact centers and outsourcing. The article does not establish Professor You, SMART Lab, GOODWELLNESS or Walkbot involvement.",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Full div.article_view body in saved Daum source review."
     },
     {
       "url": "https://v.daum.net/v/20260916105927120",
@@ -6422,7 +6455,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6430,8 +6463,11 @@
         "finalUrl": "https://v.daum.net/v/20260916105927120",
         "matchCount": 0,
         "walkbotMention": false,
-        "reviewComplete": false
-      }
+        "reviewComplete": true
+      },
+      "reason": "Read the full publisher-supplied Daum article body: Robotiq industrial grippers, palletizing and automation tools; a different robotics company. The article does not establish Professor You, SMART Lab, GOODWELLNESS or Walkbot involvement.",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Full div.article_view body in saved Daum source review."
     },
     {
       "url": "https://v.daum.net/v/20260916153110617",
@@ -6444,7 +6480,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6452,8 +6488,11 @@
         "finalUrl": "https://v.daum.net/v/20260916153110617",
         "matchCount": 0,
         "walkbotMention": false,
-        "reviewComplete": false
-      }
+        "reviewComplete": true
+      },
+      "reason": "Read the full publisher-supplied Daum article body: Mirae Asset, SparkLabs and Kazakhstan venture-fund agreement. The article does not establish Professor You, SMART Lab, GOODWELLNESS or Walkbot involvement.",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Full div.article_view body in saved Daum source review."
     },
     {
       "url": "https://v.daum.net/v/20260916082849427",
@@ -6466,7 +6505,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6474,8 +6513,11 @@
         "finalUrl": "https://v.daum.net/v/20260916082849427",
         "matchCount": 0,
         "walkbotMention": false,
-        "reviewComplete": false
-      }
+        "reviewComplete": true
+      },
+      "reason": "Read the full publisher-supplied Daum article body: Mirae Asset, SparkLabs and Kazakhstan venture-fund agreement. The article does not establish Professor You, SMART Lab, GOODWELLNESS or Walkbot involvement.",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Full div.article_view body in saved Daum source review."
     },
     {
       "url": "https://v.daum.net/v/20260819145107843",
@@ -6488,7 +6530,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6496,8 +6538,11 @@
         "finalUrl": "https://v.daum.net/v/20260819145107843",
         "matchCount": 0,
         "walkbotMention": false,
-        "reviewComplete": false
-      }
+        "reviewComplete": true
+      },
+      "reason": "Read the full publisher-supplied Daum article body: Diquest WorkCenter AI call-center software; WorkCenter is not Walkbot. The article does not establish Professor You, SMART Lab, GOODWELLNESS or Walkbot involvement.",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Full div.article_view body in saved Daum source review."
     },
     {
       "url": "https://v.daum.net/v/20260911081407340",
@@ -6598,7 +6643,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6606,8 +6651,11 @@
         "finalUrl": "https://v.daum.net/v/20260909151235577",
         "matchCount": 0,
         "walkbotMention": false,
-        "reviewComplete": false
-      }
+        "reviewComplete": true
+      },
+      "reason": "Read the full publisher-supplied Daum article body: Konan Technology enterprise workflow summit with COO Yang Seung-hyun and Agent-X. The article does not establish Professor You, SMART Lab, GOODWELLNESS or Walkbot involvement.",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Full div.article_view body in saved Daum source review."
     },
     {
       "url": "https://v.daum.net/v/20260806150403691",
@@ -6664,7 +6712,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6672,8 +6720,11 @@
         "finalUrl": "https://v.daum.net/v/20260908082749707",
         "matchCount": 0,
         "walkbotMention": false,
-        "reviewComplete": false
-      }
+        "reviewComplete": true
+      },
+      "reason": "Read the full publisher-supplied Daum article body: Ubase SWCC exhibition of call-center software and voice/chat agents. The article does not establish Professor You, SMART Lab, GOODWELLNESS or Walkbot involvement.",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Full div.article_view body in saved Daum source review."
     },
     {
       "url": "https://v.daum.net/v/20260908094949333",
@@ -6686,7 +6737,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6694,8 +6745,11 @@
         "finalUrl": "https://v.daum.net/v/20260908094949333",
         "matchCount": 0,
         "walkbotMention": false,
-        "reviewComplete": false
-      }
+        "reviewComplete": true
+      },
+      "reason": "Read the full publisher-supplied Daum article body: Ubase SWCC exhibition of call-center software and voice/chat agents. The article does not establish Professor You, SMART Lab, GOODWELLNESS or Walkbot involvement.",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Full div.article_view body in saved Daum source review."
     },
     {
       "url": "https://v.daum.net/v/20260909095556455",
@@ -6708,7 +6762,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6716,8 +6770,11 @@
         "finalUrl": "https://v.daum.net/v/20260909095556455",
         "matchCount": 0,
         "walkbotMention": false,
-        "reviewComplete": false
-      }
+        "reviewComplete": true
+      },
+      "reason": "Read the full publisher-supplied Daum article body: Heungkuk Life employee AI software training. The article does not establish Professor You, SMART Lab, GOODWELLNESS or Walkbot involvement.",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Full div.article_view body in saved Daum source review."
     },
     {
       "url": "https://v.daum.net/v/20260909173440078",
@@ -6752,7 +6809,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6760,8 +6817,11 @@
         "finalUrl": "https://v.daum.net/v/20260909160106271",
         "matchCount": 0,
         "walkbotMention": false,
-        "reviewComplete": false
-      }
+        "reviewComplete": true
+      },
+      "reason": "Read the full publisher-supplied Daum article body: Heungkuk Life employee AI software training. The article does not establish Professor You, SMART Lab, GOODWELLNESS or Walkbot involvement.",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Full div.article_view body in saved Daum source review."
     },
     {
       "url": "https://v.daum.net/v/20260903090207146",
@@ -9202,6 +9262,14 @@
     "professorOrCenterSignals": 0,
     "walkbotMentions": 113,
     "complete": false,
-    "note": "Bodies fetched and signals screened; human article review remains required. No automated exclusions or publications."
+    "note": "Bodies fetched and signals screened; 20 unrelated reports excluded after full article-body review. All remaining articles still require human review; no automatic publication.",
+    "manuallyExcludedAfterBodyReview": 20,
+    "aliasRescreen": {
+      "checkedOn": "2026-10-03",
+      "remainingBodies": 227,
+      "identitySignals": 0,
+      "includes": "굿웰니스 / 굿월니스 and Joshua Sung Hyun You variants",
+      "reviewComplete": false
+    }
   }
 }
