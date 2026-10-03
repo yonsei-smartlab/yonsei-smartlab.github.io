@@ -155,6 +155,42 @@
       "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
       "status": "published",
       "goodwellness": false
+    },
+    {
+      "key": "2013-05-25-children-fitness-chunchu",
+      "file": "src/content/news/2013-05-25-children-fitness-chunchu.md",
+      "url": "https://chunchu.yonsei.ac.kr/news/articleView.html?idxno=18740",
+      "date": "2013-05-25",
+      "identityEvidence": "Original publisher date, headline and complete body reviewed. Historical facility identity linked by the April 28, 2022 Sisa Ilbo report, which explicitly connects the on-campus children’s fitness facility with the relocated Yonsei GOODWELLNESS Center and Professor You. Historical notices are not current enrollment or operator recruitment.",
+      "status": "published",
+      "goodwellness": true
+    },
+    {
+      "key": "2019-02-14-children-fitness-operator-joygm",
+      "file": "src/content/news/2019-02-14-children-fitness-operator-joygm.md",
+      "url": "http://www.joygm.com/news/articleView.html?idxno=22764",
+      "date": "2019-02-14",
+      "identityEvidence": "Original publisher date, headline and complete body reviewed. Historical facility identity linked by the April 28, 2022 Sisa Ilbo report, which explicitly connects the on-campus children’s fitness facility with the relocated Yonsei GOODWELLNESS Center and Professor You. Historical notices are not current enrollment or operator recruitment.",
+      "status": "published",
+      "goodwellness": true
+    },
+    {
+      "key": "2019-02-14-children-fitness-operator-fintech",
+      "file": "src/content/news/2019-02-14-children-fitness-operator-fintech.md",
+      "url": "http://www.fintechpost.co.kr/news/articleView.html?idxno=21463",
+      "date": "2019-02-14",
+      "identityEvidence": "Original publisher date, headline and complete body reviewed. Historical facility identity linked by the April 28, 2022 Sisa Ilbo report, which explicitly connects the on-campus children’s fitness facility with the relocated Yonsei GOODWELLNESS Center and Professor You. Historical notices are not current enrollment or operator recruitment.",
+      "status": "published",
+      "goodwellness": true
+    },
+    {
+      "key": "2022-04-28-goodwellness-sisa-services",
+      "file": "src/content/news/2022-04-28-goodwellness-sisa-services.md",
+      "url": "https://www.koreasisailbo.com/587507",
+      "date": "2022-04-28",
+      "identityEvidence": "Original publisher date, headline and complete body reviewed. Historical facility identity linked by the April 28, 2022 Sisa Ilbo report, which explicitly connects the on-campus children’s fitness facility with the relocated Yonsei GOODWELLNESS Center and Professor You. Historical notices are not current enrollment or operator recruitment.",
+      "status": "published",
+      "goodwellness": true
     }
   ],
   "held": [
@@ -214,5 +250,13 @@
     ],
     "googleEnglishLocale": "en-US / US:en",
     "note": "Five variants searched across all three engines; four English queries also searched in the Google English locale. Feed exhaustion does not prove global archive completeness. Candidates await original-source review."
+  },
+  "historicalCenterReview": {
+    "source": "https://www.koreasisailbo.com/587507",
+    "finding": "Original April 2022 article explicitly connects the on-campus children’s fitness facility with the relocated Yonsei GOODWELLNESS Center and names Yonsei Professor You as its director. This verifies historical center relevance for the 2013 feature and February 2019 operator notices.",
+    "publishedReports": 92,
+    "goodwellnessReports": 15,
+    "goodwellnessStories": 7,
+    "complete": false
   }
 }

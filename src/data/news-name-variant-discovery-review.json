@@ -4,10 +4,10 @@
   "note": "Editorial queue only. Search results do not establish identity or approve public content.",
   "candidateCount": 116,
   "statusCounts": {
-    "unreviewed": 102,
-    "excluded": 7,
-    "published": 6,
-    "held": 1
+    "published": 10,
+    "unreviewed": 50,
+    "excluded": 53,
+    "held": 3
   },
   "sourceScreenCounts": {},
   "coverage": [
@@ -373,7 +373,9 @@
           "searchUrl": "https://news.google.com/rss/search?q=%EC%97%B0%EC%84%B8+%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&hl=ko&gl=KR&ceid=KR%3Ako"
         }
       ],
-      "status": "unreviewed"
+      "status": "published",
+      "reviewNote": "Original article body, date, title and historical center identity verified.",
+      "canonical": "https://www.koreasisailbo.com/587507"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNOW1xRy14OFBfQzVQVG1PVDNqRU9lMDVjQnFKZTVEMXh6YUZPRUdMTk9jQ3ByUTFJOEtNU1hPMFhrSkxZd2otTWxIWWVtMW51Sl9XMVBUSlhaUFk0QnZWRXdWY2d4ZWRibWh0cndB?oc=5",
@@ -386,7 +388,9 @@
           "searchUrl": "https://news.google.com/rss/search?q=%EC%97%B0%EC%84%B8+%EC%9E%A5%EC%95%A0%EC%95%84%EB%8F%99+%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84%EC%8B%A4&hl=ko&gl=KR&ceid=KR%3Ako"
         }
       ],
-      "status": "unreviewed"
+      "status": "published",
+      "reviewNote": "Original article body, date, title and historical center identity verified.",
+      "canonical": "https://chunchu.yonsei.ac.kr/news/articleView.html?idxno=18740"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CSHdrdTRucUxiSXNMQklFWm9haW0xMEZYRDFubHhQTHpJczJRc2tyMFFwdzVHWXJIb3hmNmFpOTYyczVsLWpJUFFIQzJ6Qy10Q1BfOW9Odk9XZmYxQjZFVnZtTDhGa2h4TldRTDNyS3M?oc=5",
@@ -604,7 +608,8 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9C%A0%EC%8A%B9%ED%98%84+%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Original article body reviewed: financial-sector charity roundup; 유승현 is listed among insurance sales award recipients, not the Yonsei Professor."
     },
     {
       "url": "http://www.incheonilbo.com/news/articleView.html?idxno=929875",
@@ -617,7 +622,8 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EC%9E%A5%EC%95%A0%EC%95%84%EB%8F%99+%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84%EC%8B%A4&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "held",
+      "reviewNote": "Current URL returns publisher home page or missing article body; original headline and publication date require recovery."
     },
     {
       "url": "http://www.joygm.com/news/articleView.html?idxno=22764",
@@ -630,7 +636,9 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EC%9E%A5%EC%95%A0%EC%95%84%EB%8F%99+%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84%EC%8B%A4&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "published",
+      "reviewNote": "Original article body, date, title and historical center identity verified.",
+      "canonical": "http://www.joygm.com/news/articleView.html?idxno=22764"
     },
     {
       "url": "http://www.fintechpost.co.kr/news/articleView.html?idxno=21463",
@@ -643,7 +651,9 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EC%9E%A5%EC%95%A0%EC%95%84%EB%8F%99+%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84%EC%8B%A4&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "published",
+      "reviewNote": "Original article body, date, title and historical center identity verified.",
+      "canonical": "http://www.fintechpost.co.kr/news/articleView.html?idxno=21463"
     },
     {
       "url": "http://newsbrite.net/25507",
@@ -656,7 +666,8 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EC%9E%A5%EC%95%A0%EC%95%84%EB%8F%99+%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84%EC%8B%A4&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "held",
+      "reviewNote": "Current URL returns publisher home page or missing article body; original headline and publication date require recovery."
     },
     {
       "url": "https://v.daum.net/v/20161018155008788",
@@ -696,7 +707,8 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=Joshua+You+rehabilitation&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://www.nytimes.com/2025/09/23/world/africa/elon-musk-father-errol-child-abuse.html?partner=naver",
@@ -709,7 +721,8 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=Joshua+You+rehabilitation&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "http://www.breaknews.com/982318",
@@ -800,7 +813,8 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=Joshua+You+rehabilitation&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wMmZSUmtOMzBJWG9BekJKc3pYNHNWbmRfeXlTanEzcDNrZnNDdGdFMlZxSUc4RmV5dFRDYklxRTNFNVFvODR1Qk9fWW0yNUIzQTlQdklTNmptbkhvNzE0emdwMG12ZmVOZ3hCZmpHRQ?oc=5",
@@ -865,7 +879,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbXRCUC1KZERtQURpRDJZYlBrWjBfMTIyYm9CMlk5YzBaNHhaMnpiZXl2RHNFbElfc3NSakJNZ0ZWM2FvUU1tdW55NnFrWi1tUHYwMTN0aUlQM0RUQURXX0x4WDhVc21BSExJTXlGWnpqWFVNcWpPTG1FanlqYUQ3ZzBEeEdEb3UtWlRLZUpud09xZk1vdzl4TjZpRDZucy1QSjhFY0tReDVKaTktU05lLS1jV096bTZzVDFHNWxlQmNiM3NFNWVQc2puc0dlWFBFWEdV?oc=5",
@@ -891,7 +906,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb2hfUUNnNG9mT0lBRXctSDljM3FUdy1yNGF1bmFSWFdhaC10SDluTnVBNTJ1MWhpMmpMZnhhMlVrYUoxYXE5SXc2SDE0TEV0U2hndlNpVXp5cm9KQllVNkdvY1dHcnhwd0FNem1Xc3VkdkxCLW9JYld0VnEyYkkxTkE2bVFNOXJ3ZnRZS05aUkF6Y3gxZHVjQTkxMVhpaGptNEpPTkQyaExqMVoxUXJCQzFfNnVJeUxPQjBoRC14UUZFcWxnSDhrbzdQazlwaTNYMEF2N1lUZVFtRWdfUXhR?oc=5",
@@ -930,7 +946,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPakhCMUIybmhlRU9JRHRWRUV1YnRFN1lnMlN6ekQwU01pd3FJcWhJbTR3NXlqR1ZOcmFKbGtUeEZkaWFoTExpZ0toTkRpX0F2cmRfaFgzczBfUzk5VVRzeXN2VFlpYURDS2xXYmcxa2xTSDVvYWJYLUJBc21ON1lSbEpEWjRiY0hxU2hrU2Rtb0VSdEtlSF9lS1BZb3FmVnRXSHBJNlBOVlBRMWJnOE1IRC1LZGpTT3hVOHc?oc=5",
@@ -956,7 +973,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRmk4Tmlpa00zSVB2aVJUbTJtdE12emRCS1YxMGNBYTZkTHpqbDI1TXhreTlzemFFWG1NOVpLcG01Z0xfYjFoNWxRZ04xWngtYXNlM0pnU2o2dmRYNXhlbHRHdTJVc05RblkzeHVaY3NtbVVhX3NkbnJ3UjRnR1lkcE5MZWtJQXoxYXd5R3pNMlUyaTZXZE9YRjBvZTM3MVAzV0UwZF9RU18xSXRITXV1VnpaOV9ockR5NmRMaGw4VGo5TmlOd0Z4VVFPSloweFhteFV1V3MwdGphRDI2TzdOY0U0Rm4tRnRnU3lWSU9xcDNRMmY0cmt6V05B?oc=5",
@@ -969,7 +987,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96czF1akZBUVJVR1VrM3d6SXZ3UWpLRGVnaUFiVlBJdlFRSkFSY3NEZklYSVBFWGFUbXVWVGZNalhTZlZTYnBOZ3Rsb2pxQUJENUlmMnJyU1o0R2xmamE5NHUwZEMydGtSQjF3SC03TVZxd2NiNlE?oc=5",
@@ -995,7 +1014,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcmhHMXJ4X19zOXNCRnhSSWdYRmRlOE1wdFE4cVktRmNOMWxqWHRZakxobENuc1d5dUowRExiWVFrbVZtVktjczhmV0hXUDBVSnZldHpDLXpGbEpJUU54VUdpa21nR3NOTkxSbkczVmdCT1BRWFZzLWc2d2xrUmxfQk9GeXM5ZnVJcEMyNkZUQzA2cERGaGlyLVpGSVo1X2FUc1E?oc=5",
@@ -1008,7 +1028,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQemprWkRZRVRvaXUxTE55UTRHei1lUHFXb19OYUlIQTV3eVNlU0U2VFB5N2NOVGh1cnlUOVB3QWg2QlZlLV91TDBtQWk0VVVfQXR5cXJZaFBGdlhsTDBGNGpTb3dQb21zZzFESEdEdWY5UHFZY2NXZWtUdlZPM3VPZk4wTXN6NDRMSEEtaXI4MG92Q1hpTjBpQURoeWZGajRQTzFOSURHYWJIYVJlb0pyLUFFWlRrOEFjRnpWeC13?oc=5",
@@ -1021,7 +1042,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORVQzdnUxX2NVYkRydGxVOGxRZFNsOUZlRmw2ZWFhVTRKU1hEX1o0ZmlGZGNuNmJqbVJfX0NrM2FveG1BYUVxbUlMcEx5TGwtM040cUFmYkgyYUFXTU83aC1RY2RKQ2IzTTF1T2lkTE9zVW1DSF8tNG1sSTlfZDlPYjB3bHp2em0ydHhB?oc=5",
@@ -1060,7 +1082,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbEo3ZGVjNEdLYzVwSE9WMnNUZUR2QXR0OHRPenpsMzVzVFktbjFmazY1dnNiZEVPWDRCRzhlTFNmdDQ0SGl1SVExYmxzbElqLUlPQUhCaEhZLURGdDNmZlBaYnNzZG1fajhZcFpsZWpEUHhZUkg5czFISk9wQVJXNVlRT0JoWmxfMXFEZXB0SG1jSkVJV3c0WjZFSGxJdw?oc=5",
@@ -1099,7 +1122,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTHVXbnlUUzlEM2xxRWwyY09iMVQtZXlFZGUtQnUwNVYtbVdFNmJXU1V1UVp1bXN5TWp0b09sVXpTWHVpLVVMSk1mbzNTWEFhWHhBamloY1o5RnUxRngybTE1c1RiU3lmMEFfdmN4ZXpsVzNvd1EtZUpzNTZoclBPalZ1aWt1SnAzR25hRkJEUDNlUERrMkNFVElGWXh1YVZkZk9ncnd1WTU1ei1JbGY2Z1YxTl9Nai1hTkYxR1AtWFVkREhVbVpPbld6NzVJQQ?oc=5",
@@ -1112,7 +1136,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWE5WQ1dpU19PU1daOXMyRzN1RHJ4Y295ZEpZUjFCLWpaMWZEUlowaC1VeGo5R3pmWkh6YldvVXg5cGtTYzlmSDZuenNjbDlWLVhaQlVHZklMMHNja3BGM2UxTE9uMnJ1T1VucDZ1bWllYTg3dFBNNzVSMUE5dk1mandiZHE?oc=5",
@@ -1138,7 +1163,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcWEzdzdtbDlfNWU0TDdxRVpkVWE0X3U4Vm11Y2h0N0tsSXdyWEJKWlFIZWtsRjdqVnJSd29yeXE5OTB6d0hqaTdYeUtQcEhzRmsybFBiTlpxZUpVZEZHNlAtWmROdmxzM2UtVV9jSXE1UXZzcmtMM25SQVRqbUdWWDhBVHY4MFhjNEtRd2RKWEY4RzFwRnNVd05LQjlIbllSdk5B?oc=5",
@@ -1151,7 +1177,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQRGFkUFhQQ05RZEktZVppME5jX05xSG9zaXpSLWlhY3h0TklUbG5WMWhWUU9zQTJ3dHNQZlpfMmJlOGZaSlhyWF9KaWNqcFJzRHh2NnkxYUczYUdtNVNRbUR5XzM1aTc0LUttR0xTOUhKNGJqeUpHQ013?oc=5",
@@ -1164,7 +1191,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWnh0WWtMNEJ3Mm5FV0VqVm1lRGFadnMtWDRMc3BjMGRVMGZYdk5iOGpkM1BkRWRQYWY5ajBGNHZGQXNvYXVZWHFoM2FlYVdvMXg2ZmNpOHItRHAzcldKRVVMM0x2UmdMTFgzTWxkUUN3S2M2eDA1TUJ6RDQ5MnRLQnh3N2FKNk1xYXJVNE4wbmZFRkZBdGJv?oc=5",
@@ -1177,7 +1205,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjZIcXhvV2NUNFZ4akhaa1ZsTWFYR0RZd0lINVBRb0p2T245cTRYblhJb0VYMHlqTVVDNWQtVTZIMGhLWmRDbEV4TGoxRVJscEx4UVJ0N1JsVF9qNWJtMFhQWUlGNEEyQzhzbmlmUVJqT1pPS1BYSHdCZzN3emtob09OVlU3c1EwUi1YZ19xd2dCMGs3MnVPRA?oc=5",
@@ -1190,7 +1219,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80TnduN0tKNzBtUUNZNFI0TEktblJ1MC04SzNLZ3M2WWhrTWpBYmhwYThMTjlZVUQ5aWFvUzJyMjBzR211eklvTzlTYjd0UDNSVGxFekZKQ2dhS0c3dm83dzlCRjhvQkRwNFdkc0VzUXJwSmNHcEpfcEtaOWhZQQ?oc=5",
@@ -1216,7 +1246,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdW5jZzZMYlQtTlB3U0pwbHY1QzlVU3JBVFFmeEIzVG5SNG5VVlJrdkdMXy02U0ttbHlXN2xxNG5TeGxMUjUyQklOeVc5amxfUGRYYWpXSkk2YllSX3M2aHRBbTNhNjY1Tmk1Nkdmbm9sRXZOeUl6WEItNmlvWHkwSG5iT2p1TDZUNmNER0FhY2ZGcHVkTjVCWTd0enU0MjEwTW9wbUVUY1h6UmVmbEZSVFQzQ0JTaldiRTlpSGV4NA?oc=5",
@@ -1229,7 +1260,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb29JelBJZXJnYjJ6ZFRRWjBPYmwyaVFHaEhkN2t0UjdzU2JJd3FRNWg4RzNjaGxMTVZKcnhxb1kyNjZfQjdjcnhNeHNwQmlEc3pFcUZSZjlldk9YUUJoS1ZHd3dBOGtrbi1WVjZONUxLLWN5QjlzcnJURkhnRTg3ckM1dnhSM2lQaHhWODVaajk3SFZZMUxXS0JR?oc=5",
@@ -1268,7 +1300,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83bkNqUkFnd1ZscHEwSF8yNWVpMHczMEtPVEJsVm5hSGJoVklZWEtUbm03SW8xWnhGd2l0U2J4Y2pXUG40Z3gxZW9VMnZuWnpHUkRpeWYxLXJvdTNwNmc?oc=5",
@@ -1281,7 +1314,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYTZmeWRnNnI0WWhYSktXSEJXVVlfV2t6cUlNRTJFMFJJYzZFMWhPMFNXWUZrTEkxTXl6RFhzT3dkNkJqbWZ3NEs3VFZac0p5ak9PSG5KUVhLWXFQN1RhQzJCdmswUGI1N254cS0zUXRlb1RWOXdMZXdnOEhBaFZCdWtsbG9Hb0JOcU9VY2RJaFB6RUVjclNpSWJKOWNhbHR6T1g1NWlYdlpmbGFFTkJyMGVvcTVoS2_SAcsBQVVfeXFMT19KSWFLejF1TVpmRGhnSXRMblNKVExVN25ZUlE4ZGxmYUN5REptOC1fWDBibmtXNWU3SHdqdVB4U3ZKckVPci15S29XRHFaQ3hzT3p6aXUyZngzLU1wdUpoTURDZ0djZUlhMXZOSkUwd3kycWpQckVHcDVHV2YtLWx2QWtucFpUd056THV0RXZrUkV5Y3g0Z2I1Z2w3eXZTbjNhOFF5eDRwSjNtZmZYYWhCaVlGekozSDFKbm9EbzJiQ2NoWjA3ZWxNY0k?oc=5",
@@ -1333,7 +1367,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeGZEaWZPSTFsQks4OFJEcENjaThoUFg4Q3k2cGtOa3hnZzFsTDVfcHhCUUlDS19pYzFtR0hBOVFrSEliVk1laUQyVktFQ2VZT2JJVVlUSlZfb3dfS3FvNU00bUtGTU1raWJRelJoY2dnSWhQUVhHeHl2OEJvSjFUTklqSWNoQV9YUVB1QmNJQ1dzZ1k1eFp5cw?oc=5",
@@ -1359,7 +1394,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZzdaaDZRcTNYRDVQVWhCd1lDVlMzcTBkOHdjVTljVlZuak1CQk5LT3ZTeWxnMC1GV3labmFQSGN1ekFnWU9XNnVMd2M4eEIzaUFBZ2Q0dEQ5SjNPcDRyTGZ5WWg4bER5Z3ZjZE1Mbng3dzZNbmVjVHFhV3JobUNfV3VZSW0wMUtmR2c5a3lrNnZwVWpUdmUtX3ln?oc=5",
@@ -1385,7 +1421,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVkYwWHV5N1hSM202LXJuRnpVN2RpV1oxRGZFWk9ndWFnTVlpbG1rWjdSX2FxREZDNnp2Z3E3bGdPUVhFNndrMTRYVEN4cy0yZXNhVU1vVV9xN1llSkhTNlZ2dDJuc3BvRXZ0aEFTMkt1dnltNlhQYzdNb0M3dmFGUENzZVhmVVZuQmQ5ZU1GYTcxejJ6d0ZMUVFpV21wZnpOX09oUWpRNA?oc=5",
@@ -1411,7 +1448,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSDIxTXFpMEJLNFNRSm9PNzB5eHd1T2lxVEZ0YnVlYk1Rd3B2dWNYRWlFZGktdHJzeVNNQmhiWVZMTVVRSS1OTEJqaTNlUWYwMTVsSHgtRENrMmNKWkdmRXA5RHdEanBaTHlncFFCVWMzaDZzU2dobnlrYl95MGJReGFaWWpVcF9TNm9xSE9YSDQ5UXJKMzdETTh3d2l3TFpza3JaRXRmeVNOLXVzUzRn?oc=5",
@@ -1450,7 +1488,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdEFYYVNaakNmRjJaV3Rxc0hSVVlYRXc1WXRLd19iY1pFTTByWUo3ZGlFWTVFNE00X0htMUUzRU5YNlp4aTExUzAxdTZZcklrY0M3ek1SMmJXOThMdXV1S29lSWstRTc0VUd0UUdVelZUaWtXa1R2Z19scVl1MzdWSndrc1l4WHBaS3VScEgxSjM4SmRNcTRrMXBmQVdMT1p4bzdGM1c4Y0lUcUpDUkhpYXB3NUhMUQ?oc=5",
@@ -1463,7 +1502,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSXhrS0FKb3Z0aV80YjFGR3hzLXlmbFFsQThJZTRNdUFKTHhMXzNZQU9kNDdFWUxDdlpHWnhScXBjYnNqeUpPajZYMThMc1kzaGx3LTlJWHhINm9VN1JkeGxReFltTVF0SU9aWDJqbWhqR2dPT0M4SDN0eGkxb1RZQmhoSE9wQVZiLU93aXFKQkdrRGRzWnlsYjdUZW0zN05RM2t4cHFQSXBpRTdEQ25JendZcUVQWXZkMW9WbHBKUXREMHc2ZjkzWHVXZGhJc2c4T1IwUWNiRDBBeVhOc25UWU1XLXhmYlR0eXJN?oc=5",
@@ -1476,7 +1516,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRkpDakVPVUtrMTUxQnIyZUhmWjlEa1ExWVJLT1RoaWQ2TDNjRXcyeU1kc3I3RUE5RHpibUdyU1pYOGZDbzFHb0I5b0ZNYUEwU0NKTDdNaGhpeTV1M1c2djI3YXlHSkN6YWVfM3Fpc25fY0RzOVRham1EZTBmNnZJc3BOd2Y3NFBiY3lNMWtuMG5rVlpmcmw0UDI3bU1GQjlyZnZyektZX3FWS09ybFE?oc=5",
@@ -1502,7 +1543,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWlpqWEl0T1Y5LWdaX0tPWl9LVEY5a012OFFNaDV3SjV2NWdnZEo3bmpZRGNvTTlNcnNTR2xjbTRsNnZydXNwQUMyNEM5Tjd5R0RXa29ueXVKdlhWUVljM29TeEx3R0xWcHFfcU5ienRhaUtITFpFMEF3YVRZcTlsZ0pwUUNaZHFaOHU0Q0Z6bHpUOU9FbnkxQzNjMVpVdlBJT2FjWFV3S1BKV3FlTTdCVlFsVWtEaEF4M0IzSFNkQW1ya0ViZDhlaU1sSDZkUQ?oc=5",
@@ -1515,7 +1557,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRzNwRXNySHR3ZXlvcjc5a05oQmUwbUgzR2hHTUduZVBWQkx1ZmpsR2dlUkkxNlVvOUNCWklRSWpNYURRM0JxS3hSS3NKZllCTVdIdHNHOGx6NHFvWmdxQVdTemN1aDQwa01nbmZsNjQ2SzJvNHBLLVpUTGNEYkJVNEtycURqWEN2bEhWM0hXbkw2eVcxZjlXcXM4Q1otRXFVQVhuMENDR3N4RVJsU3VycnJIc2ZQMkxMVnc4V0p1M1loNU9V?oc=5",
@@ -1541,7 +1584,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbS1EZ1ZldzBreWxLYmhybW96ZU01dXNEUmVMbHFzcVhvS1VWVGtINGNWSDJfUmg2WllFbUkyVXBVVlJ0RVMtWVAxMVNHX3BfZ0tqbG9sRU1UdlJxSURzcVM1TlNNRTJYUEZKYVV1LXFoemxWeVk3V000SDhLYi1ObkgxeXNXOElFNmlyYnVpZWFfc3JZaW9wX1Zfb1Q?oc=5",
@@ -1554,7 +1598,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObktfSHhhQXZyUkVQMXgxaUtyeTNNNTlCS0NHTzM3Z2VpZnd5b3ZQYVFlMzU0SGN6VnFHaHpMbFZaSC0wZ1kwUFlMa3lNWnE0NGQwaTVQQVBTQUV5bzlJbVZGZjE3S2YzTF9ySFZjaG92R1RSRk54VVdyaUwyU1RiUzY2S053SXFoSFA0RkliYjR3M2FWU2xSYkg3aFJEMkZCYWhDY18zcExZOGVYNVE?oc=5",
@@ -1593,7 +1638,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbnBxMG44eHYwSVR5TGN1cGhfdzR3eFFNU2RzclRPSjYwNl9Oa0I1SkwzRlozZmtRZ09ESTBueFpGbFByMC01XzZLODdyZ2gzX2dhUGZFZ0RXTW53Z1pNM25POGVoRGYzR3ljbWk4R3FMY01hb3BwSHFfc2d1VWMtSW9BUzhJQU5rSDdmY9IBkgFBVV95cUxNYkotNGdUeEhIZWdLWm5wbjUxUS15N19aVGRYZExwQ21wS18xaVM1MDVCQVkwRFkyOEV0Y0ZGY1FhM2JQM2xiMlI5SXRCQ2FrVGpQXzczV1JBeGZjV2w0cVlsZXVQZHlKRHVJUTUtQnYyQ0RlM1Q3d09oSDlPUHBEcHhrV1MzQ2gxY1NxS041UWFpZw?oc=5",
@@ -1619,7 +1665,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObWFtcTVzeERxZXkwTmc4TG1ITmliSi1oTU16UFhoWk5PNm1fTEg0LXB6R0t6Sm1Bay1fZFM1THN6Tm9JUHhSUkJBVG5jQmNJdEM4U2pYVFdhQXdpc3I4VThEM1hiOWFxcmhCNjlwQkZYRGwwLXZmbDA4ZFpZVFd6T1VrMXFCTTl3b3I5T01vck9tTUt0QUJ3?oc=5",
@@ -1632,7 +1679,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWDBmSzZjUGJ2MGxKY1RURW1KWU1xcjlzaFdvM0h4Z2gzaFVNX3ZtMVZ0cmtIZVRNQ2NraEo4aEo2dThMYTVtNzlzYTFEd3VDV2x5aHkyNm9kazd6eEVtQXhUMzBMQlNRODBwQTBNdklmOHlMMnQ5U2c4am9TLWVCSlRjOHlwc1RvTEhVaXhuVWI?oc=5",
@@ -1645,7 +1693,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa0RxVWhXN2o3ZDhHalgyal9NcVpOTm15NXBYR2dkYmZOOHFQaFFucG9SR3Nuc09RdXB2N0d5MWpPd0ZSaHBKUjQ1YVFiMTdTTTJqaWZlZnFYMzVEVTRkOS1mUlp2RE1LcnlPd096V1E4Ty1GR0kyV1FiWVV3b0dSZGZmQ2hSRm5R0gGOAUFVX3lxTE52MXlVUDl6UVlSZkhkWTBYMHNKbnhreUhGbDY4VDNwdWgwSHVXZGZRUnVfdnRvMGNiU0NpanUzQTFVaWRsUkRWTE9SbFNhT3lxQzJ4WlUyemt3bWs3U1laeTBoenl1eElLMlFHS2NIemMySmdwNC1EZ2JlVVlWSWpPOHJfcXBQYXNpbDQyMmc?oc=5",
@@ -1658,7 +1707,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSC1RUHNjdmZqTDdsdS1KQXJmeHNXRUp4YU03MEp4RW1wZlliYlFsM0RoTy1kSEFHRHBCVWNVTHdlTVYydW8ydXZtNE40Mnc0bGJqdWxjTTR6Z1BXZ1lWQ3lhLXMyQ3BSNGY2cWlLSHpVb2tfb040UmNtbjE4WHlndXhsenNZRWlTb2dYZWExRW8zTmxfQ1lUeDJ4VHRhTng2Ml96Sy1lZ0N6NFNUd3BKWklTV0ROYlk0aUJfVW1MODBlTzUwTWd0Mm9uOG9RTXppYXNPdkJIWnpjQVY2cU5pV0RPVTRab3pXLVdWTTJR?oc=5",
@@ -1684,7 +1734,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd09pMm1qaGtGcllwX2dORVJIeDZCME9zV1BwUVQxXy1GUmpwMWZpcWFLdm0yNVNPS3R4M2NDSklLWk5tN2ItVTJTYm5ETkdESTRNd3k4VWhkbTNCX2QxTS0zZnIzZkUwX3RqS1FpT01UT3hvMVVaQk0yTFFNVFE0WkVoTVdMY2ZUUGNoM01ic3ZzX1dKZXJObVpRbWJKNVZoazV4dzlMR0Rta21HNUI0d1JkVlNDdnk3TFE5c1VpVDRzVGRfN3p0dXRBT18yVnFLWDhGVEhueVAyRXk3N0E?oc=5",
@@ -1736,7 +1787,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTUdJOTdLTjJPU2JhUFhhYi1nVlJwZVd2YjVoeDZvbjVITVN3Z0tDTndNaW51WHR1NG45WEJBTXVuYU5INFVEMmdFWXpZQ1lhRVlrcHRuU1llVWFwcG1BVmVMaFM2WXptckw4OUM0SURfQWt3MmRlVGJETlRWMVY0MjFjNDh3YlMtdTZTeTdFWEdNbVlSaXpmd3BLUkJCZE5HRzVGQ1c3QU94UQ?oc=5",
@@ -1775,7 +1827,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObkpJN2k0ZlRKYTdmSHJmYjBYWUs5Q3BfSHd4bm92Y2kzTnJRQnJ0WWh5Um5OeU9HekxiYUMwMHAyUVZ1eHdmS3dZQ1N4SE5wYnhXVEZ6TzlFMkh0b3pFTks2ZEdWOHA3ek5kUEZCYkJzUzJWeHNEUkIxMGhBWG42YnJ5YVYtVkU?oc=5",
@@ -1788,7 +1841,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdDZ3THY3ZkVMaTlMSlA1VE41QURLN0dkVnZEVXVhWmhhNm9GU2JMUXI4UUI4X3dyLWtkSjdmY3FzNzB5TS0xMnRaUXM4OHM0SkNQYWdFRHlqSWp2UHR2YWh2UER0djhteDVpZ3hiVjNyZGNlWWdsMUhoTTg2YWQ3dEYzZHhna0JQQktoOQ?oc=5",
@@ -1814,7 +1868,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJaElHSFdOc1ZhemZ0TjNuNmdhX0VCUmptcGhTVnpWQS1pOE12dVVLd1liMWFsTFoxeGFzVy1ZdDYyTlllcl9FeS0tcmxfN0xUeXhHREpGWHlkWGtrenRR?oc=5",
@@ -1827,7 +1882,8 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewNote": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUDU0Y2U2dk16M0E2UDRZZFNyekZPZzR0YmhHT08za0tIWENjdG1yVC1PRHcyZE5xS0VSTFpuR0VlQ1B0VDJGbXRYbHVQa1VJbWhjSUJaTkJ4TWVtOERjM3h1RUdqaHdzVnU0MEhGX3BWTnVRbnZBQ2NxX1owOUVtT1kxMDNoMXFxQ2YyOU1QQ1JCNklURlU1MnFsX3ZGTXdsLU5zS1VXbnhXUQ?oc=5",

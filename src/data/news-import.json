@@ -791,6 +791,42 @@
       "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
       "status": "published",
       "goodwellness": false
+    },
+    {
+      "key": "2013-05-25-children-fitness-chunchu",
+      "file": "src/content/news/2013-05-25-children-fitness-chunchu.md",
+      "url": "https://chunchu.yonsei.ac.kr/news/articleView.html?idxno=18740",
+      "date": "2013-05-25",
+      "identityEvidence": "Original publisher date, headline and complete body reviewed. Historical facility identity linked by the April 28, 2022 Sisa Ilbo report, which explicitly connects the on-campus children’s fitness facility with the relocated Yonsei GOODWELLNESS Center and Professor You. Historical notices are not current enrollment or operator recruitment.",
+      "status": "published",
+      "goodwellness": true
+    },
+    {
+      "key": "2019-02-14-children-fitness-operator-joygm",
+      "file": "src/content/news/2019-02-14-children-fitness-operator-joygm.md",
+      "url": "http://www.joygm.com/news/articleView.html?idxno=22764",
+      "date": "2019-02-14",
+      "identityEvidence": "Original publisher date, headline and complete body reviewed. Historical facility identity linked by the April 28, 2022 Sisa Ilbo report, which explicitly connects the on-campus children’s fitness facility with the relocated Yonsei GOODWELLNESS Center and Professor You. Historical notices are not current enrollment or operator recruitment.",
+      "status": "published",
+      "goodwellness": true
+    },
+    {
+      "key": "2019-02-14-children-fitness-operator-fintech",
+      "file": "src/content/news/2019-02-14-children-fitness-operator-fintech.md",
+      "url": "http://www.fintechpost.co.kr/news/articleView.html?idxno=21463",
+      "date": "2019-02-14",
+      "identityEvidence": "Original publisher date, headline and complete body reviewed. Historical facility identity linked by the April 28, 2022 Sisa Ilbo report, which explicitly connects the on-campus children’s fitness facility with the relocated Yonsei GOODWELLNESS Center and Professor You. Historical notices are not current enrollment or operator recruitment.",
+      "status": "published",
+      "goodwellness": true
+    },
+    {
+      "key": "2022-04-28-goodwellness-sisa-services",
+      "file": "src/content/news/2022-04-28-goodwellness-sisa-services.md",
+      "url": "https://www.koreasisailbo.com/587507",
+      "date": "2022-04-28",
+      "identityEvidence": "Original publisher date, headline and complete body reviewed. Historical facility identity linked by the April 28, 2022 Sisa Ilbo report, which explicitly connects the on-campus children’s fitness facility with the relocated Yonsei GOODWELLNESS Center and Professor You. Historical notices are not current enrollment or operator recruitment.",
+      "status": "published",
+      "goodwellness": true
     }
   ],
   "pending": [
@@ -5506,9 +5542,239 @@
       "reason": "Original Channel PNU report names Yoo Seung-hyun as its news editor and reporter, not as the Yonsei Physical Therapy Professor. No Yonsei/SMART Lab activity appears in the article.",
       "checkedOn": "2026-10-03",
       "identitySource": "https://channelpnu.pusan.ac.kr/news/articleView.html?idxno=34605"
+    },
+    {
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2110651",
+      "title": "[경제소식] 우리은행 가족 봉사단, 전국서 릴레이 봉사활동",
+      "reason": "Original article body reviewed: financial-sector charity roundup; 유승현 is listed among insurance sales award recipients, not the Yonsei Professor."
+    },
+    {
+      "url": "https://www.nytimes.com/2025/09/03/theater/broadway-off-broadway-shows-fall-nyc.html?partner=naver",
+      "title": "Keanu Reeves in ‘Waiting for Godot’ and More on Broadway, and Off",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://www.nytimes.com/2025/09/23/world/africa/elon-musk-father-errol-child-abuse.html?partner=naver",
+      "title": "Elon Musk’s Father Accused of Child Sexual Abuse",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://www.nytimes.com/2023/09/10/us/politics/joe-biden-hunter-relationship.html?partner=naver",
+      "title": "President Biden Keeps Hunter Close Despite the Political Peril",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZzN4RXBuN2pTRDdKdHhxVENHRm83TEw4NnpaYVk1NkhvaHAtZ3pBMUxzby1rVzBSdDdQYmJtNGVfNk9FUGtXWEZvVGhORDNkTnJRanRrcVZKSjF4QWZXemsyWjBsVV9OUXBhLTdaT3YtaHk5QTAyTDdtMHJqelBzMWVuQUVSRnhhaXJtNFllOU5XbncwY0NQOUpRN3U4NVAwX1o3ZGh3T1d0a2N0TUE5eDFEYnJZc040R2Rncw?oc=5",
+      "title": "Memory of CDCR Parole Agent Joshua Byrd Honored at Guns and Hoses Football Game - California Department of Corrections and Rehabilitation - CDCR (.gov)",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRjlBRnpxcm91MGJwM1RzYUtkNks0LTBDVmxDNllXTGlvUWROekRDakFZZW05TGNYUWY1S1BmX284NkMtVVBqQ25TdEJQbnVwN2lRRUxjSFB5RGJ1eHVHaEZxdnJQb2lJTGF2elJWVUlMbnRiMUh3RGpvVF95MEFkTEFXekdCNFp4YjFVMmZHbzI1elNqUkE4TGZsOVFEZGREUGRqSFhPZUF1V1E?oc=5",
+      "title": "Joshua Bassett Details His “Breaking Point” Amid Ketamine and Ayahuasca Use - E! News",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNG45TlJmQXo0STNILTU1TnRaZVY5X3drNTB4MWhvelpNc3RLVC03SkZtSncyR2FYYkFkOFc4Y205NDZldTg2bDdGZ0VxQ2VnQXZiazk2ZnpnbllraE01a3k3TzFBbVMycWhodDMwOHFPZXF1RnNIa0MzZUlLNlF4UzVGQnBqckE0YlNXNGhKeHZJWFMwU0dtWGd6cldEZFBVTWR3X2tHLWNYU1BWbUg5bWlEX0hoZFA5ZGNkakdjMmhvLWVIbVh6akVGRkZGSDlhakRSQktqbmhqOGF3akVDUU9nNWk2RjQ?oc=5",
+      "title": "Joshua Jefferson's emotions on his March Madness ankle injury, rehab before Round of 32 - 247Sports",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOUUlhQkFsQmFGYUozVHc5YXpjXzBidFZCa3hjRk1BTFUzTk9fS1RMLWpxZUxHUkZwSjh2Qm9UT2hLMk9zeTJ6cDc4YXlNbm9PMHhGZVNtMTdPeDNuN0dmQUh3eWxmWldzem5CN21IYnRWbThlRnJXX3FOM3NTUFZlNzdWRGZlVWpOZWRReUlvTlh0c2FhbXBVa0w5T2lULVkzbkxYdTA0eWVBUjN2SXQzSEE0bFp1emRSZTBkS1dtU3ZrNDB4TnNGbFlSY29PWkdhaFk1dEdIRjcyM0g2TG0tdG16UWpMN1RpdnBmUjZYbVZYdTFEX0xkNWFmM2tqZVgxMVA1c3U4NDBGN3hkU3JXbFVfZlAyRDl0X2tDRlBlZVNPUGVZQVpqNjdob9IBsAJBVV95cUxNdWI5aHh2bmpvT0FXMmdDMXlTazFCRTdveDVRM2lydFd0MEJtMlRKYy1JMWc0V29kM3BTVHRCaEoxYTB2Zl95bHh5WGF2bnUxMEU4YnFLV09DVmhySnQtcnBpN1M3ckRPcmJfY0V0NGZtZi1JQlhDVHZ3cEhBR3lvcFlnSXZhNEpiaE9lQmNMb1pIcDZqdVkydERnVEFyRWtQWjNyQlMtVHNhMzVxdHdTaGdLVi1HRURYNkJzX1NYaW9ONVhDMlVSdllaYjU0bHYtQjdpd2lmZ1hBMHY1dUNJZHZGRjZzTjI0b1A0X0ZvVUVFSDVqSjk4ZU5xbjlmUkxsWHlOa2pCUENGTU04U1FfMERRaDV3ZFU3UXdvNlBSOXVwQ3J1OEt4UnUyQWlGYWRH?oc=5",
+      "title": "Anthony Joshua posts painful rib treatment photos months after tragic Nigeria crash, summer comeback now - The Times of India",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRmk4Tmlpa00zSVB2aVJUbTJtdE12emRCS1YxMGNBYTZkTHpqbDI1TXhreTlzemFFWG1NOVpLcG01Z0xfYjFoNWxRZ04xWngtYXNlM0pnU2o2dmRYNXhlbHRHdTJVc05RblkzeHVaY3NtbVVhX3NkbnJ3UjRnR1lkcE5MZWtJQXoxYXd5R3pNMlUyaTZXZE9YRjBvZTM3MVAzV0UwZF9RU18xSXRITXV1VnpaOV9ockR5NmRMaGw4VGo5TmlOd0Z4VVFPSloweFhteFV1V3MwdGphRDI2TzdOY0U0Rm4tRnRnU3lWSU9xcDNRMmY0cmt6V05B?oc=5",
+      "title": "Andy Reid on potential plans for Josh Simmons during injury recovery - Chiefs Wire",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYThVRmZrUmVvc1MzNk94akpCYVVjQnN2OWtscmZnNWMwVjRsaEV3eHk0LS1SQmZRekh2SDNURHE3UlpaSERoMHM3RlFaMkFSb2xuUDdnUW53dUlhemRXVURfS2IxUXhtSXk1Tk50ZV9RZHFQbFpzQ3Z4ZXM3WFkweFR1dXo3SldlaTJzdzFxNjZTQjl5UlhUcDJOVEJIU0IxbHVNQ9IBtgFBVV95cUxPUkM1cC0xQzVTc0xZbnBZYTExM2ZNYmREd0lxY1ptcmRhWDdDVF9wbF9lal9falhrdlM1T3liT3lpbVQzaHFBSGZRRks0YklHdTNtR2ZNamtLTUNaVWRKRURfLTVJSElFcDJBSHJVb0hvdjBuTk5wNUM3cTZnMDZaa090SUtYd2NXSUc3cGs3RVNOSHFObmZlUUp0SXpSQ2g0aHIzbnNFZmVMcGQ0T29YT1ZwVTVPdw?oc=5",
+      "title": "Hazlewood suffers Achilles soreness during hamstring rehab - Cricinfo",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcmhHMXJ4X19zOXNCRnhSSWdYRmRlOE1wdFE4cVktRmNOMWxqWHRZakxobENuc1d5dUowRExiWVFrbVZtVktjczhmV0hXUDBVSnZldHpDLXpGbEpJUU54VUdpa21nR3NOTkxSbkczVmdCT1BRWFZzLWc2d2xrUmxfQk9GeXM5ZnVJcEMyNkZUQzA2cERGaGlyLVpGSVo1X2FUc1E?oc=5",
+      "title": "Anthony Joshua's Trainer Friends Dead In Car Accident, Nigerian President Announces - TMZ",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQemprWkRZRVRvaXUxTE55UTRHei1lUHFXb19OYUlIQTV3eVNlU0U2VFB5N2NOVGh1cnlUOVB3QWg2QlZlLV91TDBtQWk0VVVfQXR5cXJZaFBGdlhsTDBGNGpTb3dQb21zZzFESEdEdWY5UHFZY2NXZWtUdlZPM3VPZk4wTXN6NDRMSEEtaXI4MG92Q1hpTjBpQURoeWZGajRQTzFOSURHYWJIYVJlb0pyLUFFWlRrOEFjRnpWeC13?oc=5",
+      "title": "Joshua Bonehill-Paine: Britain is failing its Jews. I know where this hatred leads - Conservative Home",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQXzNRSHB5U0dBenhseENqV2VzTjJkaEI1eFdlbmNWZ0ZOVEZxYWwzdFZjcm1ESGx5VndYUlpwMHNrVVRZZG05NHVPVGIyVUVKeW9SS29nQ2QtSWd6Rm41Z2VYQXBDUl9FUy0yMFV0cU9yUm9RUFF1dUZIQXQwRUJxWmRHX1BMUQ?oc=5",
+      "title": "Joshua Bassett Says Addiction ‘Should Have Killed Me’ - People.com",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWERCcjdwd3BEX1RXVm9vYTA5d0FNMHBNS3NjYUJ2VmR0ajhBQmdLcUJ1MUs2SHp2WTBnN182OGhvOG5kNENSV2J2YjR3Y24tLWo4UDUwUkhsVUhkTUEwVEQxQXhEWC1EUTJmNHpCNmxxMWVvNERQRUtGYnZ6b09sYy1xcjI2dlJHZDU2LWVLUTAzdw?oc=5",
+      "title": "The Road Back: Josh Bryan Embraces a Second Chance to Find His Purpose - Thoroughbred Daily News",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTHVXbnlUUzlEM2xxRWwyY09iMVQtZXlFZGUtQnUwNVYtbVdFNmJXU1V1UVp1bXN5TWp0b09sVXpTWHVpLVVMSk1mbzNTWEFhWHhBamloY1o5RnUxRngybTE1c1RiU3lmMEFfdmN4ZXpsVzNvd1EtZUpzNTZoclBPalZ1aWt1SnAzR25hRkJEUDNlUERrMkNFVElGWXh1YVZkZk9ncnd1WTU1ei1JbGY2Z1YxTl9Nai1hTkYxR1AtWFVkREhVbVpPbld6NzVJQQ?oc=5",
+      "title": "The California Highway Patrol mourns the loss of California Department of Corrections and Rehabilitation Parole Agent Joshua Byrd, who made the ultimate sacrifice in the line of duty on July 17, 2025. Agent Byrd dedicated his life to protecting and serving the - facebook.com",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVnNIMmVaWERsUzI5bldjNW8wNXYwWWRaTFdBUi10ZExOeEFSV3p2VURabWoxdTRNS1o5dU5DcS0wWHpTWGczaTM1c0hLVzBUaVJndFlVTURoRGd6YWdEMDA3YnZyS0o2TnhNZElvNXJldmVybl83U3NKYlBoNTNucDFPd3BJbEZiWTN6V0hOcTluQ2VBZTE1NWNoNTBiNkVHUzNVVWtiQVlOTkRvX2poc0l2UlFfbHhId0UzMG1R?oc=5",
+      "title": "'It casts a deep shadow on this season' -- Tinubu wishes Anthony Joshua quick recovery after accident - TheCable",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcWEzdzdtbDlfNWU0TDdxRVpkVWE0X3U4Vm11Y2h0N0tsSXdyWEJKWlFIZWtsRjdqVnJSd29yeXE5OTB6d0hqaTdYeUtQcEhzRmsybFBiTlpxZUpVZEZHNlAtWmROdmxzM2UtVV9jSXE1UXZzcmtMM25SQVRqbUdWWDhBVHY4MFhjNEtRd2RKWEY4RzFwRnNVd05LQjlIbllSdk5B?oc=5",
+      "title": "The Road Back: Joshua Franks, A Story Of Horses, Hope And Healing - Thoroughbred Daily News",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQRGFkUFhQQ05RZEktZVppME5jX05xSG9zaXpSLWlhY3h0TklUbG5WMWhWUU9zQTJ3dHNQZlpfMmJlOGZaSlhyWF9KaWNqcFJzRHh2NnkxYUczYUdtNVNRbUR5XzM1aTc0LUttR0xTOUhKNGJqeUpHQ013?oc=5",
+      "title": "Joshua J. Marriotti 1982-2025 - - The Vindicator",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWnh0WWtMNEJ3Mm5FV0VqVm1lRGFadnMtWDRMc3BjMGRVMGZYdk5iOGpkM1BkRWRQYWY5ajBGNHZGQXNvYXVZWHFoM2FlYVdvMXg2ZmNpOHItRHAzcldKRVVMM0x2UmdMTFgzTWxkUUN3S2M2eDA1TUJ6RDQ5MnRLQnh3N2FKNk1xYXJVNE4wbmZFRkZBdGJv?oc=5",
+      "title": "Anthony Joshua makes 'miracle' recovery after horror car crash as the bodies of his two pals will be brought back to UK - The Sun",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjZIcXhvV2NUNFZ4akhaa1ZsTWFYR0RZd0lINVBRb0p2T245cTRYblhJb0VYMHlqTVVDNWQtVTZIMGhLWmRDbEV4TGoxRVJscEx4UVJ0N1JsVF9qNWJtMFhQWUlGNEEyQzhzbmlmUVJqT1pPS1BYSHdCZzN3emtob09OVlU3c1EwUi1YZ19xd2dCMGs3MnVPRA?oc=5",
+      "title": "Meet Joshua Costello of Provero Performance and Rehab - nashvillevoyager.com",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91dkhkXzZnT2VvY0VkV0pxeHZ6aGpFdUR1MERvc2Y2V2IwWS1yckktM1M3SF9sVWhKNWRHNnZKQWFIY3JiMXd5NEZPSDNfVjM5OUNTcE03X0J3S3ZtZjA3ZTR5bXEzTGFRZmg1YTN0VUFCbmhnZlZfaw?oc=5",
+      "title": "Anthony Joshua quits UK, relocates to Dubai - The Guardian Nigeria News",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdW5jZzZMYlQtTlB3U0pwbHY1QzlVU3JBVFFmeEIzVG5SNG5VVlJrdkdMXy02U0ttbHlXN2xxNG5TeGxMUjUyQklOeVc5amxfUGRYYWpXSkk2YllSX3M2aHRBbTNhNjY1Tmk1Nkdmbm9sRXZOeUl6WEItNmlvWHkwSG5iT2p1TDZUNmNER0FhY2ZGcHVkTjVCWTd0enU0MjEwTW9wbUVUY1h6UmVmbEZSVFQzQ0JTaldiRTlpSGV4NA?oc=5",
+      "title": "Building yourself up: Joshua Rinaldi on recovery and becoming a sober business owner - Sun Journal",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaTBMLU5adUVwTXhibWxnX0JLMXFUMXNZVzFiRnhuUGxzeXF4NThCd25IMXlkeXFyaXFOTXhDc0lCelJ0NGtYMl9oN2ZJZ1VxbW44M2pxd0J3ZHU2RVlaaElyYk5PYlFCc3MyNHg4YS1MSVMxTzlTX2c4aFEwM0J3cTNhbjB4OXJFQ0wxNDBJRkRxNWVQblZySkhhZUNsZmRGMmFMUXdONHYyUUZYSHdHeWJ3?oc=5",
+      "title": "Former Nickelodeon star Josh Peck says sobriety is still ‘the bedrock of my life’ 14 years after entering rehab - The Independent",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83bkNqUkFnd1ZscHEwSF8yNWVpMHczMEtPVEJsVm5hSGJoVklZWEtUbm03SW8xWnhGd2l0U2J4Y2pXUG40Z3gxZW9VMnZuWnpHUkRpeWYxLXJvdTNwNmc?oc=5",
+      "title": "Building prisons - Joshua Rozenberg | Substack",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZkRWXzl2LXQtZzBJdF8zWWE4bGF1VFpNdHFTeXNSRVh6MUNoT2hKSEFiOEJtYkkzYjgzN1dycjI2T1ZMYmNFREFySDU4VlR4RWs2Z0szRG8zbmVXY0o3SjZBMUpMTDNiMTBLQjhuSGk4SGh2MEVTQW9mVXFucE1qWU1sQk03M3liZHozU3FTYUpnWmdNSFF1SzVnc2g?oc=5",
+      "title": "Who is Anthony Joshua's close friend Sina Ghami killed in Nigeria crash? - The Sun",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSUFpVk5LZjk5LS1TZzhwRXlaNk42eC1HVVhaZFFkLTlkVVVIa1N4MVFDbU1kMllNaHZiQWl3Y3VBbGNNYUJDeHZWMnRidmZlZ2V5ZkNjUm0zSjRTM0gySTJxRWFEUU1aNkJfVE1sNWVoczVRVy04ZWhoeUg5YlBQYTh3RnVzSVUwSmRSOEFoQ3Q4RmhVbUU4b3c3VFlLQ1A0VXN2d3h3aDhZN193TERBTGpEUDlWU0VBU3BjTUpiTVZOTFRSaHItZjBGQ1ZkSkJDRGlYZ25B?oc=5",
+      "title": "Joshua Brooks, PA-C, a Physician Assistant with Texas Orthopedics, Sports & Rehabilitation Associates - Issuewire",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTGY1dTNmWGpyMlRLUGV5RFVhcW1Hc3UtMXRGOUgzRHhScTdfbVdzYmRhYnZURTF0UWJSN2M4dzNhWkhfcHpKQ3hwX0lickZZLWJiMGNRMW9pS3VGLTgxbjBLc0VHbk5uZUpRWF9MM1I0SjFNdVFEMTlraGNZeWpNVmtybVlLX2lLRzdxbTQwQXV6MHlkdVdoTFRtdjVnLTJPVkNqaUxtNGdSRk96S1k4QjlMck85b0NIYmx0UVlWRQ?oc=5",
+      "title": "Browns Rumors: Joshua Dobbs Traded to Cardinals Amid Kyler Murray Injury Rehab - Bleacher Report",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OUE1yczV5QkRLck1UZ2QxUXc4alhVam9vd2t4LWtPa2hQa0ZvT1JORkRBQ1dWc0YtLXVmQmtmWEI3bndFMmpSa0tja2p2ZjdwTERFOFdSUVJrb2tWUjAxTC0xQVdRSU1u?oc=5",
+      "title": "Judge’s reasons published - Joshua Rozenberg | Substack",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMk5uQ3RwVjItY2wtbGk2dE1ITE83TGh1ZGlnSTdpdk5XWHBHQU9pbi1aZU1XRl9nX0hvREw3VUxVT2dlc0NJVFA4X2ZvX2otY3VDSjM3WVkzeG5QQ0c1bTRuRmJYQ0ViWUJNWUktUHdFeFRnbFR2TWRReUU0NTNQa1Z4NUo0R1FTbElDWFlVTFpJcFJCaTIwa3k2S2dnREpLeHZTa05qRlRhbXc1azByMlFjZHMyZGF4aHdQMThlZXZpRnpfUHlwU0Y0OA?oc=5",
+      "title": "BUCKCHERRY's JOSH TODD: 'The Longer You Stay Sober, The More You Have To Do To Feel Good In Your Own Skin' - BLABBERMOUTH.NET",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdEFYYVNaakNmRjJaV3Rxc0hSVVlYRXc1WXRLd19iY1pFTTByWUo3ZGlFWTVFNE00X0htMUUzRU5YNlp4aTExUzAxdTZZcklrY0M3ek1SMmJXOThMdXV1S29lSWstRTc0VUd0UUdVelZUaWtXa1R2Z19scVl1MzdWSndrc1l4WHBaS3VScEgxSjM4SmRNcTRrMXBmQVdMT1p4bzdGM1c4Y0lUcUpDUkhpYXB3NUhMUQ?oc=5",
+      "title": "Joshua Scott Jones Opens Up on Going Solo - Rolling Stone",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSXhrS0FKb3Z0aV80YjFGR3hzLXlmbFFsQThJZTRNdUFKTHhMXzNZQU9kNDdFWUxDdlpHWnhScXBjYnNqeUpPajZYMThMc1kzaGx3LTlJWHhINm9VN1JkeGxReFltTVF0SU9aWDJqbWhqR2dPT0M4SDN0eGkxb1RZQmhoSE9wQVZiLU93aXFKQkdrRGRzWnlsYjdUZW0zN05RM2t4cHFQSXBpRTdEQ25JendZcUVQWXZkMW9WbHBKUXREMHc2ZjkzWHVXZGhJc2c4T1IwUWNiRDBBeVhOc25UWU1XLXhmYlR0eXJN?oc=5",
+      "title": "Bayern Munich’s Joshua Kimmich opens up on rehab and can’t wait to play again - Bavarian Football Works",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01UEtnZE1iUDI3LWxmN09TMHJFeG90cTZaQnJJUmRCTGVlUFlHSmZTVlk2SFlBRE80RHE0SmNseWNxRTVyVEY3WENNTnJ4M0RYak8zazFCd2RHdHU4S2t3QmxlcjBfbzJyaWlFOA?oc=5",
+      "title": "Steel Magnolia’s Joshua Scott Jones Enters Rehab - The Boot",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWlpqWEl0T1Y5LWdaX0tPWl9LVEY5a012OFFNaDV3SjV2NWdnZEo3bmpZRGNvTTlNcnNTR2xjbTRsNnZydXNwQUMyNEM5Tjd5R0RXa29ueXVKdlhWUVljM29TeEx3R0xWcHFfcU5ienRhaUtITFpFMEF3YVRZcTlsZ0pwUUNaZHFaOHU0Q0Z6bHpUOU9FbnkxQzNjMVpVdlBJT2FjWFV3S1BKV3FlTTdCVlFsVWtEaEF4M0IzSFNkQW1ya0ViZDhlaU1sSDZkUQ?oc=5",
+      "title": "Sweet Home Oklahoma's Jennifer Welch Explains Why She Reconciled with Ex Josh - Bravo",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWDRVdFZWN1l3d3ROWmQtbXlxaHZBNmZOWWY0b1lHdTVnUzNRWE80Rm5FZ0NrdEdpZlFVUUdkdlFlTzhGS2tnZEpmMExwWDNPd05QNzVPSmMydk9iSWhVOEFTcS00SlZLMlc3SXR6MzloRUxKNUM0eTF3M05iUFVSd2FwNjVCUWlvLUxLUA?oc=5",
+      "title": "JOSHUA CANTOR Obituary (2013) - New York, NY - New York Times - legacy.com",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbS1EZ1ZldzBreWxLYmhybW96ZU01dXNEUmVMbHFzcVhvS1VWVGtINGNWSDJfUmg2WllFbUkyVXBVVlJ0RVMtWVAxMVNHX3BfZ0tqbG9sRU1UdlJxSURzcVM1TlNNRTJYUEZKYVV1LXFoemxWeVk3V000SDhLYi1ObkgxeXNXOElFNmlyYnVpZWFfc3JZaW9wX1Zfb1Q?oc=5",
+      "title": "Sweet Home Oklahoma: Why Jennifer Welch Took Husband Back After Drug Relapse - People.com",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcWxlQ3g2U0Ffb0RyZ3dWOXhrVU5XcF8yVDFVRFgySHA4ZExnWDBrdWRPR0dZWXNCcGVSVHFBdFBsTWk2NjVGQUt2RDZVY3I2OGxMRVVsY25PODFnR0tjSGNHMjdRMTl6Vm43WFN4SzZyQzA3TlRCUE9CNWpnLTlva0RjQkJVeTZXN003THpBcWFSRlpvcWd1YmRn?oc=5",
+      "title": "Road to Recovery: Flight paramedic Josh Duda shares story - Brainerd Dispatch",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdWg3TUw1X2t0OUItU0lZWXFYVEFqQmU3aEhYVkgtbmU0MkFlRUoxeGdaQXJxVXpBWjNBLXZWZlNwbHFsd2QwcXpFUkpYUUdRWmIyRWZvR3ZpN2czN2RMTUc3clcydUViNjZOdGZkZkFFM0lMdnJzaUs1MV81czRWNUtwYUZFbmk2Ny1VdUxLcFpaNl8xWC1TSmxsNGlqaDQ?oc=5",
+      "title": "Anthony Joshua fights back tears as he opens up about 'traumatic' death of his 'brothers' in crash - The Sun",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObWFtcTVzeERxZXkwTmc4TG1ITmliSi1oTU16UFhoWk5PNm1fTEg0LXB6R0t6Sm1Bay1fZFM1THN6Tm9JUHhSUkJBVG5jQmNJdEM4U2pYVFdhQXdpc3I4VThEM1hiOWFxcmhCNjlwQkZYRGwwLXZmbDA4ZFpZVFd6T1VrMXFCTTl3b3I5T01vck9tTUt0QUJ3?oc=5",
+      "title": "In and out of the trenches with Josh Ramsay - Vancouver Sun",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWDBmSzZjUGJ2MGxKY1RURW1KWU1xcjlzaFdvM0h4Z2gzaFVNX3ZtMVZ0cmtIZVRNQ2NraEo4aEo2dThMYTVtNzlzYTFEd3VDV2x5aHkyNm9kazd6eEVtQXhUMzBMQlNRODBwQTBNdklmOHlMMnQ5U2c4am9TLWVCSlRjOHlwc1RvTEhVaXhuVWI?oc=5",
+      "title": "Jake Paul faces nine months out after complications of his broken jaw injury - The Sun",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa0RxVWhXN2o3ZDhHalgyal9NcVpOTm15NXBYR2dkYmZOOHFQaFFucG9SR3Nuc09RdXB2N0d5MWpPd0ZSaHBKUjQ1YVFiMTdTTTJqaWZlZnFYMzVEVTRkOS1mUlp2RE1LcnlPd096V1E4Ty1GR0kyV1FiWVV3b0dSZGZmQ2hSRm5R0gGOAUFVX3lxTE52MXlVUDl6UVlSZkhkWTBYMHNKbnhreUhGbDY4VDNwdWgwSHVXZGZRUnVfdnRvMGNiU0NpanUzQTFVaWRsUkRWTE9SbFNhT3lxQzJ4WlUyemt3bWs3U1laeTBoenl1eElLMlFHS2NIemMySmdwNC1EZ2JlVVlWSWpPOHJfcXBQYXNpbDQyMmc?oc=5",
+      "title": "Anthony Joshua's injuries from car crash revealed before comeback fight - The Mirror",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1h5ZlBEZkZmTXgyOEpUd2NrS3NBTHQ3RUxWRlpMclpiOGYyT19Bb3BPVWg4NjEwM2RhcDAyTC1XZWdranBCRHd0VWpadUlRN0d1emk5NF92eVVLbUVzVWdIN3Fhc0t1dkJjWWMtR19GVnFnUDdSM2djYlEybXVTTlBTYnQwSVlLeWV0UUtSVTN1Tmd6Q0k1VHhQdmtIMW1TNFM1Vmdtby05UjNiRmpwaEZpRmo0ZHJiZkE?oc=5",
+      "title": "Behind the scenes with Crows Head of Strength and Athletic Development Josh Manuel - afc.com.au",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdTJFeU1fYmdZTE5iUFM5VExmMUNVY2NUNUtabUlaVGkydzZJcDVpUG9YSnhZTHBqaFRLWGR5MUZPMFFOVkJYS2tPcGdlNTZBRzZuWmItZHNGMHlWYVZYOVdmZVJsMnprU08xZnFmMC1LU1ZJcVA4OWo0T2ItQ3FhYmpwLTlqM2hKUWVVdWg0b9IBlAFBVV95cUxORnRXVWVlT01qVTBYa0lLTXpsaGlzQ1BOclM3SUNjdjJhUlM0WTh5VGROVHBGaHBYa1F6cUo4WVpUeVZsN3FTR0tKSUVwV01vdjduQXdWNkNCck4tSURtbF82NnBISHlqWFJYNHlSRkMxZVVjQ1puVnRGY1J6eUlTbE1UQjRZT3NCb25YSlNBdkYwcXRl?oc=5",
+      "title": "Joshua Allen to spend Christmas in rehab as he awaits sentence for possession of drugs - Irish Mirror",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MSGFuVzdGa19MZW9WNEZnUGllM2I2V2piZkduN3R4STZTX3NWTG9nTzhNam9WTXNaU2VXMFp0T0ZMVHpUcERiSk54R09xSG03ZzdMTm9tVG9YYlNlamV4djJEWFpPMHUxNkt6T1M5dDZqUQ?oc=5",
+      "title": "Anthony Joshua undergoes surgery as he continues to recover from horror crash that killed friends - GB News",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObkpJN2k0ZlRKYTdmSHJmYjBYWUs5Q3BfSHd4bm92Y2kzTnJRQnJ0WWh5Um5OeU9HekxiYUMwMHAyUVZ1eHdmS3dZQ1N4SE5wYnhXVEZ6TzlFMkh0b3pFTks2ZEdWOHA3ek5kUEZCYkJzUzJWeHNEUkIxMGhBWG42YnJ5YVYtVkU?oc=5",
+      "title": "Anthony Joshua undergoes rib treatment amid rehab | - theeagleonline.com.ng",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRG5FX1p0dENhM0thQ1lTRDlDSWNHOHpqeVpYWWpnV1h5cWVmNkgyaTM4X3NJbUloak9KSDR6ajgyZk1CRkhxUHhkOVEzd202OG4zZzMtX2ZZQnZwRzBmWE9GVlhiMTBETWF4ZC16Z1F1ZFljdFFyTDh6UzRoMWhnZGFTRHFybEphWE1MVlhFeWPSAY8BQVVfeXFMUG12OS1LVTFpNUFnRjdpeXRGa1Nic1JmYmxrZDVSSTlpWnduSUxDNXVtekNyMDYxVDFJRlRZdjBWbTFsNnY2ZUtrVk1LbjZ3OTh1dkgzNU1kX0R6MkJEeElqd2VSb2JOTGJud0I5NU44RlhWaWt4VHZmdnNlYmhQVXVneFRUQThEMDUya2FRbGc?oc=5",
+      "title": "Boxer Anthony Joshua Undergoes Treatment On Ribs As He Continues Rehab Months After Fatal Car Crash (Photo) - Tori News",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJaElHSFdOc1ZhemZ0TjNuNmdhX0VCUmptcGhTVnpWQS1pOE12dVVLd1liMWFsTFoxeGFzVy1ZdDYyTlllcl9FeS0tcmxfN0xUeXhHREpGWHlkWGtrenRR?oc=5",
+      "title": "Anthony Joshua Undergoes Treatment On Ribs As He Continues Rehab Months After Horror Car Crash - Gistmania",
+      "reason": "Editorial headline screen: report explicitly identifies a different person, unrelated to Yonsei Professor You, SMART Lab, GOODWELLNESS or Walkbot. Not approved for publication."
     }
   ],
-  "publishedCount": 88,
+  "publishedCount": 92,
   "searchEvidence": "artifacts/news-discovery.json (ignored); Naver results additionally checked through browser scrolling",
   "reviewNotes": [
     "Hankyoreh original publication date is February 9, 2009; Google RSS showed a later migration date.",
@@ -5625,6 +5891,16 @@
       "url": "http://news1.kr/articles/?3733916",
       "canonical": "https://www.news1.kr/local/kangwon/3733916",
       "evidence": "Normal original publisher redirect and browser verification."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5alVtS2RDOGUzejgtbTVxWTQ5d0VqN1RHRlVKRnhtcnUwWlB0UVo1Ykk0LVBiMGxLdnNSTlBTRmZxNFNGQi1CSzRHUQ?oc=5",
+      "canonical": "https://www.koreasisailbo.com/587507",
+      "evidence": "Google News redirected in a normal browser to the original publisher; title, date and article body reviewed."
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNOW1xRy14OFBfQzVQVG1PVDNqRU9lMDVjQnFKZTVEMXh6YUZPRUdMTk9jQ3ByUTFJOEtNU1hPMFhrSkxZd2otTWxIWWVtMW51Sl9XMVBUSlhaUFk0QnZWRXdWY2d4ZWRibWh0cndB?oc=5",
+      "canonical": "https://chunchu.yonsei.ac.kr/news/articleView.html?idxno=18740",
+      "evidence": "Google News redirected in a normal browser to the original publisher; title, date and article body reviewed."
     }
   ],
   "heldForReview": [
@@ -5763,6 +6039,16 @@
       "title": "[2016년 12월호]WE TRY MIRACLE! - Naver Blog",
       "reason": "Browser site-safety policy blocks the redirected Naver blog destination. Source not accessed and restriction not bypassed; identity remains unresolved.",
       "checkedOn": "2026-10-03"
+    },
+    {
+      "url": "http://www.incheonilbo.com/news/articleView.html?idxno=929875",
+      "title": "[종합] 원주시 장애아동체력증진실 위탁 운영자 공개 모집",
+      "reason": "Current URL returns publisher home page or missing article body; original headline and publication date require recovery."
+    },
+    {
+      "url": "http://newsbrite.net/25507",
+      "title": "원주시 장애아동체력증진실 위탁 운영자 공개 모집 - 원주시청",
+      "reason": "Current URL returns publisher home page or missing article body; original headline and publication date require recovery."
     }
   ],
   "sourceResolutions": [
