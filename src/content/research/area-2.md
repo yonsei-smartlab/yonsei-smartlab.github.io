@@ -12,8 +12,8 @@ imageLicenseUrl: "https://creativecommons.org/licenses/by/4.0/"
 placeholder: false
 ---
 
-<h3 id="area-2-published">Published research</h3>
+Professor You’s rehabilitation robotics research connects device development with clinical studies of walking, balance and movement control. Publications examine robot-assisted gait training in stroke and cerebral palsy, robotic movement measurements, and machine-learning approaches to predicting rehabilitation response. This work also includes wearable assistance and studies of users’ rehabilitation needs.
 
-Research examines how rehabilitation robots support repeated movement practice and how people respond to robotic assistance. Published studies cover gait training after stroke, balance and postural control in cerebral palsy, and the reliability of robotic movement measurements. Clinical machine learning explores rehabilitation-response prediction, while a 2025 survey examines wearable gait-robot needs in children and adults.
+Funded projects include human–robot interaction for gait learning (2017–2020), a lightweight wearable robot suit for cerebral palsy (2023), and the Miracle walking-robot development center for children and older adults with gait difficulties (2023–2025).
 
 [Related publications](/publications/?area=area-2).

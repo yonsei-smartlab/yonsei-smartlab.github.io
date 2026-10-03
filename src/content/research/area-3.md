@@ -12,8 +12,8 @@ imageLicenseUrl: "https://creativecommons.org/licenses/by/4.0/"
 placeholder: false
 ---
 
-<h3 id="area-3-published">Published research</h3>
+This area draws on Professor You’s background in motor learning, sports medicine and clinical physical therapy, including his work as Chief Physiotherapist at the 2018 Pyeongchang Winter Olympics and Paralympics. Publications examine core stabilization, proprioception, balance and low back pain, alongside markerless motion assessment and rehabilitation for athletes with ankle instability.
 
-Published studies examine deep-learning markerless motion assessment during the overhead squat, AI-based mechanical diagnosis and therapy for low back pain, and core-stabilization techniques. Pediatric research explores postural control, diaphragm movement, and gait in cerebral palsy.
+Related funded work includes musculoskeletal-disorder prevention education (2017) and a musculoskeletal and metabolic-syndrome prevention programme (2018). Wonju-supported fitness programmes for children with disabilities extend this movement and rehabilitation work into community settings.
 
 [Related publications](/publications/?area=area-3).

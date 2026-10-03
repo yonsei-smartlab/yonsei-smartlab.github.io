@@ -10,10 +10,8 @@ imageSource: "https://doi.org/10.3233/NRE-210304"
 placeholder: false
 ---
 
-<h3 id="area-1-published">Published research</h3>
+Professor You’s work examines how the brain adapts during rehabilitation and how those changes relate to movement recovery. Studies use functional MRI, transcranial magnetic stimulation and EEG to investigate motor control in stroke and cerebral palsy, including the effects of movement training on brain activity.
 
-Published research examines motor-network plasticity using functional magnetic resonance imaging, repetitive transcranial magnetic stimulation, and EEG-based brain mapping in stroke and cerebral palsy. Core-stabilization studies also investigate neural activation during movement control.
-
-Virtual-reality training and EMG biofeedback studies also examine cortical reorganization and neuromotor control after stroke and in cerebral palsy.
+Funded projects have addressed imaging and enhancement of neural-network plasticity (2006–2008) and brain–machine interface gait training after stroke (2016–2017). A 2025–2026 project combines EEG–EMG neurofeedback with robotic gait assistance, bringing brain and muscle signals into rehabilitation technology development.
 
 [Related publications](/publications/?area=area-1).
