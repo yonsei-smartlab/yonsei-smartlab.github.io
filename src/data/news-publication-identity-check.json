@@ -2,11 +2,11 @@
   "reviewedOn": "2026-10-03",
   "complete": false,
   "scope": "Identity and institutional relevance recheck of every current public news record; not a claim that search discovery, video contents or every historical factual claim has been exhaustively verified.",
-  "recordCount": 71,
+  "recordCount": 72,
   "relationCounts": {
     "professor-named-in-original": 51,
     "goodwellness-center": 11,
-    "professor-historical-appointment": 4,
+    "professor-historical-appointment": 5,
     "professor-research-center": 2,
     "goodwellness-historical-facility": 3
   },
@@ -961,6 +961,18 @@
       },
       "restoredOn": "2026-10-03",
       "scopeBasis": "User approved demonstrably related project and centre coverage even when Professor You is not named in that report."
+    },
+    {
+      "file": "src/content/news/2018-pyeongchang.md",
+      "url": "https://yonsei-smartlab.github.io/news/pyeongchang-2018/",
+      "date": "2018",
+      "checkedOn": "2026-10-03",
+      "goodwellness": false,
+      "originalAccess": "user-supplied-photo-archive",
+      "identityEvidence": "Professor You archive supplied by the user; Chief Physiotherapist role in approved CV biography",
+      "relation": "professor-historical-appointment",
+      "professorParticipation": "chief-physiotherapist",
+      "review": "First-party lab update requested by the user, distinct from external press coverage. Year precision preserves the known Games year without inventing a publication date."
     }
   ],
   "remaining": [

@@ -1,0 +1,56 @@
+---
+import { getEntry } from 'astro:content';
+import BaseLayout from '../../components/BaseLayout.astro';
+import PageHeader from '../../components/PageHeader.astro';
+import features from '../../data/news-features.json';
+interface Photo { src: string; alt: string; caption: string; width: number; height: number; }
+interface Feature { id: string; paragraphs: string[]; credit: string; gallery?: Photo[]; youtubeId?: string; }
+export function getStaticPaths() {
+  return Object.entries(features).map(([slug, feature]) => ({ params: { slug }, props: { feature } }));
+}
+const { feature } = Astro.props as { feature: Feature };
+const entry = await getEntry('news', feature.id);
+if (!entry) throw new Error(`Missing news feature: ${feature.id}`);
+const item = entry.data;
+const date = item.date.length === 4 ? item.date : new Intl.DateTimeFormat('en', { dateStyle: 'long', timeZone: 'UTC' }).format(new Date(`${item.date}T00:00:00Z`));
+---
+<BaseLayout title={item.title} description={item.summary}>
+  <PageHeader title={item.title} description="" />
+  <section class="section news-feature"><div class="container-page">
+    <a class="text-link" href="/news/">← All news</a>
+    <p class="feature-meta"><time datetime={item.date}>{date}</time> · {item.source}</p>
+    <div class="feature-copy">
+      {item.originalTitle !== item.title && <p class="news-original" lang={item.originalLanguage}>{item.originalTitle}</p>}
+      {feature.paragraphs.map(paragraph => <p>{paragraph}</p>)}
+    </div>
+    {feature.youtubeId && <div class="broadcast-player"><iframe src={`https://www.youtube-nocookie.com/embed/${feature.youtubeId}`} title={item.title} loading="lazy" allow="encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>}
+    {item.kind === 'report' && <>
+      {!feature.youtubeId && item.image && <img class="broadcast-still" src={item.image} alt={item.imageAlt} width={item.imageWidth} height={item.imageHeight} />}
+      <p class="feature-credit">{feature.credit}</p>
+      <p><a class="button button-secondary" href={item.url}>Watch on {feature.youtubeId ? 'YouTube' : 'KBS News'} <span aria-hidden="true">↗</span></a></p>
+    </>}
+    {feature.gallery && <>
+      <div class="photo-gallery">{feature.gallery.map((photo, index) => <figure class:list={['gallery-photo', { 'gallery-lead': index === 0 }]}>
+        <a href={photo.src} target="_blank" rel="noopener" aria-label={`Open photograph: ${photo.alt}`}><img src={photo.src} alt={photo.alt} width={photo.width} height={photo.height} loading={index === 0 ? 'eager' : 'lazy'} /></a>
+        <figcaption>{photo.caption}</figcaption>
+      </figure>)}</div>
+      <p class="feature-credit">{feature.credit}</p>
+    </>}
+  </div></section>
+</BaseLayout>
+<style>
+  .news-feature { padding-top: 24px; }
+  .feature-meta { margin: 24px 0; color: var(--muted); }
+  .feature-copy { max-width: 760px; margin-bottom: 32px; }
+  .feature-copy p { margin-bottom: 20px; }
+  .broadcast-player { max-width: 960px; aspect-ratio: 16 / 9; background: #f8f8f8; }
+  .broadcast-player iframe { display: block; width: 100%; height: 100%; border: 0; }
+  .broadcast-still { width: 100%; max-width: 960px; height: auto; }
+  .feature-credit { margin: 16px 0 24px; font-size: var(--text-caption); color: var(--muted); }
+  .photo-gallery { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 32px; }
+  .gallery-photo { margin: 0; }
+  .gallery-photo img { display: block; width: 100%; height: auto; border: 1px solid var(--line); }
+  .gallery-photo figcaption { margin-top: 12px; font-size: var(--text-caption); color: var(--muted); }
+  .gallery-lead { grid-column: 1 / -1; max-width: 960px; }
+  @media (max-width: 640px) { .photo-gallery { grid-template-columns: 1fr; gap: 24px; } }
+</style>

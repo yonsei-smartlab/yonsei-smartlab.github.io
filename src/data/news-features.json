@@ -1,0 +1,89 @@
+{
+  "pyeongchang-2018": {
+    "id": "2018-pyeongchang",
+    "gallery": [
+      {
+        "src": "/images/news/pyeongchang-2018/photo-06.webp",
+        "alt": "Physiotherapy colleagues at PyeongChang 2018.",
+        "caption": "Physiotherapy colleagues at PyeongChang 2018.",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/images/news/pyeongchang-2018/photo-01.webp",
+        "alt": "Colleagues during the PyeongChang Games.",
+        "caption": "Colleagues during the PyeongChang Games.",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/images/news/pyeongchang-2018/photo-02.webp",
+        "alt": "A group photograph outside the Games venue.",
+        "caption": "A group photograph outside the Games venue.",
+        "width": 960,
+        "height": 641
+      },
+      {
+        "src": "/images/news/pyeongchang-2018/photo-05.webp",
+        "alt": "Members of the Games medical team.",
+        "caption": "Members of the Games medical team.",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/images/news/pyeongchang-2018/photo-07.webp",
+        "alt": "Professor You with participants at PyeongChang.",
+        "caption": "Professor You with participants at PyeongChang.",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "src": "/images/news/pyeongchang-2018/photo-10.webp",
+        "alt": "Professor You with colleagues at the Games.",
+        "caption": "Professor You with colleagues at the Games.",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "src": "/images/news/pyeongchang-2018/photo-12.webp",
+        "alt": "Professor You and colleagues at a Games gathering.",
+        "caption": "Professor You and colleagues at a Games gathering.",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "src": "/images/news/pyeongchang-2018/photo-13.webp",
+        "alt": "Meeting with international colleagues.",
+        "caption": "Meeting with international colleagues.",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "src": "/images/news/pyeongchang-2018/photo-14.webp",
+        "alt": "Professor You with a colleague beside the Olympic rings.",
+        "caption": "Professor You with a colleague beside the Olympic rings.",
+        "width": 1600,
+        "height": 900
+      }
+    ],
+    "paragraphs": [
+      "Professor You served as Chief Physiotherapist for the 2018 PyeongChang Winter Olympics and Paralympics. These photographs document his time at the Games with physiotherapy colleagues, medical teams and participants."
+    ],
+    "credit": "Photographs supplied by Professor You."
+  },
+  "ktv-stroke": {
+    "id": "2023-12-07-ktv-stroke",
+    "youtubeId": "z3J7y6uwhqw",
+    "paragraphs": [
+      "Professor You appeared on KTV’s Life & Policy programme with neurologist Na Hyun-wook to discuss stroke recognition and the importance of responding promptly."
+    ],
+    "credit": "KTV / 대한민국 NOW"
+  },
+  "kbs-robotic-rehabilitation": {
+    "id": "2020-09-10-9bafb7c7085f",
+    "paragraphs": [
+      "KBS interviewed Professor You about robotic gait rehabilitation, including walking speed, movement control, muscle exercise and sensory feedback."
+    ],
+    "credit": "KBS News"
+  }
+}

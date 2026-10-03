@@ -1,0 +1,133 @@
+{
+  "reviewedOn": "2026-10-03",
+  "request": "Individual News stories; no Media tab.",
+  "publishedPhotos": [
+    {
+      "id": 1,
+      "path": "media/평창올림픽 사진/1546837341257.jpg",
+      "dimensions": [
+        960,
+        540
+      ]
+    },
+    {
+      "id": 2,
+      "path": "media/평창올림픽 사진/1546837341461.jpg",
+      "dimensions": [
+        960,
+        641
+      ]
+    },
+    {
+      "id": 5,
+      "path": "media/평창올림픽 사진/1546837341699.jpg",
+      "dimensions": [
+        960,
+        540
+      ]
+    },
+    {
+      "id": 6,
+      "path": "media/평창올림픽 사진/1546842098891.jpg",
+      "dimensions": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": 7,
+      "path": "media/평창올림픽 사진/20180206_131541.jpg",
+      "dimensions": [
+        2560,
+        1440
+      ]
+    },
+    {
+      "id": 10,
+      "path": "media/평창올림픽 사진/20180215_181812.jpg",
+      "dimensions": [
+        3264,
+        1836
+      ]
+    },
+    {
+      "id": 12,
+      "path": "media/평창올림픽 사진/20180224_193149.jpg",
+      "dimensions": [
+        4640,
+        2610
+      ]
+    },
+    {
+      "id": 13,
+      "path": "media/평창올림픽 사진/20180224_195441.jpg",
+      "dimensions": [
+        4640,
+        2610
+      ]
+    },
+    {
+      "id": 14,
+      "path": "media/평창올림픽 사진/20180224_195755.jpg",
+      "dimensions": [
+        4640,
+        2610
+      ]
+    }
+  ],
+  "omittedPhotos": [
+    {
+      "id": 3,
+      "reason": "Not selected for gallery"
+    },
+    {
+      "id": 4,
+      "reason": "Clinical treatment photograph; no publication consent documented"
+    },
+    {
+      "id": 8,
+      "reason": "Not selected for gallery"
+    },
+    {
+      "id": 9,
+      "reason": "Not selected for gallery"
+    },
+    {
+      "id": 11,
+      "reason": "Clinical treatment photograph; no publication consent documented"
+    },
+    {
+      "id": 15,
+      "reason": "Duplicate of photo 6"
+    }
+  ],
+  "broadcasts": [
+    {
+      "source": "KTV",
+      "decision": "Existing News record enhanced with original broadcaster YouTube embed",
+      "url": "https://www.youtube.com/watch?v=z3J7y6uwhqw",
+      "verification": "YouTube oEmbed confirms original title and 대한민국 NOW channel"
+    },
+    {
+      "source": "KBS",
+      "decision": "Existing News record enhanced with detail page and original broadcaster watch link",
+      "url": "http://news.kbs.co.kr/news/view.do?ncd=5001438&ref=A"
+    },
+    {
+      "source": "CNN",
+      "decision": "Held pending original source URL verification"
+    },
+    {
+      "source": "Channel A / Walkbot-labelled clip",
+      "decision": "Held; Professor participation unverified"
+    },
+    {
+      "source": "KBS New_Walkbot 연구 2020.mp4",
+      "decision": "Held; personal recording, source upload unverified"
+    },
+    {
+      "source": "CMO treatment and post-stroke exercise clips",
+      "decision": "Not published; treatment consent or original ownership not documented"
+    }
+  ]
+}

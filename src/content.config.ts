@@ -71,6 +71,7 @@ const news = defineCollection({
     title: z.string(),
     originalTitle: z.string(),
     originalLanguage: z.enum(['ko', 'en']).default('ko'),
+    kind: z.enum(['report', 'lab-update']).default('report'),
     goodwellness: z.boolean().default(false),
     image: z.string().regex(/^\/images\/news\//).optional(),
     imageAlt: z.string().optional(),
@@ -78,11 +79,14 @@ const news = defineCollection({
     imageHeight: z.number().int().optional(),
     imageCredit: z.string().optional(),
     imageSource: z.url().optional(),
-    date: z.string().regex(/^\d{4}-\d{2}-\d{2}$/),
+    date: z.string().regex(/^\d{4}(?:-\d{2}-\d{2})?$/),
     summary: z.string(),
     source: z.string(),
     url: z.url(),
   }).superRefine((entry, context) => {
+    if (entry.kind === 'report' && entry.date.length !== 10) {
+      context.addIssue({ code: 'custom', message: 'External reports require their original full publication date.' });
+    }
     if (entry.image && (!entry.imageAlt || !entry.imageCredit || !entry.imageSource
       || !entry.imageWidth || !entry.imageHeight)) {
       context.addIssue({ code: 'custom', message: 'News images require alt text, credit, original source URL and dimensions.' });

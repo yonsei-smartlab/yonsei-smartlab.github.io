@@ -695,6 +695,16 @@
         "https://www.wonju.go.kr/media/selectBbsNttView.do?bbsNo=145&key=3450&nttNo=391902",
         "https://www.koreasisailbo.com/587507"
       ]
+    },
+    {
+      "key": "pyeongchang-2018",
+      "file": "src/content/news/2018-pyeongchang.md",
+      "url": "https://yonsei-smartlab.github.io/news/pyeongchang-2018/",
+      "date": "2018",
+      "identityEvidence": "User-supplied Professor You photograph archive and approved CV role",
+      "status": "published",
+      "goodwellness": false,
+      "kind": "lab-update"
     }
   ],
   "pending": [
@@ -5987,7 +5997,7 @@
       "status": "excluded"
     }
   ],
-  "publishedCount": 71,
+  "publishedCount": 72,
   "searchEvidence": "artifacts/news-discovery.json (ignored); Naver results additionally checked through browser scrolling",
   "reviewNotes": [
     "Hankyoreh original publication date is February 9, 2009; Google RSS showed a later migration date.",

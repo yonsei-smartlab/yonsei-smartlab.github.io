@@ -1,12 +1,14 @@
 ---
 import { getCollection } from 'astro:content';
 import { getNewsStories } from '../lib/news-stories';
+import features from '../data/news-features.json';
+const featureLinks = new Map(Object.entries(features).map(([slug, feature]) => [feature.id, `/news/${slug}/`]));
 const news = (await getCollection('news')).sort((a, b) => b.data.date.localeCompare(a.data.date));
 interface Props { goodwellnessOnly?: boolean; }
 const { goodwellnessOnly = false } = Astro.props;
 const stories = getNewsStories(news, { goodwellnessOnly });
 const years = [...new Set(stories.flatMap(story => story.years))].sort().reverse();
-const formatDate = (date: string) => new Intl.DateTimeFormat('en', { dateStyle: 'long', timeZone: 'UTC' }).format(new Date(`${date}T00:00:00Z`));
+const formatDate = (date: string) => date.length === 4 ? date : new Intl.DateTimeFormat('en', { dateStyle: 'long', timeZone: 'UTC' }).format(new Date(`${date}T00:00:00Z`));
 ---
   <section class="section"><div class="container-page">
     <form class="news-filters publication-filters" role="search" aria-label="Filter news">
@@ -21,8 +23,9 @@ const formatDate = (date: string) => new Intl.DateTimeFormat('en', { dateStyle: 
         return <li class="news-item" data-news data-story-id={story.id} data-story-date={story.date} data-years={story.years.join(' ')} data-search={story.reports.map(report => `${report.data.title} ${report.data.originalTitle} ${report.data.source} ${report.data.summary}`).join(' ').toLowerCase()}>
         <div class="news-meta"><time datetime={story.firstDate}>{formatDate(story.firstDate)}</time>{story.date !== story.firstDate && <><span> – </span><time datetime={story.date}>{formatDate(story.date)}</time></>}<p>{item.data.source}{story.reports.length > 1 && <> + {story.reports.length - 1} more {story.reports.length === 2 ? 'report' : 'reports'}</>}</p></div>
         <article class:list={['news-content', { 'has-photo': item.data.image }]}>
-          <div><h2><a href={item.data.url}>{item.data.title}</a></h2>{item.data.originalTitle !== item.data.title && <p class="news-original" lang={item.data.originalLanguage}>{item.data.originalTitle}</p>}<p class="news-summary">{item.data.summary}</p>
-            {story.reports.length === 1 ? <a class="text-link" data-news-report={item.id} href={item.data.url}>Read the original report <span aria-hidden="true">→</span></a> : <details class="news-coverage">
+          <div><h2><a href={featureLinks.get(item.id) || item.data.url}>{item.data.title}</a></h2>{item.data.originalTitle !== item.data.title && <p class="news-original" lang={item.data.originalLanguage}>{item.data.originalTitle}</p>}<p class="news-summary">{item.data.summary}</p>
+            {featureLinks.has(item.id) && item.data.kind !== 'lab-update' && <p><a class="text-link" href={featureLinks.get(item.id)}>View broadcast <span aria-hidden="true">→</span></a></p>}
+            {story.reports.length === 1 ? <a class="text-link" data-news-report={item.id} href={item.data.kind === 'lab-update' ? featureLinks.get(item.id) || item.data.url : item.data.url}>{item.data.kind === 'lab-update' ? 'View photo story' : 'Read the original report'} <span aria-hidden="true">→</span></a> : <details class="news-coverage">
               <summary>View all {story.reports.length} reports</summary>
               <ul>{story.reports.map(report => <li>
                 <p class="news-source-meta">{report.data.source} · <time datetime={report.data.date}>{formatDate(report.data.date)}</time></p>
@@ -31,7 +34,7 @@ const formatDate = (date: string) => new Intl.DateTimeFormat('en', { dateStyle: 
               </li>)}</ul>
             </details>}
           </div>
-          {item.data.image && <figure class="news-photo"><a href={item.data.url}><img src={item.data.image} alt={item.data.imageAlt || item.data.title} width={item.data.imageWidth} height={item.data.imageHeight} loading="lazy" /></a>{item.data.imageCredit && <figcaption>{item.data.imageCredit}</figcaption>}</figure>}
+          {item.data.image && <figure class="news-photo"><a href={featureLinks.get(item.id) || item.data.url}><img src={item.data.image} alt={item.data.imageAlt || item.data.title} width={item.data.imageWidth} height={item.data.imageHeight} loading="lazy" /></a>{item.data.imageCredit && <figcaption>{item.data.imageCredit}</figcaption>}</figure>}
         </article>
       </li>; })}
     </ol>

@@ -52,7 +52,11 @@ for (const page of await htmlFiles(root)) {
           && external.searchParams.get('q') === mapMarker
           && external.searchParams.get('output') === 'embed'
           && !external.searchParams.has('key');
-        if (!approvedMap) issues.push(`${pageName}: external asset ${value}`);
+        const approvedBroadcast = pageName === join('news', 'ktv-stroke', 'index.html')
+          && external.origin === 'https://www.youtube-nocookie.com'
+          && external.pathname === '/embed/z3J7y6uwhqw'
+          && !external.search;
+        if (!approvedMap && !approvedBroadcast) issues.push(`${pageName}: external asset ${value}`);
       }
       continue;
     }
@@ -217,6 +221,18 @@ const newsStories = getNewsStories(newsFiles.map((file, index) => ({ id: file.re
 if ([...newsHtml.matchAll(/data-news(?:=|\s|>)/g)].length !== newsStories.length || newsRecords.length !== newsAudit.publishedCount) issues.push('Rendered news count differs from the grouped archive');
 const renderedReportIds = [...newsHtml.matchAll(/data-news-report="([^"]+)"/g)].map(match => match[1]);
 if (JSON.stringify([...renderedReportIds].sort()) !== JSON.stringify(newsFiles.map(file => file.replace(/\.md$/, '')).sort())) issues.push('News grouping omitted or repeated original reports');
+const newsFeatures = JSON.parse(await readFile('src/data/news-features.json', 'utf8'));
+for (const [slug, feature] of Object.entries(newsFeatures)) {
+  const featurePath = join(root, 'news', slug, 'index.html');
+  if (!existsSync(featurePath) || !newsHtml.includes(`href="/news/${slug}/"`)) {
+    issues.push(`News feature missing from archive: ${slug}`);
+    continue;
+  }
+  const featureHtml = await readFile(featurePath, 'utf8');
+  if (!newsFiles.includes(`${feature.id}.md`)) issues.push(`News feature lacks source record: ${slug}`);
+  if (feature.gallery && (feature.gallery.some(photo => !featureHtml.includes(`src="${photo.src}"`)) || new Set(feature.gallery.map(photo => photo.src)).size !== feature.gallery.length)) issues.push(`Photo story omitted or repeated photographs: ${slug}`);
+  if (feature.youtubeId && !featureHtml.includes(`https://www.youtube-nocookie.com/embed/${feature.youtubeId}`)) issues.push(`Broadcast feature lacks approved player: ${slug}`);
+}
 const centerNewsHtml = await readFile(join(root, 'goodwellness/news/index.html'), 'utf8');
 const centerNewsStories = getNewsStories(newsFiles.map((file, index) => ({ id: file.replace(/\.md$/, ''), data: newsRecords[index] })), { goodwellnessOnly: true });
 const expectedCenterIds = newsFiles.filter((_file, index) => newsRecords[index].goodwellness).map(file => file.replace(/\.md$/, '')).sort();
@@ -229,7 +245,7 @@ for (const report of newsAudit.publishedReports) {
 }
 const newsUrls = newsRecords.map(record => record.url);
 if (new Set(newsUrls).size !== newsUrls.length) issues.push('Duplicate original report in News archive');
-const newsDates = [...newsHtml.matchAll(/data-story-date="(\d{4}-\d{2}-\d{2})"/g)].map(match => match[1]);
+const newsDates = [...newsHtml.matchAll(/data-story-date="(\d{4}(?:-\d{2}-\d{2})?)"/g)].map(match => match[1]);
 if (newsDates.some((date, index) => index > 0 && date > newsDates[index - 1])) issues.push('News archive is not newest first');
 for (const route of ['professor/index.html', 'publications/index.html', 'news/index.html', 'goodwellness/news/index.html', 'grants-ip/index.html']) {
   const html = await readFile(join(root, route), 'utf8');

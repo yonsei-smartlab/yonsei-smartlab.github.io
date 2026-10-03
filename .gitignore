@@ -6,6 +6,7 @@ dist/
 !.env.example
 design-preview/
 artifacts/
+/media/
 *.log
 __pycache__/
 *.pyc
