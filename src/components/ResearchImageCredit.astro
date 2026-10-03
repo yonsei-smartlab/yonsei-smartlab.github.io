@@ -1,5 +1,5 @@
 ---
-interface Props { data: { imageCredit?: string; imageSource?: string; imageLicense?: string; imageLicenseUrl?: string } }
+interface Props { data: { imageCredit?: string; imageSource?: string; imageLicense?: string; imageLicenseUrl?: string; imageEdits?: string } }
 const { data } = Astro.props;
 ---
-{data.imageCredit && <p class="research-image-credit"><a href={data.imageSource}>{data.imageCredit}</a><span> · </span><a href={data.imageLicenseUrl}>{data.imageLicense}</a></p>}
+{data.imageCredit && <p class="research-image-credit"><a href={data.imageSource}>{data.imageCredit}</a>{data.imageLicense && <><span> · </span><a href={data.imageLicenseUrl}>{data.imageLicense}</a></>}{data.imageEdits && <span class="image-edit-note">{data.imageEdits}</span>}</p>}

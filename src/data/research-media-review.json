@@ -48,7 +48,7 @@
     },
     {
       "area": "area-1",
-      "status": "selected",
+      "status": "superseded",
       "publicFile": "/images/research/brain-eeg-oh-2023.png",
       "credit": "Oh et al. (2023), Figure 3, first image",
       "source": "https://doi.org/10.3390/jcm12154895",
@@ -59,7 +59,7 @@
     },
     {
       "area": "area-3",
-      "status": "selected",
+      "status": "superseded",
       "publicFile": "/images/research/overhead-squat-bae-2024.jpg",
       "credit": "Bae et al. (2024), Figure 1",
       "source": "https://doi.org/10.1038/s41598-024-79707-2",
@@ -79,6 +79,25 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
       "note": "Original publisher photograph already obscures the eyes with an opaque bar and covers the lower face with a mask. Professor You coauthorship verified in primary full text.",
       "presentation": "Original 1272 × 2072 publisher PNG, fitted without distortion or cropping into a shared 4:3 CSS frame. AI enhancement trial rejected because it altered small photographic details; no generated image deployed."
+    },
+    {
+      "area": "area-1",
+      "status": "selected",
+      "publicFile": "/images/research/eeg-recording-anonymized.png",
+      "source": "User-supplied 로봇재활근거과 데이터적용 9-21-20JY.pptx, slide 81, ppt/media/image111.jpeg",
+      "connection": "Slide explicitly identifies Shin JW and You SH, 2019 and the EEG-EMG experimental setup; corresponding published study is 10.3233/NRE-210304. Image sourced from supplied presentation.",
+      "edits": "Built-in image editor: upper-body/EEG/monitor crop, opaque whole-face mask and resampling. Adapted website thumbnail, not an unaltered scientific figure."
+    },
+    {
+      "area": "area-3",
+      "status": "selected",
+      "publicFile": "/images/research/squat-assessment-anonymized.png",
+      "source": "https://doi.org/10.21203/rs.3.rs-4097978/v1",
+      "sourcePdf": "https://assets-eu.researchsquare.com/files/rs-4097978/v1_covered_fc517128-3b0f-448c-8b72-3de0ab68f07e.pdf",
+      "figure": "Figure 1, page 4, embedded images 88 and 90",
+      "license": "CC BY 4.0, explicitly stated on preprint cover and Crossref metadata",
+      "connection": "Preprint cover links final publication 10.1038/s41598-024-79707-2. SMART Institute affiliation and corresponding university email match Professor You; final byline confirms Joshua H. You.",
+      "edits": "Built-in image editor: side-by-side composition, opaque face masks, 4:3 reframing and touch-up. Not represented as the unchanged published figure or used for measurements."
     }
   ]
 }

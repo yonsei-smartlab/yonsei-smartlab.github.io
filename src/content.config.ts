@@ -12,6 +12,7 @@ const research = defineCollection({
     imageAlt: z.string().optional(),
     imageCaption: z.string().optional(),
     imageCredit: z.string().optional(),
+    imageEdits: z.string().optional(),
     imageSource: z.string().url().optional(),
     imageLicense: z.string().optional(),
     imageLicenseUrl: z.string().url().optional(),

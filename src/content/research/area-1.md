@@ -2,13 +2,12 @@
 title: "Neuromodulation"
 summary: "Investigating brain activity, neuroplasticity, and motor recovery through brain stimulation and movement training."
 order: 1
-image: "/images/research/brain-eeg-oh-2023.png"
-imageAlt: "EEG topographic maps comparing young and older adults during individual intervention modalities"
-imageCaption: "EEG brain mapping during multimodal rehabilitation research"
-imageCredit: "Oh et al. (2023), Figure 3, first image"
-imageSource: "https://doi.org/10.3390/jcm12154895"
-imageLicense: "CC BY 4.0"
-imageLicenseUrl: "https://creativecommons.org/licenses/by/4.0/"
+image: "/images/research/eeg-recording-anonymized.png"
+imageAlt: "Face-masked participant wearing a wireless EEG cap during robot-assisted walking"
+imageCaption: "Wireless EEG recording during gait research"
+imageCredit: "Shin and You study presentation (2019), adapted photo"
+imageSource: "https://doi.org/10.3233/NRE-210304"
+imageEdits: "AI-assisted crop and touch-up; face obscured."
 placeholder: true
 ---
 
