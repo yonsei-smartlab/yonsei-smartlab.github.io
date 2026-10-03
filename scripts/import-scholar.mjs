@@ -1,6 +1,7 @@
 // Import a complete, public Scholar profile snapshot collected through the browser.
 // No credentials, abstracts, metrics, paid scraping service, or live-site requests.
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
+import { isPublicationNotice } from '../src/lib/publication-policy.ts';
 
 const input = process.argv[2];
 if (!input) throw new Error('Usage: node scripts/import-scholar.mjs path/to/scholar-publications.json');
@@ -75,9 +76,10 @@ for (const entry of entries) {
 }
 await writeFile('src/data/publication-import.json', JSON.stringify({
   profile: snapshot.profile, importedOn: snapshot.importedOn, count: entries.length,
-  publishedCount: entries.filter(entry => !entry.reviewRequired).length,
+  publishedCount: entries.filter(entry => !entry.reviewRequired && !isPublicationNotice(entry.title, entry.scholarId)).length,
+  excludedNotices: entries.filter(entry => isPublicationNotice(entry.title, entry.scholarId)).map(entry => ({ id: entry.scholarId, title: entry.title })),
   heldForReview: entries.filter(entry => entry.reviewRequired).map(entry => ({ id: entry.scholarId, title: entry.title, note: entry.metadataNote })),
   profileFullyLoaded: true, expandedRecords: snapshot.records.filter(record => record.detail).length,
   authorshipReviewCount: authorshipReview.size, areaTagging: 'Conservative title keywords; untagged records remain unclassified.'
 }, null, 2) + '\n');
-console.log(`Imported ${entries.length} Scholar records; ${entries.filter(entry => !entry.reviewRequired).length} ready for display; ${entries.filter(entry => entry.reviewRequired).length} held for review.`);
+console.log(`Imported ${entries.length} Scholar records; ${entries.filter(entry => !entry.reviewRequired && !isPublicationNotice(entry.title, entry.scholarId)).length} ready for display; ${entries.filter(entry => entry.reviewRequired).length} held for review.`);

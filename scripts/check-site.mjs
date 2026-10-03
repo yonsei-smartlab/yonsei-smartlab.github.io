@@ -3,10 +3,11 @@ import { existsSync } from 'node:fs';
 import { resolve, join, relative } from 'node:path';
 import { getResearchRecords, normalizedRecordTitle } from '../src/lib/research-records.ts';
 import { getNewsStories } from '../src/lib/news-stories.ts';
+import { isPublicationNotice } from '../src/lib/publication-policy.ts';
 
 const root = resolve('dist');
 const expectedNav = ['Home', 'Professor', 'Members', 'Research', 'Publications', 'Grants & IP', 'News', 'Contact'];
-const expectedCenterNav = ['Home', 'About', 'Rehabilitation Robotics', 'Research & Education', 'Contact'];
+const expectedCenterNav = ['Home', 'About', 'Rehabilitation Robotics', 'Research & Education', 'News', 'Contact'];
 const issues = [];
 async function htmlFiles(dir) {
   const files = [];
@@ -142,6 +143,16 @@ for (const route of ['research/index.html', 'training/index.html', 'research/aff
 }
 const importSummary = JSON.parse(await readFile('src/data/publication-import.json', 'utf8'));
 if ([...publicationHtml.matchAll(/data-publication(?:=|\s|>)/g)].length !== importSummary.publishedCount) issues.push('Rendered publication count differs from the reviewed Scholar snapshot');
+const publicationItems = [...publicationHtml.matchAll(/<li\b[^>]*data-publication(?:=|\s|>)[\s\S]*?<\/li>/g)].map(match => match[0]);
+for (const item of publicationItems) {
+  const heading = item.match(/<h3\b[^>]*>([\s\S]*?)<\/h3>/)?.[1] ?? '';
+  const title = decodeText(heading.replace(/<[^>]+>/g, ''));
+  if (isPublicationNotice(title) || importSummary.excludedNotices?.some(notice => notice.title === title)) issues.push(`Publication notice is publicly displayed: ${title}`);
+  const titleUrl = heading.match(/href="([^"]+)"/)?.[1];
+  const doiUrl = item.match(/<a href="([^"]+)">DOI<\/a>/)?.[1];
+  if (titleUrl && !titleUrl.startsWith('https://doi.org/')) issues.push(`Publication title does not link to a DOI: ${title}`);
+  if (doiUrl && titleUrl !== doiUrl) issues.push(`Publication title does not use its DOI: ${title}`);
+}
 const newsHtml = await readFile(join(root, 'news/index.html'), 'utf8');
 const newsAudit = JSON.parse(await readFile('src/data/news-import.json', 'utf8'));
 const newsFiles = (await readdir('src/content/news')).filter(file => file.endsWith('.md'));
@@ -158,11 +169,21 @@ const newsStories = getNewsStories(newsFiles.map((file, index) => ({ id: file.re
 if ([...newsHtml.matchAll(/data-news(?:=|\s|>)/g)].length !== newsStories.length || newsRecords.length !== newsAudit.publishedCount) issues.push('Rendered news count differs from the grouped archive');
 const renderedReportIds = [...newsHtml.matchAll(/data-news-report="([^"]+)"/g)].map(match => match[1]);
 if (JSON.stringify([...renderedReportIds].sort()) !== JSON.stringify(newsFiles.map(file => file.replace(/\.md$/, '')).sort())) issues.push('News grouping omitted or repeated original reports');
+const centerNewsHtml = await readFile(join(root, 'goodwellness/news/index.html'), 'utf8');
+const centerNewsStories = getNewsStories(newsFiles.map((file, index) => ({ id: file.replace(/\.md$/, ''), data: newsRecords[index] })), { goodwellnessOnly: true });
+const expectedCenterIds = newsFiles.filter((_file, index) => newsRecords[index].goodwellness).map(file => file.replace(/\.md$/, '')).sort();
+const centerReportIds = [...centerNewsHtml.matchAll(/data-news-report="([^"]+)"/g)].map(match => match[1]).sort();
+if (!expectedCenterIds.length || JSON.stringify(centerReportIds) !== JSON.stringify(expectedCenterIds)) issues.push('Center News must contain all and only reviewed GOODWELLNESS reports');
+if ([...centerNewsHtml.matchAll(/data-news(?:=|\s|>)/g)].length !== centerNewsStories.length) issues.push('Center news story count does not reconcile');
+for (const report of newsAudit.publishedReports) {
+  const index = newsFiles.indexOf(report.file.split('/').at(-1));
+  if (!!report.goodwellness !== !!newsRecords[index]?.goodwellness) issues.push(`${report.file}: center classification does not match review record`);
+}
 const newsUrls = newsRecords.map(record => record.url);
 if (new Set(newsUrls).size !== newsUrls.length) issues.push('Duplicate original report in News archive');
 const newsDates = [...newsHtml.matchAll(/data-story-date="(\d{4}-\d{2}-\d{2})"/g)].map(match => match[1]);
 if (newsDates.some((date, index) => index > 0 && date > newsDates[index - 1])) issues.push('News archive is not newest first');
-for (const route of ['professor/index.html', 'publications/index.html', 'news/index.html', 'grants-ip/index.html']) {
+for (const route of ['professor/index.html', 'publications/index.html', 'news/index.html', 'goodwellness/news/index.html', 'grants-ip/index.html']) {
   const html = await readFile(join(root, route), 'utf8');
   if (/\[(?:Add|Insert|Year|Title|Short|Professor|PI)\b/.test(html)) issues.push(`${route}: unfinished text in a completed section`);
 }

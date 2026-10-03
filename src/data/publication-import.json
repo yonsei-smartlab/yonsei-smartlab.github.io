@@ -2,7 +2,7 @@
   "profile": "https://scholar.google.com/citations?user=C-fe4ZMAAAAJ&hl=en",
   "importedOn": "2026-10-03",
   "count": 217,
-  "publishedCount": 213,
+  "publishedCount": 206,
   "heldForReview": [
     {
       "id": "VL0QpB8kHFEC",
@@ -28,5 +28,38 @@
   "profileFullyLoaded": true,
   "expandedRecords": 58,
   "authorshipReviewCount": 3,
-  "areaTagging": "Conservative title keywords; untagged records remain unclassified."
+  "areaTagging": "Conservative title keywords; untagged records remain unclassified.",
+  "excludedNotices": [
+    {
+      "id": "dTyEYWd-f8wC",
+      "title": "Erratum to: Multiple relationships between cognition-motor impairment and activity-based clinical outcome measures in 218 hemiplegic stroke patients."
+    },
+    {
+      "id": "maZDTaKrznsC",
+      "title": "Response to Letter by Hotermans et al"
+    },
+    {
+      "id": "738O_yMBCRsC",
+      "title": "Correction to “Effects of Innovative WALKBOT Robotic-Assisted Locomotor Training on Balance and Gait Recovery in Hemiparetic Stroke: A Prospective, Randomized, Experimenter Blinded Case Control Study With a Four-Week Follow-Up”[Jul 15 636-642]"
+    },
+    {
+      "id": "tuHXwOkdijsC",
+      "title": "CORRIGENDUM—NOVEL THERAPEUTIC EFFECTS OF MIRACLE SMART SHOES ON DYNAMIC GAIT PERFORMANCE AND ANKLE JOINT KINEMATICS DURING GAIT IN CEREBRAL PALSY: A PRELIMINARY INVESTIGATION"
+    },
+    {
+      "id": "gsN89kCJA0AC",
+      "title": "Long-term treadmill exercise-induced neuroplasticity and associated memory recovery of streptozotocin-induced diabetic rats: An experimenter-blind, randomized controlled study (vol 24, pg 291, 2009)",
+      "note": "Correction notice indexed under the original article title."
+    },
+    {
+      "id": "W5xh706n7nkC",
+      "title": "Multiple relationships between cognition-motor impairment and activity-based clinical outcome measures in 218 hemiplegic stroke patients (vol 49, pg 553, 2021)",
+      "note": "Correction notice indexed under the original article title."
+    },
+    {
+      "id": "MLfJN-KU85MC",
+      "title": "NOVEL THERAPEUTIC EFFECTS OF MIRACLE SMART SHOES ON DYNAMIC GAIT PERFORMANCE AND ANKLE JOINT KINEMATICS DURING GAIT IN CEREBRAL PALSY: A PRELIMINARY INVESTIGATION (vol 25, 2540090, 2025)",
+      "note": "Correction notice indexed under the original article title."
+    }
+  ]
 }

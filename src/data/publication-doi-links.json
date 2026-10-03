@@ -1,0 +1,3221 @@
+{
+  "checkedOn": "2026-10-03",
+  "source": "Crossref publisher-deposited metadata; title, venue, author surname and publication date matched.",
+  "records": [
+    {
+      "scholarId": "-_dYPAW6P2MC",
+      "sourceTitle": "Clinical machine learning predicting best stroke rehabilitation responders to exoskeletal robotic gait rehabilitation",
+      "doi": "10.3233/nre-240070",
+      "registeredTitle": "Clinical machine learning predicting best stroke rehabilitation responders to exoskeletal robotic gait rehabilitation",
+      "registeredYears": [
+        2024,
+        2024,
+        2024
+      ],
+      "registeredAuthors": [
+        "Park",
+        "Choi",
+        "Kim",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-240070"
+    },
+    {
+      "scholarId": "0KyAp5RtaNEC",
+      "sourceTitle": "Identifying optimal candidates and interventions in physical therapy and exoskeletal and end-effector robot-assisted gait training for balance, gait, and cognition: A longitudinal study of 190 patients with stroke",
+      "doi": "10.1177/10538135241289770",
+      "registeredTitle": "Identifying optimal candidates and interventions in physical therapy and exoskeletal and end-effector robot-assisted gait training for balance, gait, and cognition: A longitudinal study of 190 patients with stroke",
+      "registeredYears": [
+        2024,
+        2024,
+        2024,
+        2024
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "Kim",
+        "Park",
+        "Shin",
+        "Park",
+        "Choi",
+        "Kim",
+        "Park",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1177%2F10538135241289770"
+    },
+    {
+      "scholarId": "1qzjygNMrQYC",
+      "sourceTitle": "Comparison of isometric cervical flexor and isometric cervical extensor system exercises on patients with neuromuscular imbalance and cervical crossed syndrome associated forward head posture",
+      "doi": "10.3233/bme-181728",
+      "registeredTitle": "Comparison of isometric cervical flexor and isometric cervical extensor system exercises on patients with neuromuscular imbalance and cervical crossed syndrome associated forward head posture",
+      "registeredYears": [
+        2018,
+        2018,
+        2018
+      ],
+      "registeredAuthors": [
+        "Lee",
+        "Kim",
+        "Yu",
+        "Cho",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fbme-181728"
+    },
+    {
+      "scholarId": "1sJd4Hv_s6UC",
+      "sourceTitle": "Concurrent validity, test-retest reliability, and sensitivity of a PostureRite system measurement on dynamic postural sway and risk of fall in cerebral palsy",
+      "doi": "10.3233/nre-210331",
+      "registeredTitle": "Concurrent validity, test-retest reliability, and sensitivity of a PostureRite system measurement on dynamic postural sway and risk of fall in cerebral palsy",
+      "registeredYears": [
+        2022,
+        2022,
+        2022
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "Park",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-210331"
+    },
+    {
+      "scholarId": "2KloaMYe4IUC",
+      "sourceTitle": "The first Korean surgical study on the feasibility of urologic and general surgery procedures with the Novel Hugo™ robotic-assisted surgery system",
+      "doi": "10.1016/j.hpb.2024.03.991",
+      "registeredTitle": "The first Korean surgical study on the feasibility of urologic and general surgery procedures with the Novel Hugo™ robotic-assisted surgery system",
+      "registeredYears": [
+        2024,
+        2024,
+        2024
+      ],
+      "registeredAuthors": [
+        "Kwon",
+        "Jeong",
+        "Han",
+        "Lee",
+        "Cho",
+        "Jung",
+        "Yun",
+        "Chae",
+        "Woods",
+        "Anselme",
+        "Lee",
+        "Kim",
+        "Kwon",
+        "Jeon",
+        "You",
+        "Jang"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.hpb.2024.03.991"
+    },
+    {
+      "scholarId": "2P1L_qKh6hAC",
+      "sourceTitle": "Longitudinal fMRI study for locomotor recovery in patients with stroke",
+      "doi": "10.1212/01.wnl.0000225178.85833.0d",
+      "registeredTitle": "Longitudinal fMRI study for locomotor recovery in patients with stroke",
+      "registeredYears": [
+        2006,
+        2006,
+        2006
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "You",
+        "Kwon",
+        "Hallett",
+        "Kim",
+        "Jang"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1212%2F01.wnl.0000225178.85833.0d"
+    },
+    {
+      "scholarId": "2osOgNQ5qMEC",
+      "sourceTitle": "Comparison between the robo-horse and real horse movements for hippotherapy",
+      "doi": "10.3233/bme-141076",
+      "registeredTitle": "Comparison between the robo-horse and real horse movements for hippotherapy",
+      "registeredYears": [
+        2014,
+        2014,
+        2014,
+        2014
+      ],
+      "registeredAuthors": [
+        "Park",
+        "Shurtleff",
+        "Engsberg",
+        "Rafferty",
+        "You",
+        "You",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fbme-141076"
+    },
+    {
+      "scholarId": "35N4QoGY0k4C",
+      "sourceTitle": "A novel EEG-based brain mapping to determine cortical activation patterns in normal children and children with cerebral palsy during motor imagery tasks",
+      "doi": "10.3233/nre-2012-00803",
+      "registeredTitle": "A novel EEG-based brain mapping to determine cortical activation patterns in normal children and children with cerebral palsy during motor imagery tasks",
+      "registeredYears": [
+        2012,
+        2012,
+        2012
+      ],
+      "registeredAuthors": [
+        "Shin",
+        "Lee",
+        "Hwang",
+        "You",
+        "Im"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-2012-00803"
+    },
+    {
+      "scholarId": "35r97b3x0nAC",
+      "sourceTitle": "Ecologically dynamic flywheel ergometer squat performance characteristics between national Olympic athletes with and without patellar tendinopathy",
+      "doi": "10.3233/ies-230176",
+      "registeredTitle": "Ecologically dynamic flywheel ergometer squat performance characteristics between national Olympic athletes with and without patellar tendinopathy",
+      "registeredYears": [
+        2024,
+        2024,
+        2024,
+        2024
+      ],
+      "registeredAuthors": [
+        "Choi",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fies-230176"
+    },
+    {
+      "scholarId": "3fE2CSJIrl8C",
+      "sourceTitle": "Cortical reorganization associated lower extremity motor recovery as evidenced by functional MRI and diffusion tensor tractography in a stroke patient",
+      "doi": "10.3233/rnn-2005-00318",
+      "registeredTitle": "Cortical reorganization associated lower extremity motor recovery \t\t\t as evidenced by functional MRI and diffusion tensor tractography in a stroke \t\t\t patient",
+      "registeredYears": [
+        2005,
+        2005,
+        2005,
+        2005
+      ],
+      "registeredAuthors": [
+        "Jang",
+        "You",
+        "Kwon",
+        "Hallett",
+        "Lee",
+        "Ahn"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Frnn-2005-00318"
+    },
+    {
+      "scholarId": "3s1wT3WcHBgC",
+      "sourceTitle": "Innovative strength training-induced neuroplasticity and increased muscle size and strength in children with spastic cerebral palsy: an experimenter-blind case study–three-month follow-up",
+      "doi": "10.3233/nre-131036",
+      "registeredTitle": "Innovative strength training-induced neuroplasticity and increased muscle size and strength in children with spastic cerebral palsy: An experimenter-blind case study – three-month follow-up",
+      "registeredYears": [
+        2014,
+        2014,
+        2014,
+        2014
+      ],
+      "registeredAuthors": [
+        "Lee",
+        "Kim",
+        "Kim",
+        "Lee",
+        "Hwang",
+        "Lee",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-131036"
+    },
+    {
+      "scholarId": "4DMP91E08xMC",
+      "sourceTitle": "Innovative robotic hippotherapy improves postural muscle size and postural stability during the quiet stance and gait initiation in a child with cerebral palsy: A single case study",
+      "doi": "10.3233/nre-172290",
+      "registeredTitle": "Innovative robotic hippotherapy improves postural muscle size and postural stability during the quiet stance and gait initiation in a child with cerebral palsy: A single case study",
+      "registeredYears": [
+        2018,
+        2018,
+        2018,
+        2018
+      ],
+      "registeredAuthors": [
+        "Park",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-172290"
+    },
+    {
+      "scholarId": "4JMBOYKVnBMC",
+      "sourceTitle": "Comparative effects of passive and active mode robot-assisted gait training on brain and muscular activities in sub-acute and chronic stroke",
+      "doi": "10.3233/nre-210304",
+      "registeredTitle": "Comparative effects of passive and active mode robot-assisted gait training on brain and muscular activities in sub-acute and chronic stroke",
+      "registeredYears": [
+        2022,
+        2022,
+        2022,
+        2022
+      ],
+      "registeredAuthors": [
+        "Shin",
+        "An",
+        "Yang",
+        "Park",
+        "Lee",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-210304"
+    },
+    {
+      "scholarId": "4OULZ7Gr8RgC",
+      "sourceTitle": "Core stabilization with the lumbar extension exercise in low back pain",
+      "doi": "10.12674/ptk.2018.25.4.027",
+      "registeredTitle": "Core Stabilization With the Lumbar Extension Exercise in Low Back Pain",
+      "registeredYears": [
+        2018,
+        2018,
+        2018
+      ],
+      "registeredAuthors": [
+        "Noh",
+        "Cha",
+        "Kim",
+        "Joshua",
+        "Sung",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.12674%2Fptk.2018.25.4.027"
+    },
+    {
+      "scholarId": "4fKUyHm3Qg0C",
+      "sourceTitle": "Use of virtual reality to enhance balance and ambulation in chronic stroke: a double-blind, randomized controlled study",
+      "doi": "10.1097/phm.0b013e3181b33350",
+      "registeredTitle": "Use of Virtual Reality to Enhance Balance and Ambulation in Chronic Stroke: A Double-Blind, Randomized Controlled Study",
+      "registeredYears": [
+        2009,
+        2009,
+        2009
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "Jang",
+        "Kim",
+        "Jung",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1097%2Fphm.0b013e3181b33350"
+    },
+    {
+      "scholarId": "5Ul4iDaHHb8C",
+      "sourceTitle": "Validity and reliability of ultrasound measurement of knee joint space width in individuals with knee osteoarthritis",
+      "doi": "10.12674/ptk.2019.26.1.060",
+      "registeredTitle": "Validity and Reliability of Ultrasound Measurement of Knee Joint Space Width in Individuals With Knee Osteoarthritis",
+      "registeredYears": [
+        2019,
+        2019,
+        2019
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "Cha",
+        "Shin",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.12674%2Fptk.2019.26.1.060"
+    },
+    {
+      "scholarId": "5awf1xo2G04C",
+      "sourceTitle": "Abnormal Synergistic Gait Mitigation after Acute Stroke Using an Innovative Ankle-Knee-Hip Interlimb Humanoid Robot: A Randomized Controlled Trial",
+      "doi": "10.21203/rs.3.rs-422178/v1",
+      "registeredTitle": "Abnormal Synergistic Gait Mitigation after Acute Stroke Using an Innovative Ankle-Knee-Hip Interlimb Humanoid Robot: A Randomized Controlled Trial",
+      "registeredYears": [
+        2021,
+        2021
+      ],
+      "registeredAuthors": [
+        "Park",
+        "Oh-Park",
+        "Bialek",
+        "Friel",
+        "Edwards",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.21203%2Frs.3.rs-422178%2Fv1",
+      "verificationNote": "Reviewed exact title, authors and year; registered preprint/proceedings or source record without venue metadata."
+    },
+    {
+      "scholarId": "5nxA0vEk-isC",
+      "sourceTitle": "Effects of the progressive walking-to-running technique on gait kinematics, ultrasound imaging, and motor function in spastic diplegic cerebral palsy–an experimenter-blind case study",
+      "doi": "10.3233/nre-130819",
+      "registeredTitle": "Effects of the progressive walking-to-running technique on gait kinematics, ultrasound imaging, and motor function in spastic diplegic cerebral palsy – an experimenter-blind case study",
+      "registeredYears": [
+        2013,
+        2013,
+        2013,
+        2013
+      ],
+      "registeredAuthors": [
+        "Lee",
+        "Jeong",
+        "You",
+        "Cho",
+        "Lee"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-130819"
+    },
+    {
+      "scholarId": "70eg2SAEIzsC",
+      "sourceTitle": "Diaphragm breathing movement measurement using ultrasound and radiographic imaging: a concurrent validity",
+      "doi": "10.3233/bme-130889",
+      "registeredTitle": "Diaphragm Breathing Movement Measurement using Ultrasound and Radiographic Imaging: A Concurrent Validity",
+      "registeredYears": [
+        2014,
+        2014,
+        2014,
+        2014
+      ],
+      "registeredAuthors": [
+        "Noh",
+        "Lee",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fbme-130889"
+    },
+    {
+      "scholarId": "7T2F9Uy0os0C",
+      "sourceTitle": "Arm-Trunk-Leg Coordinated Humanoid Exoskeletal Robot to Facilitate the Interactive Modulation of the Cervical and Lumbar Central Pattern Generators",
+      "doi": "10.1016/j.apmr.2024.02.626",
+      "registeredTitle": "Arm-Trunk-Leg Coordinated Humanoid Exoskeletal Robot to Facilitate the Interactive Modulation of the Cervical and Lumbar Central Pattern Generators",
+      "registeredYears": [
+        2024,
+        2024,
+        2024
+      ],
+      "registeredAuthors": [
+        "Seonmi",
+        "You",
+        "Oh"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.apmr.2024.02.626"
+    },
+    {
+      "scholarId": "8AbLer7MMksC",
+      "sourceTitle": "Long-term treadmill exercise-induced neuroplasticity and associated memory recovery of streptozotocin-induced diabetic rats: an experimenter blind, randomized controlled study",
+      "doi": "10.3233/nre-2009-0481",
+      "registeredTitle": "Long-term treadmill exercise-induced neuroplasticity and associated memory recovery of streptozotocin-induced diabetic rats: An experimenter blind, randomized controlled study",
+      "registeredYears": [
+        2009,
+        2009,
+        2009,
+        2009
+      ],
+      "registeredAuthors": [
+        "Yoon",
+        "Kim",
+        "Byun",
+        "Ha",
+        "Han",
+        "You",
+        "Kim"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-2009-0481"
+    },
+    {
+      "scholarId": "8k81kl-MbHgC",
+      "sourceTitle": "A Longitudinal Single-blind Randomized Controlled Study of UGCS with the LE Exercise in LBP",
+      "doi": "10.1016/j.apmr.2017.08.080",
+      "registeredTitle": "A Longitudinal Single-blind Randomized Controlled Study of UGCS with the LE Exercise in LBP",
+      "registeredYears": [
+        2017,
+        2017,
+        2017
+      ],
+      "registeredAuthors": [
+        "Cha",
+        "Noh",
+        "Kim",
+        "You",
+        "Jung"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.apmr.2017.08.080"
+    },
+    {
+      "scholarId": "9ZlFYXVOiuMC",
+      "sourceTitle": "Comparative effectiveness of robot-interactive gait training with and without ankle robotic control in patients with brain damage",
+      "doi": "10.1142/s0219519421400352",
+      "registeredTitle": "COMPARATIVE EFFECTIVENESS OF ROBOT-INTERACTIVE GAIT TRAINING WITH AND WITHOUT ANKLE ROBOTIC CONTROL IN PATIENTS WITH BRAIN DAMAGE",
+      "registeredYears": [
+        2021,
+        2021,
+        2021,
+        2021
+      ],
+      "registeredAuthors": [
+        "PARK",
+        "HWANG",
+        "YOU"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1142%2Fs0219519421400352"
+    },
+    {
+      "scholarId": "9yKSN-GCB0IC",
+      "sourceTitle": "Effects of novel corrective spinal technique on adolescent idiopathic scoliosis as assessed by radiographic imaging",
+      "doi": "10.3233/bmr-130452",
+      "registeredTitle": "Effects of novel corrective spinal technique on adolescent idiopathic scoliosis as assessed by radiographic imaging",
+      "registeredYears": [
+        2014,
+        2014,
+        2014
+      ],
+      "registeredAuthors": [
+        "Noh",
+        "You",
+        "Koh",
+        "Kim",
+        "Kim",
+        "Ko",
+        "Shin"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fbmr-130452"
+    },
+    {
+      "scholarId": "AXPGKjj_ei8C",
+      "sourceTitle": "Cortical or subcortical neural networks during dynamic neuromuscular core stabilization: A fMRI blood oxygen-level dependent (BOLD) analysis",
+      "doi": "10.1166/jmihi.2016.1880",
+      "registeredTitle": "Cortical or Subcortical Neural Networks During Dynamic Neuromuscular Core Stabilization: A fMRI Blood Oxygen-Level Dependent (BOLD) Analysis",
+      "registeredYears": [
+        2016,
+        2016,
+        2016
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "Lee",
+        "Han",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1166%2Fjmihi.2016.1880"
+    },
+    {
+      "scholarId": "AvfA0Oy_GE0C",
+      "sourceTitle": "Increase in neutrophils after recombinant tissue plasminogen activator thrombolysis predicts poor functional outcome of ischaemic stroke: a longitudinal study",
+      "doi": "10.1111/ene.13575",
+      "registeredTitle": "Increase in neutrophils after recombinant tissue plasminogen activator thrombolysis predicts poor functional outcome of ischaemic stroke: a longitudinal study",
+      "registeredYears": [
+        2018,
+        2018,
+        2018,
+        2018
+      ],
+      "registeredAuthors": [
+        "Shi",
+        "Peng",
+        "You",
+        "Liu",
+        "Xu",
+        "Xu",
+        "Liu",
+        "Shi",
+        "Cao",
+        "Liu"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1111%2Fene.13575"
+    },
+    {
+      "scholarId": "BrmTIyaxlBUC",
+      "sourceTitle": "Effects of dynamic neuromuscular stabilization on diaphragm movement, postural control, balance and gait performance in cerebral palsy",
+      "doi": "10.3233/nre-172155",
+      "registeredTitle": "Effects of dynamic neuromuscular stabilization on diaphragm movement, postural control, balance and gait performance in cerebral palsy",
+      "registeredYears": [
+        2017,
+        2017,
+        2017
+      ],
+      "registeredAuthors": [
+        "Son",
+        "Jung",
+        "You",
+        "Yi",
+        "Jeon",
+        "Cha"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-172155"
+    },
+    {
+      "scholarId": "D_sINldO8mEC",
+      "sourceTitle": "The validity and reliability of a dynamic neuromuscular stabilization-heel sliding test for core stability",
+      "doi": "10.3233/thc-170929",
+      "registeredTitle": "The validity and reliability of a dynamic neuromuscular stabilization-heel sliding test for core stability",
+      "registeredYears": [
+        2017,
+        2017,
+        2017
+      ],
+      "registeredAuthors": [
+        "Cha",
+        "Lee",
+        "Kim",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fthc-170929"
+    },
+    {
+      "scholarId": "EYYDruWGBe4C",
+      "sourceTitle": "NOVEL THERAPEUTIC EFFECTS OF MIRACLE SMART SHOES ON DYNAMIC GAIT PERFORMANCE AND ANKLE JOINT KINEMATICS DURING GAIT IN CEREBRAL PALSY: A PRELIMINARY INVESTIGATION",
+      "doi": "10.1142/s0219519425400901",
+      "registeredTitle": "NOVEL THERAPEUTIC EFFECTS OF MIRACLE SMART SHOES ON DYNAMIC GAIT PERFORMANCE AND ANKLE JOINT KINEMATICS DURING GAIT IN CEREBRAL PALSY: A PRELIMINARY INVESTIGATION",
+      "registeredYears": [
+        2025,
+        2025,
+        2025,
+        2025
+      ],
+      "registeredAuthors": [
+        "NA",
+        "CHUNG",
+        "KIM",
+        "PARK",
+        "KO",
+        "SONG",
+        "PARK",
+        "CHOI",
+        "KIM",
+        "KOH",
+        "KOO",
+        "YOU"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1142%2Fs0219519425400901"
+    },
+    {
+      "scholarId": "EkHepimYqZsC",
+      "sourceTitle": "SURVEY ON SOCIALLY INTEGRATED WEARABLE GAIT ROBOTS IN 192 CHILDREN AND ADULTS WITH GAIT DYSFUNCTION: A NEW ROBOT STRATEGY AND DESIGN",
+      "doi": "10.1142/s021951942540007x",
+      "registeredTitle": "SURVEY ON SOCIALLY INTEGRATED WEARABLE GAIT ROBOTS IN 192 CHILDREN AND ADULTS WITH GAIT DYSFUNCTION: A NEW ROBOT STRATEGY AND DESIGN",
+      "registeredYears": [
+        2025,
+        2025,
+        2025,
+        2025
+      ],
+      "registeredAuthors": [
+        "NA",
+        "SHIN",
+        "KIM",
+        "PARK",
+        "LEE",
+        "PARK",
+        "LEE",
+        "CHOI",
+        "KIM",
+        "YOU"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1142%2Fs021951942540007x"
+    },
+    {
+      "scholarId": "Fu2w8maKXqMC",
+      "sourceTitle": "Effects of integrative autism therapy on multiple physical, sensory, cognitive, and social integration domains in children and adolescents with autism spectrum disorder: a 4-week follow-up Study",
+      "doi": "10.3390/children9121971",
+      "registeredTitle": "Effects of Integrative Autism Therapy on Multiple Physical, Sensory, Cognitive, and Social Integration Domains in Children and Adolescents with Autism Spectrum Disorder: A 4-Week Follow-Up Study",
+      "registeredYears": [
+        2022,
+        2022,
+        2022
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "Kim",
+        "Park",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3390%2Fchildren9121971"
+    },
+    {
+      "scholarId": "GnPB-g6toBAC",
+      "sourceTitle": "Locomotor imagery training improves gait performance in people with chronic hemiparetic stroke: a controlled clinical trial",
+      "doi": "10.1177/0269215509360640",
+      "registeredTitle": "Locomotor imagery training improves gait performance in people with chronic hemiparetic stroke: a controlled clinical trial",
+      "registeredYears": [
+        2010,
+        2010,
+        2010,
+        2010
+      ],
+      "registeredAuthors": [
+        "Hwang",
+        "Jeon",
+        "Yi",
+        "Kwon",
+        "Cho",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1177%2F0269215509360640"
+    },
+    {
+      "scholarId": "HDshCWvjkbEC",
+      "sourceTitle": "Feasibility and test-retest reliability of an electroencephalography-based brain mapping system in children with cerebral palsy: a preliminary investigation",
+      "doi": "10.1016/j.apmr.2011.10.028",
+      "registeredTitle": "Feasibility and Test-Retest Reliability of an Electroencephalography-Based Brain Mapping System in Children With Cerebral Palsy: A Preliminary Investigation",
+      "registeredYears": [
+        2012,
+        2012,
+        2012
+      ],
+      "registeredAuthors": [
+        "Lee",
+        "Kang",
+        "Lee",
+        "Hwang",
+        "Jung",
+        "You",
+        "Im",
+        "Kim",
+        "Lee",
+        "Kim"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.apmr.2011.10.028"
+    },
+    {
+      "scholarId": "HE397vMXCloC",
+      "sourceTitle": "Poster 59: Strength Training-Induced Changes in Muscle Size and Motor Improvement in Bilateral Schizencephaly: Experimenter-Blind Case Report 3-Month Follow-Up",
+      "doi": "10.1016/j.apmr.2008.08.086",
+      "registeredTitle": "Poster 59: Strength Training-Induced Changes in Muscle Size and Motor Improvement in Bilateral Schizencephaly: Experimenter-Blind Case Report 3-Month Follow-Up",
+      "registeredYears": [
+        2008,
+        2008,
+        2008
+      ],
+      "registeredAuthors": [
+        "Leeab",
+        "You",
+        "Lee",
+        "Ohc",
+        "Chaa"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.apmr.2008.08.086"
+    },
+    {
+      "scholarId": "HoB7MX3m0LUC",
+      "sourceTitle": "Effect of rehabilitation on the somatosensory evoked potentials and gait performance of hemiparetic stroke patients",
+      "doi": "10.3233/thc-174432",
+      "registeredTitle": "Effect of rehabilitation on the somatosensory evoked potentials and gait performance of hemiparetic stroke patients",
+      "registeredYears": [
+        2018,
+        2018,
+        2018,
+        2018
+      ],
+      "registeredAuthors": [
+        "Yoon",
+        "Cha",
+        "Sohn",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fthc-174432"
+    },
+    {
+      "scholarId": "IjCSPb-OGe4C",
+      "sourceTitle": "Cocontraction of ankle dorsiflexors and transversus abdominis function in patients with low back pain",
+      "doi": "10.4085/1062-6050-47.4.12",
+      "registeredTitle": "Cocontraction of Ankle Dorsiflexors and Transversus Abdominis Function in Patients With Low Back Pain",
+      "registeredYears": [
+        2012,
+        2012,
+        2012
+      ],
+      "registeredAuthors": [
+        "Chon",
+        "You",
+        "Saliba"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.4085%2F1062-6050-47.4.12"
+    },
+    {
+      "scholarId": "J-pR_7NvFogC",
+      "sourceTitle": "P2-08-12: Additional Lesion Found in Preoperative Breast MRI; Is Routine Use Justified?",
+      "doi": "10.1158/0008-5472.sabcs11-p2-08-12",
+      "registeredTitle": "P2-08-12: Additional Lesion Found in Preoperative Breast MRI; Is Routine Use Justified?",
+      "registeredYears": [
+        2011,
+        2011,
+        2011
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "You",
+        "Shin",
+        "Ahn",
+        "Moon",
+        "Cho",
+        "Moon",
+        "Han",
+        "Noh"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1158%2F0008-5472.sabcs11-p2-08-12"
+    },
+    {
+      "scholarId": "JQOojiI6XY0C",
+      "sourceTitle": "Restoration of the Broken Lumbopelvic-hip Neuromuscular Chain and Coordinated Synergistic Activation in Low Back Pain",
+      "doi": "10.12674/ptk.2022.29.3.215",
+      "registeredTitle": "Restoration of the Broken Lumbopelvic-hip Neuromuscular Chain and Coordinated Synergistic Activation in Low Back Pain",
+      "registeredYears": [
+        2022,
+        2022,
+        2022
+      ],
+      "registeredAuthors": [
+        "Park",
+        "Park",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.12674%2Fptk.2022.29.3.215"
+    },
+    {
+      "scholarId": "JV2RwH3_ST0C",
+      "sourceTitle": "The validity and reliability of the motor point detection system: a preliminary investigation of motor points of the triceps surae muscles",
+      "doi": "10.1016/j.apmr.2008.07.018",
+      "registeredTitle": "The Validity and Reliability of the Motor Point Detection System: A Preliminary Investigation of Motor Points of the Triceps Surae Muscles",
+      "registeredYears": [
+        2009,
+        2009,
+        2009
+      ],
+      "registeredAuthors": [
+        "Lee",
+        "You",
+        "Park",
+        "Myoung",
+        "Lee",
+        "Hwang",
+        "Kim",
+        "Kim",
+        "Lee"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.apmr.2008.07.018"
+    },
+    {
+      "scholarId": "JoZmwDi-zQgC",
+      "sourceTitle": "Relationships between body weight support and gait speed parameters and muscle activity and torque during robot-assisted gait training in non-neurological adults: a preliminary investigation",
+      "doi": "10.3390/app122211326",
+      "registeredTitle": "Relationships between Body Weight Support and Gait Speed Parameters and Muscle Activity and Torque during Robot-Assisted Gait Training in Non-Neurological Adults: A Preliminary Investigation",
+      "registeredYears": [
+        2022,
+        2022,
+        2022
+      ],
+      "registeredAuthors": [
+        "Park",
+        "Cha",
+        "Park",
+        "Ryu",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3390%2Fapp122211326"
+    },
+    {
+      "scholarId": "K3LRdlH-MEoC",
+      "sourceTitle": "Comparative effects of different manual techniques on electromyography activity, kinematics, and muscle force in limited ankle dorsiflexion syndrome",
+      "doi": "10.3233/bmr-200257",
+      "registeredTitle": "Comparative effects of different manual techniques on electromyography activity, kinematics, and muscle force in limited ankle dorsiflexion syndrome",
+      "registeredYears": [
+        2021,
+        2021,
+        2021
+      ],
+      "registeredAuthors": [
+        "Lee",
+        "Park",
+        "Cha",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fbmr-200257"
+    },
+    {
+      "scholarId": "KlAtU1dfN6UC",
+      "sourceTitle": "Peri-infarct reorganization of motor function in patients with pontine infarct",
+      "doi": "10.3233/nre-2006-21306",
+      "registeredTitle": "Peri-infarct reorganization of motor function in patients with pontine infarct",
+      "registeredYears": [
+        2006,
+        2006,
+        2006,
+        2006
+      ],
+      "registeredAuthors": [
+        "Ahn",
+        "You",
+        "Randolph",
+        "Kim",
+        "Ahn",
+        "Byun",
+        "Yang",
+        "Jang"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-2006-21306"
+    },
+    {
+      "scholarId": "KxtntwgDAa4C",
+      "sourceTitle": "Effects of an anger management virtual reality cognitive behavioral therapy program on EEG patterns among destructive and impulse-control disorder patients",
+      "doi": "10.1166/jmihi.2016.1920",
+      "registeredTitle": "Effects of an Anger Management Virtual Reality Cognitive Behavioral Therapy Program on EEG Patterns Among Destructive and Impulse-Control Disorder Patients",
+      "registeredYears": [
+        2016,
+        2016,
+        2016
+      ],
+      "registeredAuthors": [
+        "Ryu",
+        "Kim",
+        "Lee",
+        "Yeon",
+        "Lee",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1166%2Fjmihi.2016.1920"
+    },
+    {
+      "scholarId": "L7CI7m0gUJcC",
+      "sourceTitle": "VALIDITY AND TEST–RETEST RELIABILITY OF AN INDEPENDENT SELF-BALANCED, SOCIALLY INTEGRATED GAIT-ASSISTED ROBOTIC SYSTEM FOR HIP AND KNEE JOINT KINEMATICS IN REHABILITATION",
+      "doi": "10.1142/s0219519425401098",
+      "registeredTitle": "VALIDITY AND TEST–RETEST RELIABILITY OF AN INDEPENDENT SELF-BALANCED, SOCIALLY INTEGRATED GAIT-ASSISTED ROBOTIC SYSTEM FOR HIP AND KNEE JOINT KINEMATICS IN REHABILITATION",
+      "registeredYears": [
+        2025,
+        2025,
+        2025,
+        2025
+      ],
+      "registeredAuthors": [
+        "PARK",
+        "HAN",
+        "GA",
+        "SHIN",
+        "CHOI",
+        "KIM",
+        "PARK",
+        "KIM",
+        "YOON",
+        "YOU"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1142%2Fs0219519425401098"
+    },
+    {
+      "scholarId": "L8Ckcad2t8MC",
+      "sourceTitle": "Effects of artificial intelligence (AI) based Integrated Robotic-assisted Gait, Music, and Light Brain Fitness Training (BRAIN-FIT) on electroencephalography (EEG) brain mapping of frontal alpha asymmetry (FA) and associated psychological behaviors in anxiety and depression",
+      "doi": "10.1016/j.ibror.2019.07.892",
+      "registeredTitle": "Effects of artificial intelligence (AI) based Integrated Robotic-assisted Gait, Music, and Light Brain Fitness Training (BRAIN-FIT) on electroencephalography (EEG) brain mapping of frontal alpha asymmetry (FA) and associated psychological behaviors in anxiety and depression",
+      "registeredYears": [
+        2019,
+        2019,
+        2019
+      ],
+      "registeredAuthors": [
+        "Shin",
+        "Park",
+        "Park",
+        "Hwang",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.ibror.2019.07.892"
+    },
+    {
+      "scholarId": "M05iB0D1s5AC",
+      "sourceTitle": "Effects of circumferential ankle pressure on ankle proprioception, stiffness, and postural stability: a preliminary investigation",
+      "doi": "10.2519/jospt.2004.34.8.449",
+      "registeredTitle": "Effects of Circumferential Ankle Pressure on Ankle Proprioception, Stiffness, and Postural Stability: A Preliminary Investigation",
+      "registeredYears": [
+        2004,
+        2004,
+        2004
+      ],
+      "registeredAuthors": [
+        "You",
+        "Granata",
+        "Bunker"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.2519%2Fjospt.2004.34.8.449"
+    },
+    {
+      "scholarId": "M3NEmzRMIkIC",
+      "sourceTitle": "Comparative parenting stress measures between segmental and community-based rehabilitation services in parents of children and adolescents with intellectual and developmental disabilities (IDD): A cross-sectional survey",
+      "doi": "10.3233/thc-218009",
+      "registeredTitle": "Comparative parenting stress measures between segmental and community-based rehabilitation services in parents of children and adolescents with intellectual and developmental disabilities (IDD): A cross-sectional survey",
+      "registeredYears": [
+        2021,
+        2021,
+        2021
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "Park",
+        "Park",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fthc-218009"
+    },
+    {
+      "scholarId": "MXK_kJrjxJIC",
+      "sourceTitle": "Effects of robotic interactive gait training combined with virtual reality and augmented reality on balance, gross motor function, gait kinetic, and kinematic characteristics in Angelman syndrome: a case report",
+      "doi": "10.3390/children9040544",
+      "registeredTitle": "Effects of Robotic Interactive Gait Training Combined with Virtual Reality and Augmented Reality on Balance, Gross Motor Function, Gait Kinetic, and Kinematic Characteristics in Angelman Syndrome: A Case Report",
+      "registeredYears": [
+        2022,
+        2022,
+        2022
+      ],
+      "registeredAuthors": [
+        "Han",
+        "Park",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3390%2Fchildren9040544"
+    },
+    {
+      "scholarId": "Mojj43d5GZwC",
+      "sourceTitle": "Motor point location index using regression equations for the tibialis anterior muscle",
+      "doi": "10.3233/nre-2012-0760",
+      "registeredTitle": "Motor point location index using regression equations for the tibialis anterior muscle",
+      "registeredYears": [
+        2012,
+        2012,
+        2012
+      ],
+      "registeredAuthors": [
+        "Lee",
+        "You",
+        "Yi",
+        "Jeon"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-2012-0760"
+    },
+    {
+      "scholarId": "N5tVd3kTz84C",
+      "sourceTitle": "Ecological fall prediction sensitivity, specificity, and accuracy in patients with mild cognitive impairment at a high risk of falls",
+      "doi": "10.3390/s23156977",
+      "registeredTitle": "Ecological Fall Prediction Sensitivity, Specificity, and Accuracy in Patients with Mild Cognitive Impairment at a High Risk of Falls",
+      "registeredYears": [
+        2023,
+        2023,
+        2023
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "Park",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3390%2Fs23156977"
+    },
+    {
+      "scholarId": "NMxIlDl6LWMC",
+      "sourceTitle": "Effects of innovative hip-knee-ankle interlimb coordinated robot training on ambulation, cardiopulmonary function, depression, and fall confidence in acute hemiplegia",
+      "doi": "10.3233/nre-203086",
+      "registeredTitle": "Effects of innovative hip-knee-ankle interlimb coordinated robot training on ambulation, cardiopulmonary function, depression, and fall confidence in acute hemiplegia",
+      "registeredYears": [
+        2020,
+        2020,
+        2020
+      ],
+      "registeredAuthors": [
+        "Park",
+        "Oh-Park",
+        "Dohle",
+        "Bialek",
+        "Friel",
+        "Edwards",
+        "Krebs",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-203086"
+    },
+    {
+      "scholarId": "NaGl4SEjCO4C",
+      "sourceTitle": "Usefulness of tibia counter rotator (TCR) for treatment of tibial internal torsion in children",
+      "doi": "10.3345/kjp.2007.50.1.79",
+      "registeredTitle": "Usefulness of tibia counter rotator (TCR) for treatment of tibial internal torsion in children",
+      "registeredYears": [
+        2007,
+        2007,
+        2007
+      ],
+      "registeredAuthors": [
+        "Song",
+        "Lee",
+        "Eun",
+        "Lee",
+        "Kang",
+        "Vaq",
+        "You",
+        "Shin",
+        "Kim"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3345%2Fkjp.2007.50.1.79"
+    },
+    {
+      "scholarId": "NhqRSupF_l8C",
+      "sourceTitle": "Effects of core-postural stabilisation on fluoroscopy diaphragmatic measurement and dyspnea in chronic obstructive pulmonary disease: A randomized single-blinded clinical trial",
+      "doi": "10.3233/thc-218034",
+      "registeredTitle": "Effects of core-postural stabilisation on fluoroscopy diaphragmatic measurement and dyspnea in chronic obstructive pulmonary disease: A randomized single-blinded clinical trial",
+      "registeredYears": [
+        2021,
+        2021,
+        2021,
+        2021
+      ],
+      "registeredAuthors": [
+        "Jung",
+        "Park",
+        "Hwang",
+        "You",
+        "Yi",
+        "Choi"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fthc-218034"
+    },
+    {
+      "scholarId": "OU6Ihb5iCvQC",
+      "sourceTitle": "Comparison of core stabilization techniques on ultrasound imaging of the diaphragm, and core muscle thickness and external abdominal oblique muscle electromyography activity",
+      "doi": "10.3233/bmr-210051",
+      "registeredTitle": "Comparison of core stabilization techniques on ultrasound imaging of the diaphragm, and core muscle thickness and external abdominal oblique muscle electromyography activity",
+      "registeredYears": [
+        2022,
+        2022,
+        2022,
+        2022
+      ],
+      "registeredAuthors": [
+        "Lee",
+        "Kim",
+        "Shin",
+        "Yi",
+        "Jeon",
+        "You",
+        "Park"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fbmr-210051"
+    },
+    {
+      "scholarId": "PELIpwtuRlgC",
+      "sourceTitle": "The effect of comprehensive hand repetitive intensive strength training (CHRIST) using motion analysis in children with cerebral palsy",
+      "doi": "10.5535/arm.2012.36.1.39",
+      "registeredTitle": "The Effect of Comprehensive Hand Repetitive Intensive Strength Training (CHRIST) Using Motion Analysis in Children with Cerebral Palsy",
+      "registeredYears": [
+        2012,
+        2012,
+        2012
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "Lee",
+        "Hwang",
+        "Lee",
+        "Kim",
+        "Park",
+        "You",
+        "Lee",
+        "Lee"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.5535%2Farm.2012.36.1.39"
+    },
+    {
+      "scholarId": "PR6Y55bgFSsC",
+      "sourceTitle": "Immediate effects of multimodal cognitive therapy in mild cognitive impairment",
+      "doi": "10.3233/nre-230127",
+      "registeredTitle": "Immediate effects of multimodal cognitive therapy in mild cognitive impairment",
+      "registeredYears": [
+        2023,
+        2023,
+        2023
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "Oh",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-230127"
+    },
+    {
+      "scholarId": "R3hNpaxXUhUC",
+      "sourceTitle": "Cortical reorganization induced by virtual reality therapy in a child with hemiparetic cerebral palsy",
+      "doi": "10.1111/j.1469-8749.2005.tb01216.x",
+      "registeredTitle": "Cortical reorganization induced by virtual reality therapy in a child with hemiparetic cerebral palsy",
+      "registeredYears": [
+        2005,
+        2007,
+        2005,
+        2005
+      ],
+      "registeredAuthors": [
+        "You",
+        "Jang",
+        "Kim",
+        "Kwon",
+        "Barrow",
+        "Hallett"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1111%2Fj.1469-8749.2005.tb01216.x"
+    },
+    {
+      "scholarId": "RGFaLdJalmkC",
+      "sourceTitle": "Effects of Robotic Interactive Gait Training on Cognitive and Locomotor Function in Post-Stroke Dementia",
+      "doi": "10.1016/j.apmr.2022.01.089",
+      "registeredTitle": "Effects of Robotic Interactive Gait Training on Cognitive and Locomotor Function in Post-Stroke Dementia",
+      "registeredYears": [
+        2022,
+        2022,
+        2022
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "Park",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.apmr.2022.01.089"
+    },
+    {
+      "scholarId": "RYcK_YlVTxYC",
+      "sourceTitle": "High frequency rTMS modulation of the sensorimotor networks: behavioral changes and fMRI correlates",
+      "doi": "10.1016/j.neuroimage.2007.10.035",
+      "registeredTitle": "High frequency rTMS modulation of the sensorimotor networks: Behavioral changes and fMRI correlates",
+      "registeredYears": [
+        2008,
+        2008,
+        2008
+      ],
+      "registeredAuthors": [
+        "Yoo",
+        "You",
+        "Ko",
+        "Tae Kim",
+        "Park",
+        "Park",
+        "Hoon Ohn",
+        "Hallett",
+        "Kim"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.neuroimage.2007.10.035"
+    },
+    {
+      "scholarId": "SP6oXDckpogC",
+      "sourceTitle": "Preliminary report: a serious link between adiponectin levels and metabolic syndrome in a Korean nondiabetic population",
+      "doi": "10.1016/j.metabol.2009.07.031",
+      "registeredTitle": "Preliminary report: A serious link between adiponectin levels and metabolic syndrome in a Korean nondiabetic population",
+      "registeredYears": [
+        2010,
+        2010,
+        2010
+      ],
+      "registeredAuthors": [
+        "Koh",
+        "Park",
+        "Yoon",
+        "Chang",
+        "Oh",
+        "Kim",
+        "Ryu",
+        "Kim",
+        "Lee",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.metabol.2009.07.031"
+    },
+    {
+      "scholarId": "SdhP9T11ey4C",
+      "sourceTitle": "Self-perception and anticipated efficacy of the anti-dementia multimodal program in 100 older adults with mild cognitive impairment",
+      "doi": "10.3233/nre-220253",
+      "registeredTitle": "Self-perception and anticipated efficacy of the anti-dementia multimodal program in 100 older adults with mild cognitive impairment",
+      "registeredYears": [
+        2023,
+        2023,
+        2023
+      ],
+      "registeredAuthors": [
+        "Oh",
+        "Kim",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-220253"
+    },
+    {
+      "scholarId": "Se3iqnhoufwC",
+      "sourceTitle": "Comparative immediate effects of isometric chin-tuck and dynamic neuromuscular stabilization on neck flexor muscle thickness and upright sitting height posture",
+      "doi": "10.12674/ptk.2019.26.4.001",
+      "registeredTitle": "Comparative Immediate Effects of Isometric Chin-tuck and Dynamic Neuromuscular Stabilization on Neck Flexor Muscle Thickness and Upright Sitting Height Posture",
+      "registeredYears": [
+        2019,
+        2019,
+        2019
+      ],
+      "registeredAuthors": [
+        "Shin",
+        "Yoon",
+        "Park",
+        "Kim",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.12674%2Fptk.2019.26.4.001"
+    },
+    {
+      "scholarId": "TFP_iSt0sucC",
+      "sourceTitle": "Dynamic Postural Instability in Children with Cerebral Palsy: A Primary Investigation of the Validity and Reliability of PostureRite Measure",
+      "doi": "10.1016/j.apmr.2022.01.091",
+      "registeredTitle": "Dynamic Postural Instability in Children with Cerebral Palsy: A Primary Investigation of the Validity and Reliability of PostureRite Measure",
+      "registeredYears": [
+        2022,
+        2022,
+        2022
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.apmr.2022.01.091"
+    },
+    {
+      "scholarId": "TQgYirikUcIC",
+      "sourceTitle": "The best lumbothoracic-cervical chain stabilization exercise for longus colli activation",
+      "doi": "10.1166/jmihi.2018.2237",
+      "registeredTitle": "The Best Lumbothoracic-Cervical Chain Stabilization Exercise for Longus Colli Activation",
+      "registeredYears": [
+        2018,
+        2018,
+        2018
+      ],
+      "registeredAuthors": [
+        "Cha",
+        "Yoon",
+        "Jung",
+        "Hwang",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1166%2Fjmihi.2018.2237"
+    },
+    {
+      "scholarId": "Tiz5es2fbqcC",
+      "sourceTitle": "Inter-and intratester reliability values of ultrasound imaging measurements of diaphragm movement in the thoracic and thoracolumbar curves in adolescent idiopathic scoliosis",
+      "doi": "10.3109/09593985.2015.1091871",
+      "registeredTitle": "Inter- and intratester reliability values of ultrasound imaging measurements of diaphragm movement in the thoracic and thoracolumbar curves in adolescent idiopathic scoliosis",
+      "registeredYears": [
+        2016,
+        2016,
+        2016,
+        2016
+      ],
+      "registeredAuthors": [
+        "Noh",
+        "Koh",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3109%2F09593985.2015.1091871"
+    },
+    {
+      "scholarId": "Tyk-4Ss8FVUC",
+      "sourceTitle": "The effects of pulsator washing machine on joints torques and muscles strengths considering height of outside machine and depth of inside drum for average height users",
+      "doi": "10.9718/jber.2012.33.4.184",
+      "registeredTitle": "The Effects of Pulsator Washing Machine on Joints Torques and Muscles Strengths Considering Height of Outside Machine and Depth of Inside Drum for Average Height Users",
+      "registeredYears": [
+        2012,
+        2012,
+        2012
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "Cho",
+        "Lee",
+        "You",
+        "Lim",
+        "Kim",
+        "Ko"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.9718%2Fjber.2012.33.4.184"
+    },
+    {
+      "scholarId": "ULOm3_A8WrAC",
+      "sourceTitle": "BIOMECHANICAL EFFECTS OF HYPERPRONATION ON MULTIDIRECTIONAL ANKLE ANGULAR DISPLACEMENT AND STIFFNESS",
+      "doi": "10.1142/s0219519420400126",
+      "registeredTitle": "BIOMECHANICAL EFFECTS OF HYPERPRONATION ON MULTIDIRECTIONAL ANKLE ANGULAR DISPLACEMENT AND STIFFNESS",
+      "registeredYears": [
+        2020,
+        2020,
+        2020,
+        2020
+      ],
+      "registeredAuthors": [
+        "KIM",
+        "JUNG",
+        "CHA",
+        "YOU"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1142%2Fs0219519420400126"
+    },
+    {
+      "scholarId": "URolC5Kub84C",
+      "sourceTitle": "Plasma C‐type lectin‐like receptor 2 as a predictor of death and vascular events in patients with acute ischemic stroke",
+      "doi": "10.1111/ene.13984",
+      "registeredTitle": "Plasma C‐type lectin‐like receptor 2 as a predictor of death and vascular events in patients with acute ischemic stroke",
+      "registeredYears": [
+        2019,
+        2019,
+        2019,
+        2019
+      ],
+      "registeredAuthors": [
+        "Wu",
+        "Zhang",
+        "Li",
+        "You",
+        "Shi",
+        "Zhang",
+        "Shi",
+        "Huang",
+        "Cao",
+        "Zhang"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1111%2Fene.13984"
+    },
+    {
+      "scholarId": "UebtZRa9Y70C",
+      "sourceTitle": "Stage 2: Who are the best candidates for robotic gait training rehabilitation in hemiparetic stroke?",
+      "doi": "10.3390/jcm10235715",
+      "registeredTitle": "Stage 2: Who Are the Best Candidates for Robotic Gait Training Rehabilitation in Hemiparetic Stroke?",
+      "registeredYears": [
+        2021,
+        2021,
+        2021
+      ],
+      "registeredAuthors": [
+        "Oh",
+        "Park",
+        "Oh",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3390%2Fjcm10235715"
+    },
+    {
+      "scholarId": "UxriW0iASnsC",
+      "sourceTitle": "Novel algorithm for the hemiplegic gait evaluation using a single 3-axis accelerometer",
+      "doi": "10.1109/iembs.2009.5333650",
+      "registeredTitle": "Novel algorithm for the hemiplegic gait evaluation using a single 3-axis accelerometer",
+      "registeredYears": [
+        2009,
+        2009,
+        2009
+      ],
+      "registeredAuthors": [
+        "Hyo-Ki Lee",
+        "Sung-Jae Hwang",
+        "Sung-Pil Cho",
+        "Dong-Ryul Lee",
+        "Sung-Hyun You",
+        "Kyoung-Joung Lee",
+        "Yong-Ho Kim",
+        "Ho-Seon Choi"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1109%2Fiembs.2009.5333650"
+    },
+    {
+      "scholarId": "V3AGJWp-ZtQC",
+      "sourceTitle": "A novel spinal kinematic analysis using X-ray imaging and vicon motion analysis: a case study",
+      "doi": "10.3233/bme-130846",
+      "registeredTitle": "A Novel Spinal Kinematic Analysis using X-Ray Imaging and Vicon Motion Analysis: A Case Study",
+      "registeredYears": [
+        2014,
+        2014,
+        2014,
+        2014
+      ],
+      "registeredAuthors": [
+        "Noh",
+        "Lee",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fbme-130846"
+    },
+    {
+      "scholarId": "VLnqNzywnoUC",
+      "sourceTitle": "Inferring Human Control Intent Using Inverse Linear Quadratic Regulator With Output Penalty Versus Gain Penalty: Better Fit but Similar Intent",
+      "doi": "10.1115/1.4065593",
+      "registeredTitle": "Inferring Human Control Intent Using Inverse Linear Quadratic Regulator With Output Penalty Versus Gain Penalty: Better Fit but Similar Intent",
+      "registeredYears": [
+        2024,
+        2024,
+        2024,
+        2024
+      ],
+      "registeredAuthors": [
+        "Yu",
+        "Ramadan",
+        "Cholewicki",
+        "Popovich",
+        "Reeves",
+        "You",
+        "Choi"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1115%2F1.4065593"
+    },
+    {
+      "scholarId": "W7OEmFMy1HYC",
+      "sourceTitle": "Neuromuscular mechanisms and effects of core stabilizations on trunk and hip muscle activity during lifting movement",
+      "doi": "10.1142/s021951942140042x",
+      "registeredTitle": "NEUROMUSCULAR MECHANISMS AND EFFECTS OF CORE STABILIZATIONS ON TRUNK AND HIP MUSCLE ACTIVITY DURING LIFTING MOVEMENT",
+      "registeredYears": [
+        2021,
+        2021,
+        2021,
+        2021
+      ],
+      "registeredAuthors": [
+        "CHOI",
+        "PARK",
+        "HWANG",
+        "YOU"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1142%2Fs021951942140042x"
+    },
+    {
+      "scholarId": "WA5NYHcadZ8C",
+      "sourceTitle": "Comprehensive Hand Repetitive Intensive Strengthening Training (CHRIST)-induced morphological changes in muscle size and associated motor improvement in a child with cerebral palsy: an experimenter-blind study",
+      "doi": "10.3233/nre-2009-0460",
+      "registeredTitle": "Comprehensive Hand Repetitive Intensive Strengthening Training (CHRIST)-induced morphological changes in muscle size and associated motor improvement in a child with cerebral palsy: An experimenter-blind study",
+      "registeredYears": [
+        2009,
+        2009,
+        2009,
+        2009
+      ],
+      "registeredAuthors": [
+        "Lee",
+        "You",
+        "Lee",
+        "Oh",
+        "Cha"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-2009-0460"
+    },
+    {
+      "scholarId": "WF5omc3nYNoC",
+      "sourceTitle": "Inter-tester and intra-tester reliability of ultrasound imaging measurements of abdominal muscles in adolescents with and without idiopathic scoliosis: a case-controlled study",
+      "doi": "10.3233/bme-130830",
+      "registeredTitle": "Inter-tester and Intra-tester Reliability of Ultrasound Imaging Measurements of Abdominal Muscles in Adolescents with and without Idiopathic Scoliosis: A Case-controlled Study",
+      "registeredYears": [
+        2014,
+        2014,
+        2014,
+        2014
+      ],
+      "registeredAuthors": [
+        "Yang",
+        "Yoo",
+        "Lee",
+        "Choi",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fbme-130830"
+    },
+    {
+      "scholarId": "WbkHhVStYXYC",
+      "sourceTitle": "Neurorehabilitation-induced cortical reorganization in brain injury: A 14-month longitudinal follow-up study",
+      "doi": "10.3233/nre-2007-22207",
+      "registeredTitle": "Neurorehabilitation-induced cortical reorganization in brain injury: A 14-month longitudinal follow-up study",
+      "registeredYears": [
+        2007,
+        2007,
+        2007
+      ],
+      "registeredAuthors": [
+        "Jang",
+        "You",
+        "Ahn"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-2007-22207"
+    },
+    {
+      "scholarId": "Wp0gIr-vW9MC",
+      "sourceTitle": "Inhibitory effects of instrument-assisted neuromobilization on hyperactive gastrocnemius in a hemiparetic stroke patient",
+      "doi": "10.3233/bme-141052",
+      "registeredTitle": "Inhibitory effects of instrument-assisted neuromobilization on hyperactive gastrocnemius in a hemiparetic stroke patient",
+      "registeredYears": [
+        2014,
+        2014,
+        2014,
+        2014
+      ],
+      "registeredAuthors": [
+        "Lee",
+        "Lee",
+        "Kim",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fbme-141052"
+    },
+    {
+      "scholarId": "WqliGbK-hY8C",
+      "sourceTitle": "Untacted automated robotic upper-trunk-lower reciprocal locomotor training for knee osteoarthritis: A randomized controlled trial",
+      "doi": "10.3233/bmr-220182",
+      "registeredTitle": "Untacted automated robotic upper-trunk- lower reciprocal locomotor training for knee osteoarthritis: A randomized controlled trial",
+      "registeredYears": [
+        2023,
+        2023,
+        2023
+      ],
+      "registeredAuthors": [
+        "Cha",
+        "Yoon",
+        "Park",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fbmr-220182"
+    },
+    {
+      "scholarId": "XiSMed-E-HIC",
+      "sourceTitle": "Movement measurement validity and reliability of the image J program for kinematic analysis",
+      "doi": "10.1142/s0219519416400285",
+      "registeredTitle": "MOVEMENT MEASUREMENT VALIDITY AND RELIABILITY OF THE IMAGE J PROGRAM FOR KINEMATIC ANALYSIS",
+      "registeredYears": [
+        2016,
+        2016,
+        2016,
+        2016
+      ],
+      "registeredAuthors": [
+        "LEE",
+        "YOU"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1142%2Fs0219519416400285"
+    },
+    {
+      "scholarId": "YOwf2qJgpHMC",
+      "sourceTitle": "Effects of novel guidance tubing gait on electromyographic neuromuscular imbalance and joint angular kinematics during locomotion in hemiparetic stroke patients",
+      "doi": "10.1016/j.apmr.2017.04.018",
+      "registeredTitle": "Effects of Novel Guidance Tubing Gait on Electromyographic Neuromuscular Imbalance and Joint Angular Kinematics During Locomotion in Hemiparetic Stroke Patients",
+      "registeredYears": [
+        2017,
+        2017,
+        2017
+      ],
+      "registeredAuthors": [
+        "Lee",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.apmr.2017.04.018"
+    },
+    {
+      "scholarId": "YsMSGLbcyi4C",
+      "sourceTitle": "Neuroplastic and motor behavioral changes after intermanual transfer training of non-dominant hand: A prospective fMRI study",
+      "doi": "10.3233/nre-182550",
+      "registeredTitle": "Neuroplastic and motor behavioral changes after intermanual transfer training of non-dominant hand: A prospective fMRI study",
+      "registeredYears": [
+        2019,
+        2019,
+        2019
+      ],
+      "registeredAuthors": [
+        "Jung",
+        "Park",
+        "Kim",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-182550"
+    },
+    {
+      "scholarId": "ZHo1McVdvXMC",
+      "sourceTitle": "Best facilitated cortical activation during different stepping, treadmill, and robot-assisted walking training paradigms and speeds: a functional near-infrared spectroscopy neuroimaging study",
+      "doi": "10.3233/nre-161307",
+      "registeredTitle": "Best facilitated cortical activation during different stepping, treadmill,           and robot-assisted walking training paradigms and speeds: A functional near-infrared           spectroscopy neuroimaging study",
+      "registeredYears": [
+        2016,
+        2016,
+        2016,
+        2016
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "Yang",
+        "Park",
+        "Kim",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-161307"
+    },
+    {
+      "scholarId": "ZeXyd9-uunAC",
+      "sourceTitle": "Effects of Walkbot gait training on kinematics, kinetics, and clinical gait function in paraplegia and quadriplegia",
+      "doi": "10.3233/nre-172226",
+      "registeredTitle": "Effects of Walkbot gait training on kinematics, kinetics, and clinical gait function in paraplegia and quadriplegia",
+      "registeredYears": [
+        2018,
+        2018,
+        2018,
+        2018
+      ],
+      "registeredAuthors": [
+        "Hwang",
+        "Shin",
+        "Park",
+        "Cha",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-172226"
+    },
+    {
+      "scholarId": "ZfRJV9d4-WMC",
+      "sourceTitle": "The Effects of Core Stability Training on Muscle Activation, X-factor, and Postural Stability during Golf Swing",
+      "doi": "10.1016/j.apmr.2024.02.581",
+      "registeredTitle": "The Effects of Core Stability Training on Muscle Activation, X-factor, and Postural Stability during Golf Swing",
+      "registeredYears": [
+        2024,
+        2024,
+        2024
+      ],
+      "registeredAuthors": [
+        "Park",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.apmr.2024.02.581"
+    },
+    {
+      "scholarId": "Zph67rFs4hoC",
+      "sourceTitle": "The effects of dynamic core-postural chain stabilization on respiratory function, fatigue and activities of daily living in subacute stroke patients: A randomized control trial",
+      "doi": "10.3233/nre-203231",
+      "registeredTitle": "The effects of dynamic core-postural chain stabilization on respiratory function, fatigue and activities of daily living in subacute stroke patients: A randomized control trial",
+      "registeredYears": [
+        2020,
+        2020,
+        2020
+      ],
+      "registeredAuthors": [
+        "Yoon",
+        "Cha",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-203231"
+    },
+    {
+      "scholarId": "ZuybSZzF8UAC",
+      "sourceTitle": "Bolstering cognitive and locomotor function in post-stroke dementia using human–robotic interactive gait training",
+      "doi": "10.3390/jcm12175661",
+      "registeredTitle": "Bolstering Cognitive and Locomotor Function in Post-Stroke Dementia Using Human–Robotic Interactive Gait Training",
+      "registeredYears": [
+        2023,
+        2023,
+        2023
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "Park",
+        "Yoon",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3390%2Fjcm12175661"
+    },
+    {
+      "scholarId": "_B80troHkn4C",
+      "sourceTitle": "Use of a combination of ankle pressure and SENSERite system to treat older adults with impaired ankle proprioception: a single-blind experimental study",
+      "doi": "10.1016/j.apmr.2008.05.022",
+      "registeredTitle": "Use of a Combination of Ankle Pressure and SENSERite System to Treat Older Adults With Impaired Ankle Proprioception: A Single-Blind Experimental Study",
+      "registeredYears": [
+        2009,
+        2009,
+        2009
+      ],
+      "registeredAuthors": [
+        "You",
+        "Saliba",
+        "Saliba"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.apmr.2008.05.022"
+    },
+    {
+      "scholarId": "_FxGoFyzp5QC",
+      "sourceTitle": "The effect of a novel core stabilization technique on managing patients with chronic low back pain: a randomized, controlled, experimenter-blinded study",
+      "doi": "10.1177/0269215513506231",
+      "registeredTitle": "The effect of a novel core stabilization technique on managing patients with chronic low back pain: a randomized, controlled, experimenter-blinded study",
+      "registeredYears": [
+        2014,
+        2013,
+        2013,
+        2013
+      ],
+      "registeredAuthors": [
+        "You",
+        "Kim",
+        "Oh",
+        "Chon"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1177%2F0269215513506231"
+    },
+    {
+      "scholarId": "_Qo2XoVZTnwC",
+      "sourceTitle": "Sports injury and physiotherapy services in the 2018 PyeongChang Winter Paralympic Games: considerations and potential recommendations for future Paralympics",
+      "doi": "10.1016/j.apmr.2022.01.088",
+      "registeredTitle": "Sports Injury and Physiotherapy Services in the 2018 PyeongChang Winter Paralympic Games: Considerations and Potential Recommendations for Future Paralympics",
+      "registeredYears": [
+        2022,
+        2022,
+        2022
+      ],
+      "registeredAuthors": [
+        "PARK",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.apmr.2022.01.088"
+    },
+    {
+      "scholarId": "_Re3VWB3Y0AC",
+      "sourceTitle": "Sustainable effectiveness of kinetic chain stretching on active hip flexion movement and muscle activation for hamstring tightness: A preliminary investigation",
+      "doi": "10.3233/thc-248014",
+      "registeredTitle": "Sustainable effectiveness of kinetic chain stretching on active hip flexion movement and muscle activation for hamstring tightness: A preliminary investigation",
+      "registeredYears": [
+        2024,
+        2024,
+        2024
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "Park",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fthc-248014"
+    },
+    {
+      "scholarId": "_Ybze24A_UAC",
+      "sourceTitle": "THE EFFECTIVENESS OF MULTIMODAL PROGRAM BRAIN FIT",
+      "doi": "10.1016/j.ibneur.2023.08.916",
+      "registeredTitle": "THE EFFECTIVENESS OF MULTIMODAL PROGRAM BRAIN FIT",
+      "registeredYears": [
+        2023,
+        2023,
+        2023
+      ],
+      "registeredAuthors": [
+        "Park",
+        "Oh",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.ibneur.2023.08.916"
+    },
+    {
+      "scholarId": "_kc_bZDykSQC",
+      "sourceTitle": "Reflex-mediated dynamic neuromuscular stabilization in stroke patients: EMG processing and ultrasound imaging",
+      "doi": "10.3233/thc-171311",
+      "registeredTitle": "Reflex-mediated dynamic neuromuscular stabilization in stroke patients: EMG processing and ultrasound imaging",
+      "registeredYears": [
+        2017,
+        2017,
+        2017,
+        2017
+      ],
+      "registeredAuthors": [
+        "Yoon",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fthc-171311"
+    },
+    {
+      "scholarId": "a0OBvERweLwC",
+      "sourceTitle": "Joint position sense in elderly fallers: a preliminary investigation of the validity and reliability of the SENSERite measure",
+      "doi": "10.1016/j.apmr.2004.01.035",
+      "registeredTitle": "Joint position sense in elderly fallers: A preliminary investigation of the validity and reliability of the SENSERite measure",
+      "registeredYears": [
+        2005,
+        2005,
+        2005
+      ],
+      "registeredAuthors": [
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.apmr.2004.01.035"
+    },
+    {
+      "scholarId": "abG-DnoFyZgC",
+      "sourceTitle": "Adaptive locomotor network activation during randomized walking speeds using functional near-infrared spectroscopy",
+      "doi": "10.3233/thc-171310",
+      "registeredTitle": "Adaptive locomotor network activation during randomized walking speeds using functional near-infrared spectroscopy",
+      "registeredYears": [
+        2017,
+        2017,
+        2017,
+        2017
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "Kim",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fthc-171310"
+    },
+    {
+      "scholarId": "aqlVkmm33-oC",
+      "sourceTitle": "A review of robot-assisted gait training in stroke patients",
+      "doi": "10.12786/bn.2017.10.e9",
+      "registeredTitle": "A Review of Robot-Assisted Gait Training in Stroke Patients",
+      "registeredYears": [
+        2017,
+        2017,
+        2017
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.12786%2Fbn.2017.10.e9"
+    },
+    {
+      "scholarId": "b0M2c_1WBrUC",
+      "sourceTitle": "Concurrent validity and test-retest reliability of the core stability test using ultrasound imaging and electromyography measurements",
+      "doi": "10.12674/ptk.2021.28.3.186",
+      "registeredTitle": "Concurrent Validity and Test-retest Reliability of the Core Stability Test Using Ultrasound Imaging and Electromyography Measurements",
+      "registeredYears": [
+        2021,
+        2021,
+        2021
+      ],
+      "registeredAuthors": [
+        "Yoo",
+        "Lee",
+        "Park",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.12674%2Fptk.2021.28.3.186"
+    },
+    {
+      "scholarId": "bEWYMUwI8FkC",
+      "sourceTitle": "Effects of innovative virtual reality game and EMG biofeedback on neuromotor control in cerebral palsy",
+      "doi": "10.3233/bme-141188",
+      "registeredTitle": "Effects of innovative virtual reality game and EMG biofeedback on neuromotor control in cerebral palsy",
+      "registeredYears": [
+        2014,
+        2014,
+        2014,
+        2014
+      ],
+      "registeredAuthors": [
+        "Yoo",
+        "Lee",
+        "Sim",
+        "You",
+        "Kim"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fbme-141188"
+    },
+    {
+      "scholarId": "bFI3QPDXJZMC",
+      "sourceTitle": "Multiple relationships between Tardieu, Kinematic data, and Wolf Motor Function Test with children with cerebral palsy",
+      "doi": "10.3233/nre-182610",
+      "registeredTitle": "Multiple relationships between Tardieu, Kinematic data, and Wolf Motor Function Test with children with cerebral palsy",
+      "registeredYears": [
+        2019,
+        2019,
+        2019
+      ],
+      "registeredAuthors": [
+        "Hwang",
+        "Lee",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-182610"
+    },
+    {
+      "scholarId": "blknAaTinKkC",
+      "sourceTitle": "Novel augmented ADIM training using ultrasound imaging and electromyography in adults with core instability",
+      "doi": "10.3233/bmr-2011-0300",
+      "registeredTitle": "Novel augmented ADIM training using ultrasound imaging and electromyography in adults with core instability",
+      "registeredYears": [
+        2011,
+        2011,
+        2011
+      ],
+      "registeredAuthors": [
+        "Lee",
+        "Jung",
+        "You",
+        "Kang",
+        "Lee",
+        "Kwon",
+        "Jeon"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fbmr-2011-0300"
+    },
+    {
+      "scholarId": "bnK-pcrLprsC",
+      "sourceTitle": "453: Fitz-Hugh-Curtis Syndrome Diagnosed by Biphasic Computed Tomography In the Emergency Department",
+      "doi": "10.1016/j.annemergmed.2010.06.496",
+      "registeredTitle": "453: Fitz-Hugh-Curtis Syndrome Diagnosed by Biphasic Computed Tomography In the Emergency Department",
+      "registeredYears": [
+        2010,
+        2010,
+        2010
+      ],
+      "registeredAuthors": [
+        "You",
+        "Kim",
+        "Chung",
+        "Chung",
+        "Lee"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.annemergmed.2010.06.496"
+    },
+    {
+      "scholarId": "d1gkVwhDpl0C",
+      "sourceTitle": "Immediate effect of Walkbot robotic gait training on neuromechanical knee stiffness in spastic hemiplegia: A case report",
+      "doi": "10.3233/nre-130907",
+      "registeredTitle": "Immediate effect of Walkbot robotic gait training on neuromechanical knee stiffness in spastic hemiplegia: A case report",
+      "registeredYears": [
+        2013,
+        2013,
+        2013
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "Shin",
+        "Joa",
+        "Shin",
+        "Lee",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-130907"
+    },
+    {
+      "scholarId": "dQ2og3OwTAUC",
+      "sourceTitle": "Potential adverse effects of face mask use on cardiopulmonary function and thermoregulation in robotic stroke rehabilitation during the COVID-19 pandemic",
+      "doi": "10.3233/nre-230150",
+      "registeredTitle": "Potential adverse effects of face mask use on cardiopulmonary function and thermoregulation in robotic stroke rehabilitation during the COVID-19 pandemic",
+      "registeredYears": [
+        2024,
+        2024,
+        2024
+      ],
+      "registeredAuthors": [
+        "Kwon",
+        "Park",
+        "Oh",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-230150"
+    },
+    {
+      "scholarId": "dfsIfKJdRG4C",
+      "sourceTitle": "Intensive abdominal drawing-in maneuver after unipedal postural stability in nonathletes with core instability",
+      "doi": "10.4085/1062-6050-49.3.91",
+      "registeredTitle": "Intensive Abdominal Drawing-In Maneuver After Unipedal Postural Stability in Nonathletes With Core Instability",
+      "registeredYears": [
+        2015,
+        2015,
+        2015
+      ],
+      "registeredAuthors": [
+        "Lee",
+        "You",
+        "Kim",
+        "Choi"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.4085%2F1062-6050-49.3.91"
+    },
+    {
+      "scholarId": "dhFuZR0502QC",
+      "sourceTitle": "Effect of dynamic guidance-tubing short foot gait exercise on muscle activity and navicular movement in people with flexible flatfeet",
+      "doi": "10.3233/nre-203106",
+      "registeredTitle": "Effect of dynamic guidance-tubing short foot gait exercise on muscle activity and navicular movement in people with flexible flatfeet",
+      "registeredYears": [
+        2020,
+        2020,
+        2020
+      ],
+      "registeredAuthors": [
+        "Jung",
+        "Yi",
+        "Choi",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-203106"
+    },
+    {
+      "scholarId": "dshw04ExmUIC",
+      "sourceTitle": "Comparative neuroimaging in children with cerebral palsy using fMRI and a novel EEG-based brain mapping during a motor task–a preliminary investigation",
+      "doi": "10.3233/nre-130845",
+      "registeredTitle": "Comparative neuroimaging in children with cerebral palsy using fMRI and a novel EEG-based brain mapping during a motor task – A preliminary investigation",
+      "registeredYears": [
+        2013,
+        2013,
+        2013
+      ],
+      "registeredAuthors": [
+        "Lee",
+        "Lee",
+        "Shin",
+        "Lee",
+        "Han",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-130845"
+    },
+    {
+      "scholarId": "eJXPG6dFmWUC",
+      "sourceTitle": "Concurrent validity and test-retest reliability of the walkbot-K system for robotic gait training",
+      "doi": "10.1142/s0219519416400297",
+      "registeredTitle": "CONCURRENT VALIDITY AND TEST-RETEST RELIABILITY OF THE WALKBOT-K SYSTEM FOR ROBOTIC GAIT TRAINING",
+      "registeredYears": [
+        2016,
+        2016,
+        2016,
+        2016
+      ],
+      "registeredAuthors": [
+        "LEE",
+        "SHIN",
+        "PARK",
+        "YOU"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1142%2Fs0219519416400297"
+    },
+    {
+      "scholarId": "eflP2zaiRacC",
+      "sourceTitle": "Comparative effects of 4 single-leg squat exercises in subjects with gluteus medius weakness",
+      "doi": "10.1123/jsr.2016-0193",
+      "registeredTitle": "Comparative Effects of 4 Single-Leg Squat Exercises in Subjects With Gluteus Medius Weakness",
+      "registeredYears": [
+        2018,
+        2018,
+        2018
+      ],
+      "registeredAuthors": [
+        "Han",
+        "Yi",
+        "You",
+        "Cynn",
+        "Lim",
+        "Son"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1123%2Fjsr.2016-0193"
+    },
+    {
+      "scholarId": "eq2jaN3J8jMC",
+      "sourceTitle": "Reliable Prognostic Cardiopulmonary Function Variables in 110 Patients With Acute Ischemic Heart Disease",
+      "doi": "10.12674/ptk.2022.29.3.200",
+      "registeredTitle": "Reliable Prognostic Cardiopulmonary Function Variables in 110 Patients With Acute Ischemic Heart Disease",
+      "registeredYears": [
+        2022,
+        2022,
+        2022
+      ],
+      "registeredAuthors": [
+        "Lee",
+        "Park",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.12674%2Fptk.2022.29.3.200"
+    },
+    {
+      "scholarId": "fEOibwPWpKIC",
+      "sourceTitle": "Effects of balance training with stroboscopic glasses on joint position sense, postural stability, and functional performance testing in chronic ankle instability national athletes: a single-blinded randomized controlled trial",
+      "doi": "10.1142/s0219519424400402",
+      "registeredTitle": "EFFECTS OF BALANCE TRAINING WITH STROBOSCOPIC GLASSES ON JOINT POSITION SENSE, POSTURAL STABILITY, AND FUNCTIONAL PERFORMANCE TESTING IN CHRONIC ANKLE INSTABILITY NATIONAL ATHLETES: A SINGLE-BLINDED RANDOMIZED CONTROLLED TRIAL",
+      "registeredYears": [
+        2024,
+        2024,
+        2024,
+        2024
+      ],
+      "registeredAuthors": [
+        "CHOI",
+        "KIM",
+        "YOU"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1142%2Fs0219519424400402"
+    },
+    {
+      "scholarId": "fPk4N6BV_jEC",
+      "sourceTitle": "185 Review of the physiotherapy service for athletes in 2018 olympic winter games",
+      "doi": "10.1136/bjsports-2021-ioc.170",
+      "registeredTitle": "185 Review of the physiotherapy service for athletes in 2018 olympic winter games",
+      "registeredYears": [
+        2021,
+        2021,
+        2021,
+        2021
+      ],
+      "registeredAuthors": [
+        "Chang",
+        "Lee",
+        "Grant",
+        "Lee",
+        "You",
+        "Kim",
+        "Kong"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1136%2Fbjsports-2021-ioc.170",
+      "verificationNote": "Reviewed exact title, authors and year; registered preprint/proceedings or source record without venue metadata."
+    },
+    {
+      "scholarId": "fQNAKQ3IYiAC",
+      "sourceTitle": "Multiple relationships between cognition-motor impairment and activity-based clinical outcome measures in 218 hemiplegic stroke patients",
+      "doi": "10.3233/nre-210195",
+      "registeredTitle": "Multiple relationships between cognition-motor impairment and activity-based clinical outcome measures in 218 hemiplegic stroke patients1",
+      "registeredYears": [
+        2021,
+        2021,
+        2021
+      ],
+      "registeredAuthors": [
+        "Jeong",
+        "Park",
+        "Oh",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-210195"
+    },
+    {
+      "scholarId": "g3aElNc5_aQC",
+      "sourceTitle": "COMPARATIVE EFFECTS OF INNOVATIVE SELF-BALANCING RECIPROCAL HIP–KNEE–ANKLE GAIT ASSISTED ROBOTIC ON FUNCTIONAL AMBULATION AND JOINT KINEMATICS IN A COMPLETE SPINAL INJURY: A PRELIMINARY INVESTIGATION",
+      "doi": "10.1142/s0219519426400105",
+      "registeredTitle": "COMPARATIVE EFFECTS OF INNOVATIVE SELF-BALANCING RECIPROCAL HIP–KNEE–ANKLE GAIT ASSISTED ROBOTIC ON FUNCTIONAL AMBULATION AND JOINT KINEMATICS IN A COMPLETE SPINAL INJURY: A PRELIMINARY INVESTIGATION",
+      "registeredYears": [
+        2026,
+        2026,
+        2026,
+        2026
+      ],
+      "registeredAuthors": [
+        "SHIN",
+        "PARK",
+        "NA",
+        "CHOI",
+        "KIM",
+        "LEE",
+        "PARK",
+        "CHO",
+        "CHOI",
+        "YOU"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1142%2Fs0219519426400105"
+    },
+    {
+      "scholarId": "g5m5HwL7SMYC",
+      "sourceTitle": "Validity and test–retest reliability of an intelligent robotic shoulder joint kinematics system for rehabilitation",
+      "doi": "10.1142/s0219519421400650",
+      "registeredTitle": "VALIDITY AND TEST–RETEST RELIABILITY OF AN INTELLIGENT ROBOTIC SHOULDER JOINT KINEMATICS SYSTEM FOR REHABILITATION",
+      "registeredYears": [
+        2021,
+        2021,
+        2021,
+        2021
+      ],
+      "registeredAuthors": [
+        "PARK",
+        "YOU"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1142%2Fs0219519421400650"
+    },
+    {
+      "scholarId": "geHnlv5EZngC",
+      "sourceTitle": "Effects of dual-task cognitive-gait intervention on memory and gait dynamics in older adults with a history of falls: a preliminary investigation",
+      "doi": "10.3233/nre-2009-0468",
+      "registeredTitle": "Effects of dual-task cognitive-gait intervention on memory and gait dynamics in older adults with a history of falls: A preliminary investigation",
+      "registeredYears": [
+        2009,
+        2009,
+        2009,
+        2009
+      ],
+      "registeredAuthors": [
+        "You",
+        "Shetty",
+        "Jones",
+        "Shields",
+        "Belay",
+        "Brown"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-2009-0468"
+    },
+    {
+      "scholarId": "hC7cP41nSMkC",
+      "sourceTitle": "Minimal contact robotic stroke rehabilitation on risk of COVID-19, work efficiency and sensorimotor function",
+      "doi": "10.3390/healthcare10040691",
+      "registeredTitle": "Minimal Contact Robotic Stroke Rehabilitation on Risk of COVID-19, Work Efficiency and Sensorimotor Function",
+      "registeredYears": [
+        2022,
+        2022,
+        2022
+      ],
+      "registeredAuthors": [
+        "Yoon",
+        "Park",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3390%2Fhealthcare10040691"
+    },
+    {
+      "scholarId": "hFOr9nPyWt4C",
+      "sourceTitle": "Long-term Effects of a Group Community-based Constraint-induced Movement Therapy on Motor Recovery and Activities of Daily Living in Community-dwelling Older Adults with Chronic Stroke: A Preliminary Study with 6-month Follow-Up",
+      "doi": "10.11596/asiajot.7.1",
+      "registeredTitle": "Long-term Effects of a Group Community-based Constraint-induced Movement Therapy on Motor Recovery and Activities of Daily Living in Community-dwelling Older Adults with Chronic Stroke: A Preliminary Study with 6-month Follow-Up",
+      "registeredYears": [
+        2009,
+        2009,
+        2009
+      ],
+      "registeredAuthors": [
+        "JUNG",
+        "KIM",
+        "YOO",
+        "JEON",
+        "YOU"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.11596%2Fasiajot.7.1"
+    },
+    {
+      "scholarId": "hMod-77fHWUC",
+      "sourceTitle": "The effect of robo-horseback riding therapy on spinal alignment and associated muscle size in MRI for a child with neuromuscular scoliosis: an experimenter-blind study",
+      "doi": "10.3233/nre-2011-0673",
+      "registeredTitle": "The effect of robo-horseback riding therapy on spinal alignment and associated muscle size in MRI for a child with neuromuscular scoliosis: An experimenter-blind study",
+      "registeredYears": [
+        2011,
+        2011,
+        2011,
+        2011
+      ],
+      "registeredAuthors": [
+        "Lee",
+        "Lee",
+        "Cha",
+        "O",
+        "You",
+        "Oh",
+        "Bang"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-2011-0673"
+    },
+    {
+      "scholarId": "hMsQuOkrut0C",
+      "sourceTitle": "Computational methods to detect step events for normal and pathological gait evaluation using accelerometer",
+      "doi": "10.1049/el.2010.0532",
+      "registeredTitle": "Computational methods to detect step events for normal and pathological gait evaluation using accelerometer",
+      "registeredYears": [
+        2010,
+        2010,
+        2010
+      ],
+      "registeredAuthors": [
+        "Lee",
+        "You",
+        "Cho",
+        "Hwang",
+        "Lee",
+        "Kim",
+        "Lee"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1049%2Fel.2010.0532"
+    },
+    {
+      "scholarId": "hkOj_22Ku90C",
+      "sourceTitle": "Long-term effects of deep-learning digital therapeutics on pain, movement control, and preliminary cost-effectiveness in low back pain: a randomized controlled trial",
+      "doi": "10.1177/20552076231217817",
+      "registeredTitle": "Long-term effects of deep-learning digital therapeutics on pain, movement control, and preliminary cost-effectiveness in low back pain: A randomized controlled trial",
+      "registeredYears": [
+        2023,
+        2023,
+        2023,
+        2023
+      ],
+      "registeredAuthors": [
+        "Park",
+        "Yi",
+        "Choi",
+        "Lim",
+        "Yoon",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1177%2F20552076231217817"
+    },
+    {
+      "scholarId": "hqOjcs7Dif8C",
+      "sourceTitle": "The Validity and Reliability of a Dynamic Neuromuscular Stabilization-Heel Sliding Test for Core Stability",
+      "doi": "10.1016/j.apmr.2016.08.377",
+      "registeredTitle": "The Validity and Reliability of a Dynamic Neuromuscular Stabilization-Heel Sliding Test for Core Stability",
+      "registeredYears": [
+        2016,
+        2016,
+        2016
+      ],
+      "registeredAuthors": [
+        "Cha",
+        "Lee",
+        "Kim",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.apmr.2016.08.377"
+    },
+    {
+      "scholarId": "iH-uZ7U-co4C",
+      "sourceTitle": "Long-term effects of robotic hippotherapy on dynamic postural stability in cerebral palsy",
+      "doi": "10.1080/24699322.2016.1240297",
+      "registeredTitle": "Long-term effects of robotic hippotherapy on dynamic postural stability in cerebral palsy",
+      "registeredYears": [
+        2016,
+        2016,
+        2016,
+        2016
+      ],
+      "registeredAuthors": [
+        "Cha",
+        "Stanley",
+        "Shurtleff",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1080%2F24699322.2016.1240297"
+    },
+    {
+      "scholarId": "ipzZ9siozwsC",
+      "sourceTitle": "Unveiling the underlying motor control mechanism of arm-trunk-leg coordinated humanoid exoskeletal interlimb locomotor robotic neurorehabilitation",
+      "doi": "10.1177/10538135241293279",
+      "registeredTitle": "Unveiling the underlying motor control mechanism of arm-trunk-leg coordinated humanoid exoskeletal interlimb locomotor robotic neurorehabilitation",
+      "registeredYears": [
+        2024,
+        2025,
+        2024,
+        2024
+      ],
+      "registeredAuthors": [
+        "Park",
+        "Oh",
+        "Park",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1177%2F10538135241293279"
+    },
+    {
+      "scholarId": "isC4tDSrTZIC",
+      "sourceTitle": "Abnormal synergistic gait mitigation in acute stroke using an innovative ankle–knee–hip interlimb humanoid robot: A preliminary randomized controlled trial",
+      "doi": "10.1038/s41598-021-01959-z",
+      "registeredTitle": "Abnormal synergistic gait mitigation in acute stroke using an innovative ankle–knee–hip interlimb humanoid robot: a preliminary randomized controlled trial",
+      "registeredYears": [
+        2021,
+        2021,
+        2021
+      ],
+      "registeredAuthors": [
+        "Park",
+        "Oh-Park",
+        "Bialek",
+        "Friel",
+        "Edwards",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1038%2Fs41598-021-01959-z"
+    },
+    {
+      "scholarId": "j3f4tGmQtD8C",
+      "sourceTitle": "Effects of dynamic core-postural chain stabilization on diaphragm movement, abdominal muscle thickness, and postural control in patients with subacute stroke: A randomized control trial",
+      "doi": "10.3233/nre-192983",
+      "registeredTitle": "Effects of dynamic core-postural chain stabilization on diaphragm movement, abdominal muscle thickness, and postural control in patients with subacute stroke: A randomized control trial",
+      "registeredYears": [
+        2020,
+        2020,
+        2020
+      ],
+      "registeredAuthors": [
+        "Yoon",
+        "Cha",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-192983"
+    },
+    {
+      "scholarId": "j8SEvjWlNXcC",
+      "sourceTitle": "Identifying best fall-related balance factors and robotic-assisted gait training attributes in 105 post-stroke patients using clinical machine learning models",
+      "doi": "10.3233/nre-240116",
+      "registeredTitle": "Identifying best fall-related balance factors and robotic-assisted gait training attributes in 105 post-stroke patients using clinical machine learning models",
+      "registeredYears": [
+        2024,
+        2024,
+        2024
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "Shin",
+        "Kim",
+        "Lee",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-240116"
+    },
+    {
+      "scholarId": "kNdYIx-mwKoC",
+      "sourceTitle": "Effects of trigger point pressure release on pain modulation and associated movement impairments in a patient with severe acute myofascial pain syndrome: a case report",
+      "doi": "10.1179/016911107x217518",
+      "registeredTitle": "Effects of trigger point pressure release on pain modulation and associated movement impairments in a patient with severe acute myofascial pain syndrome: a case report",
+      "registeredYears": [
+        2007,
+        2013,
+        2007,
+        2007
+      ],
+      "registeredAuthors": [
+        "Lee",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1179%2F016911107x217518"
+    },
+    {
+      "scholarId": "k_IJM867U9cC",
+      "sourceTitle": "Effectiveness of a wearable ankle-tubing gait training on ankle kinematics and motor control in hemiparetic stroke",
+      "doi": "10.3233/nre-210277",
+      "registeredTitle": "Effectiveness of a wearable ankle-tubing gait training on ankle kinematics and motor control in hemiparetic stroke",
+      "registeredYears": [
+        2022,
+        2022,
+        2022,
+        2022
+      ],
+      "registeredAuthors": [
+        "Lee",
+        "Park",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-210277"
+    },
+    {
+      "scholarId": "kuK5TVdYjLIC",
+      "sourceTitle": "Therapeutic effectiveness of specialized core mobilization exercise on cardiopulmonary function in open-heart surgery patients: A randomized control trial with single-blind study",
+      "doi": "10.1097/md.0000000000048313",
+      "registeredTitle": "Therapeutic effectiveness of specialized core mobilization exercise on cardiopulmonary function in open-heart surgery patients: A randomized control trial with single-blind study",
+      "registeredYears": [
+        2026,
+        2026,
+        2026
+      ],
+      "registeredAuthors": [
+        "Lee",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1097%2Fmd.0000000000048313"
+    },
+    {
+      "scholarId": "l7t_Zn2s7bgC",
+      "sourceTitle": "Medial reorganization of motor function demonstrated by functional MRI and diffusion tensor tractography",
+      "doi": "10.3233/rnn-2005-00299",
+      "registeredTitle": "Medial reorganization of motor function demonstrated by functional \t\t\t MRI and diffusion tensor tractography",
+      "registeredYears": [
+        2005,
+        2005,
+        2005,
+        2005
+      ],
+      "registeredAuthors": [
+        "Jang",
+        "Kwon",
+        "You",
+        "Song",
+        "Lee",
+        "Kim",
+        "Park",
+        "Cho"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Frnn-2005-00299"
+    },
+    {
+      "scholarId": "lSLTfruPkqcC",
+      "sourceTitle": "Effects of novel tubing gait on neuromuscular imbalance in cerebral palsy",
+      "doi": "10.3233/nre-141154",
+      "registeredTitle": "Effects of novel tubing gait on neuromuscular imbalance in cerebral palsy",
+      "registeredYears": [
+        2014,
+        2014,
+        2014
+      ],
+      "registeredAuthors": [
+        "Shin",
+        "Lee",
+        "Kim",
+        "Lee",
+        "You",
+        "Yi",
+        "Jeon"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-141154"
+    },
+    {
+      "scholarId": "ldfaerwXgEUC",
+      "sourceTitle": "Diffusion tensor imaging to determine the potential motor network connectivity between the involved and non-involved hemispheres in stroke",
+      "doi": "10.3233/bme-151443",
+      "registeredTitle": "Diffusion tensor imaging to determine the potential motor network connectivity between the involved and non-involved hemispheres in stroke",
+      "registeredYears": [
+        2015,
+        2015,
+        2015,
+        2015
+      ],
+      "registeredAuthors": [
+        "Lee",
+        "Shin",
+        "Lee",
+        "Cha",
+        "Kim",
+        "Han",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fbme-151443"
+    },
+    {
+      "scholarId": "lmc2jWPfTJgC",
+      "sourceTitle": "Markerless motion capture-based machine learning models for low back pain classification: a proof of concept investigation",
+      "doi": "10.1186/s12891-026-10453-4",
+      "registeredTitle": "Markerless motion capture-based machine learning models for low back pain classification: a proof of concept investigation",
+      "registeredYears": [
+        2026,
+        2026,
+        2026
+      ],
+      "registeredAuthors": [
+        "Bae",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1186%2Fs12891-026-10453-4"
+    },
+    {
+      "scholarId": "mB3voiENLucC",
+      "sourceTitle": "Block and random practice: a Wii fit dynamic balance training in older adults",
+      "doi": "10.1080/02701367.2020.1733456",
+      "registeredTitle": "Block and Random Practice: A Wii Fit Dynamic Balance Training in Older Adults",
+      "registeredYears": [
+        2021,
+        2020,
+        2020,
+        2020
+      ],
+      "registeredAuthors": [
+        "Jeon",
+        "Jeon",
+        "Yi",
+        "Kwon",
+        "You",
+        "Park"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1080%2F02701367.2020.1733456"
+    },
+    {
+      "scholarId": "mvPsJ3kp5DgC",
+      "sourceTitle": "Cortical or Subcortical Neural Networks During Dynamic Neuromuscular Core Stabilization: A fMRI Blood Oxygen-Level Dependent (BOLD) Analysis",
+      "doi": "10.1166/jmihi.2016.1880",
+      "registeredTitle": "Cortical or Subcortical Neural Networks During Dynamic Neuromuscular Core Stabilization: A fMRI Blood Oxygen-Level Dependent (BOLD) Analysis",
+      "registeredYears": [
+        2016,
+        2016,
+        2016
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "Lee",
+        "Han",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1166%2Fjmihi.2016.1880",
+      "verificationNote": "Reviewed exact title, authors and year; registered preprint/proceedings or source record without venue metadata."
+    },
+    {
+      "scholarId": "nb7KW1ujOQ8C",
+      "sourceTitle": "Lumbopelvic kinematic characteristics of golfers with limited hip rotation",
+      "doi": "10.1177/0363546514555698",
+      "registeredTitle": "Lumbopelvic Kinematic Characteristics of Golfers With Limited Hip Rotation",
+      "registeredYears": [
+        2015,
+        2014,
+        2014,
+        2014
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "You",
+        "Kwon",
+        "Yi"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1177%2F0363546514555698"
+    },
+    {
+      "scholarId": "olpn-zPbct0C",
+      "sourceTitle": "Effects of DNS on diaphragm movement, postural control, balance and gait performance in cerebral palsy",
+      "doi": "10.1016/j.apmr.2017.08.192",
+      "registeredTitle": "Effects of DNS on Diaphragm Movement, Postural Control, Balance and Gait Performance in Cerebral Palsy",
+      "registeredYears": [
+        2017,
+        2017,
+        2017
+      ],
+      "registeredAuthors": [
+        "Son",
+        "Jung",
+        "You",
+        "Yi",
+        "Jeon",
+        "Cha"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.apmr.2017.08.192"
+    },
+    {
+      "scholarId": "p2g8aNsByqUC",
+      "sourceTitle": "The concurrent validity of the body center of mass in accelerometric measurement",
+      "doi": "10.1109/iembs.2007.4352376",
+      "registeredTitle": "The Concurrent Validity of the Body Center of Mass in Accelerometric Measurement",
+      "registeredYears": [
+        2007,
+        2007,
+        2007
+      ],
+      "registeredAuthors": [
+        "Lee",
+        "Cho",
+        "You",
+        "Lee"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1109%2Fiembs.2007.4352376"
+    },
+    {
+      "scholarId": "pqnbT2bcN3wC",
+      "sourceTitle": "Neuroplastic effects of end-effector robotic gait training for hemiparetic stroke: A randomised controlled trial",
+      "doi": "10.1038/s41598-020-69367-3",
+      "registeredTitle": "Neuroplastic effects of end-effector robotic gait training for hemiparetic stroke: a randomised controlled trial",
+      "registeredYears": [
+        2020,
+        2020,
+        2020
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "Park",
+        "Shin",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1038%2Fs41598-020-69367-3"
+    },
+    {
+      "scholarId": "pyW8ca7W8N0C",
+      "sourceTitle": "Augmented effects of EMG biofeedback interfaced with virtual reality on neuromuscular control and movement coordination during reaching in children with cerebral palsy",
+      "doi": "10.3233/nre-161402",
+      "registeredTitle": "Augmented effects of EMG biofeedback interfaced with virtual reality on neuromuscular control and movement coordination during reaching in children with cerebral palsy",
+      "registeredYears": [
+        2017,
+        2017,
+        2017,
+        2017
+      ],
+      "registeredAuthors": [
+        "Yoo",
+        "Lee",
+        "Cha",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-161402"
+    },
+    {
+      "scholarId": "q3oQSFYPqjQC",
+      "sourceTitle": "Relationship Between Body Function, Structure and Activity Based on ICF Model With Cerebral Palsy",
+      "doi": "10.1016/j.apmr.2018.07.034",
+      "registeredTitle": "Relationship Between Body Function, Structure and Activity Based on ICF Model With Cerebral Palsy",
+      "registeredYears": [
+        2018,
+        2018,
+        2018
+      ],
+      "registeredAuthors": [
+        "Hwang",
+        "Cha",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.apmr.2018.07.034"
+    },
+    {
+      "scholarId": "qjMakFHDy7sC",
+      "sourceTitle": "Effects of Robot-assisted Gait With Body Weight Support on Torque, Work, and Power of Quadriceps and Hamstring Muscles in Healthy Subjects",
+      "doi": "10.12674/ptk.2021.28.3.215",
+      "registeredTitle": "Effects of Robot-assisted Gait With Body Weight Support on Torque, Work, and Power of Quadriceps and Hamstring Muscles in Healthy Subjects",
+      "registeredYears": [
+        2021,
+        2021,
+        2021
+      ],
+      "registeredAuthors": [
+        "Hwang",
+        "You",
+        "Choi",
+        "Yi"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.12674%2Fptk.2021.28.3.215"
+    },
+    {
+      "scholarId": "rO6llkc54NcC",
+      "sourceTitle": "Motor recovery mechanism of diffuse axonal injury: a combined study of transcranial magnetic stimulation and functional MRI",
+      "doi": "10.3233/rnn-2005-00288",
+      "registeredTitle": "Motor recovery mechanism of diffuse axonal injury: A combined \t\t\t study of transcranial magnetic stimulation and functional MRI",
+      "registeredYears": [
+        2005,
+        2005,
+        2005,
+        2005
+      ],
+      "registeredAuthors": [
+        "Jang",
+        "Cho",
+        "Kim",
+        "You",
+        "Kim",
+        "Kim",
+        "Yang",
+        "Son"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Frnn-2005-00288"
+    },
+    {
+      "scholarId": "roLk4NBRz8UC",
+      "sourceTitle": "Effect of stomatognathic alignment exercise on temporomandibular joint dysfunction associated with ankylosing spondylitis: A pilot study",
+      "doi": "10.3233/bmr-2008-21310",
+      "registeredTitle": "Effect of stomatognathic alignment exercise on temporomandibular joint dysfunction associated with ankylosing spondylitis: A pilot study",
+      "registeredYears": [
+        2008,
+        2008,
+        2008
+      ],
+      "registeredAuthors": [
+        "Oh",
+        "Jeon",
+        "Kwon",
+        "You",
+        "Park",
+        "Hwang",
+        "Kim"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fbmr-2008-21310"
+    },
+    {
+      "scholarId": "sSrBHYA8nusC",
+      "sourceTitle": "Accuracy of the detection of infratentorial stroke lesions using perfusion CT: an experimenter-blinded study",
+      "doi": "10.1007/s00234-010-0689-2",
+      "registeredTitle": "Accuracy of the detection of infratentorial stroke lesions using perfusion CT: an experimenter-blinded study",
+      "registeredYears": [
+        2010,
+        2010,
+        2010,
+        2010
+      ],
+      "registeredAuthors": [
+        "",
+        "Lee",
+        "You",
+        "Lee",
+        "Whang",
+        "Kim",
+        "Kim",
+        "Lee"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1007%2Fs00234-010-0689-2"
+    },
+    {
+      "scholarId": "t7zJ5fGR-2UC",
+      "sourceTitle": "ECOLOGICAL VALIDATION AND RELIABILITY OF AN AI-BASED MECHANICAL DIAGNOSIS AND THERAPY (MDT) SYSTEM FOR CHRONIC MECHANICAL LOW BACK PAIN",
+      "doi": "10.1142/s0219519424400785",
+      "registeredTitle": "ECOLOGICAL VALIDATION AND RELIABILITY OF AN AI-BASED MECHANICAL DIAGNOSIS AND THERAPY (MDT) SYSTEM FOR CHRONIC MECHANICAL LOW BACK PAIN",
+      "registeredYears": [
+        2024,
+        2024,
+        2024,
+        2024
+      ],
+      "registeredAuthors": [
+        "HAN",
+        "PARK",
+        "YOU"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1142%2Fs0219519424400785"
+    },
+    {
+      "scholarId": "tKAzc9rXhukC",
+      "sourceTitle": "Effects of instrument soft tissue mobilization on ankle movement, gait-related muscle activation, and plantar pressure distribution in limited ankle dorsiflexion syndrome",
+      "doi": "10.1016/j.apmr.2024.02.610",
+      "registeredTitle": "Effects of instrument soft tissue mobilization on ankle movement, gait-related muscle activation, and plantar pressure distribution in limited ankle dorsiflexion syndrome",
+      "registeredYears": [
+        2024,
+        2024,
+        2024
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "Kim",
+        "Kim",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.apmr.2024.02.610"
+    },
+    {
+      "scholarId": "tS2w5q8j5-wC",
+      "sourceTitle": "Effect of the abdominal draw-in manoeuvre in combination with ankle dorsiflexion in strengthening the transverse abdominal muscle in healthy young adults: a preliminary, randomised, controlled study",
+      "doi": "10.1016/j.physio.2009.09.007",
+      "registeredTitle": "Effect of the abdominal draw-in manoeuvre in combination with ankle dorsiflexion in strengthening the transverse abdominal muscle in healthy young adults: A preliminary, randomised, controlled study",
+      "registeredYears": [
+        2010,
+        2010,
+        2010
+      ],
+      "registeredAuthors": [
+        "Chon",
+        "Chang",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.physio.2009.09.007"
+    },
+    {
+      "scholarId": "tYavs44e6CUC",
+      "sourceTitle": "SELF-BALANCING ROBOTIC-ASSISTED KNEE–ANKLE–FOOT ORTHOSIS (RA-KAFO) FOR IMPROVING GAIT AND REDUCING EFFORT IN INCOMPLETE SPINAL CORD INJURY REHABILITATION: A CASE STUDY",
+      "doi": "10.1142/s021951942640035x",
+      "registeredTitle": "SELF-BALANCING ROBOTIC-ASSISTED KNEE–ANKLE–FOOT ORTHOSIS (RA-KAFO) FOR IMPROVING GAIT AND REDUCING EFFORT IN INCOMPLETE SPINAL CORD INJURY REHABILITATION: A CASE STUDY",
+      "registeredYears": [
+        2026,
+        2026,
+        2026,
+        2026
+      ],
+      "registeredAuthors": [
+        "PARK",
+        "KIM",
+        "PARK",
+        "CHO",
+        "CHOI",
+        "PARK",
+        "LEE",
+        "CHOI",
+        "KIM",
+        "YOU"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1142%2Fs021951942640035x"
+    },
+    {
+      "scholarId": "tkaPQYYpVKoC",
+      "sourceTitle": "Poster 60: The Validity and Reliability of the Motor Point Detection System: A Preliminary Investigation of Motor Points of the Triceps Surae Muscles",
+      "doi": "10.1016/j.apmr.2008.08.087",
+      "registeredTitle": "Poster 60: The Validity and Reliability of the Motor Point Detection System: A Preliminary Investigation of Motor Points of the Triceps Surae Muscles",
+      "registeredYears": [
+        2008,
+        2008,
+        2008
+      ],
+      "registeredAuthors": [
+        "Lee",
+        "You",
+        "Park",
+        "Myoung"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.apmr.2008.08.087"
+    },
+    {
+      "scholarId": "tzM49s52ZIMC",
+      "sourceTitle": "Effects of homologous instrument assisted mobilization (HIM) on ankle movement, gait-related muscle activation, and plantar pressure distribution in ankle dorsiflexion syndrome: A randomized single control trial",
+      "doi": "10.3233/thc-248045",
+      "registeredTitle": "Effects of Homologous instrument assisted mobilization (HIM) on ankle movement, gait-related muscle activation, and plantar pressure distribution in ankle dorsiflexion syndrome: A randomized single control trial",
+      "registeredYears": [
+        2024,
+        2024,
+        2024,
+        2024
+      ],
+      "registeredAuthors": [
+        "Park",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fthc-248045"
+    },
+    {
+      "scholarId": "u-x6o8ySG0sC",
+      "sourceTitle": "Optimal intervention timing for robotic-assisted gait training in hemiplegic stroke",
+      "doi": "10.3390/brainsci12081058",
+      "registeredTitle": "Optimal Intervention Timing for Robotic-Assisted Gait Training in Hemiplegic Stroke",
+      "registeredYears": [
+        2022,
+        2022,
+        2022
+      ],
+      "registeredAuthors": [
+        "Xie",
+        "Yoon",
+        "Park",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3390%2Fbrainsci12081058"
+    },
+    {
+      "scholarId": "u5HHmVD_uO8C",
+      "sourceTitle": "Cortical reorganization and associated functional motor recovery after virtual reality in patients with chronic stroke: an experimenter-blind preliminary study",
+      "doi": "10.1016/j.apmr.2005.04.015",
+      "registeredTitle": "Cortical Reorganization and Associated Functional Motor Recovery After Virtual Reality in Patients With Chronic Stroke: An Experimenter-Blind Preliminary Study",
+      "registeredYears": [
+        2005,
+        2005,
+        2005
+      ],
+      "registeredAuthors": [
+        "Jang",
+        "You",
+        "Hallett",
+        "Cho",
+        "Park",
+        "Cho",
+        "Lee",
+        "Kim"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.apmr.2005.04.015"
+    },
+    {
+      "scholarId": "u9iWguZQMMsC",
+      "sourceTitle": "Comparative effects of community-based family-child-centered care and conventional pediatric rehabilitation for cerebral palsy",
+      "doi": "10.3233/nre-210219",
+      "registeredTitle": "Comparative effects of community-based family-child-centered care and conventional pediatric rehabilitation for cerebral palsy",
+      "registeredYears": [
+        2021,
+        2021,
+        2021
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "Park",
+        "Jeon",
+        "Choi",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-210219"
+    },
+    {
+      "scholarId": "uWQEDVKXjbEC",
+      "sourceTitle": "Comparative effects of robotic-assisted gait training combined with conventional physical therapy on paretic hip joint stiffness and kinematics between subacute and chronic hemiparetic stroke",
+      "doi": "10.3233/nre-172234",
+      "registeredTitle": "Comparative effects of robotic-assisted gait training combined with conventional physical therapy on paretic hip joint stiffness and kinematics between subacute and chronic hemiparetic stroke",
+      "registeredYears": [
+        2018,
+        2018,
+        2018,
+        2018
+      ],
+      "registeredAuthors": [
+        "Park",
+        "Shin",
+        "You",
+        "Park"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fnre-172234"
+    },
+    {
+      "scholarId": "u_35RYKgDlwC",
+      "sourceTitle": "Ipsilateral motor pathway confirmed by diffusion tensor tractography in a patient with schizencephaly",
+      "doi": "10.1097/00001756-200408260-00013",
+      "registeredTitle": "Ipsilateral motor pathway confirmed by diffusion tensor tractography in a patient with schizencephaly",
+      "registeredYears": [
+        2004,
+        2004,
+        2004
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "Jang",
+        "Han",
+        "Kwon",
+        "You",
+        "Byun",
+        "Park",
+        "Yoo"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1097%2F00001756-200408260-00013"
+    },
+    {
+      "scholarId": "uc_IGeMz5qoC",
+      "sourceTitle": "Augmented effect of combined robotic assisted gait training and proprioceptive neuromuscular facilitation-irradiation technique on muscle activation and ankle kinematics in hemiparetic gait: A preliminary study",
+      "doi": "10.1177/10538135241296733",
+      "registeredTitle": "Augmented Effect of Combined Robotic Assisted Gait Training and Proprioceptive Neuromuscular Facilitation-irradiation Technique on Muscle Activation and Ankle Kinematics in Hemiparetic Gait: A Preliminary Study",
+      "registeredYears": [
+        2025,
+        2024,
+        2024,
+        2024
+      ],
+      "registeredAuthors": [
+        "Yoon",
+        "Park",
+        "Oh",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1177%2F10538135241296733"
+    },
+    {
+      "scholarId": "ufrVoPGSRksC",
+      "sourceTitle": "Best core stabilization exercise to facilitate subcortical neuroplasticity: A functional MRI neuroimaging study",
+      "doi": "10.3233/thc-171051",
+      "registeredTitle": "Best core stabilization exercise to facilitate subcortical neuroplasticity: A functional MRI neuroimaging study",
+      "registeredYears": [
+        2018,
+        2018,
+        2018
+      ],
+      "registeredAuthors": [
+        "Kim",
+        "Lee",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fthc-171051"
+    },
+    {
+      "scholarId": "vV6vV6tmYwMC",
+      "sourceTitle": "The relationships between intra-abdominal echogenicity, cardiometabolic risk factors and physical performance in obese children",
+      "doi": "10.3233/bme-141097",
+      "registeredTitle": "The relationships between intra-abdominal echogenicity, cardiometabolic risk factors and physical performance in obese children",
+      "registeredYears": [
+        2014,
+        2014,
+        2014,
+        2014
+      ],
+      "registeredAuthors": [
+        "Yoo",
+        "Lee",
+        "Kim",
+        "Cho",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fbme-141097"
+    },
+    {
+      "scholarId": "wbdj-CoPYUoC",
+      "sourceTitle": "Use of the novel myokinetic stretching technique to ameliorate fibrotic mass in congenital muscular torticollis: an experimenter-blinded study with 1-year follow-up",
+      "doi": "10.3233/bmr-2010-0251",
+      "registeredTitle": "Use of the novel myokinetic stretching technique to ameliorate fibrotic mass in congenital muscular torticollis: An experimenter-blinded study with 1-year follow-up",
+      "registeredYears": [
+        2010,
+        2010,
+        2010
+      ],
+      "registeredAuthors": [
+        "Chon",
+        "Yoon",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3233%2Fbmr-2010-0251"
+    },
+    {
+      "scholarId": "xtRiw3GOFMkC",
+      "sourceTitle": "Best core stabilization for anticipatory postural adjustment and falls in hemiparetic stroke",
+      "doi": "10.1016/j.apmr.2018.01.027",
+      "registeredTitle": "Best Core Stabilization for Anticipatory Postural Adjustment and Falls in Hemiparetic Stroke",
+      "registeredYears": [
+        2018,
+        2018,
+        2018
+      ],
+      "registeredAuthors": [
+        "Lee",
+        "You",
+        "Yi",
+        "Jeon",
+        "Choi",
+        "Lee",
+        "Park",
+        "Lee",
+        "Ryu",
+        "Yoon"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.apmr.2018.01.027"
+    },
+    {
+      "scholarId": "yB1At4FlUx8C",
+      "sourceTitle": "Concurrent validity and test reliability of the deep learning markerless motion capture system during the overhead squat",
+      "doi": "10.1038/s41598-024-79707-2",
+      "registeredTitle": "Concurrent validity and test reliability of the deep learning markerless motion capture system during the overhead squat",
+      "registeredYears": [
+        2024,
+        2024,
+        2024
+      ],
+      "registeredAuthors": [
+        "Bae",
+        "Lee",
+        "Bak",
+        "Kim",
+        "Ha",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1038%2Fs41598-024-79707-2"
+    },
+    {
+      "scholarId": "ye4kPcJQO24C",
+      "sourceTitle": "The effectiveness of a multimodal brain empowerment program in mild cognitive impairment: a single-blind, quasi-randomized experimental study",
+      "doi": "10.3390/jcm12154895",
+      "registeredTitle": "The Effectiveness of a Multimodal Brain Empowerment Program in Mild Cognitive Impairment: A Single-Blind, Quasi-Randomized Experimental Study",
+      "registeredYears": [
+        2023,
+        2023,
+        2023
+      ],
+      "registeredAuthors": [
+        "Oh",
+        "Park",
+        "Hallett",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.3390%2Fjcm12154895"
+    },
+    {
+      "scholarId": "zLWjf1WUPmwC",
+      "sourceTitle": "ENHANCEMENT OF SOCIAL INTEGRATION IN 192 INDIVIDUALS WITH WALKING DISABILITIES BY REHABILITATION ROBOTS",
+      "doi": "10.1142/s0219519425400263",
+      "registeredTitle": "ENHANCEMENT OF SOCIAL INTEGRATION IN 192 INDIVIDUALS WITH WALKING DISABILITIES BY REHABILITATION ROBOTS",
+      "registeredYears": [
+        2025,
+        2025,
+        2025,
+        2025
+      ],
+      "registeredAuthors": [
+        "LEE",
+        "PARK",
+        "SHIN",
+        "KIM",
+        "KIM",
+        "CHOI",
+        "LEE",
+        "NOH",
+        "YOU",
+        "PARK"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1142%2Fs0219519425400263"
+    },
+    {
+      "scholarId": "zYLM7Y9cAGgC",
+      "sourceTitle": "Comparative Effectiveness of Robot-interactive Gait Training With and Without Ankle Robotic Control in Patients with Brain Damage",
+      "doi": "10.1016/j.apmr.2022.01.087",
+      "registeredTitle": "Comparative Effectiveness of Robot-interactive Gait Training With and Without Ankle Robotic Control in Patients with Brain Damage",
+      "registeredYears": [
+        2022,
+        2022,
+        2022
+      ],
+      "registeredAuthors": [
+        "Park",
+        "You",
+        "Oh"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.apmr.2022.01.087"
+    },
+    {
+      "scholarId": "z_wVstp3MssC",
+      "sourceTitle": "Effects of isolated shoulder versus core-shoulder chain exercises on motor control and isokinetic torque in baseball pitchers with shoulder impingement syndrome: A single-blinded randomized controlled trial",
+      "doi": "10.1080/02640414.2024.2391205",
+      "registeredTitle": "Effects of isolated shoulder versus core-shoulder chain exercises on motor control and isokinetic torque in baseball pitchers with shoulder impingement syndrome: A single-blinded randomized controlled trial",
+      "registeredYears": [
+        2024,
+        2024,
+        2024,
+        2024
+      ],
+      "registeredAuthors": [
+        "Choi",
+        "Kwon",
+        "Choi",
+        "You"
+      ],
+      "metadataUrl": "https://api.crossref.org/works/10.1080%2F02640414.2024.2391205"
+    }
+  ]
+}

@@ -2,11 +2,15 @@
 import type { CollectionEntry } from 'astro:content';
 interface Props { pubs: CollectionEntry<'publications'>[]; filterable?: boolean; }
 const { pubs, filterable = false } = Astro.props;
+function titleLink(pub: CollectionEntry<'publications'>) {
+  if (pub.data.doi) return `https://doi.org/${pub.data.doi}`;
+  return undefined;
+}
 ---
 <ol class="pub-list">
   {pubs.map(pub => (
     <li class="pub-item" data-publication={filterable ? true : undefined} data-search={`${pub.data.title} ${pub.data.authors.join(' ')} ${pub.data.journal}`.toLowerCase()} data-year={pub.data.year ?? ''} data-areas={pub.data.areas.join(' ')}>
-      <h3>{pub.data.url ? <a href={pub.data.url}>{pub.data.title}</a> : pub.data.title}</h3>
+      <h3>{titleLink(pub) ? <a href={titleLink(pub)}>{pub.data.title}</a> : pub.data.title}</h3>
       {pub.data.authors.length > 0 && <p class="pub-authors">{pub.data.authors.join(', ')}{pub.data.authorListIncomplete && ', et al.'}</p>}
       <p class="pub-venue">{pub.data.forthcoming && <span class="pub-status">Forthcoming · {pub.data.publicationDate}</span>}{[pub.data.journal, pub.data.year].filter(Boolean).join(' · ')}</p>
       {(pub.data.doi || pub.data.pdf || pub.data.scholarUrl) && <div class="pub-links">{pub.data.doi && <a href={`https://doi.org/${pub.data.doi}`}>DOI</a>}{pub.data.pdf && <a href={pub.data.pdf}>PDF</a>}{pub.data.scholarUrl && <a href={pub.data.scholarUrl}>Scholar record</a>}</div>}
