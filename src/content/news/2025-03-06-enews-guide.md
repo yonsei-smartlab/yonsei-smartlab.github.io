@@ -1,5 +1,5 @@
 ---
-title: "Clinical guide for community robotic rehabilitation"
+title: "Hwaseong Special City presents tailored rehabilitation service model in new robotic rehabilitation handbook"
 originalTitle: "화성특례시, 맞춤형 재활 서비스 모델 제시···로봇재활 실무서 발간"
 date: "2025-03-06"
 source: "ENewsToday · 이뉴스투데이"

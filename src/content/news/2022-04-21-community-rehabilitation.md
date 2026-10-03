@@ -1,5 +1,5 @@
 ---
-title: "Robotic rehabilitation and community care in Hwaseong"
+title: "Hwaseong holds online and in-person forum to present robotic and smart rehabilitation results"
 originalTitle: "화성시, 로봇 · 스마트 재활 온·오프라인 성과보고회 개최"
 date: "2022-04-21"
 source: "Aju Business Daily · 아주경제"

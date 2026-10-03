@@ -1,5 +1,5 @@
 ---
-title: "Hwaseong publishes a robotic rehabilitation clinical guide"
+title: "Hwaseong Special City publishes robotic rehabilitation handbook"
 originalTitle: "화성특례시, 로봇재활 실무서 발간"
 date: "2025-03-06"
 source: "Metro Seoul · 메트로신문"

@@ -1,5 +1,5 @@
 ---
-title: "Hwaseong publishes a robotic rehabilitation clinical guide"
+title: "Hwaseong Special City publishes robotic rehabilitation clinical guidelines to improve disability rehabilitation services"
 originalTitle: "화성특례시, 로봇재활 임상지침서 발간 장애인 재활서비스 혁신"
 date: "2025-03-06"
 source: "Bridge Economy · 브릿지경제"

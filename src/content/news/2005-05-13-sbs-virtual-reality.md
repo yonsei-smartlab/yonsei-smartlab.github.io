@@ -1,5 +1,5 @@
 ---
-title: "Virtual reality research for stroke rehabilitation"
+title: "Video games found effective in stroke treatment"
 originalTitle: "비디오 게임, 뇌졸중 치료에 효과"
 date: "2005-05-13"
 source: "SBS"

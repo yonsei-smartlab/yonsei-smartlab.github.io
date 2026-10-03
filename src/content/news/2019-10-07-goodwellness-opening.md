@@ -1,5 +1,5 @@
 ---
-title: "Yonsei GOODWELLNESS Center opens in Heungeop"
+title: "Yonsei GOODWELLNESS Center holds relocation and opening ceremony"
 originalTitle: "연세굿웰니스센터 이전·개소식"
 date: "2019-10-07"
 source: "Wonju Today · 원주투데이"

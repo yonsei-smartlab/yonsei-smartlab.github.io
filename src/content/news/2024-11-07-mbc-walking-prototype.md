@@ -1,5 +1,5 @@
 ---
-title: "Yonsei walking-assistance robot prototype featured on MBC"
+title: "Yonsei Mirae Campus develops AI-powered autonomous walking-assistance robot"
 originalTitle: "2024. 11. 7 [원주MBC] 연대 미래캠, AI 자율보행 보조로봇 개발"
 date: "2024-11-07"
 source: "Wonju MBC · 원주MBC"

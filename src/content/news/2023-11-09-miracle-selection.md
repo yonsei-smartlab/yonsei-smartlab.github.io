@@ -1,5 +1,5 @@
 ---
-title: "MIRACLE walking robotics centre selected for research support"
+title: "Yonsei Mirae Campus selected for Ministry of Science and ICT’s leading research center program"
 originalTitle: "연세대학교 미래캠퍼스, 과학기술정보통신부 선도연구센터 선정"
 date: "2023-11-09"
 source: "Wonju Newspaper · 원주신문"

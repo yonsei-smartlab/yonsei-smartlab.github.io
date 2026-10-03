@@ -1,5 +1,5 @@
 ---
-title: "Rehabilitation robotics at Yonsei’s AI and neurological disease symposium"
+title: "AI and Big Data Medical Center holds third regular symposium"
 originalTitle: "인공지능 빅데이터 의학센터 3차 정기 심포지엄 개최"
 date: "2017-12-22"
 source: "Medical Today · 메디컬투데이"

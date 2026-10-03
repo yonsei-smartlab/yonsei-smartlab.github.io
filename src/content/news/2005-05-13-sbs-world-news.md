@@ -1,5 +1,5 @@
 ---
-title: "Stroke rehabilitation research featured in SBS World News"
+title: "World news roundup: tiger cub nursed by a woman dies"
 originalTitle: "사람 젖 먹고 자라던 새끼 호랑이 숨져"
 date: "2005-05-13"
 source: "SBS"

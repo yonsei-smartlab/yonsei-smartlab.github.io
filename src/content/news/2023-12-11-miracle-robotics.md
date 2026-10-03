@@ -1,5 +1,5 @@
 ---
-title: "Miracle walking-assistance robotics centre opens at Yonsei"
+title: "Developing autonomous walking-assistance robots for children, older adults and people with disabilities"
 originalTitle: "소아·노인·장애인 위한 자율주행 보행보조로봇 개발"
 date: "2023-12-11"
 source: "Wonju Today · 원주투데이"

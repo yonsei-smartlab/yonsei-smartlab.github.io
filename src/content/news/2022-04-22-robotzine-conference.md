@@ -1,5 +1,5 @@
 ---
-title: "Robotic rehabilitation and integrated community care in Hwaseong"
+title: "Hwaseong holds forum to present robotic and smart rehabilitation results"
 originalTitle: "화성시, 로봇 및 스마트 재활 성과보고회 개최"
 date: "2022-04-22"
 source: "Monthly Robot Technology · 월간로봇기술"

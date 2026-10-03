@@ -1,5 +1,5 @@
 ---
-title: "Expert review for Hwaseong’s robotic rehabilitation guide"
+title: "Hwaseong publishes robotic rehabilitation clinical guidelines covering concepts and service examples"
 originalTitle: "화성시, '로봇재활 임상지침서' 발간…개념·운영 사례 담아"
 date: "2025-03-06"
 source: "The Fact · 더팩트"

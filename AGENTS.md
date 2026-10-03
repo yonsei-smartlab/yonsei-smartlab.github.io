@@ -33,6 +33,7 @@ This repository is the editable source for the Yonsei SMART Lab website. The Pro
 - Keep copy brief and factual. Avoid narration of the interface, repeated explanations of addresses/maps, and filler sentences. Use concise headings, factual content, and useful links.
 - SMART Lab is the main identity in general site copy, research, recruitment, and news-page introductions. Refer to Professor You by name only when the content specifically concerns him, such as his biography, office contact, authorship, or an individual reported activity. Do not replace personal actions or qualifications with claims about the lab.
 - News entries need original-source links, dates, short original summaries, and confirmation that the person is the Yonsei Professor. News discovery results are candidates, never automatically published.
+- English news titles must be natural, faithful translations of each original Korean headline. Preserve the article's main subject and any roundup or schedule context; do not substitute generic research labels or the Professor's minor contribution for the actual headline. Reports with the same source headline may have the same English translation. Keep lab relevance in the summary.
 
 ## Cost and hosting
 

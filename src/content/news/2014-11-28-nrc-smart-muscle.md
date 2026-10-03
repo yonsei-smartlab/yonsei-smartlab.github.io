@@ -1,5 +1,5 @@
 ---
-title: "Professor You’s smart muscle seminar"
+title: "Eighth and ninth rehabilitation research seminars scheduled for March 11–12, 2010"
 originalTitle: "제8,9회 재활연구 세미나 개최(´10.3.11,12)"
 date: "2014-11-28"
 source: "National Rehabilitation Center · 국립재활원"

@@ -1,5 +1,5 @@
 ---
-title: "Professor You discusses stroke on KTV"
+title: "Winter stroke risks: act within the critical treatment window"
 originalTitle: "겨울에 더욱 조심해야 하는 뇌졸중! 뇌졸중 골든타임을 지켜라! [KTV 생활&정책]"
 date: "2023-12-07"
 source: "KTV · 국민방송"
