@@ -65,3 +65,5 @@ This repository is the editable source for the Yonsei SMART Lab website. The Pro
 - Professor biography order: Appointments, Education, Awards, Editorial and professional service, Clinical and sports experience, Books and translations, Selected presentations, Qualifications and advanced training, Research training. The Professor page omits Teaching. Detailed specialties belong on Research, not duplicated on Professor. Use the shared CSS reading rhythm: 20px between paragraphs and 24px before lists/after headings, with compact metadata exceptions.
 
 - Both sites use English as the primary interface language, the shared Paperlogy type scale, and parallel contact/footer formatting. English addresses and bus-stop names appear first; retain Korean as secondary local text on Contact. Preserve original Korean source headlines/records and supplied alumni names. Use international telephone formatting on both sites.
+
+- Use Gangwon-do in English addresses on both sites, as requested by the user; do not use Gangwon State.

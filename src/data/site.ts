@@ -18,7 +18,7 @@ export const site = {
   email: 'neurorehab@yonsei.ac.kr',
   phone: '+82-33-760-2476',
   fax: '+82-33-760-2496',
-  address: ['Room 233, Baekun Hall', '1 Yonseidae-gil, Wonju-si, Gangwon State 26493', 'Republic of Korea'],
+  address: ['Room 233, Baekun Hall', '1 Yonseidae-gil, Wonju-si, Gangwon-do 26493', 'Republic of Korea'],
   koreanAddress: '26493 강원특별자치도 원주시 연세대길 1 백운관 233호',
   map: {
     label: 'Baekun Hall (백운관)',
