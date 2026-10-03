@@ -6,7 +6,7 @@ import { getNewsStories } from '../src/lib/news-stories.ts';
 
 const root = resolve('dist');
 const expectedNav = ['Home', 'Professor', 'Members', 'Research', 'Publications', 'Grants & IP', 'News', 'Contact'];
-const expectedCenterNav = ['Home', 'About', 'RoboGym', 'Research & Education', 'Contact'];
+const expectedCenterNav = ['Home', 'About', 'Rehabilitation Robotics', 'Research & Education', 'Contact'];
 const issues = [];
 async function htmlFiles(dir) {
   const files = [];
@@ -41,7 +41,7 @@ for (const page of await htmlFiles(root)) {
   for (const match of html.matchAll(/(?:href|src)="([^"]+)"/g)) {
     const value = match[1].replaceAll('&amp;', '&');
     if (/^(https?:|mailto:|tel:|data:)/.test(value)) {
-      if (value.startsWith('tel:') && value !== 'tel:+82-33-760-2476') issues.push(`${pageName}: unapproved telephone link`);
+      if (value.startsWith('tel:') && value !== (pageName.startsWith('goodwellness/') ? 'tel:+82-33-765-2861' : 'tel:+82-33-760-2476')) issues.push(`${pageName}: unapproved telephone link`);
       if (/^https?:/.test(value) && /src=/.test(match[0])) {
         const external = new URL(value);
         const approvedMap = pageName === join('contact', 'index.html')

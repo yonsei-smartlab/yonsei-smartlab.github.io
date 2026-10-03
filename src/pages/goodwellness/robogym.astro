@@ -4,11 +4,11 @@ import PageHeader from '../../components/PageHeader.astro';
 import PlaceholderImage from '../../components/PlaceholderImage.astro';
 import { goodwellness as center } from '../../data/goodwellness';
 ---
-<BaseLayout section="goodwellness" title="RoboGym">
-  <PageHeader title="Inside RoboGym" description="Rehabilitation robotics in community clinical practice." />
+<BaseLayout section="goodwellness" title="Rehabilitation Robotics">
+  <PageHeader title="Rehabilitation robotics" description="Rehabilitation robotics in community clinical practice." />
   <section class="section"><div class="container-page">
-    <div class="center-overview"><div><h2>A clinical robot gym</h2></div><div><p>RoboGym combines rehabilitation robotics expertise with hands-on clinical experience. Robotic systems are applied with real participants, connecting technology, assessment, and clinical practice.</p></div></div>
+    <div class="center-overview"><div><h2>A clinical robot gym</h2></div><div><p>The center combines rehabilitation robotics expertise with hands-on clinical experience. Robotic systems are applied with real participants, connecting technology, assessment, and clinical practice.</p></div></div>
     <div class="center-card-grid center-technology-grid">{center.technologies.map(technology => <article class="center-card"><h3>{technology.title}</h3><p>{technology.description}</p></article>)}</div>
-    <div class="center-photo-section"><PlaceholderImage label="RoboGym equipment photograph" aspect="photo" /><div><h2>Hands-on learning</h2><p>Students, clinicians, researchers, and engineers encounter advanced rehabilitation technologies, including exoskeletons, wearable robotics, and emerging robotic systems, in a community setting.</p><a class="text-link" href="/goodwellness/research-education/">Research and education <span aria-hidden="true">→</span></a></div></div>
+    <div class="center-photo-section"><PlaceholderImage label="Rehabilitation equipment photograph" aspect="photo" /><div><h2>Hands-on learning</h2><p>Students, clinicians, researchers, and engineers encounter advanced rehabilitation technologies, including exoskeletons, wearable robotics, and emerging robotic systems, in a community setting.</p><a class="text-link" href="/goodwellness/research-education/">Research and education <span aria-hidden="true">→</span></a></div></div>
   </div></section>
 </BaseLayout>

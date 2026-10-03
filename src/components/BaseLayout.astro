@@ -8,8 +8,8 @@ interface Props { title?: string; description?: string; section?: 'lab' | 'goodw
 const { title, description: suppliedDescription, section = 'lab' } = Astro.props;
 const identity = section === 'goodwellness' ? goodwellness : site;
 const themeColor = section === 'goodwellness' ? '#7b233e' : '#003477';
-const description = suppliedDescription ?? `${identity.fullName} at ${site.university}. ${identity.description}`;
-const pageTitle = title ? `${title} | ${identity.name}` : `${identity.name} | ${site.university}`;
+const description = suppliedDescription ?? `${identity.fullName}${section === 'lab' ? ` at ${site.university}` : ''}. ${identity.description}`;
+const pageTitle = title ? `${title} | ${identity.name}` : (section === 'goodwellness' ? identity.name : `${identity.name} | ${site.university}`);
 const canonical = new URL(Astro.url.pathname, site.url).href;
 ---
 <!doctype html>
@@ -21,7 +21,7 @@ const canonical = new URL(Astro.url.pathname, site.url).href;
     <meta name="theme-color" content={themeColor} />
     <title>{pageTitle}</title>
     <link rel="canonical" href={canonical} />
-    <link rel="icon" type="image/svg+xml" href={section === 'goodwellness' ? '/goodwellness-favicon.svg' : '/favicon.svg'} />
+    <link rel="icon" type="image/svg+xml" href="/yonsei-favicon.svg" />
     <meta property="og:title" content={pageTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />

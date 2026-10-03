@@ -1,5 +1,5 @@
 export const goodwellness = {
-  name: 'Yonsei RoboGym',
+  name: 'Yonsei GOODWELLNESS Center',
   headerName: 'GOODWELLNESS Center',
   fullName: 'Yonsei GOODWELLNESS Center',
   koreanName: '연세굿웰니스센터',
@@ -19,10 +19,16 @@ export const goodwellness = {
   nav: [
     { label: 'Home', href: '/goodwellness/' },
     { label: 'About', href: '/goodwellness/about/' },
-    { label: 'RoboGym', href: '/goodwellness/robogym/' },
+    { label: 'Rehabilitation Robotics', href: '/goodwellness/robogym/' },
     { label: 'Research & Education', href: '/goodwellness/research-education/' },
     { label: 'Contact', href: '/goodwellness/contact/' },
   ],
   images: { gymPhoto: '', gymPhotoAlt: '' },
-  contact: { address: '[Center address]', hours: '[Service hours]' },
+  contact: {
+    roadAddress: '강원특별자치도 원주시 흥업면 남원로 52',
+    lotAddress: '강원특별자치도 원주시 흥업면 흥업리 1841',
+    phone: '033-765-2861',
+    phoneHref: '+82-33-765-2861',
+    hours: '[Service hours]',
+  },
 };

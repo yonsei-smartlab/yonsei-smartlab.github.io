@@ -6,13 +6,13 @@ Navigation: **Home · Professor · Members · Research · Publications · Grants
 
 The current affiliation, confirmed by the user, is Yonsei University (연세대학교), College of Health Sciences (보건과학대학), Department of Physical Therapy (물리치료학과). The Professor page displays this hierarchy in both languages. Specialties are grouped into neuromodulation, robotic rehabilitation, virtual reality/neurophysiology, manual therapy/stabilization, and sports medicine using the supplied business-card content.
 
-## GOODWELLNESS Center / Yonsei RoboGym
+## Yonsei GOODWELLNESS Center
 
-The shared header links SMART Lab and GOODWELLNESS Center. The center has five independent pages at `/goodwellness/`: Home, About, RoboGym, Research & Education, and Contact. It shares the static hosting, layout, and Paperlogy font. SMART Lab retains Yonsei navy (#003477); the center uses burgundy (#7b233e), red accents (#a83855), the same neutral gray surfaces (#f8f8f8) as SMART Lab, and a dark burgundy footer (#32121e). SMART Lab uses a matching dark navy footer (#071c38). Both sites share neutral text, borders, image frames, typography, and spacing; theme accents and footer backgrounds follow the corresponding site color. Header site links retain their own colors on both sites. Page themes are scoped by the HTML `data-site` attribute in `src/styles/global.css`. Edit center content in `src/data/goodwellness.ts` and `src/pages/goodwellness/`.
+The shared header links SMART Lab and GOODWELLNESS Center. The center has five independent pages at `/goodwellness/`: Home, About, Rehabilitation Robotics, Research & Education, and Contact. It shares the static hosting, layout, and Paperlogy font. SMART Lab retains Yonsei navy (#003477); the center uses burgundy (#7b233e), red accents (#a83855), the same neutral gray surfaces (#f8f8f8) as SMART Lab, and a dark burgundy footer (#32121e). SMART Lab uses a matching dark navy footer (#071c38). Both sites share neutral text, borders, image frames, typography, and spacing; theme accents and footer backgrounds follow the corresponding site color. Header site links retain their own colors on both sites. Page themes are scoped by the HTML `data-site` attribute in `src/styles/global.css`. Edit center content in `src/data/goodwellness.ts` and `src/pages/goodwellness/`.
 
 The user supplied the center description on October 3, 2026, including the world-first community-based robot rehabilitation gym identity, Wonju City support, life-span services, rehabilitation technologies, and 50+ SCI-indexed publications. Approximately 10,000 annual users is specifically a 2023 figure; it is not presented as a current figure or changed to 10,000+. The founding date, priority evidence, participant-count basis, and exact SCI publication set have not been independently established. Do not invent corroborating sources or infer the center publication set from the Professor’s Scholar bibliography. These review notes stay in repository documentation.
 
-Center photographs, visitor address, and service hours await supplied details. University email and office telephone are labelled as university enquiries. Baekun Hall Room 233 and its map are not used as the RoboGym visitor location. No additional service, hosting charge, or domain is required.
+The center’s sole name is Yonsei GOODWELLNESS Center, as corrected by the user on October 3, 2026. Its supplied road address is 강원특별자치도 원주시 흥업면 남원로 52, lot address is 강원특별자치도 원주시 흥업면 흥업리 1841, and telephone is 033-765-2861. Center pages use these details and omit university affiliation, university enquiries and the Community footer block. Photographs and service hours await supplied details. Both websites use the supplied Yonsei emblem as their browser tab icon. No additional service, hosting charge, or domain is required.
 
 ## Updating the website through this chat
 
@@ -29,7 +29,7 @@ Describe the change and provide the real text, publication details, or photos. T
 | Content | Location |
 | --- | --- |
 | Lab name, introduction, affiliation, address, recruitment, navigation | `src/data/site.ts` |
-| GOODWELLNESS Center / Yonsei RoboGym | `src/data/goodwellness.ts`, `src/pages/goodwellness/` |
+| Yonsei GOODWELLNESS Center | `src/data/goodwellness.ts`, `src/pages/goodwellness/` |
 | Research areas | `src/content/research/*.md` |
 | Grants and import reconciliation | `src/data/grants.json`, `src/data/grant-import.json` |
 | Registered patents and import reconciliation | `src/data/patents.json`, `src/data/patent-import.json` |
