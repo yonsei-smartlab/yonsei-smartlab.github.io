@@ -3,6 +3,7 @@ import { site } from '../data/site';
 import { goodwellness } from '../data/goodwellness';
 import { peopleNavigation } from '../data/people-navigation';
 import { researchNavigation } from '../data/research-navigation';
+import { publicationsNavigation } from '../data/publications-navigation';
 interface Props { section?: 'lab' | 'goodwellness'; }
 const { section = 'lab' } = Astro.props;
 const isCenter = section === 'goodwellness';
@@ -26,7 +27,7 @@ const current = Astro.url.pathname.replace(/\/$/, '') || '/';
         const path = item.href.replace(/\/$/, '') || '/';
         const home = isCenter ? goodwellness.home.replace(/\/$/, '') : '/';
         const active = path === home ? current === home : current === path || current.startsWith(path + '/') || (!isCenter && path === '/research' && current === '/training');
-        const submenuLinks = !isCenter && path === '/research' ? researchNavigation.map(link => ({ label: link.dropdownLabel, href: link.href })) : !isCenter && path === '/people' ? peopleNavigation : [];
+        const submenuLinks = !isCenter && path === '/research' ? researchNavigation.map(link => ({ label: link.dropdownLabel, href: link.href })) : !isCenter && path === '/people' ? peopleNavigation : !isCenter && path === '/publications' ? publicationsNavigation : [];
         const hasSubmenu = submenuLinks.length > 0;
         const submenuId = `${item.label.toLowerCase()}-submenu`;
         return <li class:list={{ 'nav-dropdown': hasSubmenu }}>

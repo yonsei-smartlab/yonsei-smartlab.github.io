@@ -159,7 +159,15 @@ const cvPublicationImport = JSON.parse(await readFile('src/data/cv-publication-i
 const importSummary = JSON.parse(await readFile('src/data/publication-import.json', 'utf8'));
 if ([...publicationHtml.matchAll(/data-publication(?:=|\s|>)/g)].length !== importSummary.publishedCount + cvPublicationImport.publishedCount) issues.push('Rendered publication count differs from the reviewed Scholar snapshot');
 const books = JSON.parse(await readFile('src/data/books.json', 'utf8'));
-if ([...publicationHtml.matchAll(/data-book(?:=|\s|>)/g)].length !== books.length) issues.push('Books and translations do not reconcile');
+const booksHtml = await readFile(join(root, 'publications/books/index.html'), 'utf8');
+if ([...booksHtml.matchAll(/data-book(?:=|\s|>)/g)].length !== books.length) issues.push('Books and translations do not reconcile');
+if (/data-book(?:=|\s|>)/.test(publicationHtml) || /data-publication(?:=|\s|>)/.test(booksHtml)) issues.push('Publications and books must use separate pages');
+for (const [html, route] of [[publicationHtml, '/publications/'], [booksHtml, '/publications/books/']]) {
+  const subnav = html.match(/<nav[^>]*aria-label="Publications navigation"[^>]*>([\s\S]*?)<\/nav>/)?.[1] ?? '';
+  const labels = [...subnav.matchAll(/<a\b[^>]*>([^<]+)<\/a>/g)].map(match => match[1]);
+  if (labels.join(',') !== 'Publications,Books and translations') issues.push(`${route}: incorrect Publications navigation`);
+  if (!subnav.includes(`href="${route}" aria-current="page"`)) issues.push(`${route}: missing active subpage`);
+}
 for (const record of cvPublicationImport.records) {
   if (!publicationHtml.includes(record.title.replaceAll('&', '&amp;')) || !publicationHtml.includes(`https://doi.org/${record.doi}`)) issues.push(`CV publication missing title or verified DOI: ${record.id}`);
 }

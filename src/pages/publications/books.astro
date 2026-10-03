@@ -1,0 +1,11 @@
+---
+import BaseLayout from '../../components/BaseLayout.astro';
+import PageHeader from '../../components/PageHeader.astro';
+import PublicationsNav from '../../components/PublicationsNav.astro';
+import BookList from '../../components/BookList.astro';
+---
+<BaseLayout title="Books and translations">
+  <PageHeader title="Books and translations" description="Professor You’s books and Korean translations in physical therapy and rehabilitation." />
+  <PublicationsNav />
+  <section class="section" id="books"><div class="container-page"><BookList /></div></section>
+</BaseLayout>

@@ -59,7 +59,7 @@ Professor You’s clinical experience in Korea and the United States spans pedia
 
 ## Books and translations
 
-Professor You’s books and Korean translations cover musculoskeletal diagnosis, neurological intervention, muscle imbalance, and home exercise for children. [View books and translations](/publications/#books).
+Professor You’s books and Korean translations cover musculoskeletal diagnosis, neurological intervention, muscle imbalance, and home exercise for children. [View books and translations](/publications/books/).
 
 ## Selected presentations
 
