@@ -6,6 +6,7 @@ interface Props { section?: 'lab' | 'goodwellness'; }
 const { section = 'lab' } = Astro.props;
 const isCenter = section === 'goodwellness';
 const identity = isCenter ? goodwellness : site;
+const copyrightName = isCenter ? goodwellness.name : 'Yonsei SMART Lab';
 const identityLines = isCenter ? [goodwellness.description] : [site.fullName, site.university, site.college, site.department];
 const addresses = isCenter ? goodwellness.contact.address : site.address;
 const phone = isCenter ? goodwellness.contact.phone : site.phone;
@@ -18,6 +19,6 @@ const phoneHref = isCenter ? goodwellness.contact.phoneHref : site.phone;
       <div><h2>Location</h2><PostalAddress lines={addresses} /></div>
       <div><h2>Contact</h2><p>Telephone<br /><a href={`tel:${phoneHref}`}>{phone}</a></p>{!isCenter && <p>Email<br /><a href={`mailto:${site.email}`}>{site.email}</a></p>}</div>
     </div>
-    <div class="footer-bottom"><p>© {new Date().getFullYear()} {identity.name}</p></div>
+    <div class="footer-bottom"><p>© {new Date().getFullYear()} {copyrightName}</p></div>
   </div>
 </footer>
