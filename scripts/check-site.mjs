@@ -198,10 +198,11 @@ for (const report of newsAudit.editorialExclusions ?? []) {
   if (newsFiles.includes(filename) || newsHtml.includes(`data-news-report="${filename.replace(/\.md$/, '')}"`)) issues.push(`Editorially excluded news still public: ${filename}`);
 }
 const newsIdentityReview = JSON.parse(await readFile('src/data/news-publication-identity-check.json', 'utf8'));
-const permittedNewsRelations = new Set(['professor-named-in-original', 'goodwellness-center', 'professor-historical-appointment']);
+const permittedNewsRelations = new Set(['professor-named-in-original', 'goodwellness-center', 'professor-historical-appointment', 'professor-research-center', 'goodwellness-historical-facility']);
 if (JSON.stringify(newsIdentityReview.records.map(record => record.file.split('/').at(-1)).sort()) !== JSON.stringify([...newsFiles].sort())) issues.push('Public news and identity review records differ');
 for (const report of newsIdentityReview.records) {
-  if (!permittedNewsRelations.has(report.relation)) issues.push(`News lacks an explicit Professor or center identity review: ${report.file}`);
+  if (!permittedNewsRelations.has(report.relation)) issues.push(`News lacks a reviewed Professor, project or center connection: ${report.file}`);
+  if (['professor-research-center', 'goodwellness-historical-facility'].includes(report.relation) && (!report.scopeBasis || !report.supportingIdentitySources?.length || report.supportingIdentitySources.some(url => !/^https?:\/\//.test(url)))) issues.push(`Related project or historical center news lacks corroborating sources: ${report.file}`);
 }
 const newsRecords = [];
 for (const file of newsFiles) {

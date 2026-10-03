@@ -1,0 +1,70 @@
+{
+  "reviewedOn": "2026-10-03",
+  "policy": "Include original reports naming Professor You, Yonsei GOODWELLNESS, or a demonstrably connected research project/centre or historical facility. Reports without the personal name require recorded corroborating sources that establish the specific connection. User approved this broader scope on October 3, 2026. Generic company/product coverage remains excluded unless it meets the separate Walkbot/P&S rule.",
+  "restoredReports": [
+    {
+      "file": "src/content/news/2023-11-09-miracle-selection.md",
+      "url": "https://www.iwjnews.com/news/articleView.html?idxno=56084",
+      "date": "2023-11-09",
+      "relation": "professor-research-center",
+      "supportingIdentitySources": [
+        "https://www.wonjutoday.co.kr/news/articleView.html?idxno=134930",
+        "https://koreacrc.kr/center/"
+      ]
+    },
+    {
+      "file": "src/content/news/2024-11-07-mbc-walking-prototype.md",
+      "url": "https://www.youtube.com/watch?v=lUCfULK6X5I",
+      "date": "2024-11-07",
+      "relation": "professor-research-center",
+      "supportingIdentitySources": [
+        "https://www.wonjutoday.co.kr/news/articleView.html?idxno=134930",
+        "https://koreacrc.kr/center/"
+      ]
+    },
+    {
+      "file": "src/content/news/2013-05-25-children-fitness-chunchu.md",
+      "url": "https://chunchu.yonsei.ac.kr/news/articleView.html?idxno=18740",
+      "date": "2013-05-25",
+      "relation": "goodwellness-historical-facility",
+      "supportingIdentitySources": [
+        "https://www.wonju.go.kr/media/selectBbsNttView.do?bbsNo=145&key=3450&nttNo=391902",
+        "https://www.koreasisailbo.com/587507"
+      ]
+    },
+    {
+      "file": "src/content/news/2019-02-14-children-fitness-operator-joygm.md",
+      "url": "http://www.joygm.com/news/articleView.html?idxno=22764",
+      "date": "2019-02-14",
+      "relation": "goodwellness-historical-facility",
+      "supportingIdentitySources": [
+        "https://www.wonju.go.kr/media/selectBbsNttView.do?bbsNo=145&key=3450&nttNo=391902",
+        "https://www.koreasisailbo.com/587507"
+      ]
+    },
+    {
+      "file": "src/content/news/2019-02-14-children-fitness-operator-fintech.md",
+      "url": "http://www.fintechpost.co.kr/news/articleView.html?idxno=21463",
+      "date": "2019-02-14",
+      "relation": "goodwellness-historical-facility",
+      "supportingIdentitySources": [
+        "https://www.wonju.go.kr/media/selectBbsNttView.do?bbsNo=145&key=3450&nttNo=391902",
+        "https://www.koreasisailbo.com/587507"
+      ]
+    }
+  ],
+  "remainingEditorialExclusions": 21,
+  "scope": "Rechecked all 26 archived public-source records. Five confirmed project/centre reports restored; 19 generic company/product reports and two specifically rejected stories remain archived. Two further historical operator-selection candidates have missing original bodies and remain held; this is not an exhaustive internet-discovery claim.",
+  "heldRelatedCandidates": [
+    {
+      "url": "http://www.incheonilbo.com/news/articleView.html?idxno=929875",
+      "title": "[종합] 원주시 장애아동체력증진실 위탁 운영자 공개 모집",
+      "reason": "Original article body and displayed publication date could not be recovered in the preceding original-source review."
+    },
+    {
+      "url": "http://newsbrite.net/25507",
+      "title": "원주시 장애아동체력증진실 위탁 운영자 공개 모집 - 원주시청",
+      "reason": "Original article body and displayed publication date could not be recovered in the preceding original-source review."
+    }
+  ]
+}

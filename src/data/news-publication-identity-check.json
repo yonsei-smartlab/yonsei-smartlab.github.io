@@ -2,11 +2,13 @@
   "reviewedOn": "2026-10-03",
   "complete": false,
   "scope": "Identity and institutional relevance recheck of every current public news record; not a claim that search discovery, video contents or every historical factual claim has been exhaustively verified.",
-  "recordCount": 66,
+  "recordCount": 71,
   "relationCounts": {
     "professor-named-in-original": 51,
     "goodwellness-center": 11,
-    "professor-historical-appointment": 4
+    "professor-historical-appointment": 4,
+    "professor-research-center": 2,
+    "goodwellness-historical-facility": 3
   },
   "records": [
     {
@@ -849,6 +851,116 @@
         "https://www.wonju.go.kr/media/selectBbsNttView.do?bbsNo=145&key=3450&nttNo=391902"
       ],
       "review": "Original center report checked. The 2022 Wonju City source establishes continuity from the earlier Yonsei-campus fitness service to GOODWELLNESS and identifies Professor You as director. A center story does not imply his personal participation in each event."
+    },
+    {
+      "file": "src/content/news/2023-11-09-miracle-selection.md",
+      "url": "https://www.iwjnews.com/news/articleView.html?idxno=56084",
+      "date": "2023-11-09",
+      "checkedOn": "2026-10-03",
+      "goodwellness": false,
+      "originalAccess": "no-identity-signal",
+      "identityEvidence": "Original report names Yonsei MIRACLE walking robotics centre; December 11 Wonju Today opening report explicitly identifies Professor You as centre lead. Publisher timestamp is 2023-11-09; photograph has publisher watermark.",
+      "relation": "professor-research-center",
+      "professorParticipation": "director-identified-in-corroborating-report",
+      "review": "The original names Yonsei’s MIRACLE/CRC walking robotics centre. The December 2023 opening report explicitly names Professor You as project lead; the CRC directors association lists the same Yonsei centre and its November 2024 prototype report. Inclusion approved under the broadened project/centre scope, without claiming that the original personally names Professor You.",
+      "supportingIdentitySources": [
+        "https://www.wonjutoday.co.kr/news/articleView.html?idxno=134930",
+        "https://koreacrc.kr/center/"
+      ],
+      "previousEditorialExclusion": {
+        "status": "editorially-excluded",
+        "decisionReason": "Public news must explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center in the article itself; references to a related research center alone are insufficient."
+      },
+      "restoredOn": "2026-10-03",
+      "scopeBasis": "User approved demonstrably related project and centre coverage even when Professor You is not named in that report."
+    },
+    {
+      "file": "src/content/news/2024-11-07-mbc-walking-prototype.md",
+      "url": "https://www.youtube.com/watch?v=lUCfULK6X5I",
+      "date": "2024-11-07",
+      "checkedOn": "2026-10-03",
+      "goodwellness": false,
+      "originalAccess": "no-identity-signal",
+      "identityEvidence": "Original Wonju MBC upload identifies Yonsei’s interdisciplinary walking robotics centre. The centre is listed in the CRC directors association; the December 11, 2023 Wonju Today opening report identifies Professor You as its director.",
+      "relation": "professor-research-center",
+      "professorParticipation": "director-identified-in-corroborating-report",
+      "review": "The original names Yonsei’s MIRACLE/CRC walking robotics centre. The December 2023 opening report explicitly names Professor You as project lead; the CRC directors association lists the same Yonsei centre and its November 2024 prototype report. Inclusion approved under the broadened project/centre scope, without claiming that the original personally names Professor You.",
+      "supportingIdentitySources": [
+        "https://www.wonjutoday.co.kr/news/articleView.html?idxno=134930",
+        "https://koreacrc.kr/center/"
+      ],
+      "previousEditorialExclusion": {
+        "status": "editorially-excluded",
+        "decisionReason": "Public news must explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center in the article itself; references to a related research center alone are insufficient."
+      },
+      "restoredOn": "2026-10-03",
+      "scopeBasis": "User approved demonstrably related project and centre coverage even when Professor You is not named in that report."
+    },
+    {
+      "file": "src/content/news/2013-05-25-children-fitness-chunchu.md",
+      "url": "https://chunchu.yonsei.ac.kr/news/articleView.html?idxno=18740",
+      "date": "2013-05-25",
+      "checkedOn": "2026-10-03",
+      "goodwellness": true,
+      "originalAccess": "no-identity-signal",
+      "identityEvidence": "Original publisher date, headline and complete body reviewed. Historical facility identity linked by the April 28, 2022 Sisa Ilbo report, which explicitly connects the on-campus children’s fitness facility with the relocated Yonsei GOODWELLNESS Center and Professor You. Historical notices are not current enrollment or operator recruitment.",
+      "relation": "goodwellness-historical-facility",
+      "professorParticipation": "not-inferred-from-center-coverage",
+      "supportingIdentitySources": [
+        "https://www.wonju.go.kr/media/selectBbsNttView.do?bbsNo=145&key=3450&nttNo=391902",
+        "https://www.koreasisailbo.com/587507"
+      ],
+      "review": "Original names the children’s fitness facility on Yonsei’s Wonju campus. Wonju City’s April 28, 2022 notice explicitly links that earlier service to the relocated Yonsei GOODWELLNESS Center and identifies Professor You as its director. Included as historical centre coverage; no present-day recruitment or service conditions inferred.",
+      "previousEditorialExclusion": {
+        "status": "editorially-excluded",
+        "decisionReason": "Original article names the historical children’s fitness facility but neither Professor You nor Yonsei GOODWELLNESS Center. Later reports establish continuity only indirectly; this fails the explicit-mention requirement."
+      },
+      "restoredOn": "2026-10-03",
+      "scopeBasis": "User approved demonstrably related project and centre coverage even when Professor You is not named in that report."
+    },
+    {
+      "file": "src/content/news/2019-02-14-children-fitness-operator-joygm.md",
+      "url": "http://www.joygm.com/news/articleView.html?idxno=22764",
+      "date": "2019-02-14",
+      "checkedOn": "2026-10-03",
+      "goodwellness": true,
+      "originalAccess": "no-identity-signal",
+      "identityEvidence": "Original publisher date, headline and complete body reviewed. Historical facility identity linked by the April 28, 2022 Sisa Ilbo report, which explicitly connects the on-campus children’s fitness facility with the relocated Yonsei GOODWELLNESS Center and Professor You. Historical notices are not current enrollment or operator recruitment.",
+      "relation": "goodwellness-historical-facility",
+      "professorParticipation": "not-inferred-from-center-coverage",
+      "supportingIdentitySources": [
+        "https://www.wonju.go.kr/media/selectBbsNttView.do?bbsNo=145&key=3450&nttNo=391902",
+        "https://www.koreasisailbo.com/587507"
+      ],
+      "review": "Original names the children’s fitness facility on Yonsei’s Wonju campus. Wonju City’s April 28, 2022 notice explicitly links that earlier service to the relocated Yonsei GOODWELLNESS Center and identifies Professor You as its director. Included as historical centre coverage; no present-day recruitment or service conditions inferred.",
+      "previousEditorialExclusion": {
+        "status": "editorially-excluded",
+        "decisionReason": "Original article names the historical children’s fitness facility but neither Professor You nor Yonsei GOODWELLNESS Center. Later reports establish continuity only indirectly; this fails the explicit-mention requirement."
+      },
+      "restoredOn": "2026-10-03",
+      "scopeBasis": "User approved demonstrably related project and centre coverage even when Professor You is not named in that report."
+    },
+    {
+      "file": "src/content/news/2019-02-14-children-fitness-operator-fintech.md",
+      "url": "http://www.fintechpost.co.kr/news/articleView.html?idxno=21463",
+      "date": "2019-02-14",
+      "checkedOn": "2026-10-03",
+      "goodwellness": true,
+      "originalAccess": "no-identity-signal",
+      "identityEvidence": "Original publisher date, headline and complete body reviewed. Historical facility identity linked by the April 28, 2022 Sisa Ilbo report, which explicitly connects the on-campus children’s fitness facility with the relocated Yonsei GOODWELLNESS Center and Professor You. Historical notices are not current enrollment or operator recruitment.",
+      "relation": "goodwellness-historical-facility",
+      "professorParticipation": "not-inferred-from-center-coverage",
+      "supportingIdentitySources": [
+        "https://www.wonju.go.kr/media/selectBbsNttView.do?bbsNo=145&key=3450&nttNo=391902",
+        "https://www.koreasisailbo.com/587507"
+      ],
+      "review": "Original names the children’s fitness facility on Yonsei’s Wonju campus. Wonju City’s April 28, 2022 notice explicitly links that earlier service to the relocated Yonsei GOODWELLNESS Center and identifies Professor You as its director. Included as historical centre coverage; no present-day recruitment or service conditions inferred.",
+      "previousEditorialExclusion": {
+        "status": "editorially-excluded",
+        "decisionReason": "Original article names the historical children’s fitness facility but neither Professor You nor Yonsei GOODWELLNESS Center. Later reports establish continuity only indirectly; this fails the explicit-mention requirement."
+      },
+      "restoredOn": "2026-10-03",
+      "scopeBasis": "User approved demonstrably related project and centre coverage even when Professor You is not named in that report."
     }
   ],
   "remaining": [
@@ -1143,96 +1255,6 @@
       "decisionReason": "Walkbot/P&S coverage is public only when the original article explicitly names Yonsei Professor You, per current AGENTS.md."
     },
     {
-      "file": "src/data/news-source-archive/2023-11-09-miracle-selection.md",
-      "url": "https://www.iwjnews.com/news/articleView.html?idxno=56084",
-      "date": "2023-11-09",
-      "checkedOn": "2026-10-03",
-      "goodwellness": false,
-      "originalAccess": "no-identity-signal",
-      "identityEvidence": "Original report names Yonsei MIRACLE walking robotics centre; December 11 Wonju Today opening report explicitly identifies Professor You as centre lead. Publisher timestamp is 2023-11-09; photograph has publisher watermark.",
-      "relation": "professor-research-center",
-      "professorParticipation": "director-identified-in-corroborating-report",
-      "review": "Original report identifies Yonsei interdisciplinary walking robotics center; it does not name Professor You personally. Wonju Today original opening report identifies him as director of the same MIRACLE center.",
-      "supportingIdentitySources": [
-        "https://www.wonjutoday.co.kr/news/articleView.html?idxno=134930"
-      ],
-      "previousFile": "src/content/news/2023-11-09-miracle-selection.md",
-      "status": "editorially-excluded",
-      "decisionReason": "Public news must explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center in the article itself; references to a related research center alone are insufficient."
-    },
-    {
-      "file": "src/data/news-source-archive/2024-11-07-mbc-walking-prototype.md",
-      "url": "https://www.youtube.com/watch?v=lUCfULK6X5I",
-      "date": "2024-11-07",
-      "checkedOn": "2026-10-03",
-      "goodwellness": false,
-      "originalAccess": "no-identity-signal",
-      "identityEvidence": "Original Wonju MBC upload identifies Yonsei’s interdisciplinary walking robotics centre. The centre is listed in the CRC directors association; the December 11, 2023 Wonju Today opening report identifies Professor You as its director.",
-      "relation": "professor-research-center",
-      "professorParticipation": "director-identified-in-corroborating-report",
-      "review": "Original report identifies Yonsei interdisciplinary walking robotics center; it does not name Professor You personally. Wonju Today original opening report identifies him as director of the same MIRACLE center.",
-      "supportingIdentitySources": [
-        "https://www.wonjutoday.co.kr/news/articleView.html?idxno=134930"
-      ],
-      "previousFile": "src/content/news/2024-11-07-mbc-walking-prototype.md",
-      "status": "editorially-excluded",
-      "decisionReason": "Public news must explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center in the article itself; references to a related research center alone are insufficient."
-    },
-    {
-      "file": "src/data/news-source-archive/2013-05-25-children-fitness-chunchu.md",
-      "url": "https://chunchu.yonsei.ac.kr/news/articleView.html?idxno=18740",
-      "date": "2013-05-25",
-      "checkedOn": "2026-10-03",
-      "goodwellness": true,
-      "originalAccess": "no-identity-signal",
-      "identityEvidence": "Original publisher date, headline and complete body reviewed. Historical facility identity linked by the April 28, 2022 Sisa Ilbo report, which explicitly connects the on-campus children’s fitness facility with the relocated Yonsei GOODWELLNESS Center and Professor You. Historical notices are not current enrollment or operator recruitment.",
-      "relation": "goodwellness-center",
-      "professorParticipation": "not-inferred-from-center-coverage",
-      "supportingIdentitySources": [
-        "https://www.wonju.go.kr/media/selectBbsNttView.do?bbsNo=145&key=3450&nttNo=391902"
-      ],
-      "review": "Original center report checked. The 2022 Wonju City source establishes continuity from the earlier Yonsei-campus fitness service to GOODWELLNESS and identifies Professor You as director. A center story does not imply his personal participation in each event.",
-      "previousFile": "src/content/news/2013-05-25-children-fitness-chunchu.md",
-      "status": "editorially-excluded",
-      "decisionReason": "Original article names the historical children’s fitness facility but neither Professor You nor Yonsei GOODWELLNESS Center. Later reports establish continuity only indirectly; this fails the explicit-mention requirement."
-    },
-    {
-      "file": "src/data/news-source-archive/2019-02-14-children-fitness-operator-joygm.md",
-      "url": "http://www.joygm.com/news/articleView.html?idxno=22764",
-      "date": "2019-02-14",
-      "checkedOn": "2026-10-03",
-      "goodwellness": true,
-      "originalAccess": "no-identity-signal",
-      "identityEvidence": "Original publisher date, headline and complete body reviewed. Historical facility identity linked by the April 28, 2022 Sisa Ilbo report, which explicitly connects the on-campus children’s fitness facility with the relocated Yonsei GOODWELLNESS Center and Professor You. Historical notices are not current enrollment or operator recruitment.",
-      "relation": "goodwellness-center",
-      "professorParticipation": "not-inferred-from-center-coverage",
-      "supportingIdentitySources": [
-        "https://www.wonju.go.kr/media/selectBbsNttView.do?bbsNo=145&key=3450&nttNo=391902"
-      ],
-      "review": "Original center report checked. The 2022 Wonju City source establishes continuity from the earlier Yonsei-campus fitness service to GOODWELLNESS and identifies Professor You as director. A center story does not imply his personal participation in each event.",
-      "previousFile": "src/content/news/2019-02-14-children-fitness-operator-joygm.md",
-      "status": "editorially-excluded",
-      "decisionReason": "Original article names the historical children’s fitness facility but neither Professor You nor Yonsei GOODWELLNESS Center. Later reports establish continuity only indirectly; this fails the explicit-mention requirement."
-    },
-    {
-      "file": "src/data/news-source-archive/2019-02-14-children-fitness-operator-fintech.md",
-      "url": "http://www.fintechpost.co.kr/news/articleView.html?idxno=21463",
-      "date": "2019-02-14",
-      "checkedOn": "2026-10-03",
-      "goodwellness": true,
-      "originalAccess": "no-identity-signal",
-      "identityEvidence": "Original publisher date, headline and complete body reviewed. Historical facility identity linked by the April 28, 2022 Sisa Ilbo report, which explicitly connects the on-campus children’s fitness facility with the relocated Yonsei GOODWELLNESS Center and Professor You. Historical notices are not current enrollment or operator recruitment.",
-      "relation": "goodwellness-center",
-      "professorParticipation": "not-inferred-from-center-coverage",
-      "supportingIdentitySources": [
-        "https://www.wonju.go.kr/media/selectBbsNttView.do?bbsNo=145&key=3450&nttNo=391902"
-      ],
-      "review": "Original center report checked. The 2022 Wonju City source establishes continuity from the earlier Yonsei-campus fitness service to GOODWELLNESS and identifies Professor You as director. A center story does not imply his personal participation in each event.",
-      "previousFile": "src/content/news/2019-02-14-children-fitness-operator-fintech.md",
-      "status": "editorially-excluded",
-      "decisionReason": "Original article names the historical children’s fitness facility but neither Professor You nor Yonsei GOODWELLNESS Center. Later reports establish continuity only indirectly; this fails the explicit-mention requirement."
-    },
-    {
       "file": "src/data/news-source-archive/2023-12-04-5607070adb28.md",
       "url": "https://chunchu.yonsei.ac.kr/news/articleView.html?idxno=30734",
       "date": "2023-12-04",
@@ -1249,5 +1271,5 @@
     }
   ],
   "editorialPolicy": "Walkbot/P&S coverage is public only when the original article explicitly names Yonsei Professor You, per current AGENTS.md.",
-  "explicitMentionPolicy": "Public news must explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center in the article itself; references to a related research center alone are insufficient."
+  "explicitMentionPolicy": "Include original reports naming Professor You, Yonsei GOODWELLNESS, or a demonstrably connected research project/centre or historical facility. Reports without the personal name require recorded corroborating sources that establish the specific connection. User approved this broader scope on October 3, 2026. Generic company/product coverage remains excluded unless it meets the separate Walkbot/P&S rule."
 }
