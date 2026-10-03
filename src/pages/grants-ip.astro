@@ -61,10 +61,11 @@ const categories = [
     buttons.forEach(button => button.setAttribute('aria-pressed', String(button.dataset.category === category)));
     if (funderField) funderField.hidden = category !== 'grants';
     form?.classList.toggle('has-agency', category === 'grants');
-    if (yearLabel) yearLabel.textContent = category === 'patents' ? 'Registration year' : category === 'transfers' ? 'Transfer year' : 'Year';
+    const korean = document.documentElement.lang === 'ko';
+    if (yearLabel) yearLabel.textContent = korean ? category === 'patents' ? '등록연도' : category === 'transfers' ? '이전연도' : '연도' : category === 'patents' ? 'Registration year' : category === 'transfers' ? 'Transfer year' : 'Year';
     const nouns: Record<string, [string, string]> = { all: ['record', 'records'], grants: ['grant', 'grants'], patents: ['registered patent', 'registered patents'], transfers: ['technology transfer', 'technology transfers'] };
     if (count) count.textContent = String(visible);
-    if (noun) noun.textContent = nouns[category][visible === 1 ? 0 : 1];
+    if (noun) noun.textContent = korean ? '건' : nouns[category][visible === 1 ? 0 : 1];
     if (empty) empty.hidden = visible !== 0;
   }
   buttons.forEach(button => button.addEventListener('click', () => {

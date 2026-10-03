@@ -21,6 +21,8 @@ const canonical = new URL(Astro.url.pathname, site.url).href;
     <meta name="theme-color" content={themeColor} />
     <title>{pageTitle}</title>
     <link rel="canonical" href={canonical} />
+    <link rel="alternate" hreflang="en" href={canonical} />
+    <link rel="alternate" hreflang="ko" href={new URL(`/ko${Astro.url.pathname}`, site.url).href} />
     <link rel="icon" type="image/svg+xml" href="/yonsei-favicon.svg?v=3" />
     <meta property="og:title" content={pageTitle} />
     <meta property="og:description" content={description} />
@@ -32,5 +34,22 @@ const canonical = new URL(Astro.url.pathname, site.url).href;
     <Nav section={section} />
     <main id="main"><slot /></main>
     <Footer section={section} />
+    <script>
+      const korean = document.documentElement.lang === 'ko';
+      document.querySelectorAll<HTMLAnchorElement>('[data-language]').forEach(link => {
+        const target = new URL(link.href);
+        target.search = location.search;
+        target.hash = location.hash;
+        link.href = target.href;
+        link.addEventListener('click', () => {
+          try { localStorage.setItem('smartlab-language', link.dataset.language || 'en'); } catch { /* Storage may be unavailable. */ }
+        });
+      });
+      if (!korean) {
+        try {
+          if (localStorage.getItem('smartlab-language') === 'ko') location.replace(`/ko${location.pathname}${location.search}${location.hash}`);
+        } catch { /* Language links still work without storage. */ }
+      }
+    </script>
   </body>
 </html>

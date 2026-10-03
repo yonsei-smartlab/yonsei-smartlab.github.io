@@ -58,7 +58,7 @@ const formatDate = (date: string) => date.length === 4 ? date : new Intl.DateTim
       if (matches) visible++;
     }
     if (count) count.textContent = String(visible);
-    if (noun) noun.textContent = visible === 1 ? 'story' : 'stories';
+    if (noun) noun.textContent = document.documentElement.lang === 'ko' ? '건의 소식' : visible === 1 ? 'story' : 'stories';
     if (empty) empty.hidden = visible !== 0;
   }
   search?.addEventListener('input', filterNews);

@@ -28,7 +28,7 @@ const updatedDate = new Intl.DateTimeFormat('en', { dateStyle: 'long', timeZone:
   </div></section>
 </BaseLayout>
 <script>
-  if (window.location.hash === '#books') window.location.replace('/publications/books/');
+  if (window.location.hash === '#books') window.location.replace(`${document.documentElement.lang === 'ko' ? '/ko' : ''}/publications/books/`);
   const search = document.querySelector<HTMLInputElement>('#publication-search');
   const year = document.querySelector<HTMLSelectElement>('#publication-year');
   const area = document.querySelector<HTMLSelectElement>('#publication-area');
@@ -47,7 +47,7 @@ const updatedDate = new Intl.DateTimeFormat('en', { dateStyle: 'long', timeZone:
       if (matches) visible++;
     });
     if (count) count.textContent = String(visible);
-    if (noun) noun.textContent = visible === 1 ? 'publication' : 'publications';
+    if (noun) noun.textContent = document.documentElement.lang === 'ko' ? '편' : visible === 1 ? 'publication' : 'publications';
     if (empty) empty.hidden = visible !== 0;
   }
   const initialFilters = new URLSearchParams(window.location.search);

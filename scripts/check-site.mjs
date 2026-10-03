@@ -6,6 +6,7 @@ import { getNewsStories } from '../src/lib/news-stories.ts';
 import { isPublicationNotice } from '../src/lib/publication-policy.ts';
 
 const root = resolve('dist');
+const koreanTranslations = JSON.parse(await readFile('src/data/korean-translations.json', 'utf8'));
 const expectedNav = ['Home', 'Professor', 'Members', 'Research', 'Publications', 'Grants & IP', 'News', 'Contact'];
 const expectedCenterNav = ['Home', 'About', 'Rehabilitation robotics', 'Research and education', 'News', 'Contact'];
 const issues = [];
@@ -21,6 +22,8 @@ async function htmlFiles(dir) {
 for (const page of await htmlFiles(root)) {
   const html = await readFile(page, 'utf8');
   const pageName = relative(root, page);
+  const korean = pageName.startsWith('ko/');
+  const originalPage = korean ? pageName.slice(3) : pageName;
   const redirect = /http-equiv="refresh"/i.test(html);
   const visibleText = html.replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, '').replace(/<[^>]+>/g, ' ');
   if (/\bPI\b|Principal Investigator/.test(visibleText)) issues.push(`${pageName}: obsolete Professor terminology`);
@@ -32,27 +35,28 @@ for (const page of await htmlFiles(root)) {
   const duplicateIds = [...new Set(ids.filter((id, index) => ids.indexOf(id) !== index))];
   if (duplicateIds.length) issues.push(`${pageName}: duplicate HTML IDs ${duplicateIds.join(', ')}`);
   if (/Harvard|Boston Children|Cohen Lab|bchcohenlab|SerpAPI|Jane Doe|John Roe/i.test(html)) issues.push(`${pageName}: borrowed template content remains`);
-  const nav = html.match(/<nav[^>]*aria-label="Main navigation"[^>]*>([\s\S]*?)<\/nav>/)?.[1] ?? '';
+  const nav = html.match(/<nav[^>]*aria-label="(?:Main navigation|주 메뉴)"[^>]*>([\s\S]*?)<\/nav>/)?.[1] ?? '';
   const labels = [...nav.matchAll(/<a\b[^>]*\bdata-nav-primary\b[^>]*>([^<]+)<\/a>/g)].map(match => match[1].trim().replaceAll('&amp;', '&'));
-  const expectedPageNav = pageName.startsWith('goodwellness' + (process.platform === 'win32' ? '\\' : '/')) ? expectedCenterNav : expectedNav;
+  const englishPageNav = originalPage.startsWith('goodwellness' + (process.platform === 'win32' ? '\\' : '/')) ? expectedCenterNav : expectedNav;
+  const expectedPageNav = korean ? englishPageNav.map(label => koreanTranslations[label] ?? label) : englishPageNav;
   if (!redirect && JSON.stringify(labels) !== JSON.stringify(expectedPageNav)) issues.push(`${pageName}: incorrect navigation`);
   const switcher = html.match(/<div[^>]*class="site-switcher"[^>]*>([\s\S]*?)<\/div>/)?.[1] ?? '';
-  if (!redirect && (!switcher.includes('href="/"') || !switcher.includes('href="/goodwellness/"') || !switcher.includes('GOODWELLNESS Center'))) issues.push(`${pageName}: missing website switcher`);
+  if (!redirect && (!switcher.includes(`href="${korean ? '/ko' : ''}/"`) || !switcher.includes(`href="${korean ? '/ko' : ''}/goodwellness/"`) || !switcher.includes('GOODWELLNESS Center'))) issues.push(`${pageName}: missing website switcher`);
   const pageRoute = '/' + relative(root, page).replaceAll('\\', '/').replace(/index\.html$/, '');
   for (const match of html.matchAll(/(?:href|src)="([^"]+)"/g)) {
     const value = match[1].replaceAll('&amp;', '&');
     if (/^(https?:|mailto:|tel:|data:)/.test(value)) {
-      if (value.startsWith('tel:') && value !== (pageName.startsWith('goodwellness/') ? 'tel:+82-33-765-2861' : 'tel:+82-33-760-2476')) issues.push(`${pageName}: unapproved telephone link`);
+      if (value.startsWith('tel:') && value !== (originalPage.startsWith('goodwellness/') ? 'tel:+82-33-765-2861' : 'tel:+82-33-760-2476')) issues.push(`${pageName}: unapproved telephone link`);
       if (/^https?:/.test(value) && /src=/.test(match[0])) {
         const external = new URL(value);
-        const mapMarker = pageName === join('contact', 'index.html') ? '37.283834375,127.89878544375' : pageName === join('goodwellness', 'contact', 'index.html') ? '37.2988796,127.9205521' : null;
+        const mapMarker = originalPage === join('contact', 'index.html') ? '37.283834375,127.89878544375' : originalPage === join('goodwellness', 'contact', 'index.html') ? '37.2988796,127.9205521' : null;
         const approvedMap = !!mapMarker
           && external.origin === 'https://www.google.com'
           && external.pathname === '/maps'
           && external.searchParams.get('q') === mapMarker
           && external.searchParams.get('output') === 'embed'
           && !external.searchParams.has('key');
-        const approvedBroadcast = pageName === join('news', 'ktv-stroke', 'index.html')
+        const approvedBroadcast = originalPage === join('news', 'ktv-stroke', 'index.html')
           && external.origin === 'https://www.youtube-nocookie.com'
           && external.pathname === '/embed/z3J7y6uwhqw'
           && !external.search;
@@ -263,3 +267,5 @@ if (issues.length) {
   console.error(issues.join('\n'));
   process.exitCode = 1;
 } else console.log(`${displayedRecords.length} archive rows, ${patents.length} distinct patent registrations, no duplicate identities, all source years preserved, lab and center navigation, approved fields, public contact, Scholar count, ${newsRecords.length} news reports, links and assets pass.`);
+
+await import('./check-localization.mjs');

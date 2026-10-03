@@ -1,6 +1,7 @@
 import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
+import koreanLocalization from './src/lib/korean-localization.mjs';
 
 export default defineConfig({
   site: 'https://yonsei-smartlab.github.io',
@@ -19,5 +20,5 @@ export default defineConfig({
   },
   devToolbar: { enabled: false },
   vite: { plugins: [tailwindcss()] },
-  integrations: [sitemap()],
+  integrations: [sitemap(), koreanLocalization()],
 });
