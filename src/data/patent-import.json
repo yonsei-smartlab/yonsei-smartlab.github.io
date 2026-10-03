@@ -357,6 +357,16 @@
       "registrationNumber": "10-0843157"
     }
   ],
+  "titleCorrections": [
+    {
+      "registrationNumber": "10-0816847",
+      "sourceTitle": "요?변실금 예방치료기",
+      "correctedTitle": "요·변실금 치료기",
+      "verifiedOn": "2026-10-03",
+      "source": "https://patentimages.storage.googleapis.com/eb/64/d1/c12a0ed04282a7/KR100816847B1.pdf",
+      "note": "Official registered patent publication, page 1, field (54)."
+    }
+  ],
   "publicFields": [
     "title",
     "registrationYear",
