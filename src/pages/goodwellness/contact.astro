@@ -5,6 +5,8 @@ import { goodwellness as center } from '../../data/goodwellness';
 <ContactPage section="goodwellness" name={center.name} map={center.map}>
   <dl slot="details" class="contact-details">
     <dt>Telephone</dt><dd><a href={`tel:${center.contact.phoneHref}`}>{center.contact.phone}</a></dd>
+  </dl>
+  <dl slot="location" class="contact-details">
     <dt>Road address · 도로명</dt><dd lang="ko">{center.contact.roadAddress}</dd>
     <dt>Lot address · 지번</dt><dd lang="ko">{center.contact.lotAddress}</dd>
   </dl>

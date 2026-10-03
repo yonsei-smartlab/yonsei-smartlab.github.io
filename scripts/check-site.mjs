@@ -47,9 +47,11 @@ for (const page of await htmlFiles(root)) {
         const external = new URL(value);
         const mapMarker = pageName === join('contact', 'index.html') ? '37.283834375,127.89878544375' : pageName === join('goodwellness', 'contact', 'index.html') ? '37.29874878996,127.921667903625' : null;
         const approvedMap = !!mapMarker
-          && external.origin === 'https://www.openstreetmap.org'
-          && external.pathname === '/export/embed.html'
-          && external.searchParams.get('marker') === mapMarker;
+          && external.origin === 'https://www.google.com'
+          && external.pathname === '/maps'
+          && external.searchParams.get('q') === mapMarker
+          && external.searchParams.get('output') === 'embed'
+          && !external.searchParams.has('key');
         if (!approvedMap) issues.push(`${pageName}: external asset ${value}`);
       }
       continue;

@@ -22,6 +22,7 @@ export const site = {
   koreanAddress: '26493 강원특별자치도 원주시 연세대길 1 백운관 233호',
   map: {
     label: 'Baekun Hall (백운관)',
+    searchQuery: '연세대학교 미래캠퍼스 백운관',
     latitude: 37.283834375,
     longitude: 127.89878544375,
     source: 'https://www.openstreetmap.org/way/369573553',

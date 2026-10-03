@@ -9,7 +9,9 @@ import { site } from '../data/site';
     <dt>Telephone</dt><dd><a href={`tel:${site.phone}`}>{site.phone}</a></dd>
     <dt>Fax</dt><dd>{site.fax}</dd>
     <dt>Affiliation</dt><dd>{site.fullName}<br />{site.university}<br />{site.college}<br />{site.department}<br />{site.campus}</dd>
-    <dt>Office address</dt><dd>{site.address.map(line => <>{line}<br /></>)}<span lang="ko">{site.koreanAddress}</span></dd>
+  </dl>
+  <dl slot="location" class="contact-details">
+    <dt>Professor’s office</dt><dd>{site.address.map(line => <>{line}<br /></>)}<span lang="ko">{site.koreanAddress}</span></dd>
   </dl>
   <section class="section section-divided"><div class="container-page contact-opportunities">
     <section><h2>Join the lab</h2><p class="recruitment-status placeholder-text">{site.contact.recruitmentStatus}</p><p class="placeholder-text">{site.contact.opportunities}</p></section>

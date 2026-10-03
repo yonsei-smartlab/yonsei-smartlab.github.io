@@ -1,16 +1,15 @@
 ---
 import { site } from '../data/site';
-interface Props { map?: { latitude: number; longitude: number; label: string; bbox?: string }; }
+interface Props { map?: { latitude: number; longitude: number; label: string; searchQuery: string }; }
 const { map = site.map } = Astro.props;
-const { latitude, longitude, label } = map;
-const query = new URLSearchParams({
-  bbox: map.bbox ?? `${longitude - 0.0031},${latitude - 0.002},${longitude + 0.0031},${latitude + 0.002}`,
-  layer: 'mapnik',
-  marker: `${latitude},${longitude}`,
-});
-const mapUrl = `https://www.openstreetmap.org/?mlat=${latitude}&mlon=${longitude}#map=17/${latitude}/${longitude}`;
+const { latitude, longitude, label, searchQuery } = map;
+const coordinates = `${latitude},${longitude}`;
+const embedQuery = new URLSearchParams({ q: coordinates, z: '17', output: 'embed', hl: 'en' });
+const googleUrl = `https://www.google.com/maps/dir/?api=1&destination=${coordinates}`;
+const naverUrl = `https://map.naver.com/p/search/${encodeURIComponent(searchQuery)}`;
+const kakaoUrl = `https://map.kakao.com/link/to/${encodeURIComponent(label)},${coordinates}`;
 ---
 <figure class="location-map">
-  <iframe src={`https://www.openstreetmap.org/export/embed.html?${query}`} title={`Map showing ${label}`} loading="lazy" referrerpolicy="no-referrer" width="480" height="320"></iframe>
-  <figcaption>{label} · <a href={mapUrl}>Open larger map</a><br /><small>© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a></small></figcaption>
+  <iframe src={`https://www.google.com/maps?${embedQuery}`} title={`Google Map showing ${label}`} loading="lazy" referrerpolicy="strict-origin-when-cross-origin" width="480" height="320" allowfullscreen></iframe>
+  <figcaption>{label}<nav class="map-links" aria-label="Maps and directions"><a href={googleUrl} target="_blank" rel="noopener noreferrer">Google Maps</a><a href={naverUrl} target="_blank" rel="noopener noreferrer">Naver Maps</a><a href={kakaoUrl} target="_blank" rel="noopener noreferrer">Kakao Maps</a></nav></figcaption>
 </figure>
