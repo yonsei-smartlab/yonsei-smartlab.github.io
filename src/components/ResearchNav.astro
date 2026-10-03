@@ -1,10 +1,7 @@
 ---
+import { researchNavigation } from '../data/research-navigation';
 const current = Astro.url.pathname.replace(/\/$/, '');
-const links = [
-  { label: 'Overview', href: '/research/' },
-  { label: 'Training', href: '/training/' },
-];
 ---
 <nav class="container-page research-nav" aria-label="Research navigation">
-  {links.map(link => <a href={link.href} aria-current={current === link.href.replace(/\/$/, '') ? 'page' : undefined}>{link.label}</a>)}
+  {researchNavigation.map(link => <a href={link.href} aria-current={current === link.href.replace(/\/$/, '') ? 'page' : undefined}>{link.label}</a>)}
 </nav>

@@ -1,6 +1,7 @@
 ---
 import { site } from '../data/site';
 import { goodwellness } from '../data/goodwellness';
+import { researchNavigation } from '../data/research-navigation';
 interface Props { section?: 'lab' | 'goodwellness'; }
 const { section = 'lab' } = Astro.props;
 const isCenter = section === 'goodwellness';
@@ -31,8 +32,7 @@ const current = Astro.url.pathname.replace(/\/$/, '') || '/';
             {hasSubmenu && <button class="submenu-toggle" type="button" aria-label="Research subsections" aria-controls="research-submenu" aria-expanded="false"><span aria-hidden="true">⌄</span></button>}
           </div>
           {hasSubmenu && <ul id="research-submenu" class="nav-submenu" hidden>
-            <li><a href="/research/" aria-current={current === '/research' ? 'page' : undefined}>Research Overview</a></li>
-            <li><a href="/training/" aria-current={current === '/training' ? 'page' : undefined}>Training</a></li>
+            {researchNavigation.map(link => <li><a href={link.href} aria-current={current === link.href.replace(/\/$/, '') ? 'page' : undefined}>{link.dropdownLabel}</a></li>)}
           </ul>}
         </li>;
       })}

@@ -126,6 +126,14 @@ button, a, input, select { -webkit-tap-highlight-color: transparent; }
 .research-nav { display: flex; flex-wrap: wrap; gap: 8px 28px; padding-block: 20px; border-bottom: 1px solid var(--line); }
 .research-nav a { padding-block: 6px; color: var(--muted); border-bottom: 2px solid transparent; font-size: 15px; }
 .research-nav a:hover, .research-nav a[aria-current='page'] { color: var(--brand); border-color: var(--brand); }
+.affiliation-intro { max-width: 760px; margin-bottom: 32px; }
+.affiliation-intro h2 { color: var(--brand); margin-bottom: 16px; }
+.affiliation-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; }
+.affiliation-card { padding: 28px; border: 1px solid var(--line); border-top: 3px solid var(--brand); }
+.affiliation-card h3 { margin-top: 10px; font-size: 26px; color: var(--brand); }
+.affiliation-korean { color: var(--muted); font-size: 14px; margin-top: 4px; }
+.affiliation-korean + p { margin-top: 20px; }
+.affiliation-card .text-link { display: inline-block; margin-top: 20px; }
 .pub-item[hidden] { display: none; }
 .research-detail { display: grid; grid-template-columns: 1.25fr 1fr; gap: 48px; align-items: start; padding-block: 40px; scroll-margin-top: 100px; }
 .research-detail + .research-detail { border-top: 1px solid var(--line); }
@@ -292,6 +300,8 @@ button, a, input, select { -webkit-tap-highlight-color: transparent; }
 }
 @media (max-width: 639px) {
   .current-members-grid { grid-template-columns: 1fr; gap: 40px; }
+  .affiliation-grid { grid-template-columns: 1fr; }
+  .affiliation-card { padding: 24px; }
   .current-members-grid .people-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .alumni-affiliation > p:first-child span { display: block; margin-left: 0; margin-top: 2px; }
   .alumni-list { grid-template-columns: 1fr; }
