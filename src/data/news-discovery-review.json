@@ -4,8 +4,8 @@
   "note": "Editorial queue only. Search results do not establish identity or approve public content.",
   "candidateCount": 782,
   "statusCounts": {
-    "duplicate": 19,
-    "excluded": 715,
+    "duplicate": 18,
+    "excluded": 716,
     "published": 31,
     "held": 13,
     "unavailable": 4
@@ -7643,10 +7643,11 @@
           "searchUrl": "https://news.google.com/rss/search?q=%EC%97%B0%EC%84%B8+%EB%AF%B8%EB%9D%BC%ED%81%B4&hl=ko&gl=KR&ceid=KR%3Ako"
         }
       ],
-      "status": "duplicate",
+      "status": "excluded",
       "canonical": "https://www.iwjnews.com/news/articleView.html?idxno=56084",
       "reviewedOn": "2026-10-03",
-      "reason": "Normal browser followed the Google News redirect to this original publisher URL. Original headline, date and full article body match the existing public record."
+      "reason": "Public news must explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center in the article itself; references to a related research center alone are insufficient.",
+      "archivedFile": "src/data/news-source-archive/2023-11-09-miracle-selection.md"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZTmJ5eW1WdDhmeU5lS0RJY095b0NJUzZDSWQwR0hHU0dFMEJzSmpPdFRFbEtVM0c5Sm1ES0ljaU81emtBWXdfZWt0SmFraVZRc1NwcThtMEV0VF84Q3lVWHoxNHN5a0M3V1HSAW5BVV95cUxOUWpTX2R6Rzh0YWxCVkh5d1pDNldzWHh6el96ZW1xTGtudXpzTUtlQlpjRnlZM0xQbXdvanlVcmRsanVISDdqRkZlWnRoQlpMcDVhMTNxOFNzcFhFQ24yTDFOUWt2amtrM0N2VE5fUQ?oc=5",

@@ -8,11 +8,17 @@
     },
     {
       "file": "2024-07-09-walkbot-business-plans.md",
-      "review": "Original English report dated 2024.07.09 16:55 identifies Walkbot and company. Official company history confirms later name change to P&S Robotics. General product news within user-requested scope; no Professor or center involvement asserted."
+      "review": "Original English report dated 2024.07.09 16:55 identifies Walkbot and company. Official company history confirms later name change to P&S Robotics. General product news within user-requested scope; no Professor or center involvement asserted.",
+      "currentStatus": "editorially-excluded",
+      "archivedSource": "src/data/news-source-archive/2024-07-09-walkbot-business-plans.md",
+      "currentDecisionReason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
     },
     {
       "file": "2026-05-26-walkbot-mexico.md",
-      "review": "Original publisher HTML reviewed with normal TLS validation, dated 2026.05.26 09:50:45; matched publisher-supplied Nate copy. Walkbot_G/P&S Robotics identity confirmed. General product news, not SMART Lab or center involvement."
+      "review": "Original publisher HTML reviewed with normal TLS validation, dated 2026.05.26 09:50:45; matched publisher-supplied Nate copy. Walkbot_G/P&S Robotics identity confirmed. General product news, not SMART Lab or center involvement.",
+      "currentStatus": "editorially-excluded",
+      "archivedSource": "src/data/news-source-archive/2026-05-26-walkbot-mexico.md",
+      "currentDecisionReason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
     },
     {
       "file": "2008-01-28-hallym-sports-seminar.md",
@@ -65,5 +71,6 @@
       "archivedSource": "src/data/news-source-archive/2023-11-14-goodwellness-funding.md",
       "reason": "User requested editorial exclusion from both public news archives."
     }
-  ]
+  ],
+  "publicationHistoryNote": "The published array records earlier import decisions. Entries marked currentStatus editorially-excluded are no longer public; news-import.json is the current publication manifest."
 }

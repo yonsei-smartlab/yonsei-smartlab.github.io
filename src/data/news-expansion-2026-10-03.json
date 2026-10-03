@@ -10,7 +10,10 @@
       "date": "2013-01-03",
       "identityEvidence": "Original English report identifies P&S Mechanics and Walkbot; date January 3, 2013. Product coverage, no SMART Lab or center role asserted.",
       "status": "published",
-      "goodwellness": false
+      "goodwellness": false,
+      "currentStatus": "editorially-excluded",
+      "archivedSource": "src/data/news-source-archive/2013-01-03-walkbot-new-atlas.md",
+      "currentDecisionReason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
     },
     {
       "key": "2025-07-03-pns-robotics-name",
@@ -19,7 +22,10 @@
       "date": "2025-07-03",
       "identityEvidence": "Original publisher headline, date and body reviewed; company and Walkbot explicitly named. Distinct from May shareholder proposal.",
       "status": "published",
-      "goodwellness": false
+      "goodwellness": false,
+      "currentStatus": "editorially-excluded",
+      "archivedSource": "src/data/news-source-archive/2025-07-03-pns-robotics-name.md",
+      "currentDecisionReason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
     },
     {
       "key": "2025-07-31-walkbot-sakra",
@@ -28,7 +34,10 @@
       "date": "2025-07-31",
       "identityEvidence": "Original Dailian report and Daum syndication reviewed. Original July 31 date retained; portal alias is not a second report.",
       "status": "published",
-      "goodwellness": false
+      "goodwellness": false,
+      "currentStatus": "editorially-excluded",
+      "archivedSource": "src/data/news-source-archive/2025-07-31-walkbot-sakra.md",
+      "currentDecisionReason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
     },
     {
       "key": "2025-12-18-walkbot-nexon",
@@ -37,7 +46,10 @@
       "date": "2025-12-18",
       "identityEvidence": "Original article date December 18, 2025; December 17 in body is the announcement date. Company press index confirms source.",
       "status": "published",
-      "goodwellness": false
+      "goodwellness": false,
+      "currentStatus": "editorially-excluded",
+      "archivedSource": "src/data/news-source-archive/2025-12-18-walkbot-nexon.md",
+      "currentDecisionReason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
     },
     {
       "key": "2026-01-13-walkbot-hongseong",
@@ -46,7 +58,10 @@
       "date": "2026-01-13",
       "identityEvidence": "Original Newsis article body and registration date reviewed; explicit Walkbot identification. No lab or center participation claimed.",
       "status": "published",
-      "goodwellness": false
+      "goodwellness": false,
+      "currentStatus": "editorially-excluded",
+      "archivedSource": "src/data/news-source-archive/2026-01-13-walkbot-hongseong.md",
+      "currentDecisionReason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
     },
     {
       "key": "2026-06-18-walkbot-market-analysis",
@@ -55,7 +70,10 @@
       "date": "2026-06-18",
       "identityEvidence": "Original publisher date June 18, 2026 and body reviewed. Valuation language preserved as attributed headline; summary does not endorse investment or medical claims.",
       "status": "published",
-      "goodwellness": false
+      "goodwellness": false,
+      "currentStatus": "editorially-excluded",
+      "archivedSource": "src/data/news-source-archive/2026-06-18-walkbot-market-analysis.md",
+      "currentDecisionReason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
     },
     {
       "key": "2026-07-30-walkbot-teleton-expansion",
@@ -64,7 +82,10 @@
       "date": "2026-07-30",
       "identityEvidence": "Original publisher date July 30, 2026 and full body reviewed. Separate supply agreement from May first installation; not merged merely because customer matches.",
       "status": "published",
-      "goodwellness": false
+      "goodwellness": false,
+      "currentStatus": "editorially-excluded",
+      "archivedSource": "src/data/news-source-archive/2026-07-30-walkbot-teleton-expansion.md",
+      "currentDecisionReason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
     },
     {
       "key": "2026-08-06-walkbot-insurance",
@@ -73,7 +94,10 @@
       "date": "2026-08-06",
       "identityEvidence": "Original report August 6, 2026 and body reviewed. Summary attributes the coverage announcement; no individual treatment or insurance advice.",
       "status": "published",
-      "goodwellness": false
+      "goodwellness": false,
+      "currentStatus": "editorially-excluded",
+      "archivedSource": "src/data/news-source-archive/2026-08-06-walkbot-insurance.md",
+      "currentDecisionReason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
     },
     {
       "key": "2026-01-14-walkbot-hongseong-bridge",
@@ -82,7 +106,10 @@
       "date": "2026-01-14",
       "identityEvidence": "Original publisher January 14, 2026 and complete article body reviewed. Same installation, hospital director and operational details as January 13 Newsis report; explicit event group.",
       "status": "published",
-      "goodwellness": false
+      "goodwellness": false,
+      "currentStatus": "editorially-excluded",
+      "archivedSource": "src/data/news-source-archive/2026-01-14-walkbot-hongseong-bridge.md",
+      "currentDecisionReason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
     },
     {
       "key": "2026-01-14-walkbot-hongseong-ccdaily",
@@ -91,7 +118,10 @@
       "date": "2026-01-14",
       "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
       "status": "published",
-      "goodwellness": false
+      "goodwellness": false,
+      "currentStatus": "editorially-excluded",
+      "archivedSource": "src/data/news-source-archive/2026-01-14-walkbot-hongseong-ccdaily.md",
+      "currentDecisionReason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
     },
     {
       "key": "2026-01-14-walkbot-hongseong-ccdn",
@@ -100,7 +130,10 @@
       "date": "2026-01-14",
       "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
       "status": "published",
-      "goodwellness": false
+      "goodwellness": false,
+      "currentStatus": "editorially-excluded",
+      "archivedSource": "src/data/news-source-archive/2026-01-14-walkbot-hongseong-ccdn.md",
+      "currentDecisionReason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
     },
     {
       "key": "2026-01-14-walkbot-hongseong-jbnews",
@@ -109,7 +142,10 @@
       "date": "2026-01-14",
       "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
       "status": "published",
-      "goodwellness": false
+      "goodwellness": false,
+      "currentStatus": "editorially-excluded",
+      "archivedSource": "src/data/news-source-archive/2026-01-14-walkbot-hongseong-jbnews.md",
+      "currentDecisionReason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
     },
     {
       "key": "2026-01-13-walkbot-hongseong-gukje",
@@ -118,7 +154,10 @@
       "date": "2026-01-13",
       "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
       "status": "published",
-      "goodwellness": false
+      "goodwellness": false,
+      "currentStatus": "editorially-excluded",
+      "archivedSource": "src/data/news-source-archive/2026-01-13-walkbot-hongseong-gukje.md",
+      "currentDecisionReason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
     },
     {
       "key": "2025-11-24-walkbot-nexon-digitaltoday",
@@ -127,7 +166,10 @@
       "date": "2025-11-24",
       "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
       "status": "published",
-      "goodwellness": false
+      "goodwellness": false,
+      "currentStatus": "editorially-excluded",
+      "archivedSource": "src/data/news-source-archive/2025-11-24-walkbot-nexon-digitaltoday.md",
+      "currentDecisionReason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
     },
     {
       "key": "2025-11-24-walkbot-nexon-globale",
@@ -136,7 +178,10 @@
       "date": "2025-11-24",
       "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
       "status": "published",
-      "goodwellness": false
+      "goodwellness": false,
+      "currentStatus": "editorially-excluded",
+      "archivedSource": "src/data/news-source-archive/2025-11-24-walkbot-nexon-globale.md",
+      "currentDecisionReason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
     },
     {
       "key": "2025-12-12-pns-upper-limb-etoday",
@@ -145,7 +190,10 @@
       "date": "2025-12-12",
       "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
       "status": "published",
-      "goodwellness": false
+      "goodwellness": false,
+      "currentStatus": "editorially-excluded",
+      "archivedSource": "src/data/news-source-archive/2025-12-12-pns-upper-limb-etoday.md",
+      "currentDecisionReason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
     },
     {
       "key": "2015-03-10-walkbot-vr-fnnews",
@@ -154,7 +202,10 @@
       "date": "2015-03-10",
       "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
       "status": "published",
-      "goodwellness": false
+      "goodwellness": false,
+      "currentStatus": "editorially-excluded",
+      "archivedSource": "src/data/news-source-archive/2015-03-10-walkbot-vr-fnnews.md",
+      "currentDecisionReason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
     },
     {
       "key": "2013-05-25-children-fitness-chunchu",
@@ -163,7 +214,10 @@
       "date": "2013-05-25",
       "identityEvidence": "Original publisher date, headline and complete body reviewed. Historical facility identity linked by the April 28, 2022 Sisa Ilbo report, which explicitly connects the on-campus children’s fitness facility with the relocated Yonsei GOODWELLNESS Center and Professor You. Historical notices are not current enrollment or operator recruitment.",
       "status": "published",
-      "goodwellness": true
+      "goodwellness": true,
+      "currentStatus": "editorially-excluded",
+      "archivedSource": "src/data/news-source-archive/2013-05-25-children-fitness-chunchu.md",
+      "currentDecisionReason": "Original article names the historical children’s fitness facility but neither Professor You nor Yonsei GOODWELLNESS Center. Later reports establish continuity only indirectly; this fails the explicit-mention requirement."
     },
     {
       "key": "2019-02-14-children-fitness-operator-joygm",
@@ -172,7 +226,10 @@
       "date": "2019-02-14",
       "identityEvidence": "Original publisher date, headline and complete body reviewed. Historical facility identity linked by the April 28, 2022 Sisa Ilbo report, which explicitly connects the on-campus children’s fitness facility with the relocated Yonsei GOODWELLNESS Center and Professor You. Historical notices are not current enrollment or operator recruitment.",
       "status": "published",
-      "goodwellness": true
+      "goodwellness": true,
+      "currentStatus": "editorially-excluded",
+      "archivedSource": "src/data/news-source-archive/2019-02-14-children-fitness-operator-joygm.md",
+      "currentDecisionReason": "Original article names the historical children’s fitness facility but neither Professor You nor Yonsei GOODWELLNESS Center. Later reports establish continuity only indirectly; this fails the explicit-mention requirement."
     },
     {
       "key": "2019-02-14-children-fitness-operator-fintech",
@@ -181,7 +238,10 @@
       "date": "2019-02-14",
       "identityEvidence": "Original publisher date, headline and complete body reviewed. Historical facility identity linked by the April 28, 2022 Sisa Ilbo report, which explicitly connects the on-campus children’s fitness facility with the relocated Yonsei GOODWELLNESS Center and Professor You. Historical notices are not current enrollment or operator recruitment.",
       "status": "published",
-      "goodwellness": true
+      "goodwellness": true,
+      "currentStatus": "editorially-excluded",
+      "archivedSource": "src/data/news-source-archive/2019-02-14-children-fitness-operator-fintech.md",
+      "currentDecisionReason": "Original article names the historical children’s fitness facility but neither Professor You nor Yonsei GOODWELLNESS Center. Later reports establish continuity only indirectly; this fails the explicit-mention requirement."
     },
     {
       "key": "2022-04-28-goodwellness-sisa-services",
@@ -254,9 +314,12 @@
   "historicalCenterReview": {
     "source": "https://www.koreasisailbo.com/587507",
     "finding": "Original April 2022 article explicitly connects the on-campus children’s fitness facility with the relocated Yonsei GOODWELLNESS Center and names Yonsei Professor You as its director. This verifies historical center relevance for the 2013 feature and February 2019 operator notices.",
-    "publishedReports": 91,
-    "goodwellnessReports": 14,
-    "goodwellnessStories": 6,
-    "complete": false
-  }
+    "publishedReports": 67,
+    "goodwellnessReports": 11,
+    "goodwellnessStories": 4,
+    "complete": false,
+    "countUpdatedOn": "2026-10-03",
+    "explicitMentionReview": "Three historical facility reports excluded because their own text names neither Professor You nor GOODWELLNESS."
+  },
+  "publicationHistoryNote": "The published array records earlier import decisions. Entries marked currentStatus editorially-excluded are no longer public; news-import.json is the current publication manifest."
 }

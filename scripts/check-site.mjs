@@ -184,6 +184,17 @@ for (const report of roboticsNewsReview.reports) {
 }
 const newsAudit = JSON.parse(await readFile('src/data/news-import.json', 'utf8'));
 const newsFiles = (await readdir('src/content/news')).filter(file => file.endsWith('.md'));
+for (const report of newsAudit.editorialExclusions ?? []) {
+  const filename = report.file.split('/').at(-1);
+  if (!existsSync(report.file)) issues.push(`Excluded news source missing: ${filename}`);
+  if (newsFiles.includes(filename) || newsHtml.includes(`data-news-report="${filename.replace(/\.md$/, '')}"`)) issues.push(`Editorially excluded news still public: ${filename}`);
+}
+const newsIdentityReview = JSON.parse(await readFile('src/data/news-publication-identity-check.json', 'utf8'));
+const permittedNewsRelations = new Set(['professor-named-in-original', 'goodwellness-center', 'professor-historical-appointment']);
+if (JSON.stringify(newsIdentityReview.records.map(record => record.file.split('/').at(-1)).sort()) !== JSON.stringify([...newsFiles].sort())) issues.push('Public news and identity review records differ');
+for (const report of newsIdentityReview.records) {
+  if (!permittedNewsRelations.has(report.relation)) issues.push(`News lacks an explicit Professor or center identity review: ${report.file}`);
+}
 const newsRecords = [];
 for (const file of newsFiles) {
   const content = await readFile(join('src/content/news', file), 'utf8');
