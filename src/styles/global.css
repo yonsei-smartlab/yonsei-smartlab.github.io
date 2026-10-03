@@ -485,3 +485,7 @@ main :where(p, li, dd, a) { overflow-wrap: anywhere; }
   .site-switcher .wordmark { white-space: normal; line-height: 1.3; }
   .contact-details dd { font-size: var(--text-body); }
 }
+
+/* Homepage mission: readable prose beneath the centered lab identity. */
+.hero-description.hero-description-reading { max-width: 62ch; text-align: left; font-size: var(--text-body); line-height: var(--reading-line); }
+.hero-description-reading p + p { margin-top: 20px; }

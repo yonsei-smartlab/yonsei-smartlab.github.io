@@ -4,6 +4,10 @@ import PlaceholderImage from '../components/PlaceholderImage.astro';
 import PubList from '../components/PubList.astro';
 import { site } from '../data/site';
 import { getResearch, getPublications } from '../lib/content';
+const introBreak = site.description.indexOf(' We study');
+const introParagraphs = introBreak > 0
+  ? [site.description.slice(0, introBreak), site.description.slice(introBreak).trim()]
+  : [site.description];
 const areas = await getResearch();
 const publications = await getPublications();
 const selected = publications.filter(pub => pub.data.featured).slice(0, 3);
@@ -15,7 +19,7 @@ const selected = publications.filter(pub => pub.data.featured).slice(0, 3);
         <p class="affiliation">{site.university} · {site.department}</p>
         <h1>{site.name}</h1>
         <p class="institute-name">{site.fullName}</p>
-        <p class="hero-description">{site.description}</p>
+        <div class="hero-description hero-description-reading">{introParagraphs.map(paragraph => <p>{paragraph}</p>)}</div>
         <div class="hero-actions"><a class="button button-primary" href="/research/">Explore our research</a><a class="button button-secondary" href="/people/">Meet the team</a></div>
       </div>
       <div class="research-process">
