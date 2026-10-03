@@ -4,9 +4,9 @@
   "note": "Editorial queue only. Search results do not establish identity or approve public content.",
   "candidateCount": 116,
   "statusCounts": {
-    "published": 10,
+    "published": 7,
+    "excluded": 89,
     "duplicate": 1,
-    "excluded": 86,
     "held": 3,
     "unreviewed": 16
   },
@@ -389,9 +389,11 @@
           "searchUrl": "https://news.google.com/rss/search?q=%EC%97%B0%EC%84%B8+%EC%9E%A5%EC%95%A0%EC%95%84%EB%8F%99+%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84%EC%8B%A4&hl=ko&gl=KR&ceid=KR%3Ako"
         }
       ],
-      "status": "published",
+      "status": "excluded",
       "reviewNote": "Original article body, date, title and historical center identity verified.",
-      "canonical": "https://chunchu.yonsei.ac.kr/news/articleView.html?idxno=18740"
+      "canonical": "https://chunchu.yonsei.ac.kr/news/articleView.html?idxno=18740",
+      "reason": "Original article names the historical children’s fitness facility but neither Professor You nor Yonsei GOODWELLNESS Center. Later reports establish continuity only indirectly; this fails the explicit-mention requirement.",
+      "archivedFile": "src/data/news-source-archive/2013-05-25-children-fitness-chunchu.md"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CSHdrdTRucUxiSXNMQklFWm9haW0xMEZYRDFubHhQTHpJczJRc2tyMFFwdzVHWXJIb3hmNmFpOTYyczVsLWpJUFFIQzJ6Qy10Q1BfOW9Odk9XZmYxQjZFVnZtTDhGa2h4TldRTDNyS3M?oc=5",
@@ -640,9 +642,11 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EC%9E%A5%EC%95%A0%EC%95%84%EB%8F%99+%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84%EC%8B%A4&start=1&sort=0"
         }
       ],
-      "status": "published",
+      "status": "excluded",
       "reviewNote": "Original article body, date, title and historical center identity verified.",
-      "canonical": "http://www.joygm.com/news/articleView.html?idxno=22764"
+      "canonical": "http://www.joygm.com/news/articleView.html?idxno=22764",
+      "reason": "Original article names the historical children’s fitness facility but neither Professor You nor Yonsei GOODWELLNESS Center. Later reports establish continuity only indirectly; this fails the explicit-mention requirement.",
+      "archivedFile": "src/data/news-source-archive/2019-02-14-children-fitness-operator-joygm.md"
     },
     {
       "url": "http://www.fintechpost.co.kr/news/articleView.html?idxno=21463",
@@ -655,9 +659,11 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EC%9E%A5%EC%95%A0%EC%95%84%EB%8F%99+%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84%EC%8B%A4&start=1&sort=0"
         }
       ],
-      "status": "published",
+      "status": "excluded",
       "reviewNote": "Original article body, date, title and historical center identity verified.",
-      "canonical": "http://www.fintechpost.co.kr/news/articleView.html?idxno=21463"
+      "canonical": "http://www.fintechpost.co.kr/news/articleView.html?idxno=21463",
+      "reason": "Original article names the historical children’s fitness facility but neither Professor You nor Yonsei GOODWELLNESS Center. Later reports establish continuity only indirectly; this fails the explicit-mention requirement.",
+      "archivedFile": "src/data/news-source-archive/2019-02-14-children-fitness-operator-fintech.md"
     },
     {
       "url": "http://newsbrite.net/25507",
