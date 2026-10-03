@@ -12,7 +12,7 @@ export interface Alumnus {
 const hallaProfile = 'https://www.chu.ac.kr/school/02school/sub02/sub02.php';
 export const academicAlumni: Alumnus[] = [
   { name: '박찬희', role: 'Professor', institution: 'Jeonju University', institutionKorean: '전주대학교', department: 'Department of Physical Therapy', profile: 'https://www.jj.ac.kr/pt/info/faculty.do' },
-  { name: '신윤경', role: 'Professor' },
+  { name: '신윤겸', role: 'Professor' },
   { name: '오원준', role: 'Professor', institution: 'Cheju Halla University', institutionKorean: '제주한라대학교', department: 'Department of Physical Therapy', profile: hallaProfile },
   { name: '윤현식', role: 'Professor', institution: 'Kyungnam University', institutionKorean: '경남대학교', department: 'Department of Physical Therapy', profile: 'https://www.kyungnam.ac.kr/pt/1820/subview.do' },
   { name: '이남기', role: 'Professor', institution: 'Kwangju Women’s University', institutionKorean: '광주여자대학교', department: 'Department of Physical Therapy', profile: 'https://pt.kwu.ac.kr/index.do' },
