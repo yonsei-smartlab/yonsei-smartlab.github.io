@@ -1,6 +1,7 @@
 ---
 import BusInformation from '../../components/BusInformation.astro';
 import { centerBusInformation } from '../../data/transport';
+import PostalAddress from '../../components/PostalAddress.astro';
 import ContactPage from '../../components/ContactPage.astro';
 import { goodwellness as center } from '../../data/goodwellness';
 ---
@@ -9,8 +10,8 @@ import { goodwellness as center } from '../../data/goodwellness';
     <dt>Telephone</dt><dd><a href={`tel:${center.contact.phoneHref}`}>{center.contact.phone}</a></dd>
   </dl>
   <dl slot="location" class="contact-details">
-    <dt>Road address · 도로명</dt><dd lang="ko">{center.contact.roadAddress}</dd>
-    <dt>Lot address · 지번</dt><dd lang="ko">{center.contact.lotAddress}</dd>
+    <dt>Street address</dt><dd><PostalAddress lines={center.contact.address} korean={center.contact.roadAddress} /></dd>
+    <dt>Lot address</dt><dd>{center.contact.lotAddressEnglish}<span class="secondary-language" lang="ko">{center.contact.lotAddress}</span></dd>
   </dl>
   <BusInformation slot="transport" information={centerBusInformation} />
 </ContactPage>

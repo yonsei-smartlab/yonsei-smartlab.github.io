@@ -2,5 +2,5 @@
 import books from '../data/books.json';
 ---
 <ol class="pub-list">
-  {books.map(book => <li class="pub-item" data-book><h3 lang="ko">{book.title}</h3><p>{book.englishTitle}</p><p class="pub-authors">Professor You · {book.contribution}</p><p class="pub-venue"><span lang="ko">{book.publisher}</span> · {book.year}</p></li>)}
+  {books.map(book => <li class="pub-item" data-book><h3>{book.englishTitle}</h3><p class="secondary-language" lang="ko">{book.title}</p><p class="pub-authors">Professor You · {book.contribution}</p><p class="pub-venue"><span lang="ko">{book.publisher}</span> · {book.year}</p></li>)}
 </ol>

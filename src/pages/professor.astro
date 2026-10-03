@@ -12,12 +12,12 @@ const { Content } = await render(professor);
     <div class="profile-intro">
       <PlaceholderImage label="Portrait" aspect="portrait" src={professor.data.photo} alt={professor.data.photoAlt || professor.data.name} />
       <div>
-        <h1>{professor.data.name} <span lang="ko">({site.professorKoreanName})</span></h1>
+        <h1>{professor.data.name} <span class="local-name" lang="ko">({site.professorKoreanName})</span></h1>
         <p class="profile-role">{professor.data.role}</p>
         <div class="profile-affiliation">
-          <p><span lang="ko">{site.universityKorean}</span><span>{site.university}</span></p>
-          <p><span lang="ko">{site.collegeKorean}</span><span>{site.college}</span></p>
-          <p><span lang="ko">{site.departmentKorean}</span><span>{site.department}</span></p>
+          <p><span>{site.university}</span><span lang="ko">{site.universityKorean}</span></p>
+          <p><span>{site.college}</span><span lang="ko">{site.collegeKorean}</span></p>
+          <p><span>{site.department}</span><span lang="ko">{site.departmentKorean}</span></p>
         </div>
         <p class="profile-leadership">{professor.data.summary}</p>
         <div class="profile-links"><a href={`mailto:${site.email}`}>Email</a><a href={site.links.scholar}>Google Scholar</a><a href={site.links.facultyDetailed}>Yonsei profile</a><a href="/contact/">Contact</a></div>

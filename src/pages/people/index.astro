@@ -7,8 +7,8 @@ import { getPeople } from '../../lib/content';
 const people = await getPeople();
 const groups = ['Researchers', 'Students'];
 ---
-<BaseLayout title="People">
-  <PageHeader title="People" description="Current SMART Lab researchers and students." />
+<BaseLayout title="Members">
+  <PageHeader title="Members" description="Current SMART Lab researchers and students." />
   <PeopleNav />
   <div class="container-page people-sections">
     <section class="people-group" id="current-members" aria-labelledby="current-members-heading"><h2 id="current-members-heading">Current members</h2><div class="current-members-grid">{groups.map(group => <section class="people-group"><h3>{group}</h3><div class="people-grid">{people.filter(person => person.data.group === group).map(person => <PersonCard person={person} />)}</div></section>)}</div></section>

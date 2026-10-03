@@ -6,8 +6,8 @@ import { getNewsStories } from '../src/lib/news-stories.ts';
 import { isPublicationNotice } from '../src/lib/publication-policy.ts';
 
 const root = resolve('dist');
-const expectedNav = ['Home', 'Professor', 'People', 'Research', 'Publications', 'Grants & IP', 'News', 'Contact'];
-const expectedCenterNav = ['Home', 'About', 'Rehabilitation Robotics', 'Research & Education', 'News', 'Contact'];
+const expectedNav = ['Home', 'Professor', 'Members', 'Research', 'Publications', 'Grants & IP', 'News', 'Contact'];
+const expectedCenterNav = ['Home', 'About', 'Rehabilitation robotics', 'Research and education', 'News', 'Contact'];
 const issues = [];
 async function htmlFiles(dir) {
   const files = [];
@@ -75,7 +75,7 @@ for (const route of ['people/index.html', 'people/alumni/index.html', 'people/in
   for (const href of ['/people/', '/people/alumni/', '/people/international-collaborators/']) {
     if (!peopleHtml.includes(`href="${href}"`)) issues.push(`People subsection link missing in ${route}: ${href}`);
   }
-  if (!/<nav[^>]*aria-label="People navigation"[^>]*>[\s\S]*?aria-current="page"[\s\S]*?<\/nav>/.test(peopleHtml)) issues.push(`People active subsection missing: ${route}`);
+  if (!/<nav[^>]*aria-label="Members navigation"[^>]*>[\s\S]*?aria-current="page"[\s\S]*?<\/nav>/.test(peopleHtml)) issues.push(`People active subsection missing: ${route}`);
 }
 const publicationHtml = await readFile(join(root, 'publications/index.html'), 'utf8');
 const archiveHtml = await readFile(join(root, 'grants-ip/index.html'), 'utf8');

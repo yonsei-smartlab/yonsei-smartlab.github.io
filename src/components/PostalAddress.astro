@@ -1,0 +1,5 @@
+---
+interface Props { lines: string[]; korean?: string; }
+const { lines, korean } = Astro.props;
+---
+<address class="postal-address">{lines.map(line => <span>{line}</span>)}{korean && <span class="secondary-language" lang="ko">{korean}</span>}</address>

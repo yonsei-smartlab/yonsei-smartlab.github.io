@@ -19,13 +19,13 @@ export const goodwellness = {
   nav: [
     { label: 'Home', href: '/goodwellness/' },
     { label: 'About', href: '/goodwellness/about/' },
-    { label: 'Rehabilitation Robotics', href: '/goodwellness/robogym/' },
-    { label: 'Research & Education', href: '/goodwellness/research-education/' },
+    { label: 'Rehabilitation robotics', href: '/goodwellness/robogym/' },
+    { label: 'Research and education', href: '/goodwellness/research-education/' },
     { label: 'News', href: '/goodwellness/news/' },
     { label: 'Contact', href: '/goodwellness/contact/' },
   ],
   map: {
-    label: 'Yonsei GOODWELLNESS Center · 남원로 52',
+    label: 'Yonsei GOODWELLNESS Center · 52 Namwon-ro',
     searchQuery: '연세굿웰니스센터',
     naverUrl: 'https://naver.me/Fsor2sOm',
     latitude: 37.2988796,
@@ -34,8 +34,10 @@ export const goodwellness = {
   images: { gymPhoto: '', gymPhotoAlt: '' },
   contact: {
     roadAddress: '강원특별자치도 원주시 흥업면 남원로 52',
+    address: ['52 Namwon-ro, Heungeop-myeon', 'Wonju-si, Gangwon State', 'Republic of Korea'],
+    lotAddressEnglish: '1841 Heungeop-ri, Heungeop-myeon, Wonju-si, Gangwon State',
     lotAddress: '강원특별자치도 원주시 흥업면 흥업리 1841',
-    phone: '033-765-2861',
+    phone: '+82-33-765-2861',
     phoneHref: '+82-33-765-2861',
     hours: '[Service hours]',
   },

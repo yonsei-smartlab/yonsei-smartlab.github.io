@@ -1,20 +1,21 @@
 ---
+import PostalAddress from './PostalAddress.astro';
 import { site } from '../data/site';
 import { goodwellness } from '../data/goodwellness';
 interface Props { section?: 'lab' | 'goodwellness'; }
 const { section = 'lab' } = Astro.props;
 const isCenter = section === 'goodwellness';
 const identity = isCenter ? goodwellness : site;
-const identityLines = isCenter ? [goodwellness.koreanName] : [site.fullName, site.university, site.college, site.department];
-const addresses = isCenter ? [goodwellness.contact.roadAddress, goodwellness.contact.lotAddress] : site.address;
+const identityLines = isCenter ? [goodwellness.description] : [site.fullName, site.university, site.college, site.department];
+const addresses = isCenter ? goodwellness.contact.address : site.address;
 const phone = isCenter ? goodwellness.contact.phone : site.phone;
 const phoneHref = isCenter ? goodwellness.contact.phoneHref : site.phone;
 ---
 <footer class="site-footer">
   <div class="container-page">
     <div class="footer-grid">
-      <div><p class="footer-name">{identity.name}</p>{identityLines.map(line => <p lang={isCenter ? 'ko' : undefined}>{line}</p>)}</div>
-      <div><h2>Location</h2>{addresses.map((line, index) => <p lang={isCenter ? 'ko' : undefined}>{isCenter ? `${index === 0 ? '도로명' : '지번'}: ` : ''}{line}</p>)}</div>
+      <div><p class="footer-name">{identity.name}</p>{identityLines.map(line => <p>{line}</p>)}</div>
+      <div><h2>Location</h2><PostalAddress lines={addresses} /></div>
       <div><h2>Contact</h2><p>Telephone<br /><a href={`tel:${phoneHref}`}>{phone}</a></p>{!isCenter && <p>Email<br /><a href={`mailto:${site.email}`}>{site.email}</a></p>}</div>
     </div>
     <div class="footer-bottom"><p>© {new Date().getFullYear()} {identity.name}</p></div>
