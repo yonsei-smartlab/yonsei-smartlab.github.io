@@ -1,0 +1,52 @@
+---
+import BaseLayout from '../components/BaseLayout.astro';
+import PageHeader from '../components/PageHeader.astro';
+import PubList from '../components/PubList.astro';
+import { getPublications, getResearch } from '../lib/content';
+const publications = await getPublications();
+const research = await getResearch();
+const years = [...new Set(publications.flatMap(pub => pub.data.year ? [pub.data.year] : []))].sort((a, b) => b - a);
+---
+<BaseLayout title="Publications">
+  <PageHeader title="Publications" description="[Add a short introduction to the lab’s publications and scholarly work.]" />
+  <section class="section"><div class="container-page">
+    <form class="publication-filters" role="search" aria-label="Filter publications">
+      <div class="search-field"><label for="publication-search">Search</label><input id="publication-search" type="search" placeholder="Title, author, or journal" autocomplete="off" /></div>
+      <div><label for="publication-year">Year</label><select id="publication-year"><option value="">All years</option>{years.map(year => <option value={year}>{year}</option>)}</select></div>
+      <div><label for="publication-area">Research area</label><select id="publication-area"><option value="">All areas</option>{research.map(area => <option value={area.id}>{area.data.title}</option>)}</select></div>
+      <button class="button button-secondary reset-filters" type="reset">Reset</button>
+    </form>
+    <p class="results-count" aria-live="polite" aria-atomic="true"><span id="publication-count">{publications.length}</span> <span id="publication-noun">{publications.length === 1 ? 'publication' : 'publications'}</span>{publications.some(pub => pub.data.placeholder) && <span class="placeholder-text"> · includes template entries</span>}</p>
+    <PubList pubs={publications} filterable />
+    <p id="publication-empty" class="empty-state" hidden>No publications match these filters.</p>
+  </div></section>
+</BaseLayout>
+<script>
+  const search = document.querySelector<HTMLInputElement>('#publication-search');
+  const year = document.querySelector<HTMLSelectElement>('#publication-year');
+  const area = document.querySelector<HTMLSelectElement>('#publication-area');
+  const entries = [...document.querySelectorAll<HTMLElement>('[data-publication]')];
+  const count = document.querySelector('#publication-count');
+  const noun = document.querySelector('#publication-noun');
+  const empty = document.querySelector<HTMLElement>('#publication-empty');
+  function filterPublications() {
+    const query = search?.value.trim().toLowerCase() ?? '';
+    let visible = 0;
+    entries.forEach(entry => {
+      const matches = (entry.dataset.search ?? '').includes(query)
+        && (!year?.value || entry.dataset.year === year.value)
+        && (!area?.value || (entry.dataset.areas ?? '').split(' ').includes(area.value));
+      entry.hidden = !matches;
+      if (matches) visible++;
+    });
+    if (count) count.textContent = String(visible);
+    if (noun) noun.textContent = visible === 1 ? 'publication' : 'publications';
+    if (empty) empty.hidden = visible !== 0;
+  }
+  search?.addEventListener('input', filterPublications);
+  year?.addEventListener('change', filterPublications);
+  area?.addEventListener('change', filterPublications);
+  const form = document.querySelector<HTMLFormElement>('.publication-filters');
+  form?.addEventListener('submit', event => event.preventDefault());
+  form?.addEventListener('reset', () => queueMicrotask(filterPublications));
+</script>

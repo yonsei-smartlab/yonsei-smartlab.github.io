@@ -1,0 +1,12 @@
+---
+import BaseLayout from '../../components/BaseLayout.astro';
+import PageHeader from '../../components/PageHeader.astro';
+import PersonCard from '../../components/PersonCard.astro';
+import { getPeople } from '../../lib/content';
+const people = await getPeople();
+const groups = ['Principal Investigator', 'Researchers', 'Students', 'Alumni'];
+---
+<BaseLayout title="People">
+  <PageHeader title="People" description="[Introduce the people in the lab and their research interests.]" />
+  <div class="container-page people-sections">{groups.map(group => <section class="people-group"><h2>{group}</h2><div class="people-grid">{people.filter(person => person.data.group === group).map(person => <PersonCard person={person} />)}</div></section>)}</div>
+</BaseLayout>

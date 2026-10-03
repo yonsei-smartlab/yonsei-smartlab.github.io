@@ -1,0 +1,13 @@
+---
+import { site } from '../data/site';
+---
+<footer class="site-footer">
+  <div class="container-page">
+    <div class="footer-grid">
+      <div><p class="footer-name">{site.name}</p><p>{site.university}</p><p class="placeholder-text">{site.department}</p></div>
+      <div><h2>Location</h2>{site.address.map(line => <p class="placeholder-text">{line}</p>)}</div>
+      <div><h2>Contact</h2>{site.email ? <a href={`mailto:${site.email}`}>{site.email}</a> : <p class="placeholder-text">[Lab email address]</p>}<p><a href="/contact/">Join Us / Contact</a></p></div>
+    </div>
+    <div class="footer-bottom"><p>© {new Date().getFullYear()} {site.name}</p>{site.draft && <p class="template-note">Template draft · bracketed text and blank images are placeholders.</p>}</div>
+  </div>
+</footer>

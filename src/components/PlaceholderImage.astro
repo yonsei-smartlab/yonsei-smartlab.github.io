@@ -1,0 +1,5 @@
+---
+interface Props { label: string; aspect?: 'figure' | 'photo' | 'portrait' | 'map'; src?: string; alt?: string; }
+const { label, aspect = 'figure', src, alt } = Astro.props;
+---
+{src ? <img class:list={['content-image', `image-${aspect}`]} src={src} alt={alt || label} loading="lazy" /> : <div class:list={['image-placeholder', `image-${aspect}`]} role="img" aria-label={`${label} placeholder`}><span>{label}</span><small>Placeholder</small></div>}

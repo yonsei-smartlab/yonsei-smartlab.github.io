@@ -1,0 +1,13 @@
+---
+import BaseLayout from '../components/BaseLayout.astro';
+import PageHeader from '../components/PageHeader.astro';
+import PlaceholderImage from '../components/PlaceholderImage.astro';
+import { getResearch } from '../lib/content';
+import { render } from 'astro:content';
+const research = await getResearch();
+const sections = await Promise.all(research.map(async area => ({ area, ...(await render(area)) })));
+---
+<BaseLayout title="Research">
+  <PageHeader title="Research" description="[Introduce the lab’s main research questions, approaches, and areas of work.]" />
+  <div class="container-page research-sections">{sections.map(({ area, Content }) => <section class="research-detail" id={area.id}><div><h2>{area.data.title}</h2><p class="research-summary">{area.data.summary}</p><div class="prose-content"><Content /></div></div><PlaceholderImage label="Research figure" src={area.data.image} alt={area.data.imageAlt} /></section>)}</div>
+</BaseLayout>

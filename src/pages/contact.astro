@@ -1,0 +1,13 @@
+---
+import BaseLayout from '../components/BaseLayout.astro';
+import PageHeader from '../components/PageHeader.astro';
+import PlaceholderImage from '../components/PlaceholderImage.astro';
+import { site } from '../data/site';
+---
+<BaseLayout title="Join Us / Contact">
+  <PageHeader title="Join Us / Contact" description={site.contact.introduction} />
+  <section class="section"><div class="container-page contact-grid">
+    <div class="contact-column"><section><h2>Join the lab</h2><p class="recruitment-status placeholder-text">{site.contact.recruitmentStatus}</p><p class="placeholder-text">{site.contact.opportunities}</p></section><section><h2>How to apply</h2><p class="placeholder-text">{site.contact.applicationInstructions}</p></section><section><h2>Collaborations</h2><p class="placeholder-text">{site.contact.collaboration}</p></section></div>
+    <div class="contact-column"><section><h2>Contact</h2><dl class="contact-details"><dt>Principal Investigator</dt><dd class="placeholder-text">[PI name]</dd><dt>Email</dt><dd>{site.email ? <a href={`mailto:${site.email}`}>{site.email}</a> : <span class="placeholder-text">[Lab email address]</span>}</dd><dt>Address</dt><dd>{site.name}<br />{site.university}<br /><span class="placeholder-text">{site.department}</span>{site.address.map(line => <><br /><span class="placeholder-text">{line}</span></>)}</dd></dl></section><section><h2>Visiting the lab</h2><PlaceholderImage label="Location map" aspect="map" /><p class="placeholder-text">{site.contact.directions}</p></section></div>
+  </div></section>
+</BaseLayout>

@@ -1,0 +1,15 @@
+---
+import type { CollectionEntry } from 'astro:content';
+interface Props { pubs: CollectionEntry<'publications'>[]; filterable?: boolean; }
+const { pubs, filterable = false } = Astro.props;
+---
+<ol class="pub-list">
+  {pubs.map(pub => (
+    <li class="pub-item" data-publication={filterable ? true : undefined} data-search={`${pub.data.title} ${pub.data.authors.join(' ')} ${pub.data.journal}`.toLowerCase()} data-year={pub.data.year ?? ''} data-areas={pub.data.areas.join(' ')}>
+      <h3>{pub.data.url ? <a href={pub.data.url}>{pub.data.title}</a> : pub.data.title}</h3>
+      <p class="pub-authors">{pub.data.authors.join(', ')}</p>
+      <p class="pub-venue">{pub.data.journal} · {pub.data.year ?? '[Year]'}</p>
+      {(pub.data.doi || pub.data.pdf) && <div class="pub-links">{pub.data.doi && <a href={`https://doi.org/${pub.data.doi}`}>DOI</a>}{pub.data.pdf && <a href={pub.data.pdf}>PDF</a>}</div>}
+    </li>
+  ))}
+</ol>
