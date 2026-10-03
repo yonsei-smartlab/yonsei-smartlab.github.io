@@ -13,9 +13,7 @@ import { site } from '../data/site';
     <dt>Fax</dt><dd>{site.fax}</dd>
     <dt>Affiliation</dt><dd>{site.fullName}<br />{site.university}<br />{site.college}<br />{site.department}<br />{site.campus}</dd>
   </dl>
-  <dl slot="location" class="contact-details">
-    <dt>Professor’s office</dt><dd><PostalAddress lines={site.address} korean={site.koreanAddress} /></dd>
-  </dl>
+  <div slot="location"><PostalAddress lines={site.address} korean={site.koreanAddress} /></div>
   <BusInformation slot="transport" information={officeBusInformation} />
   <section class="section section-divided"><div class="container-page contact-opportunities">
     <section><h2>Join the lab</h2><p>{site.contact.opportunities}</p></section>
