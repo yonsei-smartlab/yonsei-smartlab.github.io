@@ -131,11 +131,12 @@ def google(source):
              'source': item.findtext('source', ''), 'published': item.findtext('pubDate', ''),
              'snippet': clean(item.findtext('description', ''))} for item in root.findall('./channel/item')]
 
-def search_query(engine, query, max_pages, delay=1.5):
+def search_query(engine, query, max_pages, delay=1.5, google_locale='ko'):
     candidates, seen, pages = [], set(), []
     for page in range(1, max_pages + 1):
         if engine == 'google':
-            url = 'https://news.google.com/rss/search?' + urlencode({'q': query, 'hl': 'ko', 'gl': 'KR', 'ceid': 'KR:ko'})
+            locale = {'hl': 'en-US', 'gl': 'US', 'ceid': 'US:en'} if google_locale == 'en' else {'hl': 'ko', 'gl': 'KR', 'ceid': 'KR:ko'}
+            url = 'https://news.google.com/rss/search?' + urlencode({'q': query, **locale})
         elif engine == 'naver':
             url = 'https://search.naver.com/search.naver?' + urlencode({'where': 'news', 'query': query, 'start': (page-1)*10+1, 'sort': 0})
         else:
@@ -146,7 +147,7 @@ def search_query(engine, query, max_pages, delay=1.5):
             records = {'google': google, 'naver': naver, 'daum': daum}[engine](source)
         except Exception as error:
             return candidates, {'engine': engine, 'query': query, 'pages': pages, 'exhausted': False, 'error': str(error)}
-        key = hashlib.sha256(f'{engine}:{query}:{page}'.encode()).hexdigest()[:16]
+        key = hashlib.sha256(f'{engine}:{query}:{page}:{google_locale}'.encode()).hexdigest()[:16]
         cache = Path('.local/news-search-snapshots')
         cache.mkdir(parents=True, exist_ok=True)
         (cache / f'{engine}-{key}.html').write_text(source, encoding='utf-8')
@@ -173,13 +174,14 @@ def main():
     parser.add_argument('--max-pages', type=int, default=30)
     parser.add_argument('--workers', type=int, default=1)
     parser.add_argument('--delay', type=float, default=1.5)
+    parser.add_argument('--google-locale', choices=['ko', 'en'], default='ko')
     parser.add_argument('--output', default='artifacts/news-discovery.json')
     args = parser.parse_args()
     engines = ['google', 'naver', 'daum'] if args.engine == 'all' else [args.engine]
     queries = args.query or QUERIES
     candidates, coverage = {}, []
     with ThreadPoolExecutor(max_workers=args.workers) as pool:
-        tasks = {pool.submit(search_query, engine, query, args.max_pages, args.delay): (engine, query) for engine in engines for query in queries}
+        tasks = {pool.submit(search_query, engine, query, args.max_pages, args.delay, args.google_locale): (engine, query) for engine in engines for query in queries}
         for task in as_completed(tasks):
             rows, audit = task.result()
             coverage.append(audit)

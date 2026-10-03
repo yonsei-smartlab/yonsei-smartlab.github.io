@@ -1,0 +1,1898 @@
+{
+  "reviewedOn": "2026-10-03",
+  "complete": false,
+  "note": "Editorial queue only. Search results do not establish identity or approve public content.",
+  "candidateCount": 116,
+  "statusCounts": {
+    "unreviewed": 102,
+    "excluded": 7,
+    "published": 6,
+    "held": 1
+  },
+  "sourceScreenCounts": {},
+  "coverage": [
+    {
+      "engine": "google",
+      "query": "유승현 장애인체력증진",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://news.google.com/rss/search?q=%EC%9C%A0%EC%8A%B9%ED%98%84+%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84&hl=ko&gl=KR&ceid=KR%3Ako",
+          "finalUrl": "https://news.google.com/rss/search?q=%EC%9C%A0%EC%8A%B9%ED%98%84+%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84&hl=ko&gl=KR&ceid=KR%3Ako",
+          "rows": 1,
+          "newRows": 1,
+          "snapshot": "google-4c347732107bbfc3.html"
+        }
+      ],
+      "exhausted": true,
+      "rssLimitReached": false
+    },
+    {
+      "engine": "google",
+      "query": "연세 장애아동 체력증진실",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://news.google.com/rss/search?q=%EC%97%B0%EC%84%B8+%EC%9E%A5%EC%95%A0%EC%95%84%EB%8F%99+%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84%EC%8B%A4&hl=ko&gl=KR&ceid=KR%3Ako",
+          "finalUrl": "https://news.google.com/rss/search?q=%EC%97%B0%EC%84%B8+%EC%9E%A5%EC%95%A0%EC%95%84%EB%8F%99+%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84%EC%8B%A4&hl=ko&gl=KR&ceid=KR%3Ako",
+          "rows": 1,
+          "newRows": 1,
+          "snapshot": "google-dd5521da0529c908.html"
+        }
+      ],
+      "exhausted": true,
+      "rssLimitReached": false
+    },
+    {
+      "engine": "google",
+      "query": "연세 굿웰니스",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://news.google.com/rss/search?q=%EC%97%B0%EC%84%B8+%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&hl=ko&gl=KR&ceid=KR%3Ako",
+          "finalUrl": "https://news.google.com/rss/search?q=%EC%97%B0%EC%84%B8+%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&hl=ko&gl=KR&ceid=KR%3Ako",
+          "rows": 3,
+          "newRows": 3,
+          "snapshot": "google-7244aae70975ad74.html"
+        }
+      ],
+      "exhausted": true,
+      "rssLimitReached": false
+    },
+    {
+      "engine": "google",
+      "query": "Joshua You rehabilitation",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=ko&gl=KR&ceid=KR%3Ako",
+          "finalUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=ko&gl=KR&ceid=KR%3Ako",
+          "rows": 0,
+          "newRows": 0,
+          "snapshot": "google-2a79b8a1f3acc183.html"
+        }
+      ],
+      "exhausted": true,
+      "rssLimitReached": false
+    },
+    {
+      "engine": "google",
+      "query": "Yonsei Goodwellness",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://news.google.com/rss/search?q=Yonsei+Goodwellness&hl=ko&gl=KR&ceid=KR%3Ako",
+          "finalUrl": "https://news.google.com/rss/search?q=Yonsei+Goodwellness&hl=ko&gl=KR&ceid=KR%3Ako",
+          "rows": 0,
+          "newRows": 0,
+          "snapshot": "google-da407a038a155dce.html"
+        }
+      ],
+      "exhausted": true,
+      "rssLimitReached": false
+    },
+    {
+      "engine": "naver",
+      "query": "연세 굿웰니스",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&start=1&sort=0",
+          "finalUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&start=1&sort=0",
+          "rows": 11,
+          "newRows": 11,
+          "snapshot": "naver-e7c64b4855ea3d71.html"
+        },
+        {
+          "page": 2,
+          "url": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&start=11&sort=0",
+          "finalUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&start=11&sort=0",
+          "rows": 11,
+          "newRows": 0,
+          "snapshot": "naver-d3f0387423549c5b.html"
+        }
+      ],
+      "exhausted": false,
+      "stopReason": "BrowserScrollingRequired"
+    },
+    {
+      "engine": "naver",
+      "query": "Yonsei Goodwellness",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://search.naver.com/search.naver?where=news&query=Yonsei+Goodwellness&start=1&sort=0",
+          "finalUrl": "https://search.naver.com/search.naver?where=news&query=Yonsei+Goodwellness&start=1&sort=0",
+          "rows": 0,
+          "newRows": 0,
+          "snapshot": "naver-e96a4e823d78dc93.html"
+        }
+      ],
+      "exhausted": false,
+      "stopReason": "Browser scrolling required"
+    },
+    {
+      "engine": "naver",
+      "query": "유승현 장애인체력증진",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://search.naver.com/search.naver?where=news&query=%EC%9C%A0%EC%8A%B9%ED%98%84+%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84&start=1&sort=0",
+          "finalUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9C%A0%EC%8A%B9%ED%98%84+%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84&start=1&sort=0",
+          "rows": 2,
+          "newRows": 2,
+          "snapshot": "naver-5357f7c49f7e4cc7.html"
+        },
+        {
+          "page": 2,
+          "url": "https://search.naver.com/search.naver?where=news&query=%EC%9C%A0%EC%8A%B9%ED%98%84+%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84&start=11&sort=0",
+          "finalUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9C%A0%EC%8A%B9%ED%98%84+%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84&start=11&sort=0",
+          "rows": 2,
+          "newRows": 0,
+          "snapshot": "naver-18bfbe25d6b5024e.html"
+        }
+      ],
+      "exhausted": false,
+      "stopReason": "BrowserScrollingRequired"
+    },
+    {
+      "engine": "naver",
+      "query": "연세 장애아동 체력증진실",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EC%9E%A5%EC%95%A0%EC%95%84%EB%8F%99+%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84%EC%8B%A4&start=1&sort=0",
+          "finalUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EC%9E%A5%EC%95%A0%EC%95%84%EB%8F%99+%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84%EC%8B%A4&start=1&sort=0",
+          "rows": 6,
+          "newRows": 6,
+          "snapshot": "naver-31175acf83f2a322.html"
+        },
+        {
+          "page": 2,
+          "url": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EC%9E%A5%EC%95%A0%EC%95%84%EB%8F%99+%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84%EC%8B%A4&start=11&sort=0",
+          "finalUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EC%9E%A5%EC%95%A0%EC%95%84%EB%8F%99+%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84%EC%8B%A4&start=11&sort=0",
+          "rows": 6,
+          "newRows": 0,
+          "snapshot": "naver-c21ef7e1bdd5f3c6.html"
+        }
+      ],
+      "exhausted": false,
+      "stopReason": "BrowserScrollingRequired"
+    },
+    {
+      "engine": "daum",
+      "query": "유승현 장애인체력증진",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://search.daum.net/search?w=news&q=%EC%9C%A0%EC%8A%B9%ED%98%84+%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84&p=1&sort=accuracy&cluster=n",
+          "finalUrl": "https://search.daum.net/search?w=news&q=%EC%9C%A0%EC%8A%B9%ED%98%84+%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84&p=1&sort=accuracy&cluster=n",
+          "rows": 0,
+          "newRows": 0,
+          "snapshot": "daum-e5073d2879b7c51d.html"
+        }
+      ],
+      "exhausted": true,
+      "stopReason": "No new public result links"
+    },
+    {
+      "engine": "daum",
+      "query": "연세 굿웰니스",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://search.daum.net/search?w=news&q=%EC%97%B0%EC%84%B8+%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&p=1&sort=accuracy&cluster=n",
+          "finalUrl": "https://search.daum.net/search?w=news&q=%EC%97%B0%EC%84%B8+%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&p=1&sort=accuracy&cluster=n",
+          "rows": 1,
+          "newRows": 1,
+          "snapshot": "daum-d1f60c5f65aa8811.html"
+        },
+        {
+          "page": 2,
+          "url": "https://search.daum.net/search?w=news&q=%EC%97%B0%EC%84%B8+%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&p=2&sort=accuracy&cluster=n",
+          "finalUrl": "https://search.daum.net/search?w=news&q=%EC%97%B0%EC%84%B8+%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&p=2&sort=accuracy&cluster=n",
+          "rows": 1,
+          "newRows": 0,
+          "snapshot": "daum-bff8f760dba8c726.html"
+        }
+      ],
+      "exhausted": true,
+      "stopReason": "No new public result links"
+    },
+    {
+      "engine": "naver",
+      "query": "Joshua You rehabilitation",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://search.naver.com/search.naver?where=news&query=Joshua+You+rehabilitation&start=1&sort=0",
+          "finalUrl": "https://search.naver.com/search.naver?where=news&query=Joshua+You+rehabilitation&start=1&sort=0",
+          "rows": 10,
+          "newRows": 10,
+          "snapshot": "naver-8c0aa7ff90469142.html"
+        },
+        {
+          "page": 2,
+          "url": "https://search.naver.com/search.naver?where=news&query=Joshua+You+rehabilitation&start=11&sort=0",
+          "finalUrl": "https://search.naver.com/search.naver?where=news&query=Joshua+You+rehabilitation&start=11&sort=0",
+          "rows": 10,
+          "newRows": 0,
+          "snapshot": "naver-372342ce1f266538.html"
+        }
+      ],
+      "exhausted": false,
+      "stopReason": "BrowserScrollingRequired"
+    },
+    {
+      "engine": "daum",
+      "query": "연세 장애아동 체력증진실",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://search.daum.net/search?w=news&q=%EC%97%B0%EC%84%B8+%EC%9E%A5%EC%95%A0%EC%95%84%EB%8F%99+%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84%EC%8B%A4&p=1&sort=accuracy&cluster=n",
+          "finalUrl": "https://search.daum.net/search?w=news&q=%EC%97%B0%EC%84%B8+%EC%9E%A5%EC%95%A0%EC%95%84%EB%8F%99+%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84%EC%8B%A4&p=1&sort=accuracy&cluster=n",
+          "rows": 0,
+          "newRows": 0,
+          "snapshot": "daum-27bad7f69f29b068.html"
+        }
+      ],
+      "exhausted": true,
+      "stopReason": "No new public result links"
+    },
+    {
+      "engine": "daum",
+      "query": "Yonsei Goodwellness",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://search.daum.net/search?w=news&q=Yonsei+Goodwellness&p=1&sort=accuracy&cluster=n",
+          "finalUrl": "https://search.daum.net/search?w=news&q=Yonsei+Goodwellness&p=1&sort=accuracy&cluster=n",
+          "rows": 0,
+          "newRows": 0,
+          "snapshot": "daum-e2f22b838cd4d276.html"
+        }
+      ],
+      "exhausted": true,
+      "stopReason": "No new public result links"
+    },
+    {
+      "engine": "daum",
+      "query": "Joshua You rehabilitation",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://search.daum.net/search?w=news&q=Joshua+You+rehabilitation&p=1&sort=accuracy&cluster=n",
+          "finalUrl": "https://search.daum.net/search?w=news&q=Joshua+You+rehabilitation&p=1&sort=accuracy&cluster=n",
+          "rows": 0,
+          "newRows": 0,
+          "snapshot": "daum-f73b0d52ab78b044.html"
+        }
+      ],
+      "exhausted": true,
+      "stopReason": "No new public result links"
+    },
+    {
+      "engine": "google",
+      "query": "Walkbot",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://news.google.com/rss/search?q=Walkbot&hl=en-US&gl=US&ceid=US%3Aen",
+          "finalUrl": "https://news.google.com/rss/search?q=Walkbot&hl=en-US&gl=US&ceid=US%3Aen",
+          "rows": 4,
+          "newRows": 4,
+          "snapshot": "google-a33ba9f55d1a0081.html"
+        }
+      ],
+      "exhausted": true,
+      "rssLimitReached": false
+    },
+    {
+      "engine": "google",
+      "query": "Joshua You rehabilitation",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen",
+          "finalUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen",
+          "rows": 75,
+          "newRows": 75,
+          "snapshot": "google-f3c6437f3c7aac33.html"
+        }
+      ],
+      "exhausted": true,
+      "rssLimitReached": false
+    },
+    {
+      "engine": "google",
+      "query": "Yonsei Goodwellness",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://news.google.com/rss/search?q=Yonsei+Goodwellness&hl=en-US&gl=US&ceid=US%3Aen",
+          "finalUrl": "https://news.google.com/rss/search?q=Yonsei+Goodwellness&hl=en-US&gl=US&ceid=US%3Aen",
+          "rows": 0,
+          "newRows": 0,
+          "snapshot": "google-aeb73e5c3a540ef1.html"
+        }
+      ],
+      "exhausted": true,
+      "rssLimitReached": false
+    },
+    {
+      "engine": "google",
+      "query": "SMART Lab Yonsei",
+      "pages": [
+        {
+          "page": 1,
+          "url": "https://news.google.com/rss/search?q=SMART+Lab+Yonsei&hl=en-US&gl=US&ceid=US%3Aen",
+          "finalUrl": "https://news.google.com/rss/search?q=SMART+Lab+Yonsei&hl=en-US&gl=US&ceid=US%3Aen",
+          "rows": 5,
+          "newRows": 5,
+          "snapshot": "google-547921be4b6304e8.html"
+        }
+      ],
+      "exhausted": true,
+      "rssLimitReached": false
+    }
+  ],
+  "candidates": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5alVtS2RDOGUzejgtbTVxWTQ5d0VqN1RHRlVKRnhtcnUwWlB0UVo1Ykk0LVBiMGxLdnNSTlBTRmZxNFNGQi1CSzRHUQ?oc=5",
+      "title": "원주시 장애인체력증진실(연세굿웰니스센터) 운영 안내 - 시사일보",
+      "source": "시사일보",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "유승현 장애인체력증진",
+          "searchUrl": "https://news.google.com/rss/search?q=%EC%9C%A0%EC%8A%B9%ED%98%84+%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84&hl=ko&gl=KR&ceid=KR%3Ako"
+        },
+        {
+          "engine": "google",
+          "query": "연세 굿웰니스",
+          "searchUrl": "https://news.google.com/rss/search?q=%EC%97%B0%EC%84%B8+%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&hl=ko&gl=KR&ceid=KR%3Ako"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNOW1xRy14OFBfQzVQVG1PVDNqRU9lMDVjQnFKZTVEMXh6YUZPRUdMTk9jQ3ByUTFJOEtNU1hPMFhrSkxZd2otTWxIWWVtMW51Sl9XMVBUSlhaUFk0QnZWRXdWY2d4ZWRibWh0cndB?oc=5",
+      "title": "튼튼한 몸을 만들어 드립니다, 건강한 정신은 덤! - 연세춘추",
+      "source": "연세춘추",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "연세 장애아동 체력증진실",
+          "searchUrl": "https://news.google.com/rss/search?q=%EC%97%B0%EC%84%B8+%EC%9E%A5%EC%95%A0%EC%95%84%EB%8F%99+%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84%EC%8B%A4&hl=ko&gl=KR&ceid=KR%3Ako"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CSHdrdTRucUxiSXNMQklFWm9haW0xMEZYRDFubHhQTHpJczJRc2tyMFFwdzVHWXJIb3hmNmFpOTYyczVsLWpJUFFIQzJ6Qy10Q1BfOW9Odk9XZmYxQjZFVnZtTDhGa2h4TldRTDNyS3M?oc=5",
+      "title": "연세굿웰니스센터 이전·개소식 - 원주투데이",
+      "source": "원주투데이",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "연세 굿웰니스",
+          "searchUrl": "https://news.google.com/rss/search?q=%EC%97%B0%EC%84%B8+%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&hl=ko&gl=KR&ceid=KR%3Ako"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80WlJGWW5KUDlnX2paMERicUdYcERnYXdoLUxlVkoxbE1IeUR4b1h1NW8tc0k1NU1telVMM2cwbEFSVEJHYTU3M0lUVnA4TUFzTS03b2ZRSHFSZGRSeDZUYy05dlMxeFJEc2NsdUVZUmdWRXZ0MDU4?oc=5",
+      "title": "이원석 연세고강재활의학과 원장, ‘굿닥터 100인’ 선정 - 하이뉴스",
+      "source": "하이뉴스",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "연세 굿웰니스",
+          "searchUrl": "https://news.google.com/rss/search?q=%EC%97%B0%EC%84%B8+%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&hl=ko&gl=KR&ceid=KR%3Ako"
+        }
+      ],
+      "status": "excluded",
+      "reason": "Discovery headline identifies an unrelated subject: 이원석 연세고강재활의학과 원장, ‘굿닥터 100인’ 선정 - hinews.co.kr. Excluded from the focused Professor You / SMART Lab / Yonsei GOODWELLNESS archive."
+    },
+    {
+      "url": "http://www.doctorstimes.com/news/articleView.html?idxno=240219",
+      "title": "[제약업계 소식] 9월 30일",
+      "source": "의사신문",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "연세 굿웰니스",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "reason": "Reviewed original-source title and topic: unrelated [제약업계 소식] 9월 30일. Article does not establish a connection to Yonsei Physical Therapy Professor You, SMART Lab, or Yonsei GOODWELLNESS."
+    },
+    {
+      "url": "http://www.veritas-a.com/news/articleView.html?idxno=170550",
+      "title": "연세대 미래캠, ‘장애인체력증진센터(연세굿웰니스센터)’ 이전 개소식",
+      "source": "베리타스알파",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "연세 굿웰니스",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2019-09-30-fa5d7ad46916.md"
+    },
+    {
+      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=428185",
+      "title": "연세대학교 미래캠퍼스, '장애인(아동)체력증진센터(연세굿웰니스센터...",
+      "source": "뉴스타운",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "연세 굿웰니스",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2019-09-30-faa29400c917.md"
+    },
+    {
+      "url": "http://news.lghellovision.net/news/newsView.do?soCode=SCM0000000&idx=307630",
+      "title": "[미니인터뷰] \"디지털 헬스케어 분야 최고 대학 목표\"",
+      "source": "LG헬로비전",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "연세 굿웰니스",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2021-04-13-b439641f0ed8.md"
+    },
+    {
+      "url": "http://www.newspim.com/news/view/20190930000082",
+      "title": "원주시 '장애아동 체력증진실' 새단장…내달 2일 이전",
+      "source": "뉴스핌",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "연세 굿웰니스",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&start=1&sort=0"
+        },
+        {
+          "engine": "naver",
+          "query": "연세 장애아동 체력증진실",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EC%9E%A5%EC%95%A0%EC%95%84%EB%8F%99+%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84%EC%8B%A4&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2019-09-30-52f4d22ec99c.md"
+    },
+    {
+      "url": "http://www.kwnews.co.kr/view.asp?aid=219093000023&s=501",
+      "title": "[원주]장애아동 체력증진실 이전",
+      "source": "강원일보",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "연세 굿웰니스",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&start=1&sort=0"
+        },
+        {
+          "engine": "naver",
+          "query": "연세 장애아동 체력증진실",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EC%9E%A5%EC%95%A0%EC%95%84%EB%8F%99+%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84%EC%8B%A4&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2019-10-01-a329a3777d43.md"
+    },
+    {
+      "url": "https://news.dealsitetv.com/articles/174541",
+      "title": "[유통24시] 파리바게뜨, 라오스 첫 매장 오픈 外",
+      "source": "딜사이트경제TV",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "연세 굿웰니스",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "reason": "Reviewed original-source title and topic: unrelated [유통24시] 파리바게뜨, 라오스 첫 매장 오픈 外. Article does not establish a connection to Yonsei Physical Therapy Professor You, SMART Lab, or Yonsei GOODWELLNESS."
+    },
+    {
+      "url": "http://news.kukinews.com/article/view.asp?page=1&gCode=kmi&arcid=1319212426&cp=nv",
+      "title": "연세사랑병원 등 전문병원 99개 지정",
+      "source": "국민일보",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "연세 굿웰니스",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "reason": "Reviewed original-source title and topic: unrelated 연세사랑병원 등 전문병원 99개 지정. Article does not establish a connection to Yonsei Physical Therapy Professor You, SMART Lab, or Yonsei GOODWELLNESS."
+    },
+    {
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=431757",
+      "title": "[Who Is ?] 서경배 아모레퍼시픽그룹 대표이사 회장",
+      "source": "비즈니스포스트",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "연세 굿웰니스",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "reason": "Reviewed original-source title and topic: unrelated [Who Is ?] 서경배 아모레퍼시픽그룹 대표이사 회장. Article does not establish a connection to Yonsei Physical Therapy Professor You, SMART Lab, or Yonsei GOODWELLNESS."
+    },
+    {
+      "url": "https://www.jbnews.com/news/articleView.html?idxno=1491521",
+      "title": "[추석특집] 추석연휴 청주시 문여는 병의원은?",
+      "source": "중부매일",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "연세 굿웰니스",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "reason": "Reviewed original-source title and topic: unrelated [추석특집] 추석연휴 청주시 문여는 병의원은?. Article does not establish a connection to Yonsei Physical Therapy Professor You, SMART Lab, or Yonsei GOODWELLNESS."
+    },
+    {
+      "url": "http://www.doctorstimes.com/news/articleView.html?idxno=233194",
+      "title": "[제약업계 소식] 6월 27일",
+      "source": "의사신문",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "연세 굿웰니스",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&start=1&sort=0"
+        }
+      ],
+      "status": "excluded",
+      "reason": "Reviewed original-source title and topic: unrelated [제약업계 소식] 6월 27일. Article does not establish a connection to Yonsei Physical Therapy Professor You, SMART Lab, or Yonsei GOODWELLNESS."
+    },
+    {
+      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=430448",
+      "title": "원주시의회 장애인(아동)체력 증진센터 간담회 개최",
+      "source": "뉴스타운",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "유승현 장애인체력증진",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9C%A0%EC%8A%B9%ED%98%84+%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84&start=1&sort=0"
+        }
+      ],
+      "status": "published",
+      "publicFile": "src/content/news/2019-10-18-goodwellness-council.md"
+    },
+    {
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2110651",
+      "title": "[경제소식] 우리은행 가족 봉사단, 전국서 릴레이 봉사활동",
+      "source": "포쓰저널",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "유승현 장애인체력증진",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9C%A0%EC%8A%B9%ED%98%84+%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84&start=1&sort=0"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "http://www.incheonilbo.com/news/articleView.html?idxno=929875",
+      "title": "[종합] 원주시 장애아동체력증진실 위탁 운영자 공개 모집",
+      "source": "인천일보",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "연세 장애아동 체력증진실",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EC%9E%A5%EC%95%A0%EC%95%84%EB%8F%99+%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84%EC%8B%A4&start=1&sort=0"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "http://www.joygm.com/news/articleView.html?idxno=22764",
+      "title": "(원주시청) 원주시 장애아동체력증진실 위탁 운영자 공개 모집",
+      "source": "광명지역신문",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "연세 장애아동 체력증진실",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EC%9E%A5%EC%95%A0%EC%95%84%EB%8F%99+%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84%EC%8B%A4&start=1&sort=0"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "http://www.fintechpost.co.kr/news/articleView.html?idxno=21463",
+      "title": "[원주시청/종합] 원주시 장애아동체력증진실 위탁 운영자 공개 모집",
+      "source": "파이낸셜포스트",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "연세 장애아동 체력증진실",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EC%9E%A5%EC%95%A0%EC%95%84%EB%8F%99+%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84%EC%8B%A4&start=1&sort=0"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "http://newsbrite.net/25507",
+      "title": "원주시 장애아동체력증진실 위탁 운영자 공개 모집 - 원주시청",
+      "source": "뉴스브라이트",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "연세 장애아동 체력증진실",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%97%B0%EC%84%B8+%EC%9E%A5%EC%95%A0%EC%95%84%EB%8F%99+%EC%B2%B4%EB%A0%A5%EC%A6%9D%EC%A7%84%EC%8B%A4&start=1&sort=0"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://v.daum.net/v/20161018155008788",
+      "title": "의료국제화 주제 '2016 글로벌 헬스케어 정책경영 포럼' 18~19일 개최",
+      "source": "파이낸셜뉴스",
+      "discoveredBy": [
+        {
+          "engine": "daum",
+          "query": "연세 굿웰니스",
+          "searchUrl": "https://search.daum.net/search?w=news&q=%EC%97%B0%EC%84%B8+%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&p=1&sort=accuracy&cluster=n"
+        }
+      ],
+      "status": "held",
+      "reason": "Coverage concerns a healthcare conference organiser named GOODWELLNESS. No confirmed link to Professor You or the Yonsei GOODWELLNESS Centre."
+    },
+    {
+      "url": "https://www.nytimes.com/2024/08/17/health/long-covid-cellist.html?partner=naver",
+      "title": "A Virtuoso Cellist’s Painstaking Path From Long Covid Back to the Stage",
+      "source": "The New York Times",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=Joshua+You+rehabilitation&start=1&sort=0"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.nytimes.com/2025/09/03/theater/broadway-off-broadway-shows-fall-nyc.html?partner=naver",
+      "title": "Keanu Reeves in ‘Waiting for Godot’ and More on Broadway, and Off",
+      "source": "The New York Times",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=Joshua+You+rehabilitation&start=1&sort=0"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.nytimes.com/2025/09/23/world/africa/elon-musk-father-errol-child-abuse.html?partner=naver",
+      "title": "Elon Musk’s Father Accused of Child Sexual Abuse",
+      "source": "The New York Times",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=Joshua+You+rehabilitation&start=1&sort=0"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "http://www.breaknews.com/982318",
+      "title": "세븐틴 에스쿱스, 무릎 부상으로 활동 잠정 중단 “수술 예정..치료·회...",
+      "source": "브레이크뉴스",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=Joshua+You+rehabilitation&start=1&sort=0"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.nytimes.com/2023/06/13/us/dance-prison-california.html?partner=naver",
+      "title": "Inside a Remarkable Dance Program at a California Prison",
+      "source": "The New York Times",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=Joshua+You+rehabilitation&start=1&sort=0"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.nytimes.com/2022/07/22/us/california-airbnb-rules.html?partner=naver",
+      "title": "California Officials Revisit Airbnb Rules Amid Pandemic Tourism Boom",
+      "source": "The New York Times",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=Joshua+You+rehabilitation&start=1&sort=0"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.nytimes.com/2021/12/03/health/long-covid-treatment.html?partner=naver",
+      "title": "Cognitive Rehab: One Patient’s Painstaking Path Through Long Covid Ther...",
+      "source": "The New York Times",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=Joshua+You+rehabilitation&start=1&sort=0"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.nytimes.com/2024/01/31/well/move/exercise-workout-safety-injury.html?partner=naver",
+      "title": "No Pain, No Gain? Your Body Would Like a Word.",
+      "source": "The New York Times",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=Joshua+You+rehabilitation&start=1&sort=0"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.nytimes.com/2023/09/04/arts/design/architecture-fall-preview.html?partner=naver",
+      "title": "Architecture’s Second Looks, and Second Acts",
+      "source": "The New York Times",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=Joshua+You+rehabilitation&start=1&sort=0"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://www.nytimes.com/2023/09/10/us/politics/joe-biden-hunter-relationship.html?partner=naver",
+      "title": "President Biden Keeps Hunter Close Despite the Political Peril",
+      "source": "The New York Times",
+      "discoveredBy": [
+        {
+          "engine": "naver",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://search.naver.com/search.naver?where=news&query=Joshua+You+rehabilitation&start=1&sort=0"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wMmZSUmtOMzBJWG9BekJKc3pYNHNWbmRfeXlTanEzcDNrZnNDdGdFMlZxSUc4RmV5dFRDYklxRTNFNVFvODR1Qk9fWW0yNUIzQTlQdklTNmptbkhvNzE0emdwMG12ZmVOZ3hCZmpHRQ?oc=5",
+      "title": "Veterans' hospital adopts digital approach from care to welfare - Korea.net",
+      "source": "Korea.net",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Walkbot",
+          "searchUrl": "https://news.google.com/rss/search?q=Walkbot&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWDNaV2ZYN3ptQXZZVFJFVnhVMGdtODhsVW56aXJDN01PRzNvODdfdTFYMjJyeVJvS1A4MUo4djUtMWVQY2dJVXNteTE4SWZOWEtSdFN0Wm1wc2VudUhDTFN5UkZfS2ZHTWpBcWZXdHRsYVBSZ2lGX3hSU3NxWS00Z0lkNVZQSG41TXlxLW1BU1ZYZTdpSVNaQlFlUzRtVWU1NzQwamNSZThnam9ybGxNSnQtSjhVU0s4ZzdyeXJFSzcyaXFZaER3dnJvYjFTYnJsUmx6QUNBRFNBUzVGWFBr0gHkAUFVX3lxTE1kUXpCQ0NiUzBvTWFfYXlWSFdYeW5fRlNJci1XX2VLdFpPTFQ4b2VkUkVlUEgtVUt3WmJtT1RoRHc0RXdnOURXT3JnVVI5UVM2cjdvZXJTdDJjaXQ3WHJFMnFXYmZfamFnMjlWa0ZvVVA3S0hreU5hVWhHRXZNWkRSWF85dGFCbEdNNmdUM05RVHdjYXZPU01oMVItT2FSd3RoMWl3R3JtMzRQcVlDQXZwY2hVMERMNUhJN2U0d2lMc2h4bXNWS0JnRnNDV3FhVms0TURxZ3BiUEJ1WWdxZF9IZlFWNA?oc=5",
+      "title": "Sakra World Hospital launches world class ‘Robotic-Assisted Neuro-Rehabilitation Center’ in Bangalore - ThePrint",
+      "source": "ThePrint",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Walkbot",
+          "searchUrl": "https://news.google.com/rss/search?q=Walkbot&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ha1hGRnBnY3kwRjQ3VDN1MUVIbnpHU3R0R2JnVXZwZHQ2TDYzeUh6QW8xSDFjUWJxSWJrYlkySll3TUZ3Z2JQOWxGcGtWV1ZsbHpuV2VlSUFrYVRFaTN3OTRKcVNqS19RWGpHMXA4VQ?oc=5",
+      "title": "Seoul police force launch 'smart patrols' with high-tech devices - Korea.net",
+      "source": "Korea.net",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Walkbot",
+          "searchUrl": "https://news.google.com/rss/search?q=Walkbot&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYnBDR3dmMF9saUZXVDZONWRUUWhoel9SUW5YNGtERmd1MFZITEZvaWpaUEhxMHFSRFhMNjV4UzdGdzhPeTN0VGx3N2ZkVmQwRDNySWk2aTRHdFNLUEFjei1PNFNaOG0wX3drNFFmUkhyUi12UjlpVURfQWRxSUJ4RzV6QmtOaTZoSFp4clVpU3NsZTQ?oc=5",
+      "title": "Manufacturer of Robotic Rehabilitation Device | WALKBOT - openpr.com",
+      "source": "openpr.com",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Walkbot",
+          "searchUrl": "https://news.google.com/rss/search?q=Walkbot&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZzN4RXBuN2pTRDdKdHhxVENHRm83TEw4NnpaYVk1NkhvaHAtZ3pBMUxzby1rVzBSdDdQYmJtNGVfNk9FUGtXWEZvVGhORDNkTnJRanRrcVZKSjF4QWZXemsyWjBsVV9OUXBhLTdaT3YtaHk5QTAyTDdtMHJqelBzMWVuQUVSRnhhaXJtNFllOU5XbncwY0NQOUpRN3U4NVAwX1o3ZGh3T1d0a2N0TUE5eDFEYnJZc040R2Rncw?oc=5",
+      "title": "Memory of CDCR Parole Agent Joshua Byrd Honored at Guns and Hoses Football Game - California Department of Corrections and Rehabilitation - CDCR (.gov)",
+      "source": "California Department of Corrections and Rehabilitation - CDCR (.gov)",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbXRCUC1KZERtQURpRDJZYlBrWjBfMTIyYm9CMlk5YzBaNHhaMnpiZXl2RHNFbElfc3NSakJNZ0ZWM2FvUU1tdW55NnFrWi1tUHYwMTN0aUlQM0RUQURXX0x4WDhVc21BSExJTXlGWnpqWFVNcWpPTG1FanlqYUQ3ZzBEeEdEb3UtWlRLZUpud09xZk1vdzl4TjZpRDZucy1QSjhFY0tReDVKaTktU05lLS1jV096bTZzVDFHNWxlQmNiM3NFNWVQc2puc0dlWFBFWEdV?oc=5",
+      "title": "Judge’s son chooses yearlong drug rehab over high bond - Laurel Leader-Call",
+      "source": "Laurel Leader-Call",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRjlBRnpxcm91MGJwM1RzYUtkNks0LTBDVmxDNllXTGlvUWROekRDakFZZW05TGNYUWY1S1BmX284NkMtVVBqQ25TdEJQbnVwN2lRRUxjSFB5RGJ1eHVHaEZxdnJQb2lJTGF2elJWVUlMbnRiMUh3RGpvVF95MEFkTEFXekdCNFp4YjFVMmZHbzI1elNqUkE4TGZsOVFEZGREUGRqSFhPZUF1V1E?oc=5",
+      "title": "Joshua Bassett Details His “Breaking Point” Amid Ketamine and Ayahuasca Use - E! News",
+      "source": "E! News",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb2hfUUNnNG9mT0lBRXctSDljM3FUdy1yNGF1bmFSWFdhaC10SDluTnVBNTJ1MWhpMmpMZnhhMlVrYUoxYXE5SXc2SDE0TEV0U2hndlNpVXp5cm9KQllVNkdvY1dHcnhwd0FNem1Xc3VkdkxCLW9JYld0VnEyYkkxTkE2bVFNOXJ3ZnRZS05aUkF6Y3gxZHVjQTkxMVhpaGptNEpPTkQyaExqMVoxUXJCQzFfNnVJeUxPQjBoRC14UUZFcWxnSDhrbzdQazlwaTNYMEF2N1lUZVFtRWdfUXhR?oc=5",
+      "title": "Rise Recovery Launches Community-Driven Addiction Treatment Model Built by People Who Lived It - USA Today",
+      "source": "USA Today",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ1F5MVhsb211SjJaenJkMm1TWEN3Q3VkdTJUR0k3R252YXdJVXBJM3VpZGtzbV9hS3R4WFY4Q0lGWDQ4c1BYVHF5LW50N1gydHlhenphcXhKb1dsV1F4bWdnYjRkMk44ODYtMXNiLVFhVTZCdktJcXU4SXFwbEI1YUR5WXhwRVVDME56QjRfQ2cwcHBxQmxVZzJHTHRrWWc?oc=5",
+      "title": "What Is a Ruptured Testicle? An MLB Player's Painful Injury, Explained - Time Magazine",
+      "source": "Time Magazine",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNG45TlJmQXo0STNILTU1TnRaZVY5X3drNTB4MWhvelpNc3RLVC03SkZtSncyR2FYYkFkOFc4Y205NDZldTg2bDdGZ0VxQ2VnQXZiazk2ZnpnbllraE01a3k3TzFBbVMycWhodDMwOHFPZXF1RnNIa0MzZUlLNlF4UzVGQnBqckE0YlNXNGhKeHZJWFMwU0dtWGd6cldEZFBVTWR3X2tHLWNYU1BWbUg5bWlEX0hoZFA5ZGNkakdjMmhvLWVIbVh6akVGRkZGSDlhakRSQktqbmhqOGF3akVDUU9nNWk2RjQ?oc=5",
+      "title": "Joshua Jefferson's emotions on his March Madness ankle injury, rehab before Round of 32 - 247Sports",
+      "source": "247Sports",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPakhCMUIybmhlRU9JRHRWRUV1YnRFN1lnMlN6ekQwU01pd3FJcWhJbTR3NXlqR1ZOcmFKbGtUeEZkaWFoTExpZ0toTkRpX0F2cmRfaFgzczBfUzk5VVRzeXN2VFlpYURDS2xXYmcxa2xTSDVvYWJYLUJBc21ON1lSbEpEWjRiY0hxU2hrU2Rtb0VSdEtlSF9lS1BZb3FmVnRXSHBJNlBOVlBRMWJnOE1IRC1LZGpTT3hVOHc?oc=5",
+      "title": "Badenoch defends decision to allow man jailed for antisemitism to stand as councillor | Conservatives - The Guardian",
+      "source": "The Guardian",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOUUlhQkFsQmFGYUozVHc5YXpjXzBidFZCa3hjRk1BTFUzTk9fS1RMLWpxZUxHUkZwSjh2Qm9UT2hLMk9zeTJ6cDc4YXlNbm9PMHhGZVNtMTdPeDNuN0dmQUh3eWxmWldzem5CN21IYnRWbThlRnJXX3FOM3NTUFZlNzdWRGZlVWpOZWRReUlvTlh0c2FhbXBVa0w5T2lULVkzbkxYdTA0eWVBUjN2SXQzSEE0bFp1emRSZTBkS1dtU3ZrNDB4TnNGbFlSY29PWkdhaFk1dEdIRjcyM0g2TG0tdG16UWpMN1RpdnBmUjZYbVZYdTFEX0xkNWFmM2tqZVgxMVA1c3U4NDBGN3hkU3JXbFVfZlAyRDl0X2tDRlBlZVNPUGVZQVpqNjdob9IBsAJBVV95cUxNdWI5aHh2bmpvT0FXMmdDMXlTazFCRTdveDVRM2lydFd0MEJtMlRKYy1JMWc0V29kM3BTVHRCaEoxYTB2Zl95bHh5WGF2bnUxMEU4YnFLV09DVmhySnQtcnBpN1M3ckRPcmJfY0V0NGZtZi1JQlhDVHZ3cEhBR3lvcFlnSXZhNEpiaE9lQmNMb1pIcDZqdVkydERnVEFyRWtQWjNyQlMtVHNhMzVxdHdTaGdLVi1HRURYNkJzX1NYaW9ONVhDMlVSdllaYjU0bHYtQjdpd2lmZ1hBMHY1dUNJZHZGRjZzTjI0b1A0X0ZvVUVFSDVqSjk4ZU5xbjlmUkxsWHlOa2pCUENGTU04U1FfMERRaDV3ZFU3UXdvNlBSOXVwQ3J1OEt4UnUyQWlGYWRH?oc=5",
+      "title": "Anthony Joshua posts painful rib treatment photos months after tragic Nigeria crash, summer comeback now - The Times of India",
+      "source": "The Times of India",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRmk4Tmlpa00zSVB2aVJUbTJtdE12emRCS1YxMGNBYTZkTHpqbDI1TXhreTlzemFFWG1NOVpLcG01Z0xfYjFoNWxRZ04xWngtYXNlM0pnU2o2dmRYNXhlbHRHdTJVc05RblkzeHVaY3NtbVVhX3NkbnJ3UjRnR1lkcE5MZWtJQXoxYXd5R3pNMlUyaTZXZE9YRjBvZTM3MVAzV0UwZF9RU18xSXRITXV1VnpaOV9ockR5NmRMaGw4VGo5TmlOd0Z4VVFPSloweFhteFV1V3MwdGphRDI2TzdOY0U0Rm4tRnRnU3lWSU9xcDNRMmY0cmt6V05B?oc=5",
+      "title": "Andy Reid on potential plans for Josh Simmons during injury recovery - Chiefs Wire",
+      "source": "Chiefs Wire",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96czF1akZBUVJVR1VrM3d6SXZ3UWpLRGVnaUFiVlBJdlFRSkFSY3NEZklYSVBFWGFUbXVWVGZNalhTZlZTYnBOZ3Rsb2pxQUJENUlmMnJyU1o0R2xmamE5NHUwZEMydGtSQjF3SC03TVZxd2NiNlE?oc=5",
+      "title": "Joshua undergoes rib treatment, continues rehab - Punch Newspapers",
+      "source": "Punch Newspapers",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYThVRmZrUmVvc1MzNk94akpCYVVjQnN2OWtscmZnNWMwVjRsaEV3eHk0LS1SQmZRekh2SDNURHE3UlpaSERoMHM3RlFaMkFSb2xuUDdnUW53dUlhemRXVURfS2IxUXhtSXk1Tk50ZV9RZHFQbFpzQ3Z4ZXM3WFkweFR1dXo3SldlaTJzdzFxNjZTQjl5UlhUcDJOVEJIU0IxbHVNQ9IBtgFBVV95cUxPUkM1cC0xQzVTc0xZbnBZYTExM2ZNYmREd0lxY1ptcmRhWDdDVF9wbF9lal9falhrdlM1T3liT3lpbVQzaHFBSGZRRks0YklHdTNtR2ZNamtLTUNaVWRKRURfLTVJSElFcDJBSHJVb0hvdjBuTk5wNUM3cTZnMDZaa090SUtYd2NXSUc3cGs3RVNOSHFObmZlUUp0SXpSQ2g0aHIzbnNFZmVMcGQ0T29YT1ZwVTVPdw?oc=5",
+      "title": "Hazlewood suffers Achilles soreness during hamstring rehab - Cricinfo",
+      "source": "Cricinfo",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcmhHMXJ4X19zOXNCRnhSSWdYRmRlOE1wdFE4cVktRmNOMWxqWHRZakxobENuc1d5dUowRExiWVFrbVZtVktjczhmV0hXUDBVSnZldHpDLXpGbEpJUU54VUdpa21nR3NOTkxSbkczVmdCT1BRWFZzLWc2d2xrUmxfQk9GeXM5ZnVJcEMyNkZUQzA2cERGaGlyLVpGSVo1X2FUc1E?oc=5",
+      "title": "Anthony Joshua's Trainer Friends Dead In Car Accident, Nigerian President Announces - TMZ",
+      "source": "TMZ",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQemprWkRZRVRvaXUxTE55UTRHei1lUHFXb19OYUlIQTV3eVNlU0U2VFB5N2NOVGh1cnlUOVB3QWg2QlZlLV91TDBtQWk0VVVfQXR5cXJZaFBGdlhsTDBGNGpTb3dQb21zZzFESEdEdWY5UHFZY2NXZWtUdlZPM3VPZk4wTXN6NDRMSEEtaXI4MG92Q1hpTjBpQURoeWZGajRQTzFOSURHYWJIYVJlb0pyLUFFWlRrOEFjRnpWeC13?oc=5",
+      "title": "Joshua Bonehill-Paine: Britain is failing its Jews. I know where this hatred leads - Conservative Home",
+      "source": "Conservative Home",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORVQzdnUxX2NVYkRydGxVOGxRZFNsOUZlRmw2ZWFhVTRKU1hEX1o0ZmlGZGNuNmJqbVJfX0NrM2FveG1BYUVxbUlMcEx5TGwtM040cUFmYkgyYUFXTU83aC1RY2RKQ2IzTTF1T2lkTE9zVW1DSF8tNG1sSTlfZDlPYjB3bHp2em0ydHhB?oc=5",
+      "title": "Kemi Badenoch, you’ve got this very, very wrong - The Jewish Chronicle",
+      "source": "The Jewish Chronicle",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOG13b2c5akxZeVdhOHl2LThsNElEcjVzTE9oSkt5Y0UtODFWYWhXRzV3T0w2M3F4eDBBUjV3c2t1OXJldkVVLUVsNVFvRjFPUVJtQURKTzFqMWtpSkI1MjNnQ05NTE1VTE5icDNxNmVyYnZaMktMOHNqbWNCa1gwLWp1eWFtQndGaHlTQnlHUQ?oc=5",
+      "title": "AJ undergoes treatment on ribs as boxing legend continues rehab after car crash - The Sun",
+      "source": "The Sun",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQXzNRSHB5U0dBenhseENqV2VzTjJkaEI1eFdlbmNWZ0ZOVEZxYWwzdFZjcm1ESGx5VndYUlpwMHNrVVRZZG05NHVPVGIyVUVKeW9SS29nQ2QtSWd6Rm41Z2VYQXBDUl9FUy0yMFV0cU9yUm9RUFF1dUZIQXQwRUJxWmRHX1BMUQ?oc=5",
+      "title": "Joshua Bassett Says Addiction ‘Should Have Killed Me’ - People.com",
+      "source": "People.com",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbEo3ZGVjNEdLYzVwSE9WMnNUZUR2QXR0OHRPenpsMzVzVFktbjFmazY1dnNiZEVPWDRCRzhlTFNmdDQ0SGl1SVExYmxzbElqLUlPQUhCaEhZLURGdDNmZlBaYnNzZG1fajhZcFpsZWpEUHhZUkg5czFISk9wQVJXNVlRT0JoWmxfMXFEZXB0SG1jSkVJV3c0WjZFSGxJdw?oc=5",
+      "title": "Wildlife Rehab Outpost botfly removals with Joshua Holland - WLOX",
+      "source": "WLOX",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSkpfanVWNk1FbjVHbzhYUDNJTElzSjdiZFRxUmU5aXo0dTZVbVk3VDREN21HQ29oNHJCeGRSUzVOTGw0dmJSQ2prXzA0VEJSMnNKb25NWHhXODl1MC1uQjc3d1dKOElTbFB1aE43T3ZNLTlKZEROMjVVcXFCWDhWS3JXWC1GSGszWVF6eHdoQVJYNFlka21PMUhZQktVcml2ZmdzR3BLNlk?oc=5",
+      "title": "A High-Intensity, Home-Based Rehabilitation Model for Stroke (Podcast) - Cleveland Clinic",
+      "source": "Cleveland Clinic",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWERCcjdwd3BEX1RXVm9vYTA5d0FNMHBNS3NjYUJ2VmR0ajhBQmdLcUJ1MUs2SHp2WTBnN182OGhvOG5kNENSV2J2YjR3Y24tLWo4UDUwUkhsVUhkTUEwVEQxQXhEWC1EUTJmNHpCNmxxMWVvNERQRUtGYnZ6b09sYy1xcjI2dlJHZDU2LWVLUTAzdw?oc=5",
+      "title": "The Road Back: Josh Bryan Embraces a Second Chance to Find His Purpose - Thoroughbred Daily News",
+      "source": "Thoroughbred Daily News",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTHVXbnlUUzlEM2xxRWwyY09iMVQtZXlFZGUtQnUwNVYtbVdFNmJXU1V1UVp1bXN5TWp0b09sVXpTWHVpLVVMSk1mbzNTWEFhWHhBamloY1o5RnUxRngybTE1c1RiU3lmMEFfdmN4ZXpsVzNvd1EtZUpzNTZoclBPalZ1aWt1SnAzR25hRkJEUDNlUERrMkNFVElGWXh1YVZkZk9ncnd1WTU1ei1JbGY2Z1YxTl9Nai1hTkYxR1AtWFVkREhVbVpPbld6NzVJQQ?oc=5",
+      "title": "The California Highway Patrol mourns the loss of California Department of Corrections and Rehabilitation Parole Agent Joshua Byrd, who made the ultimate sacrifice in the line of duty on July 17, 2025. Agent Byrd dedicated his life to protecting and serving the - facebook.com",
+      "source": "facebook.com",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWE5WQ1dpU19PU1daOXMyRzN1RHJ4Y295ZEpZUjFCLWpaMWZEUlowaC1VeGo5R3pmWkh6YldvVXg5cGtTYzlmSDZuenNjbDlWLVhaQlVHZklMMHNja3BGM2UxTE9uMnJ1T1VucDZ1bWllYTg3dFBNNzVSMUE5dk1mandiZHE?oc=5",
+      "title": "For a Former Addict, Recovery Brings Only Temporary Relief (Published 2021) - The New York Times",
+      "source": "The New York Times",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVnNIMmVaWERsUzI5bldjNW8wNXYwWWRaTFdBUi10ZExOeEFSV3p2VURabWoxdTRNS1o5dU5DcS0wWHpTWGczaTM1c0hLVzBUaVJndFlVTURoRGd6YWdEMDA3YnZyS0o2TnhNZElvNXJldmVybl83U3NKYlBoNTNucDFPd3BJbEZiWTN6V0hOcTluQ2VBZTE1NWNoNTBiNkVHUzNVVWtiQVlOTkRvX2poc0l2UlFfbHhId0UzMG1R?oc=5",
+      "title": "'It casts a deep shadow on this season' -- Tinubu wishes Anthony Joshua quick recovery after accident - TheCable",
+      "source": "TheCable",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcWEzdzdtbDlfNWU0TDdxRVpkVWE0X3U4Vm11Y2h0N0tsSXdyWEJKWlFIZWtsRjdqVnJSd29yeXE5OTB6d0hqaTdYeUtQcEhzRmsybFBiTlpxZUpVZEZHNlAtWmROdmxzM2UtVV9jSXE1UXZzcmtMM25SQVRqbUdWWDhBVHY4MFhjNEtRd2RKWEY4RzFwRnNVd05LQjlIbllSdk5B?oc=5",
+      "title": "The Road Back: Joshua Franks, A Story Of Horses, Hope And Healing - Thoroughbred Daily News",
+      "source": "Thoroughbred Daily News",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQRGFkUFhQQ05RZEktZVppME5jX05xSG9zaXpSLWlhY3h0TklUbG5WMWhWUU9zQTJ3dHNQZlpfMmJlOGZaSlhyWF9KaWNqcFJzRHh2NnkxYUczYUdtNVNRbUR5XzM1aTc0LUttR0xTOUhKNGJqeUpHQ013?oc=5",
+      "title": "Joshua J. Marriotti 1982-2025 - - The Vindicator",
+      "source": "The Vindicator",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWnh0WWtMNEJ3Mm5FV0VqVm1lRGFadnMtWDRMc3BjMGRVMGZYdk5iOGpkM1BkRWRQYWY5ajBGNHZGQXNvYXVZWHFoM2FlYVdvMXg2ZmNpOHItRHAzcldKRVVMM0x2UmdMTFgzTWxkUUN3S2M2eDA1TUJ6RDQ5MnRLQnh3N2FKNk1xYXJVNE4wbmZFRkZBdGJv?oc=5",
+      "title": "Anthony Joshua makes 'miracle' recovery after horror car crash as the bodies of his two pals will be brought back to UK - The Sun",
+      "source": "The Sun",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjZIcXhvV2NUNFZ4akhaa1ZsTWFYR0RZd0lINVBRb0p2T245cTRYblhJb0VYMHlqTVVDNWQtVTZIMGhLWmRDbEV4TGoxRVJscEx4UVJ0N1JsVF9qNWJtMFhQWUlGNEEyQzhzbmlmUVJqT1pPS1BYSHdCZzN3emtob09OVlU3c1EwUi1YZ19xd2dCMGs3MnVPRA?oc=5",
+      "title": "Meet Joshua Costello of Provero Performance and Rehab - nashvillevoyager.com",
+      "source": "nashvillevoyager.com",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80TnduN0tKNzBtUUNZNFI0TEktblJ1MC04SzNLZ3M2WWhrTWpBYmhwYThMTjlZVUQ5aWFvUzJyMjBzR211eklvTzlTYjd0UDNSVGxFekZKQ2dhS0c3dm83dzlCRjhvQkRwNFdkc0VzUXJwSmNHcEpfcEtaOWhZQQ?oc=5",
+      "title": "What a government shutdown means for Californians, from Social Security to national parks - CalMatters",
+      "source": "CalMatters",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91dkhkXzZnT2VvY0VkV0pxeHZ6aGpFdUR1MERvc2Y2V2IwWS1yckktM1M3SF9sVWhKNWRHNnZKQWFIY3JiMXd5NEZPSDNfVjM5OUNTcE03X0J3S3ZtZjA3ZTR5bXEzTGFRZmg1YTN0VUFCbmhnZlZfaw?oc=5",
+      "title": "Anthony Joshua quits UK, relocates to Dubai - The Guardian Nigeria News",
+      "source": "The Guardian Nigeria News",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdW5jZzZMYlQtTlB3U0pwbHY1QzlVU3JBVFFmeEIzVG5SNG5VVlJrdkdMXy02U0ttbHlXN2xxNG5TeGxMUjUyQklOeVc5amxfUGRYYWpXSkk2YllSX3M2aHRBbTNhNjY1Tmk1Nkdmbm9sRXZOeUl6WEItNmlvWHkwSG5iT2p1TDZUNmNER0FhY2ZGcHVkTjVCWTd0enU0MjEwTW9wbUVUY1h6UmVmbEZSVFQzQ0JTaldiRTlpSGV4NA?oc=5",
+      "title": "Building yourself up: Joshua Rinaldi on recovery and becoming a sober business owner - Sun Journal",
+      "source": "Sun Journal",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb29JelBJZXJnYjJ6ZFRRWjBPYmwyaVFHaEhkN2t0UjdzU2JJd3FRNWg4RzNjaGxMTVZKcnhxb1kyNjZfQjdjcnhNeHNwQmlEc3pFcUZSZjlldk9YUUJoS1ZHd3dBOGtrbi1WVjZONUxLLWN5QjlzcnJURkhnRTg3ckM1dnhSM2lQaHhWODVaajk3SFZZMUxXS0JR?oc=5",
+      "title": "A man’s best friend: how therapy dogs help a patient’s recovery process - UNC Media Hub",
+      "source": "UNC Media Hub",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNDBHNGVEcDdDWUE5SkU1UmRhdHQyWV9xb1JfZGUwN0xDc3JqakRPLWltVmc4M29kMTN3dW81SXRGclpZOXF2RFd5VXZyN2EtLUswak91T0U3RmxwZlFUOFNHY1BkMFp2V3c4YzlLSUdYU1ZEMDVYS1BDX1RWV0pxMllXS0NWQVQ2a3p0U2NQR29oYVQ4RTREMGt4NGNMYU00b01XbXlLWEE3a2FLZ2V1ZVNpWFdzZUxMeW1CM3RPOERlWWpBdGE1VDN6c3kwd9IB4gFBVV95cUxNRWUwNjliaS1VS2hlMkIxSzdoVm56REhhMmZKcmYxNDhKOUttREhXSUNPUWd2bHBRNDhhc212aXQ3cE8tcmRWdHluTXhfdHpYbGxwa0lIQVVSbXhwYnY1b253LUotSHFCdmN4R3QxZEJuMUtEZWR5UnY5Y2ZrWEFEWFRpX1NPOHVvempsTUQtZWMwbjMyVUJ0UTRNUmFYNHRaYXhUVkw2bldVMkZ3RjZ6UFZBTE1jQlFJdURQRWtrajVZVVQ2cEtwQU84MjZmSldDWV9Ub3ZWZ1BkVThmZTRDYnB3?oc=5",
+      "title": "‘I’m really grateful’: Brunswick County recovery center helps men struggling with substance use disorder - WECT | TV6",
+      "source": "WECT | TV6",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaTBMLU5adUVwTXhibWxnX0JLMXFUMXNZVzFiRnhuUGxzeXF4NThCd25IMXlkeXFyaXFOTXhDc0lCelJ0NGtYMl9oN2ZJZ1VxbW44M2pxd0J3ZHU2RVlaaElyYk5PYlFCc3MyNHg4YS1MSVMxTzlTX2c4aFEwM0J3cTNhbjB4OXJFQ0wxNDBJRkRxNWVQblZySkhhZUNsZmRGMmFMUXdONHYyUUZYSHdHeWJ3?oc=5",
+      "title": "Former Nickelodeon star Josh Peck says sobriety is still ‘the bedrock of my life’ 14 years after entering rehab - The Independent",
+      "source": "The Independent",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83bkNqUkFnd1ZscHEwSF8yNWVpMHczMEtPVEJsVm5hSGJoVklZWEtUbm03SW8xWnhGd2l0U2J4Y2pXUG40Z3gxZW9VMnZuWnpHUkRpeWYxLXJvdTNwNmc?oc=5",
+      "title": "Building prisons - Joshua Rozenberg | Substack",
+      "source": "Joshua Rozenberg | Substack",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYTZmeWRnNnI0WWhYSktXSEJXVVlfV2t6cUlNRTJFMFJJYzZFMWhPMFNXWUZrTEkxTXl6RFhzT3dkNkJqbWZ3NEs3VFZac0p5ak9PSG5KUVhLWXFQN1RhQzJCdmswUGI1N254cS0zUXRlb1RWOXdMZXdnOEhBaFZCdWtsbG9Hb0JOcU9VY2RJaFB6RUVjclNpSWJKOWNhbHR6T1g1NWlYdlpmbGFFTkJyMGVvcTVoS2_SAcsBQVVfeXFMT19KSWFLejF1TVpmRGhnSXRMblNKVExVN25ZUlE4ZGxmYUN5REptOC1fWDBibmtXNWU3SHdqdVB4U3ZKckVPci15S29XRHFaQ3hzT3p6aXUyZngzLU1wdUpoTURDZ0djZUlhMXZOSkUwd3kycWpQckVHcDVHV2YtLWx2QWtucFpUd056THV0RXZrUkV5Y3g0Z2I1Z2w3eXZTbjNhOFF5eDRwSjNtZmZYYWhCaVlGekozSDFKbm9EbzJiQ2NoWjA3ZWxNY0k?oc=5",
+      "title": "Gilchrist County man returns home after surviving shooting: ‘The Lord has been helping me’ - WCJB | TV20",
+      "source": "WCJB | TV20",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3J0a1pxdTItcGVxRW1vRl9IQkx3em9fczFMcmNaMFNkcF9JWmRtUjVKQUhaeC1NcDdNNTF0dXRSdTV5dE1TVUdqUlZHWmJOYkZzaU05RUJzSndKN2xQaDlHdDBDanpTS3VwM0hZczRTVl82eEJwaUxmQ2EwdU9XLThfZzhqdHExWXhYSTZCVXV0VHpTREFONndPNVkwbS1SMFZpSU01S3BCaVRVRW5uSGdvdWXSAboBQVVfeXFMTllEZjJQZjBrd0JxeEtRRTNJMFN2aXdUWWZQdDZKVkV0dHVRRXhPZkV2Q1hBQUF0aElCRGpUa3l2emljNDZZM25DcGhnQVRtOV9YaTBnQi0xSHFiX2NQV3JtT0ZzSURHOHBNQzBBcFF3QnRmMTFMX214eERXYnIxeFNqRWVxWlhWTkR0UHB2WDc5SW9wMWI3dDJ4ckI3Rk02WWVWaFI1V1pKUGFmSGhNX0ZvTWtfWFk3a0hR?oc=5",
+      "title": "Father, daughter have touching 'heartbeat’ ritual as she recovers from rare illness - abcnews.com",
+      "source": "abcnews.com",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbHVfMFFNSkRpZTl1cm93TEx4ck5PTURUMmtMb2xpQ2JVNVFObHo0MVV4clJYWktmSFFSVU8zNGw0Q2IzRk00bGtUOFVfWFRtUFFpQkFxTUdlRWxWNURhSTRLZEZzV0VRZVc0SHdPTTVjWTBQNk43bk5mSGNKRUJVMElkb0pGc1BfT0tfbkNsXzBFZXJNYjN6M3dyR2NrZ1Y4ZDZ4ZmNlYXdVM0hndnR2cHZ2TzRmTWhwbzI1WEgtTkR4WGtCWXQ0VXdmV0RmZVE5cTBHcm8xVlo4Vjg?oc=5",
+      "title": "New questions raised about for-profit addiction recovery business Malibu House — and its Bloomington neighbor - Indiana Public Media",
+      "source": "Indiana Public Media",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZkRWXzl2LXQtZzBJdF8zWWE4bGF1VFpNdHFTeXNSRVh6MUNoT2hKSEFiOEJtYkkzYjgzN1dycjI2T1ZMYmNFREFySDU4VlR4RWs2Z0szRG8zbmVXY0o3SjZBMUpMTDNiMTBLQjhuSGk4SGh2MEVTQW9mVXFucE1qWU1sQk03M3liZHozU3FTYUpnWmdNSFF1SzVnc2g?oc=5",
+      "title": "Who is Anthony Joshua's close friend Sina Ghami killed in Nigeria crash? - The Sun",
+      "source": "The Sun",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeGZEaWZPSTFsQks4OFJEcENjaThoUFg4Q3k2cGtOa3hnZzFsTDVfcHhCUUlDS19pYzFtR0hBOVFrSEliVk1laUQyVktFQ2VZT2JJVVlUSlZfb3dfS3FvNU00bUtGTU1raWJRelJoY2dnSWhQUVhHeHl2OEJvSjFUTklqSWNoQV9YUVB1QmNJQ1dzZ1k1eFp5cw?oc=5",
+      "title": "‘Below Deck’ star Captain Lee to open rehab at sea in honor of late son - Page Six",
+      "source": "Page Six",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSUFpVk5LZjk5LS1TZzhwRXlaNk42eC1HVVhaZFFkLTlkVVVIa1N4MVFDbU1kMllNaHZiQWl3Y3VBbGNNYUJDeHZWMnRidmZlZ2V5ZkNjUm0zSjRTM0gySTJxRWFEUU1aNkJfVE1sNWVoczVRVy04ZWhoeUg5YlBQYTh3RnVzSVUwSmRSOEFoQ3Q4RmhVbUU4b3c3VFlLQ1A0VXN2d3h3aDhZN193TERBTGpEUDlWU0VBU3BjTUpiTVZOTFRSaHItZjBGQ1ZkSkJDRGlYZ25B?oc=5",
+      "title": "Joshua Brooks, PA-C, a Physician Assistant with Texas Orthopedics, Sports & Rehabilitation Associates - Issuewire",
+      "source": "Issuewire",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZzdaaDZRcTNYRDVQVWhCd1lDVlMzcTBkOHdjVTljVlZuak1CQk5LT3ZTeWxnMC1GV3labmFQSGN1ekFnWU9XNnVMd2M4eEIzaUFBZ2Q0dEQ5SjNPcDRyTGZ5WWg4bER5Z3ZjZE1Mbng3dzZNbmVjVHFhV3JobUNfV3VZSW0wMUtmR2c5a3lrNnZwVWpUdmUtX3ln?oc=5",
+      "title": "Ride along with parole agents - California Department of Corrections and Rehabilitation - CDCR (.gov)",
+      "source": "California Department of Corrections and Rehabilitation - CDCR (.gov)",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTGY1dTNmWGpyMlRLUGV5RFVhcW1Hc3UtMXRGOUgzRHhScTdfbVdzYmRhYnZURTF0UWJSN2M4dzNhWkhfcHpKQ3hwX0lickZZLWJiMGNRMW9pS3VGLTgxbjBLc0VHbk5uZUpRWF9MM1I0SjFNdVFEMTlraGNZeWpNVmtybVlLX2lLRzdxbTQwQXV6MHlkdVdoTFRtdjVnLTJPVkNqaUxtNGdSRk96S1k4QjlMck85b0NIYmx0UVlWRQ?oc=5",
+      "title": "Browns Rumors: Joshua Dobbs Traded to Cardinals Amid Kyler Murray Injury Rehab - Bleacher Report",
+      "source": "Bleacher Report",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVkYwWHV5N1hSM202LXJuRnpVN2RpV1oxRGZFWk9ndWFnTVlpbG1rWjdSX2FxREZDNnp2Z3E3bGdPUVhFNndrMTRYVEN4cy0yZXNhVU1vVV9xN1llSkhTNlZ2dDJuc3BvRXZ0aEFTMkt1dnltNlhQYzdNb0M3dmFGUENzZVhmVVZuQmQ5ZU1GYTcxejJ6d0ZMUVFpV21wZnpOX09oUWpRNA?oc=5",
+      "title": "Professional poker player from Hopkinsville banks big earnings on sobriety - Hoptown Chronicle",
+      "source": "Hoptown Chronicle",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OUE1yczV5QkRLck1UZ2QxUXc4alhVam9vd2t4LWtPa2hQa0ZvT1JORkRBQ1dWc0YtLXVmQmtmWEI3bndFMmpSa0tja2p2ZjdwTERFOFdSUVJrb2tWUjAxTC0xQVdRSU1u?oc=5",
+      "title": "Judge’s reasons published - Joshua Rozenberg | Substack",
+      "source": "Joshua Rozenberg | Substack",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSDIxTXFpMEJLNFNRSm9PNzB5eHd1T2lxVEZ0YnVlYk1Rd3B2dWNYRWlFZGktdHJzeVNNQmhiWVZMTVVRSS1OTEJqaTNlUWYwMTVsSHgtRENrMmNKWkdmRXA5RHdEanBaTHlncFFCVWMzaDZzU2dobnlrYl95MGJReGFaWWpVcF9TNm9xSE9YSDQ5UXJKMzdETTh3d2l3TFpza3JaRXRmeVNOLXVzUzRn?oc=5",
+      "title": "PBC Public defender overcomes criminal past - WPTV",
+      "source": "WPTV",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOLWlMLWZFTC1LeE9nWXhKS1Y0bFFjWE0tTUNIMDVrOVUtRVlaQm53MDJQYkpaZUJCRDBrcUFwaFJOZ1o0dW5GYUxDQlFmdDh4aU1aRzhKVWhfWmVjUGc3SnhkNDV2QUNZQ2hONHVtQzhXeldWRW1qRjl0dElSVjBkbERDU1JtU1dnbGxJNW14QW1GNllvQk9YNVNvSGpRM0hVcXhLUUlZLUhSV0UwN0FobmVkUi14dGlXdktRaFBsYWFCMHU4WjQzZjNhODZCa2tTUngwX0VOOVdwVVZ1bng0ZW1CaU9paTJJR3dNek9mSzNRMDhBYldkYm1UWTdTX055U0xn?oc=5",
+      "title": "‘My son has until this Tuesday to turn himself in. I love you, Josh. But the DEVIL returned this year. I made the decision to send my son to jail.’: Mom makes difficult choice to call police on son battling addiction - Love What Matters",
+      "source": "Love What Matters",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMk5uQ3RwVjItY2wtbGk2dE1ITE83TGh1ZGlnSTdpdk5XWHBHQU9pbi1aZU1XRl9nX0hvREw3VUxVT2dlc0NJVFA4X2ZvX2otY3VDSjM3WVkzeG5QQ0c1bTRuRmJYQ0ViWUJNWUktUHdFeFRnbFR2TWRReUU0NTNQa1Z4NUo0R1FTbElDWFlVTFpJcFJCaTIwa3k2S2dnREpLeHZTa05qRlRhbXc1azByMlFjZHMyZGF4aHdQMThlZXZpRnpfUHlwU0Y0OA?oc=5",
+      "title": "BUCKCHERRY's JOSH TODD: 'The Longer You Stay Sober, The More You Have To Do To Feel Good In Your Own Skin' - BLABBERMOUTH.NET",
+      "source": "BLABBERMOUTH.NET",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdEFYYVNaakNmRjJaV3Rxc0hSVVlYRXc1WXRLd19iY1pFTTByWUo3ZGlFWTVFNE00X0htMUUzRU5YNlp4aTExUzAxdTZZcklrY0M3ek1SMmJXOThMdXV1S29lSWstRTc0VUd0UUdVelZUaWtXa1R2Z19scVl1MzdWSndrc1l4WHBaS3VScEgxSjM4SmRNcTRrMXBmQVdMT1p4bzdGM1c4Y0lUcUpDUkhpYXB3NUhMUQ?oc=5",
+      "title": "Joshua Scott Jones Opens Up on Going Solo - Rolling Stone",
+      "source": "Rolling Stone",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSXhrS0FKb3Z0aV80YjFGR3hzLXlmbFFsQThJZTRNdUFKTHhMXzNZQU9kNDdFWUxDdlpHWnhScXBjYnNqeUpPajZYMThMc1kzaGx3LTlJWHhINm9VN1JkeGxReFltTVF0SU9aWDJqbWhqR2dPT0M4SDN0eGkxb1RZQmhoSE9wQVZiLU93aXFKQkdrRGRzWnlsYjdUZW0zN05RM2t4cHFQSXBpRTdEQ25JendZcUVQWXZkMW9WbHBKUXREMHc2ZjkzWHVXZGhJc2c4T1IwUWNiRDBBeVhOc25UWU1XLXhmYlR0eXJN?oc=5",
+      "title": "Bayern Munich’s Joshua Kimmich opens up on rehab and can’t wait to play again - Bavarian Football Works",
+      "source": "Bavarian Football Works",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRkpDakVPVUtrMTUxQnIyZUhmWjlEa1ExWVJLT1RoaWQ2TDNjRXcyeU1kc3I3RUE5RHpibUdyU1pYOGZDbzFHb0I5b0ZNYUEwU0NKTDdNaGhpeTV1M1c2djI3YXlHSkN6YWVfM3Fpc25fY0RzOVRham1EZTBmNnZJc3BOd2Y3NFBiY3lNMWtuMG5rVlpmcmw0UDI3bU1GQjlyZnZyektZX3FWS09ybFE?oc=5",
+      "title": "Khabib Nurmagomedov labels Conor McGregor a drug addict as feud burns stronger - MMAWeekly.com",
+      "source": "MMAWeekly.com",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01UEtnZE1iUDI3LWxmN09TMHJFeG90cTZaQnJJUmRCTGVlUFlHSmZTVlk2SFlBRE80RHE0SmNseWNxRTVyVEY3WENNTnJ4M0RYak8zazFCd2RHdHU4S2t3QmxlcjBfbzJyaWlFOA?oc=5",
+      "title": "Steel Magnolia’s Joshua Scott Jones Enters Rehab - The Boot",
+      "source": "The Boot",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWlpqWEl0T1Y5LWdaX0tPWl9LVEY5a012OFFNaDV3SjV2NWdnZEo3bmpZRGNvTTlNcnNTR2xjbTRsNnZydXNwQUMyNEM5Tjd5R0RXa29ueXVKdlhWUVljM29TeEx3R0xWcHFfcU5ienRhaUtITFpFMEF3YVRZcTlsZ0pwUUNaZHFaOHU0Q0Z6bHpUOU9FbnkxQzNjMVpVdlBJT2FjWFV3S1BKV3FlTTdCVlFsVWtEaEF4M0IzSFNkQW1ya0ViZDhlaU1sSDZkUQ?oc=5",
+      "title": "Sweet Home Oklahoma's Jennifer Welch Explains Why She Reconciled with Ex Josh - Bravo",
+      "source": "Bravo",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRzNwRXNySHR3ZXlvcjc5a05oQmUwbUgzR2hHTUduZVBWQkx1ZmpsR2dlUkkxNlVvOUNCWklRSWpNYURRM0JxS3hSS3NKZllCTVdIdHNHOGx6NHFvWmdxQVdTemN1aDQwa01nbmZsNjQ2SzJvNHBLLVpUTGNEYkJVNEtycURqWEN2bEhWM0hXbkw2eVcxZjlXcXM4Q1otRXFVQVhuMENDR3N4RVJsU3VycnJIc2ZQMkxMVnc4V0p1M1loNU9V?oc=5",
+      "title": "Men find hope, healing at Joshua House residential recovery house east of Chilliwack - Fraser Valley Today",
+      "source": "Fraser Valley Today",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWDRVdFZWN1l3d3ROWmQtbXlxaHZBNmZOWWY0b1lHdTVnUzNRWE80Rm5FZ0NrdEdpZlFVUUdkdlFlTzhGS2tnZEpmMExwWDNPd05QNzVPSmMydk9iSWhVOEFTcS00SlZLMlc3SXR6MzloRUxKNUM0eTF3M05iUFVSd2FwNjVCUWlvLUxLUA?oc=5",
+      "title": "JOSHUA CANTOR Obituary (2013) - New York, NY - New York Times - legacy.com",
+      "source": "legacy.com",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbS1EZ1ZldzBreWxLYmhybW96ZU01dXNEUmVMbHFzcVhvS1VWVGtINGNWSDJfUmg2WllFbUkyVXBVVlJ0RVMtWVAxMVNHX3BfZ0tqbG9sRU1UdlJxSURzcVM1TlNNRTJYUEZKYVV1LXFoemxWeVk3V000SDhLYi1ObkgxeXNXOElFNmlyYnVpZWFfc3JZaW9wX1Zfb1Q?oc=5",
+      "title": "Sweet Home Oklahoma: Why Jennifer Welch Took Husband Back After Drug Relapse - People.com",
+      "source": "People.com",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObktfSHhhQXZyUkVQMXgxaUtyeTNNNTlCS0NHTzM3Z2VpZnd5b3ZQYVFlMzU0SGN6VnFHaHpMbFZaSC0wZ1kwUFlMa3lNWnE0NGQwaTVQQVBTQUV5bzlJbVZGZjE3S2YzTF9ySFZjaG92R1RSRk54VVdyaUwyU1RiUzY2S053SXFoSFA0RkliYjR3M2FWU2xSYkg3aFJEMkZCYWhDY18zcExZOGVYNVE?oc=5",
+      "title": "More men are in prison on domestic violence offences. What can be done to prevent them reoffending? - The Guardian",
+      "source": "The Guardian",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wSHR2TTBFWW1HaV9Cby01ZmU5WHlJN291WGNOd3VEWmozVDNRZTJaUkJITWFqRGlxNlNXTk1BSW9rd044bnFYc2l6X3VUR3VBTkpDaUc2ZmMtOGsxVkFfNmd1NHpUM2xwMUplTy1RQy1Ja1Ju?oc=5",
+      "title": "You Don’t Nomi movie review - Roger Ebert",
+      "source": "Roger Ebert",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcWxlQ3g2U0Ffb0RyZ3dWOXhrVU5XcF8yVDFVRFgySHA4ZExnWDBrdWRPR0dZWXNCcGVSVHFBdFBsTWk2NjVGQUt2RDZVY3I2OGxMRVVsY25PODFnR0tjSGNHMjdRMTl6Vm43WFN4SzZyQzA3TlRCUE9CNWpnLTlva0RjQkJVeTZXN003THpBcWFSRlpvcWd1YmRn?oc=5",
+      "title": "Road to Recovery: Flight paramedic Josh Duda shares story - Brainerd Dispatch",
+      "source": "Brainerd Dispatch",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbnBxMG44eHYwSVR5TGN1cGhfdzR3eFFNU2RzclRPSjYwNl9Oa0I1SkwzRlozZmtRZ09ESTBueFpGbFByMC01XzZLODdyZ2gzX2dhUGZFZ0RXTW53Z1pNM25POGVoRGYzR3ljbWk4R3FMY01hb3BwSHFfc2d1VWMtSW9BUzhJQU5rSDdmY9IBkgFBVV95cUxNYkotNGdUeEhIZWdLWm5wbjUxUS15N19aVGRYZExwQ21wS18xaVM1MDVCQVkwRFkyOEV0Y0ZGY1FhM2JQM2xiMlI5SXRCQ2FrVGpQXzczV1JBeGZjV2w0cVlsZXVQZHlKRHVJUTUtQnYyQ0RlM1Q3d09oSDlPUHBEcHhrV1MzQ2gxY1NxS041UWFpZw?oc=5",
+      "title": "Loyal and hard-working Truro man died from overdose while waiting for rehab - Cornwall Live",
+      "source": "Cornwall Live",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdWg3TUw1X2t0OUItU0lZWXFYVEFqQmU3aEhYVkgtbmU0MkFlRUoxeGdaQXJxVXpBWjNBLXZWZlNwbHFsd2QwcXpFUkpYUUdRWmIyRWZvR3ZpN2czN2RMTUc3clcydUViNjZOdGZkZkFFM0lMdnJzaUs1MV81czRWNUtwYUZFbmk2Ny1VdUxLcFpaNl8xWC1TSmxsNGlqaDQ?oc=5",
+      "title": "Anthony Joshua fights back tears as he opens up about 'traumatic' death of his 'brothers' in crash - The Sun",
+      "source": "The Sun",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObWFtcTVzeERxZXkwTmc4TG1ITmliSi1oTU16UFhoWk5PNm1fTEg0LXB6R0t6Sm1Bay1fZFM1THN6Tm9JUHhSUkJBVG5jQmNJdEM4U2pYVFdhQXdpc3I4VThEM1hiOWFxcmhCNjlwQkZYRGwwLXZmbDA4ZFpZVFd6T1VrMXFCTTl3b3I5T01vck9tTUt0QUJ3?oc=5",
+      "title": "In and out of the trenches with Josh Ramsay - Vancouver Sun",
+      "source": "Vancouver Sun",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWDBmSzZjUGJ2MGxKY1RURW1KWU1xcjlzaFdvM0h4Z2gzaFVNX3ZtMVZ0cmtIZVRNQ2NraEo4aEo2dThMYTVtNzlzYTFEd3VDV2x5aHkyNm9kazd6eEVtQXhUMzBMQlNRODBwQTBNdklmOHlMMnQ5U2c4am9TLWVCSlRjOHlwc1RvTEhVaXhuVWI?oc=5",
+      "title": "Jake Paul faces nine months out after complications of his broken jaw injury - The Sun",
+      "source": "The Sun",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa0RxVWhXN2o3ZDhHalgyal9NcVpOTm15NXBYR2dkYmZOOHFQaFFucG9SR3Nuc09RdXB2N0d5MWpPd0ZSaHBKUjQ1YVFiMTdTTTJqaWZlZnFYMzVEVTRkOS1mUlp2RE1LcnlPd096V1E4Ty1GR0kyV1FiWVV3b0dSZGZmQ2hSRm5R0gGOAUFVX3lxTE52MXlVUDl6UVlSZkhkWTBYMHNKbnhreUhGbDY4VDNwdWgwSHVXZGZRUnVfdnRvMGNiU0NpanUzQTFVaWRsUkRWTE9SbFNhT3lxQzJ4WlUyemt3bWs3U1laeTBoenl1eElLMlFHS2NIemMySmdwNC1EZ2JlVVlWSWpPOHJfcXBQYXNpbDQyMmc?oc=5",
+      "title": "Anthony Joshua's injuries from car crash revealed before comeback fight - The Mirror",
+      "source": "The Mirror",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSC1RUHNjdmZqTDdsdS1KQXJmeHNXRUp4YU03MEp4RW1wZlliYlFsM0RoTy1kSEFHRHBCVWNVTHdlTVYydW8ydXZtNE40Mnc0bGJqdWxjTTR6Z1BXZ1lWQ3lhLXMyQ3BSNGY2cWlLSHpVb2tfb040UmNtbjE4WHlndXhsenNZRWlTb2dYZWExRW8zTmxfQ1lUeDJ4VHRhTng2Ml96Sy1lZ0N6NFNUd3BKWklTV0ROYlk0aUJfVW1MODBlTzUwTWd0Mm9uOG9RTXppYXNPdkJIWnpjQVY2cU5pV0RPVTRab3pXLVdWTTJR?oc=5",
+      "title": "From almost giving up to building mental fortitude, poly grad with disability finds his spark again - The Straits Times",
+      "source": "The Straits Times",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1h5ZlBEZkZmTXgyOEpUd2NrS3NBTHQ3RUxWRlpMclpiOGYyT19Bb3BPVWg4NjEwM2RhcDAyTC1XZWdranBCRHd0VWpadUlRN0d1emk5NF92eVVLbUVzVWdIN3Fhc0t1dkJjWWMtR19GVnFnUDdSM2djYlEybXVTTlBTYnQwSVlLeWV0UUtSVTN1Tmd6Q0k1VHhQdmtIMW1TNFM1Vmdtby05UjNiRmpwaEZpRmo0ZHJiZkE?oc=5",
+      "title": "Behind the scenes with Crows Head of Strength and Athletic Development Josh Manuel - afc.com.au",
+      "source": "afc.com.au",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd09pMm1qaGtGcllwX2dORVJIeDZCME9zV1BwUVQxXy1GUmpwMWZpcWFLdm0yNVNPS3R4M2NDSklLWk5tN2ItVTJTYm5ETkdESTRNd3k4VWhkbTNCX2QxTS0zZnIzZkUwX3RqS1FpT01UT3hvMVVaQk0yTFFNVFE0WkVoTVdMY2ZUUGNoM01ic3ZzX1dKZXJObVpRbWJKNVZoazV4dzlMR0Rta21HNUI0d1JkVlNDdnk3TFE5c1VpVDRzVGRfN3p0dXRBT18yVnFLWDhGVEhueVAyRXk3N0E?oc=5",
+      "title": "Policeman hit by fleeing driver happy with sentence - NZ Herald",
+      "source": "NZ Herald",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWhLNzEtWGZUbXNoazU3UC0wd09HNzlYckpqMlJqXy1DQlhfblItbnljcHlBNl9rQVc2SVV0NWNaeUxnSktnemFOZDd0SkNsZGtzc2RUbDdqTXpObTV0TE55eHVJVmk1cVlqcmNfXzJqOFU0WTU3bUpnYmIwMmZwa0pqaVdPRUhiLWloVzYtbFBmUjh6dDg4amZjbXMxVGYwTGZmc3B5QmFtaEFMOUNtRHZpVlk?oc=5",
+      "title": "New research may help unlock vegetative and minimally conscious patients. - slate.com",
+      "source": "slate.com",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUzlnZE9OclRvSjhCajRJWjNyTGRRRF8yQmlBZjQ5aTBQWHpXNFpTb0Q3S1ZkbmZmcmJPbnQteF9Xbjc1YWhWLUZJeUtSUzlWbmxldC0zUlFyd0JRajdWNEVyQkx6UDZlRWdvczhwLTNMdEVTWWYwb1J4NlhIZFJaQU5NTzZqcV9zZjY3Rk1n0gGTAUFVX3lxTE1sSXhXMmpfanQ4QXRuSTJkY2JWUzNEckdnd0xRZGZrMHhyV2FJR3pua2Z6dURGQkdISUdZSEdvMU5xSEtBQTJGQlVEN0lWYTBHY2ZTTjVrZFRxOWpXT01XTUZsaWVyeTQ3a01NbGp4aFFpNnpqOElodHVmaElydXl2X2d3TUlWblMwUHRFaUVfbU40Zw?oc=5",
+      "title": "Tributes to Josh, 17, who died in care home after sustaining traumatic brain injury - Liverpool Echo",
+      "source": "Liverpool Echo",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdTJFeU1fYmdZTE5iUFM5VExmMUNVY2NUNUtabUlaVGkydzZJcDVpUG9YSnhZTHBqaFRLWGR5MUZPMFFOVkJYS2tPcGdlNTZBRzZuWmItZHNGMHlWYVZYOVdmZVJsMnprU08xZnFmMC1LU1ZJcVA4OWo0T2ItQ3FhYmpwLTlqM2hKUWVVdWg0b9IBlAFBVV95cUxORnRXVWVlT01qVTBYa0lLTXpsaGlzQ1BOclM3SUNjdjJhUlM0WTh5VGROVHBGaHBYa1F6cUo4WVpUeVZsN3FTR0tKSUVwV01vdjduQXdWNkNCck4tSURtbF82NnBISHlqWFJYNHlSRkMxZVVjQ1puVnRGY1J6eUlTbE1UQjRZT3NCb25YSlNBdkYwcXRl?oc=5",
+      "title": "Joshua Allen to spend Christmas in rehab as he awaits sentence for possession of drugs - Irish Mirror",
+      "source": "Irish Mirror",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTUdJOTdLTjJPU2JhUFhhYi1nVlJwZVd2YjVoeDZvbjVITVN3Z0tDTndNaW51WHR1NG45WEJBTXVuYU5INFVEMmdFWXpZQ1lhRVlrcHRuU1llVWFwcG1BVmVMaFM2WXptckw4OUM0SURfQWt3MmRlVGJETlRWMVY0MjFjNDh3YlMtdTZTeTdFWEdNbVlSaXpmd3BLUkJCZE5HRzVGQ1c3QU94UQ?oc=5",
+      "title": "Eva Bozimo: Women are not Rehab Centres for Badly Behaved Men - BellaNaija",
+      "source": "BellaNaija",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLWhwVVItaWZxRmNuc2NpcGhIU1ZkTThiS0J0U3Qxc1M2RHpsaUNWRkVzVF8zeUZUVzJWVFhHOHlGLTFGdmFuclZROFZ1N0hDdjVDMUhvekxBRU9nc1NhWlB3UjVUSU5MWXFfVnlZLUMzVHlMSVNnUjNFN2NXajdsakxaN2RZUzNC?oc=5",
+      "title": "Josh’s road to recovery - Pakenham Officer Star News",
+      "source": "Pakenham Officer Star News",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MSGFuVzdGa19MZW9WNEZnUGllM2I2V2piZkduN3R4STZTX3NWTG9nTzhNam9WTXNaU2VXMFp0T0ZMVHpUcERiSk54R09xSG03ZzdMTm9tVG9YYlNlamV4djJEWFpPMHUxNkt6T1M5dDZqUQ?oc=5",
+      "title": "Anthony Joshua undergoes surgery as he continues to recover from horror crash that killed friends - GB News",
+      "source": "GB News",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObkpJN2k0ZlRKYTdmSHJmYjBYWUs5Q3BfSHd4bm92Y2kzTnJRQnJ0WWh5Um5OeU9HekxiYUMwMHAyUVZ1eHdmS3dZQ1N4SE5wYnhXVEZ6TzlFMkh0b3pFTks2ZEdWOHA3ek5kUEZCYkJzUzJWeHNEUkIxMGhBWG42YnJ5YVYtVkU?oc=5",
+      "title": "Anthony Joshua undergoes rib treatment amid rehab | - theeagleonline.com.ng",
+      "source": "theeagleonline.com.ng",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdDZ3THY3ZkVMaTlMSlA1VE41QURLN0dkVnZEVXVhWmhhNm9GU2JMUXI4UUI4X3dyLWtkSjdmY3FzNzB5TS0xMnRaUXM4OHM0SkNQYWdFRHlqSWp2UHR2YWh2UER0djhteDVpZ3hiVjNyZGNlWWdsMUhoTTg2YWQ3dEYzZHhna0JQQktoOQ?oc=5",
+      "title": "Joshua Eyes Late Summer Ring Return as Rib Rehab Continues - newsghana.com.gh",
+      "source": "newsghana.com.gh",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRG5FX1p0dENhM0thQ1lTRDlDSWNHOHpqeVpYWWpnV1h5cWVmNkgyaTM4X3NJbUloak9KSDR6ajgyZk1CRkhxUHhkOVEzd202OG4zZzMtX2ZZQnZwRzBmWE9GVlhiMTBETWF4ZC16Z1F1ZFljdFFyTDh6UzRoMWhnZGFTRHFybEphWE1MVlhFeWPSAY8BQVVfeXFMUG12OS1LVTFpNUFnRjdpeXRGa1Nic1JmYmxrZDVSSTlpWnduSUxDNXVtekNyMDYxVDFJRlRZdjBWbTFsNnY2ZUtrVk1LbjZ3OTh1dkgzNU1kX0R6MkJEeElqd2VSb2JOTGJud0I5NU44RlhWaWt4VHZmdnNlYmhQVXVneFRUQThEMDUya2FRbGc?oc=5",
+      "title": "Boxer Anthony Joshua Undergoes Treatment On Ribs As He Continues Rehab Months After Fatal Car Crash (Photo) - Tori News",
+      "source": "Tori News",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJaElHSFdOc1ZhemZ0TjNuNmdhX0VCUmptcGhTVnpWQS1pOE12dVVLd1liMWFsTFoxeGFzVy1ZdDYyTlllcl9FeS0tcmxfN0xUeXhHREpGWHlkWGtrenRR?oc=5",
+      "title": "Anthony Joshua Undergoes Treatment On Ribs As He Continues Rehab Months After Horror Car Crash - Gistmania",
+      "source": "Gistmania",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "Joshua You rehabilitation",
+          "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUDU0Y2U2dk16M0E2UDRZZFNyekZPZzR0YmhHT08za0tIWENjdG1yVC1PRHcyZE5xS0VSTFpuR0VlQ1B0VDJGbXRYbHVQa1VJbWhjSUJaTkJ4TWVtOERjM3h1RUdqaHdzVnU0MEhGX3BWTnVRbnZBQ2NxX1owOUVtT1kxMDNoMXFxQ2YyOU1QQ1JCNklURlU1MnFsX3ZGTXdsLU5zS1VXbnhXUQ?oc=5",
+      "title": "Our tears hold secrets about cancer, Parkinson’s, and Alzheimer’s - Chemical & Engineering News",
+      "source": "Chemical & Engineering News",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "SMART Lab Yonsei",
+          "searchUrl": "https://news.google.com/rss/search?q=SMART+Lab+Yonsei&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTkR1dHJoZlMxakxrTjVhRVhmd0tia2p4M0FvYWhadzlVYXgzTTNRN1ZUVUY5Z3Rkcm92elB5MnhvNTJSbU9vaTR1UGxTR2ZkWEhTLUh5WFRIdDZPczJwYVloMjlSQmdIN2xMN2xLLWI0dzdaZUgtTHZ5TzNPZzc1RzE1S3psY2RXMTd1TU5BZmNRRmowcE91LWFPSGZlcGZfbGJMVnlUQU9FeWVUWmVzSlZ4T2FrZnlOQ1Q2NGNvTXRYeDdNRnBnNmpERWZnR3hEU19R0gHYAUFVX3lxTE5qYWFxRXpJWUk4a2J2OWNEaUliU2t4eHU2NkROd1kzYjNrOHI5VGg3ako5TTJfZl9TQmxBSzVKX2N4bVdBM1ZRdTNDc2hkZnloQjBqSE9PMnhXWTZwSHNhLU9LUFJjWXhXSVZpRDUxdWxSbTBvYjd5UzhIa21GZDJOR2VhY2YwZzRBRjZLT0haZHZRa0FXWlA4bFlpdC0xVjV5Nk9VYWlKR2dIbjJsalhWcnFwajBZdTh3REp4dVVfTDA4REt2ZWhrcTBlYWxNelFmdzlBTEs2UQ?oc=5",
+      "title": "Seoul AI Foundation, MIT lab launch joint AI talent program for Korean students - The Korea Times",
+      "source": "The Korea Times",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "SMART Lab Yonsei",
+          "searchUrl": "https://news.google.com/rss/search?q=SMART+Lab+Yonsei&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GQ2FnN05sV0NuLU9VckVoTVJWZjhpR1dGQzVmbjNrbnlkLVNJQkhvWUdSdTZpdEdpMEoyNHlkaE5rSVdWWktBdWY0T0VPVEZ2Q3NUaw?oc=5",
+      "title": "Korea selects four National Research Labs for Physical AI, solar cells, SMRs and precision medicine - DongA Science",
+      "source": "DongA Science",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "SMART Lab Yonsei",
+          "searchUrl": "https://news.google.com/rss/search?q=SMART+Lab+Yonsei&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UZmVQQ2EyT2Z0RzhHNzRpUmVVNE5mSUctM1RHMmt4YkxZeU5PVDk0b29GY0FWOGs4SUZIYzVwUl9EbE5HckVnRlc5cFVJWTNPNWxjajZQV0taelNScFJRcWpQVjJZNFNkUHVPYS1pYVRiTkxIUlQwUA?oc=5",
+      "title": "Defining smart city in south Korea - ArcGIS StoryMaps",
+      "source": "ArcGIS StoryMaps",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "SMART Lab Yonsei",
+          "searchUrl": "https://news.google.com/rss/search?q=SMART+Lab+Yonsei&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16RWd1NG51X29fX1JrVkV0WUpNaFRkczY1YmVSMk9maTJhamNIbFdjSkNsUVUtUmRHVTQ4U1JMaE04cVUwVFhjb1RUOUpwT2hKb01XbEFnU1QwMGM?oc=5",
+      "title": "Clever coating turns lampshades into indoor air purifiers - EurekAlert! Science News Releases",
+      "source": "EurekAlert! Science News Releases",
+      "discoveredBy": [
+        {
+          "engine": "google",
+          "query": "SMART Lab Yonsei",
+          "searchUrl": "https://news.google.com/rss/search?q=SMART+Lab+Yonsei&hl=en-US&gl=US&ceid=US%3Aen"
+        }
+      ],
+      "status": "unreviewed"
+    }
+  ]
+}

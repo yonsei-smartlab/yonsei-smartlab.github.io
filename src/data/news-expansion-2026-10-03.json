@@ -198,5 +198,21 @@
       "finding": "Five existing reports; scrolling returned no additional rows for this exact-name search. Broader variants and Professor/Walkbot queries remain unfinished.",
       "snapshot": "artifacts/naver-exact-center-review.txt"
     }
-  ]
+  ],
+  "additionalDiscovery": {
+    "review": "src/data/news-name-variant-discovery-review.json",
+    "candidateCount": 116,
+    "engineQueryPairs": 19,
+    "queries": [
+      "연세 굿웰니스",
+      "유승현 장애인체력증진",
+      "연세 장애아동 체력증진실",
+      "Yonsei Goodwellness",
+      "Joshua You rehabilitation",
+      "Walkbot",
+      "SMART Lab Yonsei"
+    ],
+    "googleEnglishLocale": "en-US / US:en",
+    "note": "Five variants searched across all three engines; four English queries also searched in the Google English locale. Feed exhaustion does not prove global archive completeness. Candidates await original-source review."
+  }
 }
