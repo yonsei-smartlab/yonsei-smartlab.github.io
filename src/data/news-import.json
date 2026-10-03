@@ -298,15 +298,6 @@
       "goodwellness": false
     },
     {
-      "key": "5607070adb28",
-      "file": "src/content/news/2023-12-04-5607070adb28.md",
-      "url": "https://chunchu.yonsei.ac.kr/news/articleView.html?idxno=30734",
-      "date": "2023-12-04",
-      "identityEvidence": "Yonsei Professor You named in the article",
-      "status": "published",
-      "goodwellness": false
-    },
-    {
       "key": "b5f21abda40f",
       "file": "src/content/news/2005-05-13-b5f21abda40f.md",
       "url": "https://n.news.naver.com/mnews/article/009/0000439928?sid=101",
@@ -344,7 +335,7 @@
       "file": "src/content/news/2023-12-11-miracle-robotics.md",
       "url": "https://www.wonjutoday.co.kr/news/articleView.html?idxno=134930",
       "date": "2023-12-11",
-      "identityEvidence": "Original report explicitly identifies Yonsei physical therapy Professor You as project lead.",
+      "identityEvidence": "Original article explicitly names Yonsei physical therapy Professor You as project lead and describes the 2023 Convergence Research Center (CRC) selection and December 6 MIRACLE centre opening; body re-read October 3, 2026.",
       "status": "published",
       "goodwellness": false
     },
@@ -5893,12 +5884,13 @@
       "status": "excluded"
     }
   ],
-  "publishedCount": 67,
+  "publishedCount": 66,
   "searchEvidence": "artifacts/news-discovery.json (ignored); Naver results additionally checked through browser scrolling",
   "reviewNotes": [
     "Hankyoreh original publication date is February 9, 2009; Google RSS showed a later migration date.",
     "2005 virtual reality article is an archival Hampton University report; dated Yonsei biography confirms that appointment.",
-    "Naver legacy pagination repeats are not treated as proof of exhaustion."
+    "Naver legacy pagination repeats are not treated as proof of exhaustion.",
+    "October 3, 2026: campus personal mobility policy coverage (Yonsei Chunchu idxno=30734) removed at the user’s request and preserved in the source archive. The existing December 11, 2023 MIRACLE report now explicitly identifies the CRC selection in its public summary; this is a summary correction, not a newly discovered report."
   ],
   "unavailableSources": [
     {
@@ -6558,6 +6550,17 @@
       "goodwellness": true,
       "excludedOn": "2026-10-03",
       "reason": "Original article names the historical children’s fitness facility but neither Professor You nor Yonsei GOODWELLNESS Center. Later reports establish continuity only indirectly; this fails the explicit-mention requirement."
+    },
+    {
+      "key": "5607070adb28",
+      "file": "src/data/news-source-archive/2023-12-04-5607070adb28.md",
+      "url": "https://chunchu.yonsei.ac.kr/news/articleView.html?idxno=30734",
+      "date": "2023-12-04",
+      "identityEvidence": "Yonsei Professor You named in the article",
+      "status": "editorially-excluded",
+      "goodwellness": false,
+      "excludedOn": "2026-10-03",
+      "reason": "User requested removal: campus personal mobility policy is unrelated to the lab’s research news."
     }
   ],
   "roboticsEditorialPolicy": {

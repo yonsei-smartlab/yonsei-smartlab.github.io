@@ -2,9 +2,9 @@
   "reviewedOn": "2026-10-03",
   "complete": false,
   "scope": "Identity and institutional relevance recheck of every current public news record; not a claim that search discovery, video contents or every historical factual claim has been exhaustively verified.",
-  "recordCount": 67,
+  "recordCount": 66,
   "relationCounts": {
-    "professor-named-in-original": 52,
+    "professor-named-in-original": 51,
     "goodwellness-center": 11,
     "professor-historical-appointment": 4
   },
@@ -409,18 +409,6 @@
       "review": "Original article body identifies Professor You with Yonsei institutional context; the name match appears in the relevant report, not merely a related link."
     },
     {
-      "file": "src/content/news/2023-12-04-5607070adb28.md",
-      "url": "https://chunchu.yonsei.ac.kr/news/articleView.html?idxno=30734",
-      "date": "2023-12-04",
-      "checkedOn": "2026-10-03",
-      "goodwellness": false,
-      "originalAccess": "identity-review-needed",
-      "identityEvidence": "Yonsei Professor You named in the article",
-      "relation": "professor-named-in-original",
-      "professorParticipation": "named-with-yonsei-context",
-      "review": "Original article body identifies Professor You with Yonsei institutional context; the name match appears in the relevant report, not merely a related link."
-    },
-    {
       "file": "src/content/news/2005-05-13-b5f21abda40f.md",
       "url": "https://n.news.naver.com/mnews/article/009/0000439928?sid=101",
       "date": "2005-05-13",
@@ -481,11 +469,11 @@
       "date": "2023-12-11",
       "checkedOn": "2026-10-03",
       "goodwellness": false,
-      "originalAccess": "identity-review-needed",
-      "identityEvidence": "Original report explicitly identifies Yonsei physical therapy Professor You as project lead.",
+      "originalAccess": "original-body-reviewed",
+      "identityEvidence": "Original article names 연세대 유승현 물리치료학과 교수 as project lead and describes the 2023 CRC selection and December 6 MIRACLE centre opening.",
       "relation": "professor-named-in-original",
       "professorParticipation": "named-with-yonsei-context",
-      "review": "Original article body identifies Professor You with Yonsei institutional context; the name match appears in the relevant report, not merely a related link."
+      "review": "Re-read the original article body on October 3, 2026. The report explicitly links Professor You to Yonsei, names the science/humanities convergence research programme (CRC), and describes the centre opening. Public summary omits funding amounts."
     },
     {
       "file": "src/content/news/2019-10-07-goodwellness-opening.md",
@@ -1243,6 +1231,21 @@
       "previousFile": "src/content/news/2019-02-14-children-fitness-operator-fintech.md",
       "status": "editorially-excluded",
       "decisionReason": "Original article names the historical children’s fitness facility but neither Professor You nor Yonsei GOODWELLNESS Center. Later reports establish continuity only indirectly; this fails the explicit-mention requirement."
+    },
+    {
+      "file": "src/data/news-source-archive/2023-12-04-5607070adb28.md",
+      "url": "https://chunchu.yonsei.ac.kr/news/articleView.html?idxno=30734",
+      "date": "2023-12-04",
+      "checkedOn": "2026-10-03",
+      "goodwellness": false,
+      "originalAccess": "identity-review-needed",
+      "identityEvidence": "Yonsei Professor You named in the article",
+      "relation": "professor-named-in-original",
+      "professorParticipation": "named-with-yonsei-context",
+      "review": "Original article body identifies Professor You with Yonsei institutional context; the name match appears in the relevant report, not merely a related link.",
+      "previousFile": "src/content/news/2023-12-04-5607070adb28.md",
+      "status": "editorially-excluded",
+      "decisionReason": "User requested removal of unrelated campus mobility policy coverage."
     }
   ],
   "editorialPolicy": "Walkbot/P&S coverage is public only when the original article explicitly names Yonsei Professor You, per current AGENTS.md.",
