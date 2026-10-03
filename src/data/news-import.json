@@ -719,6 +719,78 @@
       "identityEvidence": "Original publisher January 14, 2026 and complete article body reviewed. Same installation, hospital director and operational details as January 13 Newsis report; explicit event group.",
       "status": "published",
       "goodwellness": false
+    },
+    {
+      "key": "2026-01-14-walkbot-hongseong-ccdaily",
+      "file": "src/content/news/2026-01-14-walkbot-hongseong-ccdaily.md",
+      "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2391611",
+      "date": "2026-01-14",
+      "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
+      "status": "published",
+      "goodwellness": false
+    },
+    {
+      "key": "2026-01-14-walkbot-hongseong-ccdn",
+      "file": "src/content/news/2026-01-14-walkbot-hongseong-ccdn.md",
+      "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1058507",
+      "date": "2026-01-14",
+      "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
+      "status": "published",
+      "goodwellness": false
+    },
+    {
+      "key": "2026-01-14-walkbot-hongseong-jbnews",
+      "file": "src/content/news/2026-01-14-walkbot-hongseong-jbnews.md",
+      "url": "https://www.jbnews.com/news/articleView.html?idxno=1496990",
+      "date": "2026-01-14",
+      "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
+      "status": "published",
+      "goodwellness": false
+    },
+    {
+      "key": "2026-01-13-walkbot-hongseong-gukje",
+      "file": "src/content/news/2026-01-13-walkbot-hongseong-gukje.md",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3479648",
+      "date": "2026-01-13",
+      "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
+      "status": "published",
+      "goodwellness": false
+    },
+    {
+      "key": "2025-11-24-walkbot-nexon-digitaltoday",
+      "file": "src/content/news/2025-11-24-walkbot-nexon-digitaltoday.md",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=607241",
+      "date": "2025-11-24",
+      "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
+      "status": "published",
+      "goodwellness": false
+    },
+    {
+      "key": "2025-11-24-walkbot-nexon-globale",
+      "file": "src/content/news/2025-11-24-walkbot-nexon-globale.md",
+      "url": "https://www.globale.co.kr/news/articleView.html?idxno=35451",
+      "date": "2025-11-24",
+      "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
+      "status": "published",
+      "goodwellness": false
+    },
+    {
+      "key": "2025-12-12-pns-upper-limb-etoday",
+      "file": "src/content/news/2025-12-12-pns-upper-limb-etoday.md",
+      "url": "https://www.etoday.co.kr/news/view/2535083",
+      "date": "2025-12-12",
+      "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
+      "status": "published",
+      "goodwellness": false
+    },
+    {
+      "key": "2015-03-10-walkbot-vr-fnnews",
+      "file": "src/content/news/2015-03-10-walkbot-vr-fnnews.md",
+      "url": "https://www.fnnews.com/news/201503100941205451",
+      "date": "2015-03-10",
+      "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
+      "status": "published",
+      "goodwellness": false
     }
   ],
   "pending": [
@@ -5436,7 +5508,7 @@
       "identitySource": "https://channelpnu.pusan.ac.kr/news/articleView.html?idxno=34605"
     }
   ],
-  "publishedCount": 80,
+  "publishedCount": 88,
   "searchEvidence": "artifacts/news-discovery.json (ignored); Naver results additionally checked through browser scrolling",
   "reviewNotes": [
     "Hankyoreh original publication date is February 9, 2009; Google RSS showed a later migration date.",

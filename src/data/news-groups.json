@@ -95,7 +95,19 @@
     "primary": "2026-01-13-walkbot-hongseong",
     "reports": [
       "2026-01-13-walkbot-hongseong",
-      "2026-01-14-walkbot-hongseong-bridge"
+      "2026-01-14-walkbot-hongseong-bridge",
+      "2026-01-14-walkbot-hongseong-ccdaily",
+      "2026-01-14-walkbot-hongseong-ccdn",
+      "2026-01-14-walkbot-hongseong-jbnews",
+      "2026-01-13-walkbot-hongseong-gukje"
+    ]
+  },
+  {
+    "id": "nexon-walkbot-donation-2025",
+    "primary": "2025-11-24-walkbot-nexon-digitaltoday",
+    "reports": [
+      "2025-11-24-walkbot-nexon-digitaltoday",
+      "2025-11-24-walkbot-nexon-globale"
     ]
   }
 ]

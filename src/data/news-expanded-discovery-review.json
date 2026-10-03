@@ -4,10 +4,10 @@
   "note": "Editorial queue only. Search results do not establish identity or approve public content.",
   "candidateCount": 448,
   "statusCounts": {
-    "unreviewed": 367,
+    "unreviewed": 360,
     "duplicate": 7,
     "excluded": 48,
-    "published": 24,
+    "published": 31,
     "held": 2
   },
   "sourceScreenCounts": {},
@@ -1816,7 +1816,8 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9B%8C%ED%81%AC%EB%B4%87&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "published",
+      "reviewNote": "Original article body, title and date reviewed; published in verified expansion batch."
     },
     {
       "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1058507",
@@ -1829,7 +1830,8 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9B%8C%ED%81%AC%EB%B4%87&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "published",
+      "reviewNote": "Original article body, title and date reviewed; published in verified expansion batch."
     },
     {
       "url": "https://www.viva100.com/article/20260114500055",
@@ -1856,7 +1858,8 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9B%8C%ED%81%AC%EB%B4%87&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "published",
+      "reviewNote": "Original article body, title and date reviewed; published in verified expansion batch."
     },
     {
       "url": "http://www.cctimes.kr/news/articleView.html?idxno=886254",
@@ -1882,7 +1885,8 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9B%8C%ED%81%AC%EB%B4%87&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "published",
+      "reviewNote": "Original article body, title and date reviewed; published in verified expansion batch."
     },
     {
       "url": "https://www.newsis.com/view/NISX20260113_0003475015",
@@ -1922,7 +1926,8 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9B%8C%ED%81%AC%EB%B4%87&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "published",
+      "reviewNote": "Original article body, title and date reviewed; published in verified expansion batch."
     },
     {
       "url": "https://view.asiae.co.kr/article/2025121211175924858",
@@ -1974,7 +1979,8 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9B%8C%ED%81%AC%EB%B4%87&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "published",
+      "reviewNote": "Original article body, title and date reviewed; published in verified expansion batch."
     },
     {
       "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=607241",
@@ -1987,7 +1993,8 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9B%8C%ED%81%AC%EB%B4%87&start=1&sort=0"
         }
       ],
-      "status": "unreviewed"
+      "status": "published",
+      "reviewNote": "Original article body, title and date reviewed; published in verified expansion batch."
     },
     {
       "url": "https://www.medipana.com/news/articleView.html?idxno=417920",
