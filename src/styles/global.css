@@ -151,7 +151,6 @@ button, a, input, select { -webkit-tap-highlight-color: transparent; }
 .alumni-affiliation { margin-top: 10px; font-size: 14px; }
 .alumni-affiliation > p:first-child { font-weight: 500; }
 .alumni-affiliation > p:first-child span { display: inline-block; margin-left: 8px; font-size: 13px; font-weight: 400; color: var(--muted); }
-.alumni-affiliation > p + p { margin-top: 3px; font-size: 14px; color: var(--muted); }
 .directory-link { display: inline-block; font-size: 13px; font-weight: 500; }
 .collaborator-row { display: grid; grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr); gap: 48px; padding-block: 26px; border-bottom: 1px solid var(--line); }
 .collaborator-row .directory-person h3 { font-size: 19px; }

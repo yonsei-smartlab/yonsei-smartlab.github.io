@@ -59,7 +59,7 @@ At the Professor's request, current researchers and students, current projects, 
 
 ## Alumni, collaborators, and training sources
 
-The user supplied eleven faculty alumni and five alumni working in research, medicine, physical therapy, and the AI industry on October 3, 2026. All sixteen appear in one uniformly formatted Alumni list, without faculty/professional subgroups or public faculty-profile links. Korean names and the supplied professional roles are retained; no English spellings, graduation dates, degrees, employers, or biographies are invented. Ten faculty affiliations were matched to university sources, retained here for verification:
+The user supplied eleven faculty alumni and five alumni working in research, medicine, physical therapy, and the AI industry on October 3, 2026. All sixteen appear in one uniformly formatted Alumni list, without faculty/professional subgroups, departments, or public faculty-profile links. Korean names, supplied professional roles and confirmed universities are retained; no English spellings, graduation dates, degrees, employers, or biographies are invented. Ten faculty affiliations were matched to university sources, retained here for verification:
 
 | Alumni | Affiliation source |
 | --- | --- |
