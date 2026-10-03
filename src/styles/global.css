@@ -489,3 +489,10 @@ main :where(p, li, dd, a) { overflow-wrap: anywhere; }
 /* Homepage mission: readable prose beneath the centered lab identity. */
 .hero-description.hero-description-reading { max-width: 62ch; text-align: left; font-size: var(--text-body); line-height: var(--reading-line); }
 .hero-description-reading p + p { margin-top: 20px; }
+
+/* Research images retain full scientific figures and consistent card frames. */
+.figure-card > .content-image { background: #fff; padding: 16px; border-bottom: 1px solid var(--line); }
+.research-media { display: grid; gap: 28px; align-content: start; }
+.research-media figure { margin: 0; }
+.research-media .content-image { background: #fff; border: 1px solid var(--line); padding: 12px; }
+.research-media figcaption { margin-top: 10px; line-height: 1.5; }

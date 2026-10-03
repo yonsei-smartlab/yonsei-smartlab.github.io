@@ -1,23 +1,46 @@
 {
   "reviewDate": "2026-10-03",
+  "reviewScope": "606 embedded image candidates extracted and visually compared across ten supplied presentations, plus the previously indexed standalone media.",
   "records": [
     {
       "area": "area-1",
-      "status": "placeholder",
-      "selection": "Brain-activity or motor-control figure from an authored study; verify attribution and reuse before inclusion."
+      "status": "selected",
+      "publicFile": "/images/research/gait-eeg-analysis.webp",
+      "source": "로봇재활근거과 데이터적용 9-21-20JY.pptx",
+      "slide": 64,
+      "embeddedFile": "ppt/media/image89.png",
+      "caption": "Gait-related brain activity · EEG analysis",
+      "note": "Extracted from user-supplied presentation, converted to WebP without cropping, retouching or changes to scientific content. Figure illustrates a method, not a clinical outcome claim."
     },
     {
       "area": "area-2",
       "status": "selected",
-      "publicFile": "/images/research/babybot-prototype-2021.webp",
-      "source": "강의 Note - RAGT, Wearable, DNS, PNF/Wearable Robot/2021 LINC BaybyBOT 사진-동영상/KakaoTalk_20211019_160914550_01.jpg",
-      "caption": "BABYBOT prototype · 2021",
-      "note": "Device-only photograph supplied by user. Illustration of a development example, not the whole research area. Resized, EXIF removed; no generative changes."
+      "publicFile": "/images/research/walkbot-system.webp",
+      "source": "P&S/Walkbot 설치 현황, 사업소개 PPT 홍보자료/Joshua_COMPANY INTRODUCTION_WALKBOT 2017.pptx",
+      "slide": 6,
+      "embeddedFile": "ppt/media/image12.jpeg",
+      "caption": "Walkbot gait-training system · P&S Robotics",
+      "note": "Extracted from user-supplied presentation, converted to WebP without cropping, retouching or changes to scientific content. Figure illustrates a method, not a clinical outcome claim."
     },
     {
       "area": "area-3",
-      "status": "placeholder",
-      "selection": "Movement-assessment photograph or authored study figure; verify relevance and permission before inclusion."
+      "status": "selected",
+      "publicFile": "/images/research/movement-emg.webp",
+      "source": "강의 Note - RAGT, Wearable, DNS, PNF/DNS/Introduction to functional Neuromusculoskeletal Diagnosis & Treatment (fNDT) 8-25-22.pptx",
+      "slide": 56,
+      "embeddedFile": "ppt/media/image143.png",
+      "caption": "Muscle activity during movement · EMG",
+      "note": "Extracted from user-supplied presentation, converted to WebP without cropping, retouching or changes to scientific content. Figure illustrates a method, not a clinical outcome claim."
+    },
+    {
+      "area": "area-2",
+      "status": "secondary research image",
+      "publicFile": "/images/research/miracle-prototype-2024.webp",
+      "source": "CRC 발표자료 12-18-24 최종.pptx",
+      "slide": 17,
+      "embeddedFile": "ppt/media/image83.png",
+      "caption": "MIRACLE mobility-robot prototype · 2024",
+      "note": "Device-only photograph from the 2024 CRC presentation. Not a claim about current equipment ownership."
     }
   ]
 }

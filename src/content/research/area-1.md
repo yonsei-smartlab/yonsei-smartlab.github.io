@@ -2,6 +2,9 @@
 title: "Neuromodulation"
 summary: "Investigating brain activity, neuroplasticity, and motor recovery through brain stimulation and movement training."
 order: 1
+image: "/images/research/gait-eeg-analysis.webp"
+imageAlt: "EEG spectral-power maps at Cz and Pz across the gait cycle"
+imageCaption: "Gait-related brain activity · EEG analysis"
 placeholder: true
 ---
 
