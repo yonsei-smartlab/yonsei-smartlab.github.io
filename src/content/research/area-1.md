@@ -1,6 +1,6 @@
 ---
 title: "Neuromodulation"
-summary: "Research on neural activity and motor recovery, including published work on repetitive transcranial magnetic stimulation in stroke."
+summary: "Investigating brain activity, neuroplasticity, and motor recovery through brain stimulation and movement training."
 order: 1
 placeholder: true
 ---
@@ -8,6 +8,8 @@ placeholder: true
 <h3 id="area-1-published">Published research</h3>
 
 Published research examines motor-network plasticity using functional magnetic resonance imaging, repetitive transcranial magnetic stimulation, and EEG-based brain mapping in stroke and cerebral palsy. Core-stabilization studies also investigate neural activation during movement control.
+
+Virtual-reality training and EMG biofeedback studies also examine cortical reorganization and neuromotor control after stroke and in cerebral palsy.
 
 [Related publications](/publications/?area=area-1).
 

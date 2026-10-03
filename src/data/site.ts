@@ -11,7 +11,7 @@ export const site = {
   department: 'Department of Physical Therapy',
   departmentKorean: '물리치료학과',
   campus: 'MIRAE Campus',
-  description: 'Our research spans neuromodulation, robotic rehabilitation, and sports movement science, with published work on motor control, movement, and recovery.',
+  description: 'SMART Lab works to improve rehabilitation for people with movement difficulties, from children developing movement skills to adults recovering from injury or living with neurological conditions. We study how the brain and body coordinate movement and investigate how neuromodulation, robotic rehabilitation, and sports movement science can support recovery. Through technology development and research in clinical and community settings, we aim to turn advances in rehabilitation into meaningful improvements in how people move and live.',
   url: 'https://yonsei-smartlab.github.io',
   professorName: 'Joshua (Sung) H. You',
   professorKoreanName: '유승현',
@@ -34,13 +34,13 @@ export const site = {
     facultyDetailed: 'https://ee.yonsei.ac.kr/faculty/depMember.do?mode=view&userId=pMNMbMnv8Q3Z%2Far1FXZQGQ%3D%3D&campus=wonju',
   },
   labDescription: '[Add a short description of the lab and its working environment.]',
-  researchProcessDescription: '[Describe how these research steps connect.]',
+  researchProcessDescription: 'Connecting movement research, rehabilitation technology, and everyday function.',
   researchSteps: [
-    { title: '[Step 1 title]', description: '[Short description]' },
-    { title: '[Step 2 title]', description: '[Short description]' },
-    { title: '[Step 3 title]', description: '[Short description]' },
-    { title: '[Step 4 title]', description: '[Short description]' },
-    { title: '[Step 5 title]', description: '[Short description]' },
+    { title: 'Understand movement', description: 'Study how the brain, muscles, and joints contribute to movement and recovery.' },
+    { title: 'Identify rehabilitation needs', description: 'Examine movement difficulties and the needs of individuals, families, and clinicians.' },
+    { title: 'Develop approaches', description: 'Explore rehabilitation training, robotic assistance, and movement assessment.' },
+    { title: 'Evaluate responses', description: 'Measure changes in movement, muscle activity, and functional performance.' },
+    { title: 'Support everyday function', description: 'Investigate rehabilitation in relation to mobility, independence, and community participation.' },
   ],
   images: {
     // Put real lab images in public/images and enter paths such as /images/lab.jpg.

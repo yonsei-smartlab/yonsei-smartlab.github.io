@@ -1,0 +1,23 @@
+{
+  "reviewDate": "2026-10-03",
+  "records": [
+    {
+      "area": "area-1",
+      "status": "placeholder",
+      "selection": "Brain-activity or motor-control figure from an authored study; verify attribution and reuse before inclusion."
+    },
+    {
+      "area": "area-2",
+      "status": "selected",
+      "publicFile": "/images/research/babybot-prototype-2021.webp",
+      "source": "강의 Note - RAGT, Wearable, DNS, PNF/Wearable Robot/2021 LINC BaybyBOT 사진-동영상/KakaoTalk_20211019_160914550_01.jpg",
+      "caption": "BABYBOT prototype · 2021",
+      "note": "Device-only photograph supplied by user. Illustration of a development example, not the whole research area. Resized, EXIF removed; no generative changes."
+    },
+    {
+      "area": "area-3",
+      "status": "placeholder",
+      "selection": "Movement-assessment photograph or authored study figure; verify relevance and permission before inclusion."
+    }
+  ]
+}

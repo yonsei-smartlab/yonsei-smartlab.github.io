@@ -9,7 +9,7 @@ const research = await getResearch();
 const sections = await Promise.all(research.map(async area => ({ area, ...(await render(area)) })));
 ---
 <BaseLayout title="Research">
-  <PageHeader title="Research" description="Neuromodulation, robotic rehabilitation, sports movement science, and virtual reality in motor recovery." />
+  <PageHeader title="Research" description="Neuromodulation, robotic rehabilitation, and sports movement science." />
   <ResearchNav />
-  <div class="container-page research-sections">{sections.map(({ area, Content }) => <section class="research-detail" id={area.id}><div><h2>{area.data.title}</h2><p class="research-summary">{area.data.summary}</p><div class="prose-content"><Content /></div></div><PlaceholderImage label="Research figure" src={area.data.image} alt={area.data.imageAlt} /></section>)}</div>
+  <div class="container-page research-sections">{sections.map(({ area, Content }) => <section class="research-detail" id={area.id}><div>{area.id === 'area-1' && <span id="area-4" aria-hidden="true"></span>}<h2>{area.data.title}</h2><p class="research-summary">{area.data.summary}</p><div class="prose-content"><Content /></div></div><figure><PlaceholderImage label={`${area.data.title} image`} src={area.data.image} alt={area.data.imageAlt} />{area.data.imageCaption && <figcaption class="eyebrow">{area.data.imageCaption}</figcaption>}</figure></section>)}</div>
 </BaseLayout>

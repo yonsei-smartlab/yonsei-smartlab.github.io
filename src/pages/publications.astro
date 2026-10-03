@@ -50,6 +50,7 @@ const updatedDate = new Intl.DateTimeFormat('en', { dateStyle: 'long', timeZone:
     if (empty) empty.hidden = visible !== 0;
   }
   const initialFilters = new URLSearchParams(window.location.search);
+  if (initialFilters.get('area') === 'area-4') initialFilters.set('area', 'area-1');
   if (area && [...area.options].some(option => option.value === initialFilters.get('area'))) area.value = initialFilters.get('area') ?? '';
   filterPublications();
   search?.addEventListener('input', filterPublications);

@@ -20,18 +20,15 @@ const selected = publications.filter(pub => pub.data.featured).slice(0, 3);
       </div>
       <div class="research-process">
         <ol class="process-steps">{site.researchSteps.map((step, index) => <li><span class="step-number" aria-hidden="true">{String(index + 1).padStart(2, '0')}</span><h2>{step.title}</h2><p>{step.description}</p></li>)}</ol>
-        <p class="process-note placeholder-text">{site.researchProcessDescription}</p>
+        <p class="process-note">{site.researchProcessDescription}</p>
       </div>
     </div>
   </section>
   <section class="section section-divided">
     <div class="container-page">
-      <div class="section-heading"><h2>Research overview</h2><a href="/research/">View research <span aria-hidden="true">→</span></a></div>
-      <div class="figure-grid">{areas.slice(0, 3).map((area, index) => <a class="figure-card" href={`/research/#${area.id}`}><PlaceholderImage label={`Research figure ${index + 1}`} src={area.data.image} alt={area.data.imageAlt} /><div class="figure-caption"><p class="eyebrow">[Publication / project · Year]</p><h3>{area.data.title}</h3></div></a>)}</div>
+      <div class="section-heading"><h2>Research areas</h2><a href="/research/">View research <span aria-hidden="true">→</span></a></div>
+      <div class="figure-grid">{areas.map(area => <a class="figure-card" href={`/research/#${area.id}`}><PlaceholderImage label={`${area.data.title} image`} src={area.data.image} alt={area.data.imageAlt} /><div class="figure-caption"><h3>{area.data.title}</h3><p>{area.data.summary}</p>{area.data.imageCaption && <p class="eyebrow">{area.data.imageCaption}</p>}</div></a>)}</div>
     </div>
-  </section>
-  <section class="section">
-    <div class="container-page"><div class="section-heading"><h2>Research areas</h2></div><div class="research-grid">{areas.map(area => <a class="research-card" href={`/research/#${area.id}`}><h3>{area.data.title}</h3><p>{area.data.summary}</p></a>)}</div></div>
   </section>
   <section class="section section-divided">
     <div class="container-page"><div class="section-heading"><h2>Selected publications</h2><a href="/publications/">All publications <span aria-hidden="true">→</span></a></div><PubList pubs={selected} /></div>

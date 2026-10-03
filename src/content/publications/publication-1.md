@@ -6,7 +6,7 @@ year: 2005
 order: 1
 doi: "10.1161/01.str.0000162715.43417.91"
 url: "https://doi.org/10.1161/01.str.0000162715.43417.91"
-areas: [area-4]
+areas: [area-1]
 featured: true
 placeholder: false
 scholarId: "IWHjjKOFINEC"

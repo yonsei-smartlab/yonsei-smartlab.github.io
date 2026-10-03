@@ -12,7 +12,7 @@ scholarId: "MXK_kJrjxJIC"
 importedOn: "2026-10-03"
 reviewRequired: false
 authorListIncomplete: false
-areas: ["area-2","area-4"]
+areas: ["area-2","area-1"]
 featured: false
 placeholder: false
 ---

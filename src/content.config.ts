@@ -10,6 +10,7 @@ const research = defineCollection({
     order: z.number().default(0),
     image: z.string().optional(),
     imageAlt: z.string().optional(),
+    imageCaption: z.string().optional(),
     placeholder: z.boolean().default(false),
   }),
 });

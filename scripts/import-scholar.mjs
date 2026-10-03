@@ -50,7 +50,7 @@ const entries = snapshot.records.map((record, index) => {
   if (/neuromodulat|brain.modulat|transcranial|rtms|tdcs|corticomotor|h.reflex/i.test(title)) areas.push('area-1');
   if (/robot|walkbot|walkrite|healerbot|orthosis|prosthetic|orthotic/i.test(title)) areas.push('area-2');
   if (/sport|core stabili|neuromuscular stabili|muscle imbalance|propriocept|sensorimotor/i.test(title)) areas.push('area-3');
-  if (/virtual reality|\bvr\b/i.test(title)) areas.push('area-4');
+  if (/virtual reality|\bvr\b/i.test(title)) areas.push('area-1');
   let articleUrl = record.detail?.articleUrl;
   if (articleUrl && !/^https?:\/\//.test(articleUrl)) articleUrl = undefined;
   return { id, title, authors, journal, year, order: index + 10, publicationDate: date, forthcoming,

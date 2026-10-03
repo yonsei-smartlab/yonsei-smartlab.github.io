@@ -1,6 +1,6 @@
 ---
 title: "Sports movement science"
-summary: "An academic research interest spanning movement, postural control, and neuromuscular function."
+summary: "Examining movement quality, postural control, and neuromuscular function through clinical assessment and motion analysis."
 order: 3
 placeholder: true
 ---

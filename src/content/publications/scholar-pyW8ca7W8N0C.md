@@ -11,7 +11,7 @@ scholarId: "pyW8ca7W8N0C"
 importedOn: "2026-10-03"
 reviewRequired: false
 authorListIncomplete: false
-areas: ["area-4"]
+areas: ["area-1"]
 featured: false
 placeholder: false
 ---
