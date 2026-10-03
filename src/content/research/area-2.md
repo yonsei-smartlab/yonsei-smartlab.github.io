@@ -1,6 +1,6 @@
 ---
 title: "Robotic rehabilitation"
-summary: "Studying robot-assisted gait training and wearable assistance, including movement responses and rehabilitation needs."
+summary: "Human–robot interaction and assistive technologies for movement rehabilitation."
 order: 2
 image: "/images/research/walkbot-yoon-2022.png"
 imageAlt: "Participant using the Walkbot gait-training system, with eyes obscured and a face mask in the published photograph"
@@ -12,8 +12,6 @@ imageLicenseUrl: "https://creativecommons.org/licenses/by/4.0/"
 placeholder: false
 ---
 
-Professor You’s rehabilitation robotics research connects device development with clinical studies of walking, balance and movement control. Publications examine robot-assisted gait training in stroke and cerebral palsy, robotic movement measurements, and machine-learning approaches to predicting rehabilitation response. This work also includes wearable assistance and studies of users’ rehabilitation needs.
-
-Funded projects include human–robot interaction for gait learning (2017–2020), a lightweight wearable robot suit for cerebral palsy (2023), and the Miracle walking-robot development center for children and older adults with gait difficulties (2023–2025).
+Our work spans the development and clinical evaluation of rehabilitation robots, from robot-assisted gait training to wearable assistance for children and adults with movement impairments. Studies examine how robotic support influences gait mechanics, postural control and motor learning in stroke and cerebral palsy. Movement measurement and machine-learning approaches complement this work by characterizing individual responses to training and informing the design of rehabilitation assistance.
 
 [Related publications](/publications/?area=area-2).

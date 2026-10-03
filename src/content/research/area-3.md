@@ -1,6 +1,6 @@
 ---
 title: "Sports movement science"
-summary: "Examining movement quality, postural control, and neuromuscular function through clinical assessment and motion analysis."
+summary: "Biomechanics and neuromuscular control in rehabilitation and sport."
 order: 3
 image: "/images/research/squat-assessment-anonymized.png"
 imageAlt: "Face-masked overhead-squat assessment photographs, with markerless body tracking at right"
@@ -12,8 +12,6 @@ imageLicenseUrl: "https://creativecommons.org/licenses/by/4.0/"
 placeholder: false
 ---
 
-This area draws on Professor You’s background in motor learning, sports medicine and clinical physical therapy, including his work as Chief Physiotherapist at the 2018 Pyeongchang Winter Olympics and Paralympics. Publications examine core stabilization, proprioception, balance and low back pain, alongside markerless motion assessment and rehabilitation for athletes with ankle instability.
-
-Related funded work includes musculoskeletal-disorder prevention education (2017) and a musculoskeletal and metabolic-syndrome prevention programme (2018). Wonju-supported fitness programmes for children with disabilities extend this movement and rehabilitation work into community settings.
+We examine the coordination of muscle activity, sensory feedback and joint movement underlying physical function. Work across clinical and athletic populations addresses core stabilization, balance, proprioception and rehabilitation for low back pain and ankle instability. Electromyography, ultrasound imaging and markerless motion analysis support the assessment of movement patterns and responses to exercise, connecting clinical rehabilitation with the functional demands of daily activity and sport.
 
 [Related publications](/publications/?area=area-3).

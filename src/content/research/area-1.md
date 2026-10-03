@@ -1,6 +1,6 @@
 ---
 title: "Neuromodulation"
-summary: "Investigating brain activity, neuroplasticity, and motor recovery through brain stimulation and movement training."
+summary: "Neuroplasticity, brain stimulation and the recovery of motor function."
 order: 1
 image: "/images/research/eeg-recording-anonymized.png"
 imageAlt: "Face-masked participant wearing a wireless EEG cap during robot-assisted walking"
@@ -10,8 +10,6 @@ imageSource: "https://doi.org/10.3233/NRE-210304"
 placeholder: false
 ---
 
-Professor You’s work examines how the brain adapts during rehabilitation and how those changes relate to movement recovery. Studies use functional MRI, transcranial magnetic stimulation and EEG to investigate motor control in stroke and cerebral palsy, including the effects of movement training on brain activity.
-
-Funded projects have addressed imaging and enhancement of neural-network plasticity (2006–2008) and brain–machine interface gait training after stroke (2016–2017). A 2025–2026 project combines EEG–EMG neurofeedback with robotic gait assistance, bringing brain and muscle signals into rehabilitation technology development.
+We investigate how neural activity changes with rehabilitation and how these changes relate to motor recovery in stroke and cerebral palsy. Functional MRI, transcranial magnetic stimulation and EEG provide complementary approaches to examining motor-network function and responses to training. This work also encompasses brain–machine interfaces and EEG–EMG neurofeedback, integrating neural and muscular signals into the development of gait rehabilitation systems.
 
 [Related publications](/publications/?area=area-1).
