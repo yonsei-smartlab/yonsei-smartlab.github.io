@@ -36,12 +36,12 @@ const areas = await getResearch();
 <style>
   .homepage-actions .button {
     min-width: 140px;
-    background: #fff;
+    background: var(--brand);
     border-color: var(--brand);
-    color: var(--brand);
+    color: #fff;
     transition: background-color 160ms ease, border-color 160ms ease;
   }
-  .homepage-actions .button:hover { background: var(--brand); border-color: var(--brand); color: #fff; }
+  .homepage-actions .button:hover { background: var(--brand-strong); border-color: var(--brand-strong); color: #fff; }
   .homepage-actions .button:focus-visible {
     outline: 2px solid var(--brand-hover);
     outline-offset: 3px;
