@@ -20,127 +20,253 @@
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=29&sk=&sw=&offset=&category=",
       "title": "'스위스 선점시장 뚫었다. 중남미 최대 텔레톤 재단에 '워크봇' 추가 공급' / 2026.0...",
-      "status": "unreviewed"
+      "status": "published-original",
+      "originalLinks": [
+        "https://www.mt.co.kr/stock/2026/07/30/2026073011430668543"
+      ],
+      "sourceLinkReview": "Official repost links inspected; original article review still required.",
+      "canonical": "https://www.mt.co.kr/stock/2026/07/30/2026073011430668543",
+      "report": "2026-07-30-walkbot-teleton-expansion",
+      "reviewNote": "Original report already reviewed and published; company repost is not an additional independent source."
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=28&sk=&sw=&offset=&category=",
       "title": "li nkedin - Fundación Teletón México / 2026.07.01",
-      "status": "unreviewed"
+      "status": "social-post",
+      "originalLinks": [
+        "https://www.linkedin.com/posts/as%C3%AD-se-transforma-tu-apoyo-ugcPost-7473460629538840579-gDWR/"
+      ],
+      "sourceLinkReview": "Official repost links inspected; original article review still required.",
+      "reviewNote": "LinkedIn foundation post; review separately from publisher news reports, without treating the company repost as independent coverage."
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=27&sk=&sw=&offset=&category=",
       "title": "기적 부른 AI 재활로봇, 의료 패더라임 바꾼다? / 머니투데이 방송 MTN / 2026.06.18",
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "originalLinks": [
+        "https://www.youtube.com/watch?v=MiuE2JcRWGI&t=343s"
+      ],
+      "sourceLinkReview": "Official repost links inspected; original article review still required."
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=26&sk=&sw=&offset=&category=",
       "title": "피앤에스로보틱스, '3대 시장 인증' 재활로봇 기술력에도 '극심한 저평가' / 2026.06...",
-      "status": "unreviewed"
+      "status": "published-original",
+      "originalLinks": [
+        "https://www.newsprime.co.kr/news/article/?no=737135"
+      ],
+      "sourceLinkReview": "Official repost links inspected; original article review still required.",
+      "canonical": "https://www.newsprime.co.kr/news/article/?no=737135",
+      "report": "2026-06-18-walkbot-market-analysis",
+      "reviewNote": "Original report already reviewed and published; company repost is not an additional independent source."
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=25&sk=&sw=&offset=&category=",
       "title": "피앤에스로보틱스, 멕시코 최대 규모 민간 비영리기구 텔레톤재단에 '워크봇' 첫 설...",
-      "status": "unreviewed"
+      "status": "published-original",
+      "originalLinks": [
+        "https://www.newsprime.co.kr/news/article/?no=734566"
+      ],
+      "sourceLinkReview": "Official repost links inspected; original article review still required.",
+      "canonical": "https://www.newsprime.co.kr/news/article.html?no=734566",
+      "report": "2026-05-26-walkbot-mexico",
+      "reviewNote": "Original Prime Economy report already reviewed and published; company repost is not an additional independent source."
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=24&sk=&sw=&offset=&category=",
       "title": "피앤에스로보틱스, 소재 부품 장비 전문기업 인증 취득 / 2026.05.21",
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "originalLinks": [
+        "https://www.newsprime.co.kr/news/article/?no=734229"
+      ],
+      "sourceLinkReview": "Official repost links inspected; original article review still required."
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=23&sk=&sw=&offset=&category=",
       "title": "어깨통증탈출! 혁신적인 재활로봇 '힐러봇' 사용 가이드 / 2026.04.30",
-      "status": "unreviewed"
+      "status": "excluded",
+      "originalLinks": [
+        "https://www.youtube.com/watch?v=Hrlg2tEnLlE"
+      ],
+      "sourceLinkReview": "Official repost links inspected; original article review still required.",
+      "reviewNote": "Healerbot product-use tutorial; not a news report about SMART Lab, Professor You, GOODWELLNESS or Walkbot."
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=22&sk=&sw=&offset=&category=",
       "title": "피앤에스로보틱스, 어깨 재활 로봇 '힐러봇' 국내 첫 공개 / 2026.03.05",
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "originalLinks": [
+        "https://www.dailian.co.kr/news/view/1617165/%ED%94%BC%EC%95%A4%EC%97%90%EC%8A%A4%EB%A1%9C%EB%B3%B4%ED%8B%B1%EC%8A%A4-%EC%96%B4%EA%B9%A8-%EC%9E%AC%ED%99%9C-%EB%A1%9C%EB%B4%87-%ED%9E%90%EB%9F%AC-2026"
+      ],
+      "sourceLinkReview": "Official repost links inspected; original article review still required."
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=21&sk=&sw=&offset=&category=",
       "title": "홍성의료원, 뇌졸중환자 로봇보행재활 '워크봇' 도입 / 2026.01.13",
-      "status": "unreviewed"
+      "status": "published-original",
+      "originalLinks": [
+        "https://n.news.naver.com/article/003/0013707605?sid=102"
+      ],
+      "sourceLinkReview": "Official repost links inspected; original article review still required.",
+      "canonical": "https://www.newsis.com/view/NISX20260113_0003475015",
+      "report": "2026-01-13-walkbot-hongseong",
+      "reviewNote": "Original report already reviewed and published; company repost is not an additional independent source."
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=20&sk=&sw=&offset=&category=",
       "title": "넥슨어린이재활병원에 보행재활로봇 '워크봇' 설치/2025.12.18",
-      "status": "unreviewed"
+      "status": "published-original",
+      "originalLinks": [
+        "https://www.dailymedi.com/news/news_view.php?wr_id=932128"
+      ],
+      "sourceLinkReview": "Official repost links inspected; original article review still required.",
+      "canonical": "https://www.dailymedi.com/dmedi/news/news_view.php?ca_id=2206&wr_id=932128",
+      "report": "2025-12-18-walkbot-nexon",
+      "reviewNote": "Original report already reviewed and published; company repost is not an additional independent source."
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=19&sk=&sw=&offset=10&category=",
       "title": "P&S 로보틱스_걸어본 적 없는 아이가 걷기 시작했다 / 2025.12.12",
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "originalLinks": [
+        "https://www.youtube.com/watch?v=VQR4LLWkbc4"
+      ],
+      "sourceLinkReview": "Official repost links inspected; original article review still required."
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=18&sk=&sw=&offset=10&category=",
       "title": "피앤에스로보틱스, AI 기반 ‘힐러봇’까지 라인업 확대…'재활 로봇 풀스택 기업으로 ...",
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "originalLinks": [
+        "https://www.financialpost.co.kr/news/articleView.html?idxno=239939"
+      ],
+      "sourceLinkReview": "Official repost links inspected; original article review still required."
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=17&sk=&sw=&offset=10&category=",
       "title": "피앤에스로보틱스, 파주시 운정 다누림 장애인복지관에 ‘워크봇’ 설치 / 2025.08.1...",
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "originalLinks": [
+        "https://www.irobotnews.com/news/articleView.html?idxno=41738"
+      ],
+      "sourceLinkReview": "Official repost links inspected; original article review still required."
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=16&sk=&sw=&offset=10&category=",
       "title": "피앤에스로보틱스, 인도 사크라병원에 두 번째 워크봇 설치 / 2025.07.31",
-      "status": "unreviewed"
+      "status": "published-original",
+      "originalLinks": [
+        "https://www.dailian.co.kr/news/view/1530114/?sc=Naver"
+      ],
+      "sourceLinkReview": "Official repost links inspected; original article review still required.",
+      "canonical": "https://www.dailian.co.kr/news/view/1530114",
+      "report": "2025-07-31-walkbot-sakra",
+      "reviewNote": "Original report already reviewed and published; company repost is not an additional independent source."
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=15&sk=&sw=&offset=10&category=",
       "title": "피앤에스미캐닉스 현장 탐방 취재 / 2025.02.16",
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "originalLinks": [
+        "https://www.hankyung.com/article/202502042289i"
+      ],
+      "sourceLinkReview": "Official repost links inspected; original article review still required."
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=14&sk=&sw=&offset=10&category=",
       "title": "피앤에스미캐닉스, 메디카 2024 전시 참가 / 2024. 11. 18",
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "originalLinks": [
+        "https://www.donga.com/news/article/all/20241118/130447368/1"
+      ],
+      "sourceLinkReview": "Official repost links inspected; original article review still required."
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=13&sk=&sw=&offset=10&category=",
       "title": "피앤에스미캐닉스, 인니 수출계약 체결...수출국 15개로 확대 / 2024. 11. 11",
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "originalLinks": [
+        "https://news.mt.co.kr/mtview.php?no=2024111108150089649"
+      ],
+      "sourceLinkReview": "Official repost links inspected; original article review still required."
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=12&sk=&sw=&offset=10&category=",
       "title": "(주)피앤에스미캐닉스 코스닥시장 상장기념식 / 2024. 7. 31",
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "originalLinks": [
+        "https://www.yna.co.kr/view/PYH20240731062900013?input=1196m"
+      ],
+      "sourceLinkReview": "Official repost links inspected; original article review still required."
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=11&sk=&sw=&offset=10&category=",
       "title": "'IPO 출사표' 피앤에스미캐닉스 '글로벌 기업 도약' / 2024. 7. 9",
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "originalLinks": [
+        "https://dealsite.co.kr/articles/125102"
+      ],
+      "sourceLinkReview": "Official repost links inspected; original article review still required."
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=10&sk=&sw=&offset=10&category=",
       "title": "피앤에스미캐닉스 '글로벌 의료로봇 기업으로 성장할 것' / 2024. 7. 9",
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "originalLinks": [
+        "https://news.mtn.co.kr/news-detail/2024070916223542687"
+      ],
+      "sourceLinkReview": "Official repost links inspected; original article review still required."
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=9&sk=&sw=&offset=20&category=",
       "title": "피앤에스미캐닉스, AI 로봇 산학협력 추진 '재활 표준 만든다' / 2023. 11. 27",
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "originalLinks": [
+        "https://news.mt.co.kr/mtview.php?no=2023112710224854970"
+      ],
+      "sourceLinkReview": "Official repost links inspected; original article review still required."
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=8&sk=&sw=&offset=20&category=",
       "title": "'의료 로봇' 피앤에스미캐닉스, 코스닥 노크...상장예비심사 청구 / 2023. 11. 16",
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "originalLinks": [
+        "https://news.mt.co.kr/mtview.php?no=2023111615305657355,"
+      ],
+      "sourceLinkReview": "Official repost links inspected; original article review still required."
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=7&sk=&sw=&offset=20&category=",
       "title": "재활로봇업체 피앤에스미캐닉스, 코스닥 상장 추친 / 2023. 9. 1",
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "originalLinks": [
+        "https://www.sedaily.com/NewsView/29UIJO4EBV"
+      ],
+      "sourceLinkReview": "Official repost links inspected; original article review still required."
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=6&sk=&sw=&offset=20&category=",
       "title": "실적 껑충 뛴 'K-보행재활로봇'...12개국 인증, 수출도 '청신호' / 2023. 9. 26",
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "originalLinks": [
+        "https://news.mt.co.kr/mtview.php?no=2023092407470426509"
+      ],
+      "sourceLinkReview": "Official repost links inspected; original article review still required."
     },
     {
       "url": "https://www.walkbot.co.kr/kr/media-press.php?boardid=news&mode=view&idx=5&sk=&sw=&offset=20&category=",
       "title": "세계 1위 제친 韓 재활로봇기업…'3년안에 현지법인 세워 미 공략' / 2022. 7. 24",
-      "status": "unreviewed"
+      "status": "unreviewed",
+      "originalLinks": [
+        "https://www.hankyung.com/article/2022072472791"
+      ],
+      "sourceLinkReview": "Official repost links inspected; original article review still required."
     }
-  ]
+  ],
+  "statusCounts": {
+    "published-original": 6,
+    "social-post": 1,
+    "unreviewed": 17,
+    "excluded": 1
+  }
 }
