@@ -32,7 +32,7 @@ const current = Astro.url.pathname.replace(/\/$/, '') || '/';
         return <li class:list={{ 'nav-dropdown': hasSubmenu }}>
           <div class="nav-item-heading">
             <a data-nav-primary href={item.href} aria-current={active ? 'page' : undefined}>{item.label}</a>
-            {hasSubmenu && <button class="submenu-toggle" type="button" aria-label={`${item.label} subsections`} aria-controls={submenuId} aria-expanded="false"><span aria-hidden="true">⌄</span></button>}
+            {hasSubmenu && <button class="submenu-toggle" type="button" aria-label={`${item.label} subsections`} aria-controls={submenuId} aria-expanded="false"><svg aria-hidden="true" width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2.5 4.25 6 7.75l3.5-3.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" /></svg></button>}
           </div>
           {hasSubmenu && <ul id={submenuId} class="nav-submenu" hidden>
             {submenuLinks.map(link => <li><a href={link.href}>{link.label}</a></li>)}

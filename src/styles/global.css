@@ -382,7 +382,8 @@ html { scroll-padding-top: 132px; }
 .nav-dropdown .nav-item-heading > a { padding-right: 4px; }
 .submenu-toggle { display: inline-flex; align-items: center; justify-content: center; width: 28px; padding: 0; border: 0; background: transparent; color: var(--muted); cursor: pointer; }
 .submenu-toggle:hover, .submenu-toggle[aria-expanded='true'] { color: var(--brand); }
-.submenu-toggle[aria-expanded='true'] span { transform: rotate(180deg); }
+.submenu-toggle svg { display: block; flex-shrink: 0; }
+.submenu-toggle[aria-expanded='true'] svg { transform: rotate(180deg); }
 .nav-submenu { position: absolute; top: 100%; left: 0; z-index: 1; min-width: 200px; margin: 0; padding: 8px; list-style: none; background: #fff; border: 1px solid var(--line); box-shadow: 0 8px 20px rgb(0 0 0 / 8%); }
 .nav-list .nav-submenu li a { padding: 10px 14px; border: 0; white-space: nowrap; }
 .nav-list .nav-submenu a:hover, .nav-list .nav-submenu a[aria-current='page'] { color: var(--brand); background: var(--surface); }
