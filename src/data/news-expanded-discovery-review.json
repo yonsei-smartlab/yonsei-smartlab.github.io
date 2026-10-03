@@ -4,9 +4,9 @@
   "note": "Editorial queue only. Search results do not establish identity or approve public content.",
   "candidateCount": 448,
   "statusCounts": {
-    "unreviewed": 221,
+    "unreviewed": 89,
     "duplicate": 10,
-    "excluded": 195,
+    "excluded": 327,
     "published": 20,
     "held": 2
   },
@@ -3759,7 +3759,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=SMART+Lab+Yonsei&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -3768,7 +3768,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Full article text does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20170326165218771",
@@ -3856,7 +3859,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=SMART+Lab+Yonsei&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -3865,7 +3868,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Full article text does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20260729204537524",
@@ -5158,7 +5164,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -5167,7 +5173,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20240731094017637",
@@ -5180,7 +5189,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -5189,7 +5198,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20240722050114095",
@@ -5202,7 +5214,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -5211,7 +5223,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20240723171935433",
@@ -5224,7 +5239,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -5233,7 +5248,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20240723165405407",
@@ -5246,7 +5264,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -5255,7 +5273,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20240721095332366",
@@ -5268,7 +5289,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -5277,7 +5298,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20240719180523974",
@@ -5290,7 +5314,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -5299,7 +5323,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20240621163401228",
@@ -5312,7 +5339,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -5321,7 +5348,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20250102145929255",
@@ -5334,7 +5364,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -5343,7 +5373,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20240722060038782",
@@ -5356,7 +5389,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -5365,7 +5398,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20240623080025803",
@@ -5378,7 +5414,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -5387,7 +5423,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20240709150612761",
@@ -5400,7 +5439,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -5409,7 +5448,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20240721090410716",
@@ -5422,7 +5464,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -5431,7 +5473,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20240707084628630",
@@ -5444,7 +5489,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -5453,7 +5498,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20231128151325033",
@@ -5516,7 +5564,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -5525,7 +5573,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20240721080010046",
@@ -5538,7 +5589,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -5547,7 +5598,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20240707080011131",
@@ -5560,7 +5614,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -5569,7 +5623,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20220623145230937",
@@ -5787,7 +5844,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -5796,7 +5853,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20201008163134305",
@@ -6023,7 +6083,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6032,7 +6092,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20220311170103041",
@@ -6045,7 +6108,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6054,7 +6117,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20211220172406015",
@@ -6067,7 +6133,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6076,7 +6142,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20151119110127842",
@@ -6089,7 +6158,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6098,7 +6167,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20150310110506081",
@@ -6116,7 +6188,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6125,7 +6197,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20100316183112999",
@@ -6163,7 +6238,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6172,7 +6247,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20150310094222757",
@@ -6190,7 +6268,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6199,7 +6277,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20100404173909818",
@@ -6297,7 +6378,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=Walkbot&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6306,7 +6387,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20140224161012386",
@@ -6489,7 +6573,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6498,7 +6582,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260922162630146",
@@ -6561,7 +6648,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6570,7 +6657,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260830064329856",
@@ -6608,7 +6698,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6617,7 +6707,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260923110852407",
@@ -6630,7 +6723,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6639,7 +6732,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260922094128886",
@@ -6652,7 +6748,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6661,7 +6757,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260919070056873",
@@ -6674,7 +6773,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=2&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6683,7 +6782,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260920091851902",
@@ -6821,7 +6923,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6830,7 +6932,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260917090407358",
@@ -6843,7 +6948,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6852,7 +6957,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260917150814897",
@@ -6865,7 +6973,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6874,7 +6982,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260914143136026",
@@ -6887,7 +6998,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6896,7 +7007,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260909151235577",
@@ -6934,7 +7048,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6943,7 +7057,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260907102351358",
@@ -6956,7 +7073,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=3&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -6965,7 +7082,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260908082749707",
@@ -7053,7 +7173,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7062,7 +7182,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260909160106271",
@@ -7100,7 +7223,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7109,7 +7232,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260909110646985",
@@ -7122,7 +7248,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7131,7 +7257,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260909144157029",
@@ -7144,7 +7273,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7153,7 +7282,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260909143604685",
@@ -7166,7 +7298,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7175,7 +7307,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260905092451311",
@@ -7188,7 +7323,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7197,7 +7332,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260903170551425",
@@ -7210,7 +7348,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=4&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7219,7 +7357,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260906181245054",
@@ -7232,7 +7373,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7241,7 +7382,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260910101039040",
@@ -7254,7 +7398,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7263,7 +7407,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260902163238265",
@@ -7276,7 +7423,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7285,7 +7432,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260905093003361",
@@ -7298,7 +7448,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7307,7 +7457,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260904144349632",
@@ -7320,7 +7473,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7329,7 +7482,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260903094910701",
@@ -7342,7 +7498,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7351,7 +7507,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260904084750624",
@@ -7364,7 +7523,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7373,7 +7532,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260828101409033",
@@ -7386,7 +7548,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7395,7 +7557,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260825161204381",
@@ -7408,7 +7573,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7417,7 +7582,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260827080730761",
@@ -7430,7 +7598,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=5&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7439,7 +7607,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260828112948235",
@@ -7452,7 +7623,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7461,7 +7632,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260716144843374",
@@ -7474,7 +7648,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7483,7 +7657,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260812080137938",
@@ -7496,7 +7673,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7505,7 +7682,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260812104505195",
@@ -7518,7 +7698,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7527,7 +7707,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260811050011158",
@@ -7540,7 +7723,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7549,7 +7732,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260727160215219",
@@ -7562,7 +7748,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7571,7 +7757,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260812110015970",
@@ -7584,7 +7773,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7593,7 +7782,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260818154251183",
@@ -7606,7 +7798,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7615,7 +7807,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260812113252084",
@@ -7628,7 +7823,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7637,7 +7832,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260812105812844",
@@ -7650,7 +7848,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=6&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7659,7 +7857,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260813110342043",
@@ -7672,7 +7873,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7681,7 +7882,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260620141140253",
@@ -7694,7 +7898,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7703,7 +7907,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20260811050016160",
@@ -7716,7 +7923,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7725,7 +7932,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260813140213974",
@@ -7738,7 +7948,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7747,7 +7957,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20220120155914559",
@@ -7860,7 +8073,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=7&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7869,7 +8082,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260804130250874",
@@ -7882,7 +8098,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7891,7 +8107,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20210727173713298",
@@ -7929,7 +8148,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7938,7 +8157,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260724062758665",
@@ -7951,7 +8173,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7960,7 +8182,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260622175520832",
@@ -7973,7 +8198,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -7982,7 +8207,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260513112400003",
@@ -7995,7 +8223,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8004,7 +8232,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20260724081716504",
@@ -8017,7 +8248,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=8&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8026,7 +8257,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260722173109311",
@@ -8039,7 +8273,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8048,7 +8282,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260626094950843",
@@ -8086,7 +8323,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8095,7 +8332,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260722100242572",
@@ -8108,7 +8348,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8117,7 +8357,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260722103005198",
@@ -8130,7 +8373,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8139,7 +8382,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260722160304008",
@@ -8152,7 +8398,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8161,7 +8407,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20210610071504366",
@@ -8174,7 +8423,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8183,7 +8432,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260702180000817",
@@ -8196,7 +8448,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=9&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8205,7 +8457,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260720005209226",
@@ -8218,7 +8473,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8227,7 +8482,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260410092455720",
@@ -8240,7 +8498,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8249,7 +8507,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260420060546443",
@@ -8262,7 +8523,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8271,7 +8532,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20260408171047427",
@@ -8284,7 +8548,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8293,7 +8557,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260611110454608",
@@ -8306,7 +8573,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8315,7 +8582,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260626092205441",
@@ -8353,7 +8623,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8362,7 +8632,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260630173103456",
@@ -8375,7 +8648,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8384,7 +8657,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260415092245377",
@@ -8397,7 +8673,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8406,7 +8682,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260629054744459",
@@ -8419,7 +8698,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=10&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8428,7 +8707,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20151119150104087",
@@ -8466,7 +8748,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=11&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8475,7 +8757,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260408135215462",
@@ -8488,7 +8773,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=11&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8497,7 +8782,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260408103748523",
@@ -8510,7 +8798,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=11&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8519,7 +8807,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260708143246362",
@@ -8532,7 +8823,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=11&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8541,7 +8832,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260626083004492",
@@ -8579,7 +8873,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=11&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8588,7 +8882,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20210824145145689",
@@ -8601,7 +8898,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=11&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8610,7 +8907,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20151119150002997",
@@ -8648,7 +8948,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=11&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8657,7 +8957,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260628115022957",
@@ -8695,7 +8998,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=12&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8704,7 +9007,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260408151344132",
@@ -8717,7 +9023,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=12&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8726,7 +9032,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260626133610613",
@@ -8764,7 +9073,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=12&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8773,7 +9082,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260415155004095",
@@ -8786,7 +9098,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=12&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8795,7 +9107,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20130829161207933",
@@ -8833,7 +9148,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=12&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8842,7 +9157,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260410092635823",
@@ -8855,7 +9173,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=12&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8864,7 +9182,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260624154351813",
@@ -8877,7 +9198,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=12&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8886,7 +9207,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260408113512419",
@@ -8899,7 +9223,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=13&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8908,7 +9232,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260610230900224",
@@ -8921,7 +9248,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=13&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8930,7 +9257,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260408105702887",
@@ -8943,7 +9273,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=13&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8952,7 +9282,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260626113812351",
@@ -8990,7 +9323,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=13&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -8999,7 +9332,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260618161431021",
@@ -9012,7 +9348,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=13&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -9021,7 +9357,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260623155717524",
@@ -9034,7 +9373,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=13&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -9043,7 +9382,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260408134130047",
@@ -9056,7 +9398,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=13&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -9065,7 +9407,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260424151815096",
@@ -9078,7 +9423,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=13&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -9087,7 +9432,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260624103614000",
@@ -9100,7 +9448,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=13&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -9109,7 +9457,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260624090315096",
@@ -9122,7 +9473,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=14&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -9131,7 +9482,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260704171559424",
@@ -9144,7 +9498,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=14&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -9153,7 +9507,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260305120501432",
@@ -9191,7 +9548,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=14&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -9200,7 +9557,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260410092536780",
@@ -9213,7 +9573,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=14&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -9222,7 +9582,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260618161434026",
@@ -9235,7 +9598,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=14&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -9244,7 +9607,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Full article text does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20251125211247715",
@@ -9282,7 +9648,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=14&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -9291,7 +9657,10 @@
         "matchCount": 0,
         "walkbotMention": true,
         "reviewComplete": false
-      }
+      },
+      "reason": "The article body does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center. Walkbot/P&S product coverage alone does not satisfy the user’s inclusion rule.",
+      "sourceReview": "src/data/news-walkbot-source-fact-check.json",
+      "reviewBasis": "manual-full-article-body-review"
     },
     {
       "url": "https://v.daum.net/v/20260408173227478",
@@ -9304,7 +9673,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=14&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -9313,7 +9682,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260216060021975",
@@ -9326,7 +9698,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=14&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -9335,7 +9707,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260601163802948",
@@ -9373,7 +9748,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=15&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -9382,7 +9757,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260526143810400",
@@ -9395,7 +9773,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=15&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -9404,7 +9782,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260624194201392",
@@ -9442,7 +9823,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=15&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -9451,7 +9832,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260610164740533",
@@ -9464,7 +9848,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=15&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -9473,7 +9857,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260609100158489",
@@ -9486,7 +9873,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=15&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -9495,7 +9882,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20260610155434048",
@@ -9508,7 +9898,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=15&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -9517,7 +9907,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     },
     {
       "url": "https://v.daum.net/v/20251125114814224",
@@ -9555,7 +9948,7 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EC%9B%8C%ED%81%AC%EB%B4%87&p=15&sort=accuracy&cluster=n"
         }
       ],
-      "status": "unreviewed",
+      "status": "excluded",
       "sourceScreen": {
         "checkedOn": "2026-10-03",
         "status": "no-identity-signal",
@@ -9564,7 +9957,10 @@
         "matchCount": 0,
         "walkbotMention": false,
         "reviewComplete": false
-      }
+      },
+      "reason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "sourceReview": "src/data/news-daum-source-fact-check.json",
+      "reviewBasis": "manual-headline-topic-triage"
     }
   ],
   "additionalOriginalSourceScreen": {

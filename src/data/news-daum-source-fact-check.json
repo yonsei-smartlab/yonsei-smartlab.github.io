@@ -146,9 +146,1035 @@
       "decisionReason": "Full article text does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center; thematic or university keyword matches alone do not meet the inclusion rule.",
       "reviewBasis": "manual-full-article-body-review",
       "sourceBodySha256": "28c25468b5bd336cf695d88dc92bee63d83f5ca2ca9ae517156cb219c637413a"
+    },
+    {
+      "url": "https://v.daum.net/v/20220508070012530",
+      "finalUrl": "https://v.daum.net/v/20220508070012530",
+      "originalTitle": "[NEWS IN FOCUS] Smart speakers are friends, not toys, to some Koreans",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "English feature on smart speakers and elder care from SK Telecom, KT and Naver. Its Yonsei reference concerns the Barun ICT Research Center, not Professor You or GOODWELLNESS. Complete body read; neither required identity is named.",
+      "decisionReason": "Full article text does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center.",
+      "reviewBasis": "manual-full-article-body-review",
+      "goodwellness": false,
+      "sourceBodySha256": "ff6c02e277453a3a30a29d9e8e8a674c34ff13f43b3efc9608df561738b74dea"
+    },
+    {
+      "url": "https://v.daum.net/v/20170103095006835",
+      "finalUrl": "https://v.daum.net/v/20170103095006835",
+      "originalTitle": "총장 신년사로 본 대학들의 2017년 화두는?",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "University presidents’ 2017 New Year messages. The Yonsei speaker is President Kim Yong-hak; SMART refers to another university’s administration system. Complete body read; neither Professor You nor GOODWELLNESS is named.",
+      "decisionReason": "Full article text does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center.",
+      "reviewBasis": "manual-full-article-body-review",
+      "goodwellness": false,
+      "sourceBodySha256": "3daae904c69d9c7fd3e6657c30b8114109408bf5b255b9d1948b807d6faa8e49"
+    },
+    {
+      "url": "https://v.daum.net/v/20260929181203800",
+      "finalUrl": "https://v.daum.net/v/20260929181203800",
+      "originalTitle": "[위클리AI] '가성비 전쟁' 앤트로픽·오픈AI·스페이스XAI, 저비용·고성능 앞세웠다",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260921093957781",
+      "finalUrl": "https://v.daum.net/v/20260921093957781",
+      "originalTitle": "[드림포스 2026 - 샌프란시스코 현장②] AI포스가 함께하길",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260920060019598",
+      "finalUrl": "https://v.daum.net/v/20260920060019598",
+      "originalTitle": "[종합] 메타데이터 위에 ‘살아 있는 화면’…세일즈포스, 'AIforce'로 플랫폼 재편",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260923110852407",
+      "finalUrl": "https://v.daum.net/v/20260923110852407",
+      "originalTitle": "엔비디아·삼전닉스보다 더 뛴 CPU株…메타 '뮤즈'가 깨운 것은 [빈난새의 빈틈없이마켓]",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260922094128886",
+      "finalUrl": "https://v.daum.net/v/20260922094128886",
+      "originalTitle": "송편보다 맛있는 ‘쾌락 독서’… 마음의 살 찌워볼까[2026 추석특집]",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260919070056873",
+      "finalUrl": "https://v.daum.net/v/20260919070056873",
+      "originalTitle": "한글·V3·알툴즈 만든 1세대 SW기업들, AI로 ‘다음 30년’ 내다본다",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260911081407340",
+      "finalUrl": "https://v.daum.net/v/20260911081407340",
+      "originalTitle": "AI 도입 뒤 운영 병목 넘는 실행전략 공개…'NABS 2026' 9월 18일 개최",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260917150814897",
+      "finalUrl": "https://v.daum.net/v/20260917150814897",
+      "originalTitle": "36년 문서 기술에 AI 이식… 한컴, 글로벌 AX 플랫폼 도약",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260917090407358",
+      "finalUrl": "https://v.daum.net/v/20260917090407358",
+      "originalTitle": "기업 AI 성과 가르는 3대 기술…데이터 인프라·에이전트 자동화·신뢰 운영",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260914143136026",
+      "finalUrl": "https://v.daum.net/v/20260914143136026",
+      "originalTitle": "유베이스, ‘SWCC 2026’서 상담 AI에이전트 기술 선봬...미팅 요청 줄이어",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260806150403691",
+      "finalUrl": "https://v.daum.net/v/20260806150403691",
+      "originalTitle": "[Tech & Now] 클로 봇 , 방폐물 로봇 실증…샌디스크·플래티어 AI 신기술 공개",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260907102351358",
+      "finalUrl": "https://v.daum.net/v/20260907102351358",
+      "originalTitle": "마인드웨어웍스, 'SWCC 2026'에서 AI 상담·에이전트 플랫폼 선보인다",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260909173440078",
+      "finalUrl": "https://v.daum.net/v/20260909173440078",
+      "originalTitle": "코난테크 “AI가 일할 수 있도록 기업 업무 재설계해야”",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260903090207146",
+      "finalUrl": "https://v.daum.net/v/20260903090207146",
+      "originalTitle": "CS쉐어링, 9월 SWCC 2026 참가…“CS 비용 50%↓, 자동화 80%” 에이전틱 AICC 공개",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260909110646985",
+      "finalUrl": "https://v.daum.net/v/20260909110646985",
+      "originalTitle": "코난테크놀로지 “AI 쓰는 기업서 AI가 일하는 기업으로 전환”",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260909143604685",
+      "finalUrl": "https://v.daum.net/v/20260909143604685",
+      "originalTitle": "흥국생명, 임직원 421명에 AI 실무교육 진행",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260909144157029",
+      "finalUrl": "https://v.daum.net/v/20260909144157029",
+      "originalTitle": "[보험브리핑]삼성생명·교보생명·흥국생명",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260906181245054",
+      "finalUrl": "https://v.daum.net/v/20260906181245054",
+      "originalTitle": "민원은 빠르게, 업무는 알차게…서구 ‘AI 행정’ 뜬다",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260903170551425",
+      "finalUrl": "https://v.daum.net/v/20260903170551425",
+      "originalTitle": "CS쉐어링, SWCC 2026에서 '에이전틱 AICC' 공개",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260905092451311",
+      "finalUrl": "https://v.daum.net/v/20260905092451311",
+      "originalTitle": "노동 종말, 머스크 예언대로 안 된다",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260910101039040",
+      "finalUrl": "https://v.daum.net/v/20260910101039040",
+      "originalTitle": "AI가 비정형 업무까지 판단·실행… 디티나우, '업무 실행형 자동화' 공개",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260902163238265",
+      "finalUrl": "https://v.daum.net/v/20260902163238265",
+      "originalTitle": "크롤링 막았더니 반쪽짜리 된 챗GPT…'데이터 가치' 논의 불지펴",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260905093003361",
+      "finalUrl": "https://v.daum.net/v/20260905093003361",
+      "originalTitle": "[신간도서 출간] ‘기억의 맛’·‘차이나 시그널’·‘신경 끄기의 기술’ 에디션 外",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260904144349632",
+      "finalUrl": "https://v.daum.net/v/20260904144349632",
+      "originalTitle": "식당 대기줄부터 보조금 정산까지…서구 공무원들, AI로 업무 개선",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260903094910701",
+      "finalUrl": "https://v.daum.net/v/20260903094910701",
+      "originalTitle": "기업 AI ROI, 에이전트·데이터·추론 인프라에서 해법 찾는다…'NABS 2026' 개최",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260904084750624",
+      "finalUrl": "https://v.daum.net/v/20260904084750624",
+      "originalTitle": "어도비, 협업 툴 슬랙에 크리에이티브·생산성 앱 결합",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260828101409033",
+      "finalUrl": "https://v.daum.net/v/20260828101409033",
+      "originalTitle": "세일즈포스, 앤트로픽과 CRM·클로드 결합한 ‘클로드포스’ 발표",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260825161204381",
+      "finalUrl": "https://v.daum.net/v/20260825161204381",
+      "originalTitle": "[위클리AI] \"자동화부터 청소년 보호까지\" 스페이스XAI·오픈라우터·오픈AI, 영역 확장 나서",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260827080730761",
+      "finalUrl": "https://v.daum.net/v/20260827080730761",
+      "originalTitle": "세일즈포스, 'SW시장 위협' 앤트로픽과 동맹…SW 경쟁력 실적으로 증명",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260828112948235",
+      "finalUrl": "https://v.daum.net/v/20260828112948235",
+      "originalTitle": "클로드에 왜 ‘포스’를 붙였나…세일즈포스·앤스로픽, ‘클로드포스’ 공개",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260716144843374",
+      "finalUrl": "https://v.daum.net/v/20260716144843374",
+      "originalTitle": "[ISEC 2026 미리보기] 패스틀리 “AI 시대 ‘ 봇 의도 파악’ 새로운 보안 과제로 부상”",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260812080137938",
+      "finalUrl": "https://v.daum.net/v/20260812080137938",
+      "originalTitle": "시드 투자유치 1년 만에 ‘몸값 3배’로 자금 조달… 유로보틱스, 로봇 메가라운드 합류",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260812104505195",
+      "finalUrl": "https://v.daum.net/v/20260812104505195",
+      "originalTitle": "AI가 사람대신 회사 업무를…스페이스X, AI에이전트 그록봇 공개",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260811050011158",
+      "finalUrl": "https://v.daum.net/v/20260811050011158",
+      "originalTitle": "기은은 창구에서, 산은은 책상에서…활용법도 다르다 [국책은행 AI 전환]",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260727160215219",
+      "finalUrl": "https://v.daum.net/v/20260727160215219",
+      "originalTitle": "[ET단상] AI 에이전트 시대, 아이덴티티 거버넌스의 기준은 '최소 권한'이다",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260812110015970",
+      "finalUrl": "https://v.daum.net/v/20260812110015970",
+      "originalTitle": "\"메일 보내줘\" 자리 비워도 '척척'…머스크도 출격",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260812113252084",
+      "finalUrl": "https://v.daum.net/v/20260812113252084",
+      "originalTitle": "AI가 사람대신 회사 업무 한다…스페이스X, AI에이전트 그록봇 공개",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260818154251183",
+      "finalUrl": "https://v.daum.net/v/20260818154251183",
+      "originalTitle": "\"포트홀 찾고, 공원 순찰하고, 행정 안내까지\"... 이재준 수원시장, AI를 시민 일상 속으로",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260812105812844",
+      "finalUrl": "https://v.daum.net/v/20260812105812844",
+      "originalTitle": "사람 대신 일하는 AI 에이전트...스페이스XAI '그록봇' 공개",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260813110342043",
+      "finalUrl": "https://v.daum.net/v/20260813110342043",
+      "originalTitle": "미래에셋벤처투자, 올해 주요 정책기관들로부터 출자 아 펀드 결성규모 9000억 상회 예상",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260811050016160",
+      "finalUrl": "https://v.daum.net/v/20260811050016160",
+      "originalTitle": "수은은 첫걸음, 산은·기은은 실전 활용⋯국책은행 AI 전환 속도차 [국책은행 AI 전환]",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260813140213974",
+      "finalUrl": "https://v.daum.net/v/20260813140213974",
+      "originalTitle": "미래에셋벤처투자, 올해 정책기관 출자 펀드 '9000억원' 돌파 전망",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260804130250874",
+      "finalUrl": "https://v.daum.net/v/20260804130250874",
+      "originalTitle": "\"효율·성과 두마리 토끼\"…AI전환 나선 제약바이오",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260814121228191",
+      "finalUrl": "https://v.daum.net/v/20260814121228191",
+      "originalTitle": "[2026 DDoS 대응 솔루션 리포트] AI 시대 DDoS 공격의 진화... 어떻게 대응할까",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260724062758665",
+      "finalUrl": "https://v.daum.net/v/20260724062758665",
+      "originalTitle": "댄 맥나마라 수석부사장 \"MI350P, 경쟁사 대비 달러당 토큰 수율 4배 이상\" [AAI 2026]",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260622175520832",
+      "finalUrl": "https://v.daum.net/v/20260622175520832",
+      "originalTitle": "[기획] 中, 휴머노이드 공장 투입 ‘생중계’ 한다… 韓은 노조에 발목",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260605083701727",
+      "finalUrl": "https://v.daum.net/v/20260605083701727",
+      "originalTitle": "구글 'AI 학습용 봇 접근' 요구… 도구 줄테니 데이터 문 열라?",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260724081716504",
+      "finalUrl": "https://v.daum.net/v/20260724081716504",
+      "originalTitle": "[단독] 해군, 올해 부사관 충원율 73%…함정에 파도 견디는 ‘AI 휴머노이드 로봇’ 태운다",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260722173109311",
+      "finalUrl": "https://v.daum.net/v/20260722173109311",
+      "originalTitle": "농구공 맞은 OLED·눈 맞추는 로봇… 삼성디스플레이·LGD, ‘같은 시장 다른 접근법’",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260712143929158",
+      "finalUrl": "https://v.daum.net/v/20260712143929158",
+      "originalTitle": "코딩서 사무용으로 확장되는 AI 에이전트… 앤트로픽·오픈AI·스페이스X 격돌",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260722100242572",
+      "finalUrl": "https://v.daum.net/v/20260722100242572",
+      "originalTitle": "\"로봇 얼굴에 Hello\"…삼성D·LGD, K-디스플레이서 '휴머노이드용 디스플레이' 공개",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20210610071504366",
+      "finalUrl": "https://v.daum.net/v/20210610071504366",
+      "originalTitle": "'카카오 워크 '서 봇 으로 SAP 솔루션 쓴다",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260722103005198",
+      "finalUrl": "https://v.daum.net/v/20260722103005198",
+      "originalTitle": "삼성D·LGD, K-디스플레이 참가…AI·모빌리티 OLED 총출동",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260722160304008",
+      "finalUrl": "https://v.daum.net/v/20260722160304008",
+      "originalTitle": "[주간스타트업동향] 모티프테크놀로지스, 독파모 AI 언어모델 '모티프 3' 글로벌 오픈소스 3위권 기록 外",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260720005209226",
+      "finalUrl": "https://v.daum.net/v/20260720005209226",
+      "originalTitle": "입구엔 3m 변신 로봇, 옆엔 중국산 AI칩 수천장 묶은 ‘수퍼포드’",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260702180000817",
+      "finalUrl": "https://v.daum.net/v/20260702180000817",
+      "originalTitle": "[ZD SW 투데이] 오케스트로, 테크 컨퍼런스 'OPUS 2026' 개최 外",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260410092455720",
+      "finalUrl": "https://v.daum.net/v/20260410092455720",
+      "originalTitle": "[세일즈포스x슬랙] 슬랙 AI 에이전트 '슬랙 봇 ' 얹었다…업무 운영체제 전환 본격화",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260408171047427",
+      "finalUrl": "https://v.daum.net/v/20260408171047427",
+      "originalTitle": "세일즈포스, 맞춤형 AI ‘슬랙 봇 ’ 국내 공개",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260611110454608",
+      "finalUrl": "https://v.daum.net/v/20260611110454608",
+      "originalTitle": "[AI는 지금] AI로 업무 3분의 1 줄여도 생산성 바뀌지 않는 이유는",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260408162941307",
+      "finalUrl": "https://v.daum.net/v/20260408162941307",
+      "originalTitle": "AI 도입 넘어 ‘에이전트 조직’으로… 세일즈포스, AI 에이전트 ‘슬랙 봇 ’ 공개",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260630173103456",
+      "finalUrl": "https://v.daum.net/v/20260630173103456",
+      "originalTitle": "화상회의 넘어 에이전트로… 줌, AI 플랫폼 기업으로 체질 개선",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260629054744459",
+      "finalUrl": "https://v.daum.net/v/20260629054744459",
+      "originalTitle": "[EDITOR’S LETTER] 중국 휴머노이드, 전기차 성공 공식 재현할까",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260415092245377",
+      "finalUrl": "https://v.daum.net/v/20260415092245377",
+      "originalTitle": "회의가 곧 업무로 이어진다…줌, 클로드 연동으로 ‘AI 워크 플로우’ 확장",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260408135215462",
+      "finalUrl": "https://v.daum.net/v/20260408135215462",
+      "originalTitle": "당근·배민이 점찍은 AI 동료 '슬랙 봇 '…\"한 화면에서 업무 끝낸다\"",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260408151752356",
+      "finalUrl": "https://v.daum.net/v/20260408151752356",
+      "originalTitle": "“주당 최대 20시간 절감”⋯세일즈포스, AI 동료 ‘슬랙 봇 ’ 국내 공개",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260408103748523",
+      "finalUrl": "https://v.daum.net/v/20260408103748523",
+      "originalTitle": "세일즈포스, AI 에이전트 ‘슬랙 봇 ’ 공개…“韓 기업 AX 가속화 지원”",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260708143246362",
+      "finalUrl": "https://v.daum.net/v/20260708143246362",
+      "originalTitle": "[기고] '작업 보조'서 '목표 공유하는 동료'로…에이전틱 AI 시대가 온다",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260708181500758",
+      "finalUrl": "https://v.daum.net/v/20260708181500758",
+      "originalTitle": "[주간스타트업동향] 퓨리오사AI, 에퀴닉스와 유럽 AI 인프라 시장 공략 나선다 外",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20210824145145689",
+      "finalUrl": "https://v.daum.net/v/20210824145145689",
+      "originalTitle": "아이에스티엔, 카카오 워크 에 SAP 봇 3개 추가",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260710060003673",
+      "finalUrl": "https://v.daum.net/v/20260710060003673",
+      "originalTitle": "100만 토큰이 ‘기본’이 된 한 주 [정원훈의 AI 트렌드]",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260408150526704",
+      "finalUrl": "https://v.daum.net/v/20260408150526704",
+      "originalTitle": "세일즈포스, AI 비서 ‘슬랙 봇 ’ 국내 첫 공개…“고객사 AX 해답”",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260408151344132",
+      "finalUrl": "https://v.daum.net/v/20260408151344132",
+      "originalTitle": "[현장] 세일즈포스 \"슬랙 봇 , AI·데이터·업무 대통합\"",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260408154502793",
+      "finalUrl": "https://v.daum.net/v/20260408154502793",
+      "originalTitle": "세일즈포스 “AI가 일하는 기업 온다”… 슬랙 봇 앞세워 韓 ‘기업용 OS’ 시장 공략",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260415155004095",
+      "finalUrl": "https://v.daum.net/v/20260415155004095",
+      "originalTitle": "줌-클로드 통합, 회의 데이터 기반 AI 워크 플로우 지원",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260408172125950",
+      "finalUrl": "https://v.daum.net/v/20260408172125950",
+      "originalTitle": "소통도구에서 스마트 협업툴로 진화… 세일즈포스, ‘맞춤형 AI’ 슬랙 봇 첫 공개",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260410092635823",
+      "finalUrl": "https://v.daum.net/v/20260410092635823",
+      "originalTitle": "[세일즈포스x슬랙] 슬랙 봇 , 화면 전환 없이 신제품 출시 프로젝트 끝낸다",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260624154351813",
+      "finalUrl": "https://v.daum.net/v/20260624154351813",
+      "originalTitle": "앤스로픽, 슬랙서 멘션으로 협업하는 '클로드 태그' 출시",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260408113512419",
+      "finalUrl": "https://v.daum.net/v/20260408113512419",
+      "originalTitle": "세일즈포스, AI 에이전트 ‘슬랙 봇 ’ 공개",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260610230900224",
+      "finalUrl": "https://v.daum.net/v/20260610230900224",
+      "originalTitle": "토큰 맥스 아닌 AI 에이전트의 실전 가치 알린 세일즈포스",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260408105702887",
+      "finalUrl": "https://v.daum.net/v/20260408105702887",
+      "originalTitle": "세일즈포스, 슬랙 봇 국내 첫 공개…\"인간·AI 공존 슈퍼 에이전트\"",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260618161431021",
+      "finalUrl": "https://v.daum.net/v/20260618161431021",
+      "originalTitle": "[현장] KT \"시나리오 기반 챗봇+AI 에이전트, 고객 응대 더 정확해진다\"",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260708095622795",
+      "finalUrl": "https://v.daum.net/v/20260708095622795",
+      "originalTitle": "[Tech & Now] 퓨리오사AI, 유럽 AI 데이터센터에 '레니게이드' 서버 구축 등",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260623155717524",
+      "finalUrl": "https://v.daum.net/v/20260623155717524",
+      "originalTitle": "\"앱 전송 넘어 AI 시대 보안까지\"…F5, 통합 플랫폼 공개",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260424151815096",
+      "finalUrl": "https://v.daum.net/v/20260424151815096",
+      "originalTitle": "“내 곁의 든든한 동료” 슬랙 봇 , AI 에이전트 넘어 ‘팀메이트’로 진화",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260624103614000",
+      "finalUrl": "https://v.daum.net/v/20260624103614000",
+      "originalTitle": "퀄컴, 아태지역 스타트업 발굴 프로그램 QAIPI 2026 선정 기업 발표",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260408134130047",
+      "finalUrl": "https://v.daum.net/v/20260408134130047",
+      "originalTitle": "세일즈포스, 맞춤형 AI 에이전트 '슬랙 봇 ' 국내 첫 공개",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260624090315096",
+      "finalUrl": "https://v.daum.net/v/20260624090315096",
+      "originalTitle": "[현장] 쿠나 날라판 F5 부사장 “F5는 트래픽이 GPU에 닿기 전 전송과 보안을 처리한다”",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260704171559424",
+      "finalUrl": "https://v.daum.net/v/20260704171559424",
+      "originalTitle": "[2026 클라우드 보안 리포트] 앞서가는 클라우드 전환, 뒤처진 보안 생태계... 이대로 안전한가",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260408173128441",
+      "finalUrl": "https://v.daum.net/v/20260408173128441",
+      "originalTitle": "비즈니스 맥락 이해한 ‘슬랙 봇 ’ 데모 세션 시연하는 주다혜 솔루션 엔지니어",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260410092536780",
+      "finalUrl": "https://v.daum.net/v/20260410092536780",
+      "originalTitle": "[세일즈포스x슬랙] 전기차 리비안 빙그레 웃었다… 빅테크 박스 CEO 간증 터진 이유는?",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260618161434026",
+      "finalUrl": "https://v.daum.net/v/20260618161434026",
+      "originalTitle": "[Tech & Now] 엔젤로보틱스, 범부처 '브레인 투 로봇' 프로젝트 착수 등",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Technology roundup led by Angel Robotics’ Brain to Robot project, naming Kong Kyoung-chul, Jang Kyung-in and Cho Nam-min. Remaining items concern enterprise software, energy, manufacturing and XR training. Complete body read; neither Professor You nor GOODWELLNESS is named.",
+      "decisionReason": "Full article text does not explicitly mention Yonsei Professor You or Yonsei GOODWELLNESS Center.",
+      "reviewBasis": "manual-full-article-body-review",
+      "goodwellness": false,
+      "sourceBodySha256": "41408f6650e89d39bef9ffd35ce43b437fa030f274948932ddc7fc4d0c031e17"
+    },
+    {
+      "url": "https://v.daum.net/v/20260408173227478",
+      "finalUrl": "https://v.daum.net/v/20260408173227478",
+      "originalTitle": "슬랙 봇 의 실질적인 기능 체험할 수 있는 ‘익스피리언스 존’",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260530183139168",
+      "finalUrl": "https://v.daum.net/v/20260530183139168",
+      "originalTitle": "[통신리뷰] LG유플러스, 삼성전자와 통신·센싱 융합 기술 연구 협력(5월4주차)",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260216060021975",
+      "finalUrl": "https://v.daum.net/v/20260216060021975",
+      "originalTitle": "클로드 코 워크 ·오픈 클로… AI와 함께 일하는 두 가지 방식 [윤석빈의 Thinking]",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260526143810400",
+      "finalUrl": "https://v.daum.net/v/20260526143810400",
+      "originalTitle": "[Tech & Now] 삼성전자 DX부문, 외부 생성형 AI 도입…'노태문 표 AX 비전' 실행 등",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260528184744934",
+      "finalUrl": "https://v.daum.net/v/20260528184744934",
+      "originalTitle": "기업 AX 성과 내려면… “데이터 정제·업무 흐름 반영부터” [월간AX 5월호]",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260610164740533",
+      "finalUrl": "https://v.daum.net/v/20260610164740533",
+      "originalTitle": "'사스포칼립스 일축' 세일즈포스 \"인간+AI에이전트 원팀 생태계 연다\"(종합)",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260609100158489",
+      "finalUrl": "https://v.daum.net/v/20260609100158489",
+      "originalTitle": "타임교육, 사내 AI 업무 플랫폼 ‘Time AX Hub’ 운영",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260610155434048",
+      "finalUrl": "https://v.daum.net/v/20260610155434048",
+      "originalTitle": "세일즈포스 “모든 기업이 ‘에이전틱 엔터프라이즈’ 될 때”",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
+    },
+    {
+      "url": "https://v.daum.net/v/20260130085036947",
+      "finalUrl": "https://v.daum.net/v/20260130085036947",
+      "originalTitle": "\"이게 진짜 AI 비서다\"...메신저로 컴퓨터 제어 AI 비서 '클로드 봇 ' 화제",
+      "checkedOn": "2026-10-03",
+      "status": "excluded",
+      "evidence": "Original publisher headline manually reviewed: unrelated enterprise software, AI assistants, information security, finance, books, general technology or other institutions. This is a topic exclusion, not a claim that the complete article has been manually fact-checked.",
+      "decisionReason": "Search-result topic is outside the requested lab, Professor and center news scope. No article has been approved from this headline screening.",
+      "reviewBasis": "manual-headline-topic-triage"
     }
   ],
   "statusCounts": {
-    "excluded": 12
+    "excluded": 114
   }
 }
