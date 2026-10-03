@@ -1,4 +1,4 @@
-// Dedicated Walkbot section requested by the user on October 3, 2026.
+// Historical source reference; the dedicated public section was removed on October 3, 2026.
 // Company and product descriptions use the official company/product pages.
 export const walkbot = {
   title: 'Walkbot robotic gait training',

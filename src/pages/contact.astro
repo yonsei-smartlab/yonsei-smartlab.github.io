@@ -18,8 +18,8 @@ import { site } from '../data/site';
   </dl>
   <BusInformation slot="transport" information={officeBusInformation} />
   <section class="section section-divided"><div class="container-page contact-opportunities">
-    <section><h2>Join the lab</h2><p class="recruitment-status placeholder-text">{site.contact.recruitmentStatus}</p><p class="placeholder-text">{site.contact.opportunities}</p></section>
-    <section><h2>How to apply</h2><p class="placeholder-text">{site.contact.applicationInstructions}</p></section>
-    <section><h2>Collaborations</h2><p class="placeholder-text">{site.contact.collaboration}</p></section>
+    <section><h2>Join the lab</h2><p>{site.contact.opportunities}</p></section>
+    <section><h2>How to apply</h2><p>Email <a href={`mailto:${site.email}`}>{site.email}</a> with a brief introduction, your CV, and a description of your research interests. {site.contact.applicationInstructions}</p></section>
+    <section><h2>Collaborations</h2><p>{site.contact.collaboration}</p></section>
   </div></section>
 </ContactPage>

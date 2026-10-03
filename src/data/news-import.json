@@ -599,22 +599,6 @@
       "centerRelevance": "Reviewed source specifically names Yonsei GOODWELLNESS Center or its fitness services; retained in both public archives."
     },
     {
-      "file": "src/content/news/2024-07-09-walkbot-business-plans.md",
-      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=24508",
-      "date": "2024-07-09",
-      "identityEvidence": "Original English report dated 2024.07.09 16:55 identifies Walkbot and company. Official company history confirms later name change to P&S Robotics. General product news within user-requested scope; no Professor or center involvement asserted.",
-      "status": "published",
-      "goodwellness": false
-    },
-    {
-      "file": "src/content/news/2026-05-26-walkbot-mexico.md",
-      "url": "https://www.newsprime.co.kr/news/article.html?no=734566",
-      "date": "2026-05-26",
-      "identityEvidence": "Original publisher HTML reviewed with normal TLS validation, dated 2026.05.26 09:50:45; matched publisher-supplied Nate copy. Walkbot_G/P&S Robotics identity confirmed. General product news, not SMART Lab or center involvement.",
-      "status": "published",
-      "goodwellness": false
-    },
-    {
       "file": "src/content/news/2008-01-28-hallym-sports-seminar.md",
       "url": "https://hallym.hallym.or.kr/hallymuniv_sub.asp?left_menu=left_news&news_no=1504&screen=ptm201",
       "date": "2008-01-28",
@@ -627,159 +611,6 @@
       "url": "https://www.cbsnews.com/news/video-games-aid-stroke-victims/",
       "date": "2005-05-13",
       "identityEvidence": "Identity matches Yonsei faculty biography’s Hampton appointment and 2005 Stroke paper PMID 15890990, also used for existing Korean reports of this study. Original date May 13, 2005.",
-      "status": "published",
-      "goodwellness": false
-    },
-    {
-      "key": "2013-01-03-walkbot-new-atlas",
-      "file": "src/content/news/2013-01-03-walkbot-new-atlas.md",
-      "url": "https://newatlas.com/walkbot-exoskeleton-gait-rehab-stroke/25627",
-      "date": "2013-01-03",
-      "identityEvidence": "Original English report identifies P&S Mechanics and Walkbot; date January 3, 2013. Product coverage, no SMART Lab or center role asserted.",
-      "status": "published",
-      "goodwellness": false
-    },
-    {
-      "key": "2025-07-03-pns-robotics-name",
-      "file": "src/content/news/2025-07-03-pns-robotics-name.md",
-      "url": "https://www.mt.co.kr/stock/2025/07/03/2025070308253752645",
-      "date": "2025-07-03",
-      "identityEvidence": "Original publisher headline, date and body reviewed; company and Walkbot explicitly named. Distinct from May shareholder proposal.",
-      "status": "published",
-      "goodwellness": false
-    },
-    {
-      "key": "2025-07-31-walkbot-sakra",
-      "file": "src/content/news/2025-07-31-walkbot-sakra.md",
-      "url": "https://www.dailian.co.kr/news/view/1530114",
-      "date": "2025-07-31",
-      "identityEvidence": "Original Dailian report and Daum syndication reviewed. Original July 31 date retained; portal alias is not a second report.",
-      "status": "published",
-      "goodwellness": false
-    },
-    {
-      "key": "2025-12-18-walkbot-nexon",
-      "file": "src/content/news/2025-12-18-walkbot-nexon.md",
-      "url": "https://www.dailymedi.com/dmedi/news/news_view.php?ca_id=2206&wr_id=932128",
-      "date": "2025-12-18",
-      "identityEvidence": "Original article date December 18, 2025; December 17 in body is the announcement date. Company press index confirms source.",
-      "status": "published",
-      "goodwellness": false
-    },
-    {
-      "key": "2026-01-13-walkbot-hongseong",
-      "file": "src/content/news/2026-01-13-walkbot-hongseong.md",
-      "url": "https://www.newsis.com/view/NISX20260113_0003475015",
-      "date": "2026-01-13",
-      "identityEvidence": "Original Newsis article body and registration date reviewed; explicit Walkbot identification. No lab or center participation claimed.",
-      "status": "published",
-      "goodwellness": false
-    },
-    {
-      "key": "2026-06-18-walkbot-market-analysis",
-      "file": "src/content/news/2026-06-18-walkbot-market-analysis.md",
-      "url": "https://www.newsprime.co.kr/news/article/?no=737135",
-      "date": "2026-06-18",
-      "identityEvidence": "Original publisher date June 18, 2026 and body reviewed. Valuation language preserved as attributed headline; summary does not endorse investment or medical claims.",
-      "status": "published",
-      "goodwellness": false
-    },
-    {
-      "key": "2026-07-30-walkbot-teleton-expansion",
-      "file": "src/content/news/2026-07-30-walkbot-teleton-expansion.md",
-      "url": "https://www.mt.co.kr/stock/2026/07/30/2026073011430668543",
-      "date": "2026-07-30",
-      "identityEvidence": "Original publisher date July 30, 2026 and full body reviewed. Separate supply agreement from May first installation; not merged merely because customer matches.",
-      "status": "published",
-      "goodwellness": false
-    },
-    {
-      "key": "2026-08-06-walkbot-insurance",
-      "file": "src/content/news/2026-08-06-walkbot-insurance.md",
-      "url": "https://www.newsprime.co.kr/news/article/?no=742928",
-      "date": "2026-08-06",
-      "identityEvidence": "Original report August 6, 2026 and body reviewed. Summary attributes the coverage announcement; no individual treatment or insurance advice.",
-      "status": "published",
-      "goodwellness": false
-    },
-    {
-      "key": "2026-01-14-walkbot-hongseong-bridge",
-      "file": "src/content/news/2026-01-14-walkbot-hongseong-bridge.md",
-      "url": "https://www.viva100.com/article/20260114500055",
-      "date": "2026-01-14",
-      "identityEvidence": "Original publisher January 14, 2026 and complete article body reviewed. Same installation, hospital director and operational details as January 13 Newsis report; explicit event group.",
-      "status": "published",
-      "goodwellness": false
-    },
-    {
-      "key": "2026-01-14-walkbot-hongseong-ccdaily",
-      "file": "src/content/news/2026-01-14-walkbot-hongseong-ccdaily.md",
-      "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2391611",
-      "date": "2026-01-14",
-      "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
-      "status": "published",
-      "goodwellness": false
-    },
-    {
-      "key": "2026-01-14-walkbot-hongseong-ccdn",
-      "file": "src/content/news/2026-01-14-walkbot-hongseong-ccdn.md",
-      "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1058507",
-      "date": "2026-01-14",
-      "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
-      "status": "published",
-      "goodwellness": false
-    },
-    {
-      "key": "2026-01-14-walkbot-hongseong-jbnews",
-      "file": "src/content/news/2026-01-14-walkbot-hongseong-jbnews.md",
-      "url": "https://www.jbnews.com/news/articleView.html?idxno=1496990",
-      "date": "2026-01-14",
-      "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
-      "status": "published",
-      "goodwellness": false
-    },
-    {
-      "key": "2026-01-13-walkbot-hongseong-gukje",
-      "file": "src/content/news/2026-01-13-walkbot-hongseong-gukje.md",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3479648",
-      "date": "2026-01-13",
-      "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
-      "status": "published",
-      "goodwellness": false
-    },
-    {
-      "key": "2025-11-24-walkbot-nexon-digitaltoday",
-      "file": "src/content/news/2025-11-24-walkbot-nexon-digitaltoday.md",
-      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=607241",
-      "date": "2025-11-24",
-      "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
-      "status": "published",
-      "goodwellness": false
-    },
-    {
-      "key": "2025-11-24-walkbot-nexon-globale",
-      "file": "src/content/news/2025-11-24-walkbot-nexon-globale.md",
-      "url": "https://www.globale.co.kr/news/articleView.html?idxno=35451",
-      "date": "2025-11-24",
-      "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
-      "status": "published",
-      "goodwellness": false
-    },
-    {
-      "key": "2025-12-12-pns-upper-limb-etoday",
-      "file": "src/content/news/2025-12-12-pns-upper-limb-etoday.md",
-      "url": "https://www.etoday.co.kr/news/view/2535083",
-      "date": "2025-12-12",
-      "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
-      "status": "published",
-      "goodwellness": false
-    },
-    {
-      "key": "2015-03-10-walkbot-vr-fnnews",
-      "file": "src/content/news/2015-03-10-walkbot-vr-fnnews.md",
-      "url": "https://www.fnnews.com/news/201503100941205451",
-      "date": "2015-03-10",
-      "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
       "status": "published",
       "goodwellness": false
     },
@@ -6110,7 +5941,7 @@
       "status": "excluded"
     }
   ],
-  "publishedCount": 91,
+  "publishedCount": 72,
   "searchEvidence": "artifacts/news-discovery.json (ignored); Naver results additionally checked through browser scrolling",
   "reviewNotes": [
     "Hankyoreh original publication date is February 9, 2009; Google RSS showed a later migration date.",
@@ -6508,6 +6339,241 @@
       "centerRelevance": "Center-related source retained only in the repository archive; excluded from both rendered news pages.",
       "excludedOn": "2026-10-03",
       "reason": "User requested editorial exclusion from both public news archives."
+    },
+    {
+      "key": "2013-01-03-walkbot-new-atlas",
+      "file": "src/data/news-source-archive/2013-01-03-walkbot-new-atlas.md",
+      "url": "https://newatlas.com/walkbot-exoskeleton-gait-rehab-stroke/25627",
+      "date": "2013-01-03",
+      "identityEvidence": "Original English report identifies P&S Mechanics and Walkbot; date January 3, 2013. Product coverage, no SMART Lab or center role asserted.",
+      "status": "editorially-excluded",
+      "goodwellness": false,
+      "excludedOn": "2026-10-03",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
+    },
+    {
+      "key": "2015-03-10-walkbot-vr-fnnews",
+      "file": "src/data/news-source-archive/2015-03-10-walkbot-vr-fnnews.md",
+      "url": "https://www.fnnews.com/news/201503100941205451",
+      "date": "2015-03-10",
+      "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
+      "status": "editorially-excluded",
+      "goodwellness": false,
+      "excludedOn": "2026-10-03",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
+    },
+    {
+      "file": "src/data/news-source-archive/2024-07-09-walkbot-business-plans.md",
+      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=24508",
+      "date": "2024-07-09",
+      "identityEvidence": "Original English report dated 2024.07.09 16:55 identifies Walkbot and company. Official company history confirms later name change to P&S Robotics. General product news within user-requested scope; no Professor or center involvement asserted.",
+      "status": "editorially-excluded",
+      "goodwellness": false,
+      "excludedOn": "2026-10-03",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
+    },
+    {
+      "key": "2025-07-03-pns-robotics-name",
+      "file": "src/data/news-source-archive/2025-07-03-pns-robotics-name.md",
+      "url": "https://www.mt.co.kr/stock/2025/07/03/2025070308253752645",
+      "date": "2025-07-03",
+      "identityEvidence": "Original publisher headline, date and body reviewed; company and Walkbot explicitly named. Distinct from May shareholder proposal.",
+      "status": "editorially-excluded",
+      "goodwellness": false,
+      "excludedOn": "2026-10-03",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
+    },
+    {
+      "key": "2025-07-31-walkbot-sakra",
+      "file": "src/data/news-source-archive/2025-07-31-walkbot-sakra.md",
+      "url": "https://www.dailian.co.kr/news/view/1530114",
+      "date": "2025-07-31",
+      "identityEvidence": "Original Dailian report and Daum syndication reviewed. Original July 31 date retained; portal alias is not a second report.",
+      "status": "editorially-excluded",
+      "goodwellness": false,
+      "excludedOn": "2026-10-03",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
+    },
+    {
+      "key": "2025-11-24-walkbot-nexon-digitaltoday",
+      "file": "src/data/news-source-archive/2025-11-24-walkbot-nexon-digitaltoday.md",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=607241",
+      "date": "2025-11-24",
+      "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
+      "status": "editorially-excluded",
+      "goodwellness": false,
+      "excludedOn": "2026-10-03",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
+    },
+    {
+      "key": "2025-11-24-walkbot-nexon-globale",
+      "file": "src/data/news-source-archive/2025-11-24-walkbot-nexon-globale.md",
+      "url": "https://www.globale.co.kr/news/articleView.html?idxno=35451",
+      "date": "2025-11-24",
+      "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
+      "status": "editorially-excluded",
+      "goodwellness": false,
+      "excludedOn": "2026-10-03",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
+    },
+    {
+      "key": "2025-12-12-pns-upper-limb-etoday",
+      "file": "src/data/news-source-archive/2025-12-12-pns-upper-limb-etoday.md",
+      "url": "https://www.etoday.co.kr/news/view/2535083",
+      "date": "2025-12-12",
+      "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
+      "status": "editorially-excluded",
+      "goodwellness": false,
+      "excludedOn": "2026-10-03",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
+    },
+    {
+      "key": "2025-12-18-walkbot-nexon",
+      "file": "src/data/news-source-archive/2025-12-18-walkbot-nexon.md",
+      "url": "https://www.dailymedi.com/dmedi/news/news_view.php?ca_id=2206&wr_id=932128",
+      "date": "2025-12-18",
+      "identityEvidence": "Original article date December 18, 2025; December 17 in body is the announcement date. Company press index confirms source.",
+      "status": "editorially-excluded",
+      "goodwellness": false,
+      "excludedOn": "2026-10-03",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
+    },
+    {
+      "key": "2026-01-13-walkbot-hongseong-gukje",
+      "file": "src/data/news-source-archive/2026-01-13-walkbot-hongseong-gukje.md",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3479648",
+      "date": "2026-01-13",
+      "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
+      "status": "editorially-excluded",
+      "goodwellness": false,
+      "excludedOn": "2026-10-03",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
+    },
+    {
+      "key": "2026-01-13-walkbot-hongseong",
+      "file": "src/data/news-source-archive/2026-01-13-walkbot-hongseong.md",
+      "url": "https://www.newsis.com/view/NISX20260113_0003475015",
+      "date": "2026-01-13",
+      "identityEvidence": "Original Newsis article body and registration date reviewed; explicit Walkbot identification. No lab or center participation claimed.",
+      "status": "editorially-excluded",
+      "goodwellness": false,
+      "excludedOn": "2026-10-03",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
+    },
+    {
+      "key": "2026-01-14-walkbot-hongseong-bridge",
+      "file": "src/data/news-source-archive/2026-01-14-walkbot-hongseong-bridge.md",
+      "url": "https://www.viva100.com/article/20260114500055",
+      "date": "2026-01-14",
+      "identityEvidence": "Original publisher January 14, 2026 and complete article body reviewed. Same installation, hospital director and operational details as January 13 Newsis report; explicit event group.",
+      "status": "editorially-excluded",
+      "goodwellness": false,
+      "excludedOn": "2026-10-03",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
+    },
+    {
+      "key": "2026-01-14-walkbot-hongseong-ccdaily",
+      "file": "src/data/news-source-archive/2026-01-14-walkbot-hongseong-ccdaily.md",
+      "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2391611",
+      "date": "2026-01-14",
+      "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
+      "status": "editorially-excluded",
+      "goodwellness": false,
+      "excludedOn": "2026-10-03",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
+    },
+    {
+      "key": "2026-01-14-walkbot-hongseong-ccdn",
+      "file": "src/data/news-source-archive/2026-01-14-walkbot-hongseong-ccdn.md",
+      "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1058507",
+      "date": "2026-01-14",
+      "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
+      "status": "editorially-excluded",
+      "goodwellness": false,
+      "excludedOn": "2026-10-03",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
+    },
+    {
+      "key": "2026-01-14-walkbot-hongseong-jbnews",
+      "file": "src/data/news-source-archive/2026-01-14-walkbot-hongseong-jbnews.md",
+      "url": "https://www.jbnews.com/news/articleView.html?idxno=1496990",
+      "date": "2026-01-14",
+      "identityEvidence": "Publisher headline, publication date and article body reviewed. Explicit Walkbot or P&S product coverage; no Professor, SMART Lab or GOODWELLNESS participation asserted.",
+      "status": "editorially-excluded",
+      "goodwellness": false,
+      "excludedOn": "2026-10-03",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
+    },
+    {
+      "file": "src/data/news-source-archive/2026-05-26-walkbot-mexico.md",
+      "url": "https://www.newsprime.co.kr/news/article.html?no=734566",
+      "date": "2026-05-26",
+      "identityEvidence": "Original publisher HTML reviewed with normal TLS validation, dated 2026.05.26 09:50:45; matched publisher-supplied Nate copy. Walkbot_G/P&S Robotics identity confirmed. General product news, not SMART Lab or center involvement.",
+      "status": "editorially-excluded",
+      "goodwellness": false,
+      "excludedOn": "2026-10-03",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
+    },
+    {
+      "key": "2026-06-18-walkbot-market-analysis",
+      "file": "src/data/news-source-archive/2026-06-18-walkbot-market-analysis.md",
+      "url": "https://www.newsprime.co.kr/news/article/?no=737135",
+      "date": "2026-06-18",
+      "identityEvidence": "Original publisher date June 18, 2026 and body reviewed. Valuation language preserved as attributed headline; summary does not endorse investment or medical claims.",
+      "status": "editorially-excluded",
+      "goodwellness": false,
+      "excludedOn": "2026-10-03",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
+    },
+    {
+      "key": "2026-07-30-walkbot-teleton-expansion",
+      "file": "src/data/news-source-archive/2026-07-30-walkbot-teleton-expansion.md",
+      "url": "https://www.mt.co.kr/stock/2026/07/30/2026073011430668543",
+      "date": "2026-07-30",
+      "identityEvidence": "Original publisher date July 30, 2026 and full body reviewed. Separate supply agreement from May first installation; not merged merely because customer matches.",
+      "status": "editorially-excluded",
+      "goodwellness": false,
+      "excludedOn": "2026-10-03",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
+    },
+    {
+      "key": "2026-08-06-walkbot-insurance",
+      "file": "src/data/news-source-archive/2026-08-06-walkbot-insurance.md",
+      "url": "https://www.newsprime.co.kr/news/article/?no=742928",
+      "date": "2026-08-06",
+      "identityEvidence": "Original report August 6, 2026 and body reviewed. Summary attributes the coverage announcement; no individual treatment or insurance advice.",
+      "status": "editorially-excluded",
+      "goodwellness": false,
+      "excludedOn": "2026-10-03",
+      "reason": "User requires Professor You to be named in the article itself; reviewed Walkbot/P&S company or product report does not name him."
     }
-  ]
+  ],
+  "roboticsEditorialPolicy": {
+    "updatedOn": "2026-10-03",
+    "rule": "Walkbot/P&S coverage is public only when the source article explicitly names Yonsei Professor You. Company, product or university mentions alone are insufficient.",
+    "excludedReports": [
+      "2013-01-03-walkbot-new-atlas",
+      "2015-03-10-walkbot-vr-fnnews",
+      "2024-07-09-walkbot-business-plans",
+      "2025-07-03-pns-robotics-name",
+      "2025-07-31-walkbot-sakra",
+      "2025-11-24-walkbot-nexon-digitaltoday",
+      "2025-11-24-walkbot-nexon-globale",
+      "2025-12-12-pns-upper-limb-etoday",
+      "2025-12-18-walkbot-nexon",
+      "2026-01-13-walkbot-hongseong-gukje",
+      "2026-01-13-walkbot-hongseong",
+      "2026-01-14-walkbot-hongseong-bridge",
+      "2026-01-14-walkbot-hongseong-ccdaily",
+      "2026-01-14-walkbot-hongseong-ccdn",
+      "2026-01-14-walkbot-hongseong-jbnews",
+      "2026-05-26-walkbot-mexico",
+      "2026-06-18-walkbot-market-analysis",
+      "2026-07-30-walkbot-teleton-expansion",
+      "2026-08-06-walkbot-insurance"
+    ],
+    "retainedReports": [
+      "2022-04-21-7e187ec3f111"
+    ]
+  }
 }

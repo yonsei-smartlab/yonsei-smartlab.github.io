@@ -1,0 +1,190 @@
+{
+  "reviewedOn": "2026-10-03",
+  "policy": "Walkbot/P&S coverage is public only when the source article explicitly names Yonsei Professor You. Company, product or university mentions alone are insufficient.",
+  "excludedCount": 19,
+  "retainedCount": 1,
+  "reports": [
+    {
+      "id": "2013-01-03-walkbot-new-atlas",
+      "url": "https://newatlas.com/walkbot-exoskeleton-gait-rehab-stroke/25627",
+      "reviewedOn": "2026-10-03",
+      "sourceBodyReview": ".local/publisher-source-review/81e3e95565e18def.json",
+      "professorNamedInSource": false,
+      "decision": "excluded"
+    },
+    {
+      "id": "2015-03-10-walkbot-vr-fnnews",
+      "url": "https://www.fnnews.com/news/201503100941205451",
+      "reviewedOn": "2026-10-03",
+      "sourceBodyReview": ".local/publisher-source-review/e5c35b3982dea13e.json",
+      "professorNamedInSource": false,
+      "decision": "excluded"
+    },
+    {
+      "id": "2024-07-09-walkbot-business-plans",
+      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=24508",
+      "reviewedOn": "2026-10-03",
+      "sourceBodyReview": ".local/publisher-source-review/cac2f7c137778509.json",
+      "professorNamedInSource": false,
+      "decision": "excluded"
+    },
+    {
+      "id": "2025-07-03-pns-robotics-name",
+      "url": "https://www.mt.co.kr/stock/2025/07/03/2025070308253752645",
+      "reviewedOn": "2026-10-03",
+      "sourceBodyReview": ".local/publisher-source-review/41a282415853d7ce.json",
+      "professorNamedInSource": false,
+      "decision": "excluded"
+    },
+    {
+      "id": "2025-07-31-walkbot-sakra",
+      "url": "https://www.dailian.co.kr/news/view/1530114",
+      "reviewedOn": "2026-10-03",
+      "sourceBodyReview": ".local/publisher-source-review/e265bda646c55a8d.json",
+      "professorNamedInSource": false,
+      "decision": "excluded"
+    },
+    {
+      "id": "2025-11-24-walkbot-nexon-digitaltoday",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=607241",
+      "reviewedOn": "2026-10-03",
+      "sourceBodyReview": ".local/publisher-source-review/ec0a97bc5c1a5306.json",
+      "professorNamedInSource": false,
+      "decision": "excluded"
+    },
+    {
+      "id": "2025-11-24-walkbot-nexon-globale",
+      "url": "https://www.globale.co.kr/news/articleView.html?idxno=35451",
+      "reviewedOn": "2026-10-03",
+      "sourceBodyReview": ".local/publisher-source-review/b76cddb12a241c32.json",
+      "professorNamedInSource": false,
+      "decision": "excluded"
+    },
+    {
+      "id": "2025-12-12-pns-upper-limb-etoday",
+      "url": "https://www.etoday.co.kr/news/view/2535083",
+      "reviewedOn": "2026-10-03",
+      "sourceBodyReview": ".local/publisher-source-review/49742099332caf4f.json",
+      "professorNamedInSource": false,
+      "decision": "excluded"
+    },
+    {
+      "id": "2025-12-18-walkbot-nexon",
+      "url": "https://www.dailymedi.com/dmedi/news/news_view.php?ca_id=2206&wr_id=932128",
+      "reviewedOn": "2026-10-03",
+      "sourceBodyReview": ".local/publisher-source-review/ab340b71b5bc4282.json",
+      "professorNamedInSource": false,
+      "decision": "excluded"
+    },
+    {
+      "id": "2026-01-13-walkbot-hongseong-gukje",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3479648",
+      "reviewedOn": "2026-10-03",
+      "sourceBodyReview": ".local/publisher-source-review/4371db88635304e8.json",
+      "professorNamedInSource": false,
+      "decision": "excluded"
+    },
+    {
+      "id": "2026-01-13-walkbot-hongseong",
+      "url": "https://www.newsis.com/view/NISX20260113_0003475015",
+      "reviewedOn": "2026-10-03",
+      "sourceBodyReview": ".local/publisher-source-review/a701b285e9576cad.json",
+      "professorNamedInSource": false,
+      "decision": "excluded"
+    },
+    {
+      "id": "2026-01-14-walkbot-hongseong-bridge",
+      "url": "https://www.viva100.com/article/20260114500055",
+      "reviewedOn": "2026-10-03",
+      "sourceBodyReview": ".local/publisher-source-review/02d7bd03560bce1e.json",
+      "professorNamedInSource": false,
+      "decision": "excluded"
+    },
+    {
+      "id": "2026-01-14-walkbot-hongseong-ccdaily",
+      "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2391611",
+      "reviewedOn": "2026-10-03",
+      "sourceBodyReview": ".local/publisher-source-review/2bbcbc9b62c40be0.json",
+      "professorNamedInSource": false,
+      "decision": "excluded"
+    },
+    {
+      "id": "2026-01-14-walkbot-hongseong-ccdn",
+      "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1058507",
+      "reviewedOn": "2026-10-03",
+      "sourceBodyReview": ".local/publisher-source-review/07d0b85135b28999.json",
+      "professorNamedInSource": false,
+      "decision": "excluded"
+    },
+    {
+      "id": "2026-01-14-walkbot-hongseong-jbnews",
+      "url": "https://www.jbnews.com/news/articleView.html?idxno=1496990",
+      "reviewedOn": "2026-10-03",
+      "sourceBodyReview": ".local/publisher-source-review/7aeb1d7ae766642b.json",
+      "professorNamedInSource": false,
+      "decision": "excluded"
+    },
+    {
+      "id": "2026-05-26-walkbot-mexico",
+      "url": "https://www.newsprime.co.kr/news/article.html?no=734566",
+      "reviewedOn": "2026-10-03",
+      "sourceBodyReview": ".local/publisher-source-review/c887b0d75a8da51d.json",
+      "professorNamedInSource": false,
+      "decision": "excluded"
+    },
+    {
+      "id": "2026-06-18-walkbot-market-analysis",
+      "url": "https://www.newsprime.co.kr/news/article/?no=737135",
+      "reviewedOn": "2026-10-03",
+      "sourceBodyReview": ".local/publisher-source-review/d463b1970f628146.json",
+      "professorNamedInSource": false,
+      "decision": "excluded"
+    },
+    {
+      "id": "2026-07-30-walkbot-teleton-expansion",
+      "url": "https://www.mt.co.kr/stock/2026/07/30/2026073011430668543",
+      "reviewedOn": "2026-10-03",
+      "sourceBodyReview": ".local/publisher-source-review/2f12da326a965af2.json",
+      "professorNamedInSource": false,
+      "decision": "excluded"
+    },
+    {
+      "id": "2026-08-06-walkbot-insurance",
+      "url": "https://www.newsprime.co.kr/news/article/?no=742928",
+      "reviewedOn": "2026-10-03",
+      "sourceBodyReview": ".local/publisher-source-review/e00572d7ddbd34a8.json",
+      "professorNamedInSource": false,
+      "decision": "excluded"
+    },
+    {
+      "id": "2022-04-21-7e187ec3f111",
+      "url": "http://www.paxetv.com/news/articleView.html?idxno=142935",
+      "reviewedOn": "2026-10-03",
+      "sourceBodyReview": ".local/publisher-source-review/7e187ec3f111959e.json",
+      "professorNamedInSource": true,
+      "decision": "retained"
+    }
+  ],
+  "archivedGroups": [
+    {
+      "id": "hongseong-walkbot-installation-2026",
+      "primary": "2026-01-13-walkbot-hongseong",
+      "reports": [
+        "2026-01-13-walkbot-hongseong",
+        "2026-01-14-walkbot-hongseong-bridge",
+        "2026-01-14-walkbot-hongseong-ccdaily",
+        "2026-01-14-walkbot-hongseong-ccdn",
+        "2026-01-14-walkbot-hongseong-jbnews",
+        "2026-01-13-walkbot-hongseong-gukje"
+      ]
+    },
+    {
+      "id": "nexon-walkbot-donation-2025",
+      "primary": "2025-11-24-walkbot-nexon-digitaltoday",
+      "reports": [
+        "2025-11-24-walkbot-nexon-digitaltoday",
+        "2025-11-24-walkbot-nexon-globale"
+      ]
+    }
+  ]
+}

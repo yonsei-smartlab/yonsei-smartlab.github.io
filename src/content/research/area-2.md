@@ -10,7 +10,7 @@ placeholder: true
 
 <h3 id="area-2-published">Published research</h3>
 
-Published work covers robot-assisted gait training in stroke, clinical machine learning for rehabilitation-response prediction, and robotic hippotherapy for postural stability in cerebral palsy. A 2025 survey examines wearable gait-robot needs in children and adults. [Walkbot research](/research/walkbot/) brings together gait-training studies and the system’s research history.
+Research examines how rehabilitation robots support repeated movement practice and how people respond to robotic assistance. Published studies cover gait training after stroke, balance and postural control in cerebral palsy, and the reliability of robotic movement measurements. Clinical machine learning explores rehabilitation-response prediction, while a 2025 survey examines wearable gait-robot needs in children and adults.
 
 [Related publications](/publications/?area=area-2).
 

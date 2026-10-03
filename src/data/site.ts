@@ -59,10 +59,9 @@ export const site = {
   ],
   contact: {
     introduction: 'SMART Lab · Department of Physical Therapy · Yonsei University',
-    recruitmentStatus: '[Recruitment status]',
-    opportunities: '[Describe available positions, eligibility, and research interests.]',
-    applicationInstructions: '[Add application instructions and required materials for SMART Lab.]',
-    collaboration: '[Add a short note for potential research collaborators.]',
+    opportunities: 'We welcome enquiries from highly motivated students and researchers who are curious, committed to learning, and eager to contribute to rehabilitation research. Contact us to discuss your background, interests, and potential opportunities at SMART Lab.',
+    applicationInstructions: 'Please indicate the type of opportunity you are seeking and your anticipated timeline. Admission to a degree programme follows the application procedures of Yonsei University and the Department of Physical Therapy.',
+    collaboration: 'We welcome discussions with researchers, clinicians, and engineers interested in advancing rehabilitation research. Please email a brief description of your proposed collaboration, relevant expertise, and how you would like to work with SMART Lab.',
     directions: '[Add visitor access instructions and directions to the lab.]',
   },
 };

@@ -145,11 +145,15 @@ for (const route of ['research/grants/index.html', 'research/patents/index.html'
   const html = await readFile(join(root, route), 'utf8');
   if (!html.includes('/grants-ip/?category=')) issues.push(`${route}: missing category redirect`);
 }
-for (const route of ['research/index.html', 'training/index.html', 'research/walkbot/index.html']) {
+for (const route of ['research/index.html', 'training/index.html']) {
   const html = await readFile(join(root, route), 'utf8');
   const subnav = html.match(/<nav[^>]*aria-label="Research navigation"[^>]*>([\s\S]*?)<\/nav>/)?.[1] ?? '';
   const labels = [...subnav.matchAll(/<a\b[^>]*>([^<]+)<\/a>/g)].map(match => match[1]);
-  if (labels.join(',') !== 'Overview,Training,Walkbot') issues.push(`${route}: incorrect Research navigation`);
+  if (labels.join(',') !== 'Overview,Training') issues.push(`${route}: incorrect Research navigation`);
+}
+for (const route of ['research/walkbot/index.html', 'research/affiliations/index.html']) {
+  const html = await readFile(join(root, route), 'utf8');
+  if (!html.includes('/research/#area-2')) issues.push(`${route}: missing robotics overview redirect`);
 }
 const cvPublicationImport = JSON.parse(await readFile('src/data/cv-publication-import.json', 'utf8'));
 const importSummary = JSON.parse(await readFile('src/data/publication-import.json', 'utf8'));
@@ -170,6 +174,14 @@ for (const item of publicationItems) {
   if (doiUrl && titleUrl !== doiUrl) issues.push(`Publication title does not use its DOI: ${title}`);
 }
 const newsHtml = await readFile(join(root, 'news/index.html'), 'utf8');
+const roboticsNewsReview = JSON.parse(await readFile('src/data/news-robotics-scope-review.json', 'utf8'));
+for (const report of roboticsNewsReview.reports) {
+  const publicPath = `src/content/news/${report.id}.md`;
+  if (report.decision === 'excluded') {
+    if (existsSync(publicPath) || newsHtml.includes(`data-news-report="${report.id}"`)) issues.push(`Excluded product news still public: ${report.id}`);
+    if (!existsSync(`src/data/news-source-archive/${report.id}.md`)) issues.push(`Excluded source record missing: ${report.id}`);
+  } else if (!report.professorNamedInSource || !existsSync(publicPath)) issues.push(`Retained robotics news lacks reviewed Professor identity: ${report.id}`);
+}
 const newsAudit = JSON.parse(await readFile('src/data/news-import.json', 'utf8'));
 const newsFiles = (await readdir('src/content/news')).filter(file => file.endsWith('.md'));
 const newsRecords = [];
