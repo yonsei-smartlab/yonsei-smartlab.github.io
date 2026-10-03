@@ -4,34 +4,13 @@ import PageHeader from '../../components/PageHeader.astro';
 import PeopleNav from '../../components/PeopleNav.astro';
 import PersonCard from '../../components/PersonCard.astro';
 import { getPeople } from '../../lib/content';
-import { academicAlumni, professionalAlumni, internationalCollaborators, rememberedCollaborator } from '../../data/members';
 const people = await getPeople();
 const groups = ['Researchers', 'Students'];
-const alumni = [...academicAlumni, ...professionalAlumni];
 ---
 <BaseLayout title="People">
-  <PageHeader title="People" description="SMART Lab researchers, students, alumni, and international collaborators." />
+  <PageHeader title="People" description="Current SMART Lab researchers and students." />
   <PeopleNav />
   <div class="container-page people-sections">
     <section class="people-group" id="current-members" aria-labelledby="current-members-heading"><h2 id="current-members-heading">Current members</h2><div class="current-members-grid">{groups.map(group => <section class="people-group"><h3>{group}</h3><div class="people-grid">{people.filter(person => person.data.group === group).map(person => <PersonCard person={person} />)}</div></section>)}</div></section>
-    <section class="people-group directory-section" id="alumni" aria-labelledby="alumni-heading">
-      <h2 id="alumni-heading">Alumni</h2>
-      <ul class="alumni-list">
-        {alumni.map(person => <li data-alumnus>
-          <h3 lang="ko">{person.name}</h3><p class="alumni-role">{person.role}</p>
-          {person.institution && <div class="alumni-affiliation"><p>{person.institution} <span lang="ko">{person.institutionKorean}</span></p></div>}
-        </li>)}
-      </ul>
-    </section>
-    <section class="people-group directory-section" id="international-collaborators" aria-labelledby="collaborators-heading">
-      <h2 id="collaborators-heading">International collaborators</h2>
-      <ul class="collaborator-list">
-        {internationalCollaborators.map(person => <li class="collaborator-row" data-collaborator>
-          <div class="directory-person"><h3><a href={person.profile} target="_blank" rel="noopener noreferrer">{person.name}</a>{person.koreanName && <span class="directory-korean-name" lang="ko">{person.koreanName}</span>}</h3><p>{person.credentials}</p><p class="collaborator-specialty">{person.specialty}</p></div>
-          <div class="collaborator-affiliation"><p>{person.institution}</p>{person.unit && <p>{person.unit}</p>}<p class="collaborator-location">{person.location}</p></div>
-        </li>)}
-      </ul>
-      <div class="remembered-collaborator"><h3>In memoriam</h3><p><a href={rememberedCollaborator.profile} target="_blank" rel="noopener noreferrer">{rememberedCollaborator.name}, {rememberedCollaborator.credentials}</a> <span>({rememberedCollaborator.years})</span></p><p>{rememberedCollaborator.institution}</p><p>{rememberedCollaborator.specialty}</p></div>
-    </section>
   </div>
 </BaseLayout>

@@ -1,5 +1,5 @@
 export const peopleNavigation = [
-  { label: 'Current members', href: '/people/#current-members' },
-  { label: 'Alumni', href: '/people/#alumni' },
-  { label: 'International collaborators', href: '/people/#international-collaborators' },
+  { label: 'Current members', href: '/people/' },
+  { label: 'Alumni', href: '/people/alumni/' },
+  { label: 'International collaborators', href: '/people/international-collaborators/' },
 ];

@@ -1,0 +1,21 @@
+---
+import BaseLayout from '../../components/BaseLayout.astro';
+import PageHeader from '../../components/PageHeader.astro';
+import PeopleNav from '../../components/PeopleNav.astro';
+import { internationalCollaborators, rememberedCollaborator } from '../../data/members';
+---
+<BaseLayout title="International collaborators">
+  <PageHeader title="International collaborators" description="SMART Lab’s international research and clinical collaborators." />
+  <PeopleNav />
+  <div class="container-page people-sections">
+    <section class="people-group" id="international-collaborators" aria-label="International collaborators">
+      <ul class="collaborator-list">
+        {internationalCollaborators.map(person => <li class="collaborator-row" data-collaborator>
+          <div class="directory-person"><h3><a href={person.profile} target="_blank" rel="noopener noreferrer">{person.name}</a>{person.koreanName && <span class="directory-korean-name" lang="ko">{person.koreanName}</span>}</h3><p>{person.credentials}</p><p class="collaborator-specialty">{person.specialty}</p></div>
+          <div class="collaborator-affiliation"><p>{person.institution}</p>{person.unit && <p>{person.unit}</p>}<p class="collaborator-location">{person.location}</p></div>
+        </li>)}
+      </ul>
+      <div class="remembered-collaborator"><h3>In memoriam</h3><p><a href={rememberedCollaborator.profile} target="_blank" rel="noopener noreferrer">{rememberedCollaborator.name}, {rememberedCollaborator.credentials}</a> <span>({rememberedCollaborator.years})</span></p><p>{rememberedCollaborator.institution}</p><p>{rememberedCollaborator.specialty}</p></div>
+    </section>
+  </div>
+</BaseLayout>

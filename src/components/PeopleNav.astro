@@ -1,6 +1,7 @@
 ---
 import { peopleNavigation } from '../data/people-navigation';
+const current = Astro.url.pathname.replace(/\/$/, '');
 ---
 <nav class="container-page research-nav" aria-label="People navigation">
-  {peopleNavigation.map(link => <a href={link.href}>{link.label}</a>)}
+  {peopleNavigation.map(link => <a href={link.href} aria-current={current === link.href.replace(/\/$/, '') ? 'page' : undefined}>{link.label}</a>)}
 </nav>

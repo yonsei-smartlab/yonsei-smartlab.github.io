@@ -1,0 +1,21 @@
+---
+import BaseLayout from '../../components/BaseLayout.astro';
+import PageHeader from '../../components/PageHeader.astro';
+import PeopleNav from '../../components/PeopleNav.astro';
+import { academicAlumni, professionalAlumni } from '../../data/members';
+const alumni = [...academicAlumni, ...professionalAlumni];
+---
+<BaseLayout title="Alumni">
+  <PageHeader title="Alumni" description="SMART Lab alumni and their professional roles." />
+  <PeopleNav />
+  <div class="container-page people-sections">
+    <section class="people-group" id="alumni" aria-label="Alumni">
+      <ul class="alumni-list">
+        {alumni.map(person => <li data-alumnus>
+          <h3 lang="ko">{person.name}</h3><p class="alumni-role">{person.role}</p>
+          {person.institution && <div class="alumni-affiliation"><p>{person.institution} <span lang="ko">{person.institutionKorean}</span></p></div>}
+        </li>)}
+      </ul>
+    </section>
+  </div>
+</BaseLayout>

@@ -70,9 +70,12 @@ for (const page of await htmlFiles(root)) {
 for (const route of ['index.html', 'research/index.html', 'research/grants/index.html', 'research/patents/index.html', 'professor/index.html', 'people/index.html', 'publications/index.html', 'training/index.html', 'news/index.html', 'contact/index.html', 'goodwellness/index.html', 'goodwellness/about/index.html', 'goodwellness/robogym/index.html', 'goodwellness/research-education/index.html', 'goodwellness/contact/index.html']) {
   if (!existsSync(join(root, route))) issues.push(`Missing page: ${route}`);
 }
-const peopleHtml = await readFile(join(root, 'people/index.html'), 'utf8');
-for (const id of ['current-members', 'alumni', 'international-collaborators']) {
-  if (!peopleHtml.includes(`id="${id}"`) || !peopleHtml.includes(`href="/people/#${id}"`)) issues.push(`People subsection missing: ${id}`);
+for (const route of ['people/index.html', 'people/alumni/index.html', 'people/international-collaborators/index.html']) {
+  const peopleHtml = await readFile(join(root, route), 'utf8');
+  for (const href of ['/people/', '/people/alumni/', '/people/international-collaborators/']) {
+    if (!peopleHtml.includes(`href="${href}"`)) issues.push(`People subsection link missing in ${route}: ${href}`);
+  }
+  if (!/<nav[^>]*aria-label="People navigation"[^>]*>[\s\S]*?aria-current="page"[\s\S]*?<\/nav>/.test(peopleHtml)) issues.push(`People active subsection missing: ${route}`);
 }
 const publicationHtml = await readFile(join(root, 'publications/index.html'), 'utf8');
 const archiveHtml = await readFile(join(root, 'grants-ip/index.html'), 'utf8');
