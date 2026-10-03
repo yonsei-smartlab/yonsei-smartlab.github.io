@@ -5,9 +5,9 @@
   "candidateCount": 782,
   "statusCounts": {
     "duplicate": 19,
-    "excluded": 703,
+    "excluded": 715,
     "published": 31,
-    "held": 25,
+    "held": 13,
     "unavailable": 4
   },
   "sourceScreenCounts": {
@@ -5762,14 +5762,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "held",
-      "reason": "Coverage names the Dobong startup GOODWELLNESS Tour. No confirmed link to the Yonsei GOODWELLNESS Centre.",
+      "status": "excluded",
+      "reason": "Original article identifies 굿웰니스투어 as a health-travel business in a Dobong youth startup incubator. This report does not concern Yonsei GOODWELLNESS Center or Professor You.",
       "sourceScreen": {
         "status": "identity-review-needed",
         "checkedOn": "2026-10-03",
         "bodyElement": "div.article_view",
         "matchCount": 1
-      }
+      },
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Recovered original or publisher-supplied Daum body; business category explicitly given in tenant list."
     },
     {
       "url": "https://v.daum.net/v/20201126150741383",
@@ -5782,14 +5784,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "held",
-      "reason": "Coverage names the Dobong startup GOODWELLNESS Tour. No confirmed link to the Yonsei GOODWELLNESS Centre.",
+      "status": "excluded",
+      "reason": "Original article identifies 굿웰니스투어 as a health-travel business in a Dobong youth startup incubator. This report does not concern Yonsei GOODWELLNESS Center or Professor You.",
       "sourceScreen": {
         "status": "identity-review-needed",
         "checkedOn": "2026-10-03",
         "bodyElement": "div.article_view",
         "matchCount": 1
-      }
+      },
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Recovered original or publisher-supplied Daum body; business category explicitly given in tenant list."
     },
     {
       "url": "https://v.daum.net/v/20201126064817842",
@@ -5802,14 +5806,16 @@
           "searchUrl": "https://search.daum.net/search?w=news&q=%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&p=1&sort=accuracy&cluster=n"
         }
       ],
-      "status": "held",
-      "reason": "Coverage names the Dobong startup GOODWELLNESS Tour. No confirmed link to the Yonsei GOODWELLNESS Centre.",
+      "status": "excluded",
+      "reason": "Original article identifies 굿웰니스투어 as a health-travel business in a Dobong youth startup incubator. This report does not concern Yonsei GOODWELLNESS Center or Professor You.",
       "sourceScreen": {
         "status": "identity-review-needed",
         "checkedOn": "2026-10-03",
         "bodyElement": "div.article_view",
         "matchCount": 1
-      }
+      },
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Recovered original or publisher-supplied Daum body; business category explicitly given in tenant list."
     },
     {
       "url": "https://v.daum.net/v/20190517093440629",
@@ -8201,14 +8207,16 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9C%A0%EC%8A%B9%ED%98%84+%EB%87%8C%EC%A1%B8%EC%A4%91&start=1&sort=0"
         }
       ],
-      "status": "held",
-      "reason": "Original-source screen returned an empty body or garbled Korean encoding; source content is insufficient for an identity decision.",
+      "status": "excluded",
+      "reason": "Recovered original identifies 유승현 as a Korea University Anam Hospital endocrinology clinical assistant professor, a different person from the Yonsei Physical Therapy Professor.",
       "sourceScreen": {
         "status": "no-identity-signal",
         "checkedOn": "2026-10-03",
         "bodyElement": "publisher-page",
         "matchCount": 0
-      }
+      },
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Original publisher article header and body, 2021-09-13."
     },
     {
       "url": "http://www.kado.net/news/articleView.html?idxno=1293191",
@@ -8241,14 +8249,16 @@
           "searchUrl": "https://search.naver.com/search.naver?where=news&query=%EC%9C%A0%EC%8A%B9%ED%98%84+%EB%87%8C%EC%A1%B8%EC%A4%91&start=1&sort=0"
         }
       ],
-      "status": "held",
-      "reason": "Original-source screen returned an empty body or garbled Korean encoding; source content is insufficient for an identity decision.",
+      "status": "excluded",
+      "reason": "Decoded original identifies 유승현 as the Eomgung-dong district administrative official in Busan. The report concerns local veterans recognition and other district services, not the Yonsei Professor.",
       "sourceScreen": {
         "status": "no-identity-signal",
         "checkedOn": "2026-10-03",
         "bodyElement": "publisher-page",
         "matchCount": 0
-      }
+      },
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Original publisher article body, 2021-06-23; declared Korean encoding used."
     },
     {
       "url": "http://news.tf.co.kr/read/ptoday/2089484.htm",
@@ -16289,14 +16299,16 @@
           "searchUrl": "https://search.naver.com/search.naver?ssc=tab.news.all&where=news&query=%22%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4%22&sm=tab_dgs&qdt=1"
         }
       ],
-      "status": "held",
-      "reason": "Original-source reader could not retrieve the report; retain for review without bypassing access or certificate restrictions.",
+      "status": "excluded",
+      "reason": "Recovered original reviews 김혜원’s craft/design book, naming 굿웰니스 as its publisher. It does not concern Yonsei GOODWELLNESS Center or Professor You.",
       "sourceScreen": {
         "status": "source-error",
         "checkedOn": "2026-10-03",
         "bodyElement": null,
         "matchCount": 0
-      }
+      },
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Original publisher article body, registered 2024-12-26 and print issue 2024-12-27."
     },
     {
       "url": "http://sjbnews.com/news/news.php?number=836690",
@@ -16389,14 +16401,16 @@
           "searchUrl": "https://search.naver.com/search.naver?ssc=tab.news.all&where=news&query=%22%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4%22&sm=tab_dgs&qdt=1"
         }
       ],
-      "status": "held",
-      "reason": "Goodwellness Tour is listed as a Dobong youth-incubator tenant. No Yonsei disability-fitness centre or Professor You affiliation identified; hold pending organisational evidence.",
+      "status": "excluded",
+      "reason": "Original article identifies 굿웰니스투어 as a health-travel business in a Dobong youth startup incubator. This report does not concern Yonsei GOODWELLNESS Center or Professor You.",
       "sourceScreen": {
         "status": "identity-review-needed",
         "checkedOn": "2026-10-03",
         "bodyElement": "publisher-page",
         "matchCount": 1
-      }
+      },
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Recovered original or publisher-supplied Daum body; business category explicitly given in tenant list."
     },
     {
       "url": "https://view.asiae.co.kr/article/2020112606492206700",
@@ -16409,14 +16423,16 @@
           "searchUrl": "https://search.naver.com/search.naver?ssc=tab.news.all&where=news&query=%22%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4%22&sm=tab_dgs&qdt=1"
         }
       ],
-      "status": "held",
-      "reason": "Goodwellness Tour is listed as a Dobong youth-incubator tenant. No Yonsei disability-fitness centre or Professor You affiliation identified; hold pending organisational evidence.",
+      "status": "excluded",
+      "reason": "Original article identifies 굿웰니스투어 as a health-travel business in a Dobong youth startup incubator. This report does not concern Yonsei GOODWELLNESS Center or Professor You.",
       "sourceScreen": {
         "status": "identity-review-needed",
         "checkedOn": "2026-10-03",
         "bodyElement": "publisher-page",
         "matchCount": 1
-      }
+      },
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Recovered original or publisher-supplied Daum body; business category explicitly given in tenant list."
     },
     {
       "url": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1347376",
@@ -16429,14 +16445,16 @@
           "searchUrl": "https://search.naver.com/search.naver?ssc=tab.news.all&where=news&query=%22%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4%22&sm=tab_dgs&qdt=1"
         }
       ],
-      "status": "held",
-      "reason": "Goodwellness Tour is listed as a Dobong youth-incubator tenant. No Yonsei disability-fitness centre or Professor You affiliation identified; hold pending organisational evidence.",
+      "status": "excluded",
+      "reason": "Original article identifies 굿웰니스투어 as a health-travel business in a Dobong youth startup incubator. This report does not concern Yonsei GOODWELLNESS Center or Professor You.",
       "sourceScreen": {
         "status": "identity-review-needed",
         "checkedOn": "2026-10-03",
         "bodyElement": "publisher-page",
         "matchCount": 1
-      }
+      },
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Recovered original or publisher-supplied Daum body; business category explicitly given in tenant list."
     },
     {
       "url": "http://www.siminilbo.co.kr/news/newsview.php?ncode=1065597155034066",
@@ -16449,14 +16467,16 @@
           "searchUrl": "https://search.naver.com/search.naver?ssc=tab.news.all&where=news&query=%22%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4%22&sm=tab_dgs&qdt=1"
         }
       ],
-      "status": "held",
-      "reason": "Goodwellness Tour is listed as a Dobong youth-incubator tenant. No Yonsei disability-fitness centre or Professor You affiliation identified; hold pending organisational evidence.",
+      "status": "excluded",
+      "reason": "Original article identifies 굿웰니스투어 as a health-travel business in a Dobong youth startup incubator. This report does not concern Yonsei GOODWELLNESS Center or Professor You.",
       "sourceScreen": {
         "status": "identity-review-needed",
         "checkedOn": "2026-10-03",
         "bodyElement": "publisher-page",
         "matchCount": 1
-      }
+      },
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Recovered original or publisher-supplied Daum body; business category explicitly given in tenant list."
     },
     {
       "url": "http://www.newsis.com/view/?id=NISX20201126_0001248002&cID=10801&pID=14000",
@@ -16469,14 +16489,16 @@
           "searchUrl": "https://search.naver.com/search.naver?ssc=tab.news.all&where=news&query=%22%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4%22&sm=tab_dgs&qdt=1"
         }
       ],
-      "status": "held",
-      "reason": "Goodwellness Tour is listed as a Dobong youth-incubator tenant. No Yonsei disability-fitness centre or Professor You affiliation identified; hold pending organisational evidence.",
+      "status": "excluded",
+      "reason": "Original article identifies 굿웰니스투어 as a health-travel business in a Dobong youth startup incubator. This report does not concern Yonsei GOODWELLNESS Center or Professor You.",
       "sourceScreen": {
         "status": "identity-review-needed",
         "checkedOn": "2026-10-03",
         "bodyElement": "publisher-page",
         "matchCount": 1
-      }
+      },
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Recovered original or publisher-supplied Daum body; business category explicitly given in tenant list."
     },
     {
       "url": "https://www.seoul.co.kr/news/newsView.php?id=20201125010018&wlog_tag3=naver",
@@ -16489,14 +16511,16 @@
           "searchUrl": "https://search.naver.com/search.naver?ssc=tab.news.all&where=news&query=%22%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4%22&sm=tab_dgs&qdt=1"
         }
       ],
-      "status": "held",
-      "reason": "Goodwellness Tour is listed as a Dobong youth-incubator tenant. No Yonsei disability-fitness centre or Professor You affiliation identified; hold pending organisational evidence.",
+      "status": "excluded",
+      "reason": "Original article identifies 굿웰니스투어 as a health-travel business in a Dobong youth startup incubator. This report does not concern Yonsei GOODWELLNESS Center or Professor You.",
       "sourceScreen": {
         "status": "identity-review-needed",
         "checkedOn": "2026-10-03",
         "bodyElement": "publisher-page",
         "matchCount": 1
-      }
+      },
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Recovered original or publisher-supplied Daum body; business category explicitly given in tenant list."
     },
     {
       "url": "http://news1.kr/articles/?3733916",

@@ -1,0 +1,117 @@
+{
+  "checkedOn": "2026-10-03",
+  "complete": false,
+  "reviewedRecords": 12,
+  "excludedRecords": 12,
+  "remainingHeldRecords": 18,
+  "note": "Source identity and relevance review only. No new publication. Unresolved sources remain held; raw source bodies remain outside the rendered site.",
+  "records": [
+    {
+      "url": "https://v.daum.net/v/20201125050648538",
+      "reason": "Original article identifies 굿웰니스투어 as a health-travel business in a Dobong youth startup incubator. This report does not concern Yonsei GOODWELLNESS Center or Professor You.",
+      "relation": "different-organization",
+      "reviewBasis": "Recovered original or publisher-supplied Daum body; business category explicitly given in tenant list.",
+      "status": "excluded",
+      "checkedOn": "2026-10-03"
+    },
+    {
+      "url": "https://v.daum.net/v/20201126064817842",
+      "reason": "Original article identifies 굿웰니스투어 as a health-travel business in a Dobong youth startup incubator. This report does not concern Yonsei GOODWELLNESS Center or Professor You.",
+      "relation": "different-organization",
+      "reviewBasis": "Recovered original or publisher-supplied Daum body; business category explicitly given in tenant list.",
+      "status": "excluded",
+      "checkedOn": "2026-10-03"
+    },
+    {
+      "url": "https://v.daum.net/v/20201126150741383",
+      "reason": "Original article identifies 굿웰니스투어 as a health-travel business in a Dobong youth startup incubator. This report does not concern Yonsei GOODWELLNESS Center or Professor You.",
+      "relation": "different-organization",
+      "reviewBasis": "Recovered original or publisher-supplied Daum body; business category explicitly given in tenant list.",
+      "status": "excluded",
+      "checkedOn": "2026-10-03"
+    },
+    {
+      "url": "http://www.job-post.co.kr/news/articleView.html?idxno=11121",
+      "title": "도봉구, '청년의 꿈 지원'...청년 창업 거점공간 열다",
+      "reason": "Original article identifies 굿웰니스투어 as a health-travel business in a Dobong youth startup incubator. This report does not concern Yonsei GOODWELLNESS Center or Professor You.",
+      "checkedOn": "2026-10-03",
+      "relation": "different-organization",
+      "reviewBasis": "Recovered original or publisher-supplied Daum body; business category explicitly given in tenant list.",
+      "status": "excluded"
+    },
+    {
+      "url": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1347376",
+      "title": "도봉구, 청년 창업활동 거점공간 '활짝'",
+      "reason": "Original article identifies 굿웰니스투어 as a health-travel business in a Dobong youth startup incubator. This report does not concern Yonsei GOODWELLNESS Center or Professor You.",
+      "checkedOn": "2026-10-03",
+      "relation": "different-organization",
+      "reviewBasis": "Recovered original or publisher-supplied Daum body; business category explicitly given in tenant list.",
+      "status": "excluded"
+    },
+    {
+      "url": "https://view.asiae.co.kr/article/2020112606492206700",
+      "title": "도봉구 '청년 창업활동 거점 공간' 오픈",
+      "reason": "Original article identifies 굿웰니스투어 as a health-travel business in a Dobong youth startup incubator. This report does not concern Yonsei GOODWELLNESS Center or Professor You.",
+      "checkedOn": "2026-10-03",
+      "relation": "different-organization",
+      "reviewBasis": "Recovered original or publisher-supplied Daum body; business category explicitly given in tenant list.",
+      "status": "excluded"
+    },
+    {
+      "url": "http://www.siminilbo.co.kr/news/newsview.php?ncode=1065597155034066",
+      "title": "도봉구, 청년 창업활동 거점 공간 조성",
+      "reason": "Original article identifies 굿웰니스투어 as a health-travel business in a Dobong youth startup incubator. This report does not concern Yonsei GOODWELLNESS Center or Professor You.",
+      "checkedOn": "2026-10-03",
+      "relation": "different-organization",
+      "reviewBasis": "Recovered original or publisher-supplied Daum body; business category explicitly given in tenant list.",
+      "status": "excluded"
+    },
+    {
+      "url": "http://www.newsis.com/view/?id=NISX20201126_0001248002&cID=10801&pID=14000",
+      "title": "도봉구, '청년의 꿈 지원'…청년 창업 거점공간 조성",
+      "reason": "Original article identifies 굿웰니스투어 as a health-travel business in a Dobong youth startup incubator. This report does not concern Yonsei GOODWELLNESS Center or Professor You.",
+      "checkedOn": "2026-10-03",
+      "relation": "different-organization",
+      "reviewBasis": "Recovered original or publisher-supplied Daum body; business category explicitly given in tenant list.",
+      "status": "excluded"
+    },
+    {
+      "url": "https://www.seoul.co.kr/news/newsView.php?id=20201125010018&wlog_tag3=naver",
+      "title": "창업 어려움 아는 동진씨, 도봉 청년기업 키우기 팔걷었다",
+      "reason": "Original article identifies 굿웰니스투어 as a health-travel business in a Dobong youth startup incubator. This report does not concern Yonsei GOODWELLNESS Center or Professor You.",
+      "checkedOn": "2026-10-03",
+      "relation": "different-organization",
+      "reviewBasis": "Recovered original or publisher-supplied Daum body; business category explicitly given in tenant list.",
+      "status": "excluded"
+    },
+    {
+      "url": "http://www.dailymedi.com/detail.php?number=874140&thread=22r06",
+      "title": "\"연속혈당측정기, 당뇨 환자 인식 바꾸고 효과도 좋아\"",
+      "reason": "Recovered original identifies 유승현 as a Korea University Anam Hospital endocrinology clinical assistant professor, a different person from the Yonsei Physical Therapy Professor.",
+      "checkedOn": "2026-10-03",
+      "relation": "different-person",
+      "canonical": "https://www.dailymedi.com/news/news_view.php?ca_id=2203&wr_id=874140",
+      "reviewBasis": "Original publisher article header and body, 2021-09-13.",
+      "status": "excluded"
+    },
+    {
+      "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20210623.99002184409",
+      "title": "사상구 엄궁동행정복지센터, 국가유공자 명패 달아드리기 外",
+      "reason": "Decoded original identifies 유승현 as the Eomgung-dong district administrative official in Busan. The report concerns local veterans recognition and other district services, not the Yonsei Professor.",
+      "checkedOn": "2026-10-03",
+      "relation": "different-person",
+      "reviewBasis": "Original publisher article body, 2021-06-23; declared Korean encoding used.",
+      "status": "excluded"
+    },
+    {
+      "url": "https://www.kbmaeil.com/news/articleView.html?idxno=1024731",
+      "title": "시간·정성이 빚은 공예의 세계로 초대",
+      "reason": "Recovered original reviews 김혜원’s craft/design book, naming 굿웰니스 as its publisher. It does not concern Yonsei GOODWELLNESS Center or Professor You.",
+      "checkedOn": "2026-10-03",
+      "relation": "different-organization",
+      "canonical": "https://www.kbmaeil.com/1024731",
+      "reviewBasis": "Original publisher article body, registered 2024-12-26 and print issue 2024-12-27.",
+      "status": "excluded"
+    }
+  ]
+}
