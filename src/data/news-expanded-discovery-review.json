@@ -4,8 +4,8 @@
   "note": "Editorial queue only. Search results do not establish identity or approve public content.",
   "candidateCount": 448,
   "statusCounts": {
-    "unreviewed": 319,
-    "duplicate": 7,
+    "unreviewed": 316,
+    "duplicate": 10,
     "excluded": 89,
     "published": 31,
     "held": 2
@@ -1672,7 +1672,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=%EC%9C%A0%EC%8A%B9%ED%98%84+%EC%97%B0%EC%84%B8&hl=ko&gl=KR&ceid=KR%3Ako"
         }
       ],
-      "status": "unreviewed"
+      "status": "duplicate",
+      "canonical": "https://www.wonjutoday.co.kr/news/articleView.html?idxno=134930",
+      "reviewedOn": "2026-10-03",
+      "reason": "Google News URL followed in a normal browser to the original publisher article; original headline, date and body read. Existing public report retained."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5alVtS2RDOGUzejgtbTVxWTQ5d0VqN1RHRlVKRnhtcnUwWlB0UVo1Ykk0LVBiMGxLdnNSTlBTRmZxNFNGQi1CSzRHUQ?oc=5",
@@ -1690,7 +1693,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=%EC%97%B0%EC%84%B8%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4%EC%84%BC%ED%84%B0&hl=ko&gl=KR&ceid=KR%3Ako"
         }
       ],
-      "status": "unreviewed"
+      "status": "duplicate",
+      "canonical": "https://www.koreasisailbo.com/587507",
+      "reviewedOn": "2026-10-03",
+      "reason": "Google News redirected in a normal browser to the original publisher; title, date and article body reviewed."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wQXp5TWdKQmE4My1VeUYtTzhPbzVqT0JkdEFHM1otdFJOaFo5Nm5kREdiTGdDUWRPY3FqVkUwVmVaZWNwZDhKQUQ5bExHekRBNzFZckFVeWRwTGpMc3p4T2FQZGRoamot?oc=5",
@@ -1731,7 +1737,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=%EC%97%B0%EC%84%B8%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4%EC%84%BC%ED%84%B0&hl=ko&gl=KR&ceid=KR%3Ako"
         }
       ],
-      "status": "unreviewed"
+      "status": "duplicate",
+      "canonical": "https://www.wonjutoday.co.kr/news/articleView.html?idxno=110953",
+      "reviewedOn": "2026-10-03",
+      "reason": "Google News URL followed in a normal browser to the original publisher article; original headline, date and body read. Existing public report retained."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKd1E5Qi1JS3NCTkJwVEZXRlhKYWhTS0F6Q29lNF9QYk96bFduNjd1Q2k0OFAtUzB6WVo1U3NETERZMWlxcVJYTnBHVG82eEEwMURB?oc=5",

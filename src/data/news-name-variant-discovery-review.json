@@ -5,9 +5,10 @@
   "candidateCount": 116,
   "statusCounts": {
     "published": 10,
-    "unreviewed": 50,
-    "excluded": 53,
-    "held": 3
+    "duplicate": 1,
+    "excluded": 86,
+    "held": 3,
+    "unreviewed": 16
   },
   "sourceScreenCounts": {},
   "coverage": [
@@ -403,7 +404,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=%EC%97%B0%EC%84%B8+%EA%B5%BF%EC%9B%B0%EB%8B%88%EC%8A%A4&hl=ko&gl=KR&ceid=KR%3Ako"
         }
       ],
-      "status": "unreviewed"
+      "status": "duplicate",
+      "canonical": "https://www.wonjutoday.co.kr/news/articleView.html?idxno=110953",
+      "reviewedOn": "2026-10-03",
+      "reason": "Google News URL followed in a normal browser to the original publisher article; original headline, date and body read. Existing public report retained."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80WlJGWW5KUDlnX2paMERicUdYcERnYXdoLUxlVkoxbE1IeUR4b1h1NW8tc0k1NU1telVMM2cwbEFSVEJHYTU3M0lUVnA4TUFzTS03b2ZRSHFSZGRSeDZUYy05dlMxeFJEc2NsdUVZUmdWRXZ0MDU4?oc=5",
@@ -853,7 +857,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Walkbot&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: Seoul police force launch 'smart patrols' with high-tech devices - Korea.net. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYnBDR3dmMF9saUZXVDZONWRUUWhoel9SUW5YNGtERmd1MFZITEZvaWpaUEhxMHFSRFhMNjV4UzdGdzhPeTN0VGx3N2ZkVmQwRDNySWk2aTRHdFNLUEFjei1PNFNaOG0wX3drNFFmUkhyUi12UjlpVURfQWRxSUJ4RzV6QmtOaTZoSFp4clVpU3NsZTQ?oc=5",
@@ -893,7 +900,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: Judge’s son chooses yearlong drug rehab over high bond - Laurel Leader-Call. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRjlBRnpxcm91MGJwM1RzYUtkNks0LTBDVmxDNllXTGlvUWROekRDakFZZW05TGNYUWY1S1BmX284NkMtVVBqQ25TdEJQbnVwN2lRRUxjSFB5RGJ1eHVHaEZxdnJQb2lJTGF2elJWVUlMbnRiMUh3RGpvVF95MEFkTEFXekdCNFp4YjFVMmZHbzI1elNqUkE4TGZsOVFEZGREUGRqSFhPZUF1V1E?oc=5",
@@ -920,7 +930,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: Rise Recovery Launches Community-Driven Addiction Treatment Model Built by People Who Lived It - USA Today. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ1F5MVhsb211SjJaenJkMm1TWEN3Q3VkdTJUR0k3R252YXdJVXBJM3VpZGtzbV9hS3R4WFY4Q0lGWDQ4c1BYVHF5LW50N1gydHlhenphcXhKb1dsV1F4bWdnYjRkMk44ODYtMXNiLVFhVTZCdktJcXU4SXFwbEI1YUR5WXhwRVVDME56QjRfQ2cwcHBxQmxVZzJHTHRrWWc?oc=5",
@@ -933,7 +946,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: What Is a Ruptured Testicle? An MLB Player's Painful Injury, Explained - Time Magazine. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNG45TlJmQXo0STNILTU1TnRaZVY5X3drNTB4MWhvelpNc3RLVC03SkZtSncyR2FYYkFkOFc4Y205NDZldTg2bDdGZ0VxQ2VnQXZiazk2ZnpnbllraE01a3k3TzFBbVMycWhodDMwOHFPZXF1RnNIa0MzZUlLNlF4UzVGQnBqckE0YlNXNGhKeHZJWFMwU0dtWGd6cldEZFBVTWR3X2tHLWNYU1BWbUg5bWlEX0hoZFA5ZGNkakdjMmhvLWVIbVh6akVGRkZGSDlhakRSQktqbmhqOGF3akVDUU9nNWk2RjQ?oc=5",
@@ -960,7 +976,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: Badenoch defends decision to allow man jailed for antisemitism to stand as councillor | Conservatives - The Guardian. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOUUlhQkFsQmFGYUozVHc5YXpjXzBidFZCa3hjRk1BTFUzTk9fS1RMLWpxZUxHUkZwSjh2Qm9UT2hLMk9zeTJ6cDc4YXlNbm9PMHhGZVNtMTdPeDNuN0dmQUh3eWxmWldzem5CN21IYnRWbThlRnJXX3FOM3NTUFZlNzdWRGZlVWpOZWRReUlvTlh0c2FhbXBVa0w5T2lULVkzbkxYdTA0eWVBUjN2SXQzSEE0bFp1emRSZTBkS1dtU3ZrNDB4TnNGbFlSY29PWkdhaFk1dEdIRjcyM0g2TG0tdG16UWpMN1RpdnBmUjZYbVZYdTFEX0xkNWFmM2tqZVgxMVA1c3U4NDBGN3hkU3JXbFVfZlAyRDl0X2tDRlBlZVNPUGVZQVpqNjdob9IBsAJBVV95cUxNdWI5aHh2bmpvT0FXMmdDMXlTazFCRTdveDVRM2lydFd0MEJtMlRKYy1JMWc0V29kM3BTVHRCaEoxYTB2Zl95bHh5WGF2bnUxMEU4YnFLV09DVmhySnQtcnBpN1M3ckRPcmJfY0V0NGZtZi1JQlhDVHZ3cEhBR3lvcFlnSXZhNEpiaE9lQmNMb1pIcDZqdVkydERnVEFyRWtQWjNyQlMtVHNhMzVxdHdTaGdLVi1HRURYNkJzX1NYaW9ONVhDMlVSdllaYjU0bHYtQjdpd2lmZ1hBMHY1dUNJZHZGRjZzTjI0b1A0X0ZvVUVFSDVqSjk4ZU5xbjlmUkxsWHlOa2pCUENGTU04U1FfMERRaDV3ZFU3UXdvNlBSOXVwQ3J1OEt4UnUyQWlGYWRH?oc=5",
@@ -1001,7 +1020,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: Joshua undergoes rib treatment, continues rehab - Punch Newspapers. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYThVRmZrUmVvc1MzNk94akpCYVVjQnN2OWtscmZnNWMwVjRsaEV3eHk0LS1SQmZRekh2SDNURHE3UlpaSERoMHM3RlFaMkFSb2xuUDdnUW53dUlhemRXVURfS2IxUXhtSXk1Tk50ZV9RZHFQbFpzQ3Z4ZXM3WFkweFR1dXo3SldlaTJzdzFxNjZTQjl5UlhUcDJOVEJIU0IxbHVNQ9IBtgFBVV95cUxPUkM1cC0xQzVTc0xZbnBZYTExM2ZNYmREd0lxY1ptcmRhWDdDVF9wbF9lal9falhrdlM1T3liT3lpbVQzaHFBSGZRRks0YklHdTNtR2ZNamtLTUNaVWRKRURfLTVJSElFcDJBSHJVb0hvdjBuTk5wNUM3cTZnMDZaa090SUtYd2NXSUc3cGs3RVNOSHFObmZlUUp0SXpSQ2g0aHIzbnNFZmVMcGQ0T29YT1ZwVTVPdw?oc=5",
@@ -1056,7 +1078,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: Kemi Badenoch, you’ve got this very, very wrong - The Jewish Chronicle. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOG13b2c5akxZeVdhOHl2LThsNElEcjVzTE9oSkt5Y0UtODFWYWhXRzV3T0w2M3F4eDBBUjV3c2t1OXJldkVVLUVsNVFvRjFPUVJtQURKTzFqMWtpSkI1MjNnQ05NTE1VTE5icDNxNmVyYnZaMktMOHNqbWNCa1gwLWp1eWFtQndGaHlTQnlHUQ?oc=5",
@@ -1069,7 +1094,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: AJ undergoes treatment on ribs as boxing legend continues rehab after car crash - The Sun. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQXzNRSHB5U0dBenhseENqV2VzTjJkaEI1eFdlbmNWZ0ZOVEZxYWwzdFZjcm1ESGx5VndYUlpwMHNrVVRZZG05NHVPVGIyVUVKeW9SS29nQ2QtSWd6Rm41Z2VYQXBDUl9FUy0yMFV0cU9yUm9RUFF1dUZIQXQwRUJxWmRHX1BMUQ?oc=5",
@@ -1096,7 +1124,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: Wildlife Rehab Outpost botfly removals with Joshua Holland - WLOX. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSkpfanVWNk1FbjVHbzhYUDNJTElzSjdiZFRxUmU5aXo0dTZVbVk3VDREN21HQ29oNHJCeGRSUzVOTGw0dmJSQ2prXzA0VEJSMnNKb25NWHhXODl1MC1uQjc3d1dKOElTbFB1aE43T3ZNLTlKZEROMjVVcXFCWDhWS3JXWC1GSGszWVF6eHdoQVJYNFlka21PMUhZQktVcml2ZmdzR3BLNlk?oc=5",
@@ -1150,7 +1181,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: For a Former Addict, Recovery Brings Only Temporary Relief (Published 2021) - The New York Times. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVnNIMmVaWERsUzI5bldjNW8wNXYwWWRaTFdBUi10ZExOeEFSV3p2VURabWoxdTRNS1o5dU5DcS0wWHpTWGczaTM1c0hLVzBUaVJndFlVTURoRGd6YWdEMDA3YnZyS0o2TnhNZElvNXJldmVybl83U3NKYlBoNTNucDFPd3BJbEZiWTN6V0hOcTluQ2VBZTE1NWNoNTBiNkVHUzNVVWtiQVlOTkRvX2poc0l2UlFfbHhId0UzMG1R?oc=5",
@@ -1233,7 +1267,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: What a government shutdown means for Californians, from Social Security to national parks - CalMatters. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91dkhkXzZnT2VvY0VkV0pxeHZ6aGpFdUR1MERvc2Y2V2IwWS1yckktM1M3SF9sVWhKNWRHNnZKQWFIY3JiMXd5NEZPSDNfVjM5OUNTcE03X0J3S3ZtZjA3ZTR5bXEzTGFRZmg1YTN0VUFCbmhnZlZfaw?oc=5",
@@ -1274,7 +1311,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: A man’s best friend: how therapy dogs help a patient’s recovery process - UNC Media Hub. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNDBHNGVEcDdDWUE5SkU1UmRhdHQyWV9xb1JfZGUwN0xDc3JqakRPLWltVmc4M29kMTN3dW81SXRGclpZOXF2RFd5VXZyN2EtLUswak91T0U3RmxwZlFUOFNHY1BkMFp2V3c4YzlLSUdYU1ZEMDVYS1BDX1RWV0pxMllXS0NWQVQ2a3p0U2NQR29oYVQ4RTREMGt4NGNMYU00b01XbXlLWEE3a2FLZ2V1ZVNpWFdzZUxMeW1CM3RPOERlWWpBdGE1VDN6c3kwd9IB4gFBVV95cUxNRWUwNjliaS1VS2hlMkIxSzdoVm56REhhMmZKcmYxNDhKOUttREhXSUNPUWd2bHBRNDhhc212aXQ3cE8tcmRWdHluTXhfdHpYbGxwa0lIQVVSbXhwYnY1b253LUotSHFCdmN4R3QxZEJuMUtEZWR5UnY5Y2ZrWEFEWFRpX1NPOHVvempsTUQtZWMwbjMyVUJ0UTRNUmFYNHRaYXhUVkw2bldVMkZ3RjZ6UFZBTE1jQlFJdURQRWtrajVZVVQ2cEtwQU84MjZmSldDWV9Ub3ZWZ1BkVThmZTRDYnB3?oc=5",
@@ -1287,7 +1327,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: ‘I’m really grateful’: Brunswick County recovery center helps men struggling with substance use disorder - WECT | TV6. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaTBMLU5adUVwTXhibWxnX0JLMXFUMXNZVzFiRnhuUGxzeXF4NThCd25IMXlkeXFyaXFOTXhDc0lCelJ0NGtYMl9oN2ZJZ1VxbW44M2pxd0J3ZHU2RVlaaElyYk5PYlFCc3MyNHg4YS1MSVMxTzlTX2c4aFEwM0J3cTNhbjB4OXJFQ0wxNDBJRkRxNWVQblZySkhhZUNsZmRGMmFMUXdONHYyUUZYSHdHeWJ3?oc=5",
@@ -1328,7 +1371,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: Gilchrist County man returns home after surviving shooting: ‘The Lord has been helping me’ - WCJB | TV20. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3J0a1pxdTItcGVxRW1vRl9IQkx3em9fczFMcmNaMFNkcF9JWmRtUjVKQUhaeC1NcDdNNTF0dXRSdTV5dE1TVUdqUlZHWmJOYkZzaU05RUJzSndKN2xQaDlHdDBDanpTS3VwM0hZczRTVl82eEJwaUxmQ2EwdU9XLThfZzhqdHExWXhYSTZCVXV0VHpTREFONndPNVkwbS1SMFZpSU01S3BCaVRVRW5uSGdvdWXSAboBQVVfeXFMTllEZjJQZjBrd0JxeEtRRTNJMFN2aXdUWWZQdDZKVkV0dHVRRXhPZkV2Q1hBQUF0aElCRGpUa3l2emljNDZZM25DcGhnQVRtOV9YaTBnQi0xSHFiX2NQV3JtT0ZzSURHOHBNQzBBcFF3QnRmMTFMX214eERXYnIxeFNqRWVxWlhWTkR0UHB2WDc5SW9wMWI3dDJ4ckI3Rk02WWVWaFI1V1pKUGFmSGhNX0ZvTWtfWFk3a0hR?oc=5",
@@ -1341,7 +1387,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: Father, daughter have touching 'heartbeat’ ritual as she recovers from rare illness - abcnews.com. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbHVfMFFNSkRpZTl1cm93TEx4ck5PTURUMmtMb2xpQ2JVNVFObHo0MVV4clJYWktmSFFSVU8zNGw0Q2IzRk00bGtUOFVfWFRtUFFpQkFxTUdlRWxWNURhSTRLZEZzV0VRZVc0SHdPTTVjWTBQNk43bk5mSGNKRUJVMElkb0pGc1BfT0tfbkNsXzBFZXJNYjN6M3dyR2NrZ1Y4ZDZ4ZmNlYXdVM0hndnR2cHZ2TzRmTWhwbzI1WEgtTkR4WGtCWXQ0VXdmV0RmZVE5cTBHcm8xVlo4Vjg?oc=5",
@@ -1354,7 +1403,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: New questions raised about for-profit addiction recovery business Malibu House — and its Bloomington neighbor - Indiana Public Media. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZkRWXzl2LXQtZzBJdF8zWWE4bGF1VFpNdHFTeXNSRVh6MUNoT2hKSEFiOEJtYkkzYjgzN1dycjI2T1ZMYmNFREFySDU4VlR4RWs2Z0szRG8zbmVXY0o3SjZBMUpMTDNiMTBLQjhuSGk4SGh2MEVTQW9mVXFucE1qWU1sQk03M3liZHozU3FTYUpnWmdNSFF1SzVnc2g?oc=5",
@@ -1381,7 +1433,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: ‘Below Deck’ star Captain Lee to open rehab at sea in honor of late son - Page Six. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSUFpVk5LZjk5LS1TZzhwRXlaNk42eC1HVVhaZFFkLTlkVVVIa1N4MVFDbU1kMllNaHZiQWl3Y3VBbGNNYUJDeHZWMnRidmZlZ2V5ZkNjUm0zSjRTM0gySTJxRWFEUU1aNkJfVE1sNWVoczVRVy04ZWhoeUg5YlBQYTh3RnVzSVUwSmRSOEFoQ3Q4RmhVbUU4b3c3VFlLQ1A0VXN2d3h3aDhZN193TERBTGpEUDlWU0VBU3BjTUpiTVZOTFRSaHItZjBGQ1ZkSkJDRGlYZ25B?oc=5",
@@ -1408,7 +1463,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: Ride along with parole agents - California Department of Corrections and Rehabilitation - CDCR (.gov). It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTGY1dTNmWGpyMlRLUGV5RFVhcW1Hc3UtMXRGOUgzRHhScTdfbVdzYmRhYnZURTF0UWJSN2M4dzNhWkhfcHpKQ3hwX0lickZZLWJiMGNRMW9pS3VGLTgxbjBLc0VHbk5uZUpRWF9MM1I0SjFNdVFEMTlraGNZeWpNVmtybVlLX2lLRzdxbTQwQXV6MHlkdVdoTFRtdjVnLTJPVkNqaUxtNGdSRk96S1k4QjlMck85b0NIYmx0UVlWRQ?oc=5",
@@ -1435,7 +1493,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: Professional poker player from Hopkinsville banks big earnings on sobriety - Hoptown Chronicle. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OUE1yczV5QkRLck1UZ2QxUXc4alhVam9vd2t4LWtPa2hQa0ZvT1JORkRBQ1dWc0YtLXVmQmtmWEI3bndFMmpSa0tja2p2ZjdwTERFOFdSUVJrb2tWUjAxTC0xQVdRSU1u?oc=5",
@@ -1462,7 +1523,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: PBC Public defender overcomes criminal past - WPTV. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOLWlMLWZFTC1LeE9nWXhKS1Y0bFFjWE0tTUNIMDVrOVUtRVlaQm53MDJQYkpaZUJCRDBrcUFwaFJOZ1o0dW5GYUxDQlFmdDh4aU1aRzhKVWhfWmVjUGc3SnhkNDV2QUNZQ2hONHVtQzhXeldWRW1qRjl0dElSVjBkbERDU1JtU1dnbGxJNW14QW1GNllvQk9YNVNvSGpRM0hVcXhLUUlZLUhSV0UwN0FobmVkUi14dGlXdktRaFBsYWFCMHU4WjQzZjNhODZCa2tTUngwX0VOOVdwVVZ1bng0ZW1CaU9paTJJR3dNek9mSzNRMDhBYldkYm1UWTdTX055U0xn?oc=5",
@@ -1475,7 +1539,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: ‘My son has until this Tuesday to turn himself in. I love you, Josh. But the DEVIL returned this year. I made the decision to send my son to jail.’: Mom makes difficult choice to call police on son battling addiction - Love What Matters. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMk5uQ3RwVjItY2wtbGk2dE1ITE83TGh1ZGlnSTdpdk5XWHBHQU9pbi1aZU1XRl9nX0hvREw3VUxVT2dlc0NJVFA4X2ZvX2otY3VDSjM3WVkzeG5QQ0c1bTRuRmJYQ0ViWUJNWUktUHdFeFRnbFR2TWRReUU0NTNQa1Z4NUo0R1FTbElDWFlVTFpJcFJCaTIwa3k2S2dnREpLeHZTa05qRlRhbXc1azByMlFjZHMyZGF4aHdQMThlZXZpRnpfUHlwU0Y0OA?oc=5",
@@ -1530,7 +1597,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: Khabib Nurmagomedov labels Conor McGregor a drug addict as feud burns stronger - MMAWeekly.com. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01UEtnZE1iUDI3LWxmN09TMHJFeG90cTZaQnJJUmRCTGVlUFlHSmZTVlk2SFlBRE80RHE0SmNseWNxRTVyVEY3WENNTnJ4M0RYak8zazFCd2RHdHU4S2t3QmxlcjBfbzJyaWlFOA?oc=5",
@@ -1571,7 +1641,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: Men find hope, healing at Joshua House residential recovery house east of Chilliwack - Fraser Valley Today. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWDRVdFZWN1l3d3ROWmQtbXlxaHZBNmZOWWY0b1lHdTVnUzNRWE80Rm5FZ0NrdEdpZlFVUUdkdlFlTzhGS2tnZEpmMExwWDNPd05QNzVPSmMydk9iSWhVOEFTcS00SlZLMlc3SXR6MzloRUxKNUM0eTF3M05iUFVSd2FwNjVCUWlvLUxLUA?oc=5",
@@ -1612,7 +1685,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: More men are in prison on domestic violence offences. What can be done to prevent them reoffending? - The Guardian. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wSHR2TTBFWW1HaV9Cby01ZmU5WHlJN291WGNOd3VEWmozVDNRZTJaUkJITWFqRGlxNlNXTk1BSW9rd044bnFYc2l6X3VUR3VBTkpDaUc2ZmMtOGsxVkFfNmd1NHpUM2xwMUplTy1RQy1Ja1Ju?oc=5",
@@ -1625,7 +1701,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: You Don’t Nomi movie review - Roger Ebert. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcWxlQ3g2U0Ffb0RyZ3dWOXhrVU5XcF8yVDFVRFgySHA4ZExnWDBrdWRPR0dZWXNCcGVSVHFBdFBsTWk2NjVGQUt2RDZVY3I2OGxMRVVsY25PODFnR0tjSGNHMjdRMTl6Vm43WFN4SzZyQzA3TlRCUE9CNWpnLTlva0RjQkJVeTZXN003THpBcWFSRlpvcWd1YmRn?oc=5",
@@ -1652,7 +1731,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: Loyal and hard-working Truro man died from overdose while waiting for rehab - Cornwall Live. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdWg3TUw1X2t0OUItU0lZWXFYVEFqQmU3aEhYVkgtbmU0MkFlRUoxeGdaQXJxVXpBWjNBLXZWZlNwbHFsd2QwcXpFUkpYUUdRWmIyRWZvR3ZpN2czN2RMTUc3clcydUViNjZOdGZkZkFFM0lMdnJzaUs1MV81czRWNUtwYUZFbmk2Ny1VdUxLcFpaNl8xWC1TSmxsNGlqaDQ?oc=5",
@@ -1721,7 +1803,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: From almost giving up to building mental fortitude, poly grad with disability finds his spark again - The Straits Times. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1h5ZlBEZkZmTXgyOEpUd2NrS3NBTHQ3RUxWRlpMclpiOGYyT19Bb3BPVWg4NjEwM2RhcDAyTC1XZWdranBCRHd0VWpadUlRN0d1emk5NF92eVVLbUVzVWdIN3Fhc0t1dkJjWWMtR19GVnFnUDdSM2djYlEybXVTTlBTYnQwSVlLeWV0UUtSVTN1Tmd6Q0k1VHhQdmtIMW1TNFM1Vmdtby05UjNiRmpwaEZpRmo0ZHJiZkE?oc=5",
@@ -1748,7 +1833,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: Policeman hit by fleeing driver happy with sentence - NZ Herald. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWhLNzEtWGZUbXNoazU3UC0wd09HNzlYckpqMlJqXy1DQlhfblItbnljcHlBNl9rQVc2SVV0NWNaeUxnSktnemFOZDd0SkNsZGtzc2RUbDdqTXpObTV0TE55eHVJVmk1cVlqcmNfXzJqOFU0WTU3bUpnYmIwMmZwa0pqaVdPRUhiLWloVzYtbFBmUjh6dDg4amZjbXMxVGYwTGZmc3B5QmFtaEFMOUNtRHZpVlk?oc=5",
@@ -1774,7 +1862,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: Tributes to Josh, 17, who died in care home after sustaining traumatic brain injury - Liverpool Echo. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdTJFeU1fYmdZTE5iUFM5VExmMUNVY2NUNUtabUlaVGkydzZJcDVpUG9YSnhZTHBqaFRLWGR5MUZPMFFOVkJYS2tPcGdlNTZBRzZuWmItZHNGMHlWYVZYOVdmZVJsMnprU08xZnFmMC1LU1ZJcVA4OWo0T2ItQ3FhYmpwLTlqM2hKUWVVdWg0b9IBlAFBVV95cUxORnRXVWVlT01qVTBYa0lLTXpsaGlzQ1BOclM3SUNjdjJhUlM0WTh5VGROVHBGaHBYa1F6cUo4WVpUeVZsN3FTR0tKSUVwV01vdjduQXdWNkNCck4tSURtbF82NnBISHlqWFJYNHlSRkMxZVVjQ1puVnRGY1J6eUlTbE1UQjRZT3NCb25YSlNBdkYwcXRl?oc=5",
@@ -1801,7 +1892,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: Eva Bozimo: Women are not Rehab Centres for Badly Behaved Men - BellaNaija. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLWhwVVItaWZxRmNuc2NpcGhIU1ZkTThiS0J0U3Qxc1M2RHpsaUNWRkVzVF8zeUZUVzJWVFhHOHlGLTFGdmFuclZROFZ1N0hDdjVDMUhvekxBRU9nc1NhWlB3UjVUSU5MWXFfVnlZLUMzVHlMSVNnUjNFN2NXajdsakxaN2RZUzNC?oc=5",
@@ -1814,7 +1908,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: Josh’s road to recovery - Pakenham Officer Star News. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MSGFuVzdGa19MZW9WNEZnUGllM2I2V2piZkduN3R4STZTX3NWTG9nTzhNam9WTXNaU2VXMFp0T0ZMVHpUcERiSk54R09xSG03ZzdMTm9tVG9YYlNlamV4djJEWFpPMHUxNkt6T1M5dDZqUQ?oc=5",
@@ -1855,7 +1952,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=Joshua+You+rehabilitation&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: Joshua Eyes Late Summer Ring Return as Rib Rehab Continues - newsghana.com.gh. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRG5FX1p0dENhM0thQ1lTRDlDSWNHOHpqeVpYWWpnV1h5cWVmNkgyaTM4X3NJbUloak9KSDR6ajgyZk1CRkhxUHhkOVEzd202OG4zZzMtX2ZZQnZwRzBmWE9GVlhiMTBETWF4ZC16Z1F1ZFljdFFyTDh6UzRoMWhnZGFTRHFybEphWE1MVlhFeWPSAY8BQVVfeXFMUG12OS1LVTFpNUFnRjdpeXRGa1Nic1JmYmxrZDVSSTlpWnduSUxDNXVtekNyMDYxVDFJRlRZdjBWbTFsNnY2ZUtrVk1LbjZ3OTh1dkgzNU1kX0R6MkJEeElqd2VSb2JOTGJud0I5NU44RlhWaWt4VHZmdnNlYmhQVXVneFRUQThEMDUya2FRbGc?oc=5",
@@ -1935,7 +2035,10 @@
           "searchUrl": "https://news.google.com/rss/search?q=SMART+Lab+Yonsei&hl=en-US&gl=US&ceid=US%3Aen"
         }
       ],
-      "status": "unreviewed"
+      "status": "excluded",
+      "reviewedOn": "2026-10-03",
+      "reviewBasis": "Editorial relevance screen of the discovery headline; not an original-body identity check.",
+      "reason": "Discovery headline concerns an unrelated individual, entertainment, policing, addiction recovery or general city administration: Defining smart city in south Korea - ArcGIS StoryMaps. It supplies no relevant SMART Lab, Professor You, GOODWELLNESS or Walkbot news candidate."
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16RWd1NG51X29fX1JrVkV0WUpNaFRkczY1YmVSMk9maTJhamNIbFdjSkNsUVUtUmRHVTQ4U1JMaE04cVUwVFhjb1RUOUpwT2hKb01XbEFnU1QwMGM?oc=5",
