@@ -51,6 +51,8 @@ This repository is the editable source for the Yonsei SMART Lab website. The Pro
 
 ## Editing and verification
 
+- Standing user instruction (October 4, 2026): every requested website update includes authorization to make the change, verify it, commit it, push it to `main`, and publish it at https://yonsei-smartlab.github.io/. Do not stop at a local preview or ask for separate publishing approval. Honor an explicit request to keep a particular change local or as a draft.
+- Before editing, check for local changes and pull the latest `main` with a fast-forward when safe. Preserve changes made on other computers. After pushing a website update, wait for the GitHub Pages workflow to succeed and verify the change on the live site before reporting it as published. If deployment is blocked or fails, resolve it where possible and report any remaining blocker accurately.
 - Shared lab settings: `src/data/site.ts`. Research, people, and publication entries: `src/content/`. Styling: `src/styles/global.css`. Real images: `public/images/`.
 - The font license is in `public/fonts/LICENSE.txt`; retain it and the MIT code license in `LICENSE`.
 - Use Node.js 24 and pnpm 11.25.0 with the committed `pnpm-lock.yaml`.
